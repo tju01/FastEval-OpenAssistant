@@ -1,3 +1,5 @@
+**Important: This is a fork of [FastEval](https://github.com/FastEval/FastEval) specifically for OpenAssistant models. Please see the [FastEval](https://github.com/FastEval/FastEval) repository for evaluating your own model.**
+
 # FastEval
 
 This project allows you to quickly evaluate language models on a number of benchmarks. There is also a [leaderboard](https://fasteval.github.io/FastEval/) for comparison between different models.

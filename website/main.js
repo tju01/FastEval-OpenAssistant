@@ -1,8 +1,8 @@
 import { createBenchmarksE } from './benchmarks/main.js'
 import { computeUpdatedHash, parseHash } from './utils.js'
 
-const leaderboardHosts = ['fasteval.github.io']
-const reportsUrlPrefix = 'https://raw.githubusercontent.com/fasteval/FastEval/'
+const leaderboardHosts = ['tju01.github.io']
+const reportsUrlPrefix = 'https://raw.githubusercontent.com/tju01/FastEval-OpenAssistant/'
 
 function toSorted(compareFn) {
     return [...this].sort(compareFn)
