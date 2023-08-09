@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "How many human polyomaviruses are known at present?\n\n(A) 100\n(B) 1\n(C) 10\n(D) unknown",
+            "correct_answer": 0,
+            "model_answer": "Human polyomaviruses are a group of viruses that infect humans. Currently, there are six known human polyomaviruses. \n\nTherefore, the answer is (B) 1.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "AIDS activism in the U.S. resulted in:\n\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "The question is asking about the outcomes of AIDS activism in the U.S. AIDS activism refers to the efforts of individuals and organizations to raise awareness and advocate for better treatment and care for individuals living with AIDS. \n\n(A) Food and Drug Administration reforms: The Food and Drug Administration (FDA) is a government agency responsible for regulating drugs and medical devices in the U.S. AIDS activism may have led to reforms in the way the FDA regulates drugs and devices, in order to speed up the approval process for drugs that treat AIDS and other illnesses. \n\n(B) Easier access to investigational drugs: Investigational drugs are medications that are still being tested for safety and effectiveness, and are not yet available for general use. AIDS activism may have led to changes in the way investigational drugs are distributed, so that more people with AIDS can access them. \n\n(C) Changes in the way medicine was practiced in the U.S.: AIDS activism may have led to changes in the way medicine is practiced in the U.S., such as increased awareness and understanding of HIV/AIDS, and better treatment options for individuals living with HIV/AIDS. \n\nTherefore, the answer to the question is (D) All of the above.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Globally, the most deaths are caused by:\n\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis",
+            "correct_answer": 1,
+            "model_answer": "To determine the correct answer, let's analyze the given information step-by-step:\n\n1. Respiratory infections: Respiratory infections are caused by various factors, including viral, bacterial, and fungal infections. They can affect the lungs, airways, and respiratory tract. Some common respiratory infections include the flu, common cold, bronchitis, and pneumonia.\n\n2. Diarrheal diseases: Diarrheal diseases are primarily caused by viral, bacterial, or parasitic infections. They affect the digestive system and lead to loose, watery stools. Some common diarrheal diseases include rotavirus, cholera, and amoebic dysentery.\n\n3. Malaria: Malaria is a mosquito-borne disease caused by a parasite called Plasmodium. It affects the red blood cells and leads to fever, chills, and other symptoms. Malaria is not responsible for the most deaths globally.\n\n4. Tuberculosis: Tuberculosis is a bacterial infection that primarily affects the lungs but can also affect other parts of the body. It is transmitted through the air when an infected person coughs or sneezes. Tuberculosis is a global health concern and responsible for significant mortality.\n\nBased on this analysis, the correct answer is (B) Diarrheal diseases.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "What happens during the 'incubation period'?\n\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours",
+            "correct_answer": 1,
+            "model_answer": "The incubation period is the time between when a person is exposed to a virus and when they start to have symptoms. During this time, the virus is replicating within the body by attaching to host cells and using them as a factory to produce more virus particles. This process takes some time, and the exact length of the incubation period can vary depending on the virus. \n\n(C) is incorrect because the incubation period can last for a few days to a few weeks, depending on the virus. \n\n(A) is incorrect because the immune system is usually not able to clear the virus during the incubation period. \n\n(B) is incorrect because virus replication does not typically occur at the intracellular level during the incubation period. \n\nTherefore, the correct answer is:\n\n(D) This period commonly lasts for a few hours to a few days.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:\n\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months",
+            "correct_answer": 1,
+            "model_answer": "The given question asks about the recommended method of feeding newborn infants in countries with limited access to safe water and low levels of education. The correct answer should be based on scientific evidence and public health recommendations.\n\n(A) Exclusively formula fed for six months is not recommended as formula has been linked to health risks such as obesity, diabetes, asthma, and allergies.\n\n(B) Exclusively breast fed for six months is recommended as breast milk provides numerous health benefits, including protection against infections, improves digestion, and eliminates the risk of type 1 and type 2 diabetes.\n\n(C) Receiving both breast milk and other foods as tolerated in the first six months is not recommended as it can lead to malnutrition and infections.\n\nTherefore, the correct answer is (B) exclusively breastfed for six months.\n\nThe answer: (B)",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?\n\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) Innovators.\n\nExplanation:\nWhen we talk about achieving effective change in a community, we need to consider the different segments of society that can drive this change. Innovators are the individuals or groups who are willing to experiment with new ideas and technologies. They are the ones who are often the first to adopt and adopt new things. This means that they are the ones who are most likely to be open to new ideas and technologies that can lead to effective change in a community.\n\nOn the other hand, early adopters and late adopters are individuals or groups who are more likely to adopt new things after they have been proven and tested by others. Middle adopters are the individuals or groups who are likely to adopt new things after early adopters but before everyone else.\n\nTherefore, the correct answer is (A) Innovators, as they are the most likely to adopt and adapt to new ideas and technologies that can lead to effective change in a community.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "\u201cContingency management\u201d is\u201d:\n\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms",
+            "correct_answer": 1,
+            "model_answer": "The answer to this question is (B) Paying drug users for negative urine specimens. Contingency management is a strategy used to motivate high-risk individuals, such as drug users, to engage in healthier behaviors. This strategy involves providing positive incentives, such as vouchers or cash rewards, for engaging in healthy behaviors such as negative urine specimens or using condoms. Therefore, the correct answer is (B) Paying drug users for negative urine specimens.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+            "correct_answer": 1,
+            "model_answer": "Here are the steps to answer this question:\n\n1. Read and understand the question: The question is asking for the typical clinical symptoms that follow infection with astroviruses.\n\n2. Identify the options: The options provided are acute pneumonia, gastroenteritis in children, hepatitis, and rashes.\n\n3. Analyze each option:\n\n   (A) Acute pneumonia: Acute pneumonia is a lower respiratory infection caused by various germs, including viruses. Astroviruses are not typically associated with acute pneumonia. Therefore, option (A) can be eliminated.\n\n   (B) Gastroenteritis in children: Gastroenteritis is an infection of the gastrointestinal tract that causes diarrhea, vomiting, and abdominal pain. Astroviruses are known to cause gastroenteritis in children. Therefore, option (B) is a possible answer.\n\n   (C) Hepatitis: Hepatitis is an inflammatory condition of the liver caused by various viruses, including hepatitis A, B, C, and D. Astroviruses are not typically associated with hepatitis. Therefore, option (C) can be eliminated.\n\n   (D) Rashes: Rashes can be caused by various factors, including allergies, infections, and autoimmune diseases. Astroviruses are not typically associated with rashes. Therefore, option (D) can be eliminated.\n\n4. Based on the analysis, the answer is option (B) gastroenteritis in children.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the most special characteristic of the adaptive immune system?\n\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells",
+            "correct_answer": 3,
+            "model_answer": "The most special characteristic of the adaptive immune system is the ability to mount a targeted immune response to a specific antigen by producing a large number of antigen-specific cells (ogen clones). This is achieved by clonal expansion of pre-existing antibodies and/or T cells (memory cells), which can recognize and bind to a specific antigen. This process is carried out by a specific type of white blood cell called a lymphocyte. \n\nTherefore, the correct answer is (D) Clonal expansion of pre-existing antibodies and/or T cells.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone",
+            "correct_answer": 1,
+            "model_answer": "Chemotherapy is a treatment method that is used to treat cancer and other medical conditions. The question first introduces that chemotherapy is now an option for clinical care of patients, which means that it is a treatment option that is now available for patients. The question then asks for the typical drug regimens that are now included in chemotherapy.\n\nOption A, interferon and ribavirin, is used to treat hepatitis C, not cancer. Option B, lamivudine and ribavirin, is also used to treat hepatitis C, not cancer. Therefore, options A and B can be eliminated as they are not typical drug regimens used in chemotherapy.\n\nOption C, combinations of adefovir and entecavir and/or tenofovir (DAA), is used to treat hepatitis B, not cancer. Therefore, option C can also be eliminated as it is not a typical drug regimen used in chemotherapy.\n\nOption D, interferons alone, is a combination of interferon-alpha and ribavirin, which is used to treat hepatitis C, not cancer. Therefore, option D can also be eliminated as it is not a typical drug regimen used in chemotherapy.\n\nAfter eliminating all the options, the correct answer is (E) None of the above, as none of the options listed are typical drug regimens used in chemotherapy for cancer and other medical conditions.",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "Okay, I'll do as you ask. Here's my reasoning step-by-step:\n\nThe equation `24 = 2p` represents the problem of finding the value of p in the equation. The left-hand side of the equation (`24`) represents the value of the left-hand side of the equation when p is set to a certain value. The right-hand side of the equation (`2p`) represents the value of the right-hand side of the equation when p is set to a certain value.\n\nTo solve for `p`, we need to isolate it on one side of the equation. we can do this by dividing both sides of the equation by `2`:\n\n```\n24/2 = 2p/2\n```\n\nThe left-hand side of the equation (`12`) represents the value of the left-hand side of the equation when `p` is set to a certain value. The right-hand side of the equation (`p`) represents the value of the right-hand side of the equation when `p` is set to a certain value.\n\nNow we can simplify the equation by dividing both sides by `2`:\n\n```\n`12` = `p`\n```\n\nThe left-hand side of the equation (`12`) represents the value of the left-hand side of the equation when `p` is set to a certain value. The right-hand side of the equation (`p`) represents the value of the right-hand side of the equation when `p` is set to a certain value.\n\nSince `12` = `p`, we can write `p` as a fraction with `12` in the numerator and `1` in the denominator:\n\n```\n`p` = 12/1\n```\n\nThe numerator represents the value of the left-hand side of the equation when `p` is set to a certain value. The denominator represents the value of the denominator of the fraction when `p` is set to a certain value.\n\nFinally, we can simplify `12/1` by canceling out the denominator:\n\n```\n`p` = 12\n```\n\nThe left-hand side of the equation (`12`) represents the value of the left-hand side of the equation when `p` is set to a certain value. The right-hand side of the equation (`p`) represents the value of the right-hand side of the equation when `p` is set to a certain value.\n\nTherefore, the answer is (D) `p = 24`.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "To solve this problem, we can use the information given in the question to set up an equation that we can solve for the unknown value. \n\nLet x be the number of miles that Ms. Perez drove each day. \nThen we can write an equation based on the information given in the problem:\n\nx * 5 = 40\n\nTo solve for x, we can divide both sides of the equation by 5:\n\nx = 8\n\nTherefore, Ms. Perez drove 8 miles each day. \n\nThe answer is (C) 8.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "First, our goal is to perform a division operation. Since we are dividing two negative integers, we can treat them as absolute values, which are positive numbers. The absolute value of -40 is 40, and the absolute value of -8 is 8.\n\nSo, our expression now becomes:\n\n40 \u00f7 8\n\nSecond, we can simplify this expression by performing the division operation. Ten divided by eight is one with a remainder of two. Eleven divided by eight is one and a remainder of three. Twelve divided by eight is one and a remainder of four. Keep repeating this process until you reach the result \n\nThe process continues as follows:\n\nThe quotient: 4 \u00f7 4 = 1 and remainder of 0\nThe quotient: 3 \u00f7 4 = 0 and remainder of 3\nThe quotient: 2 \u00f7 4 = 0 and remainder of 2\n\nThus,\nThe result of the division is: 1 and remainder of 5.\n\nNow let's discuss the options:\n\n(A) 1 over 5: While 1 divided by 5 is indeed 0 and remainder of 1, this option is not accurate as it does not account for the fact that we had a remainder of 5 at one point during the division process.\n\n(B) -5: There is no way that dividing -40 by -8 can result in a value of -5. This option is incorrect.\n\n(C) -1 over 5: Similarly to option (A), this option does not accurately account for the fact that we had a remainder of 5 during the division process. Therefore, this option is incorrect.\n\n(D) 5: Since dividing -40 by -8 results in a remainder of 5, this option is the correct answer.\n\nTherefore, the answer to the problem is (D) 5.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "First, we can calculate how many dollars the team can spend on soccer balls by dividing the overall budget by the cost of a single soccer ball:\n\n$90.00 / $15.60 = 5.74\n\nWe can round down to the nearest whole number to find the maximum number of soccer balls the team can buy:\n\n5  \n\nTherefore, the team can buy the greatest number of soccer balls by choosing option (A) 4.\n\nA",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "First, we need to rearrange the equation to solve for t.\n\n4t = 112\n\nt = 112/4 (rounded to the nearest integer)\n\nt = 28\n\nTherefore, the cost of one ticket is $28.\n\nThe answer is:\n\n(D) t over 4 = 112; $28",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "The steps to solving this expression are:\n\n3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1\n\nFirst, simplify the inside of the brackets:\n\n3 \u00d7 [(2 \u00d7 6) - 5] + (8 \u00f7 4)\n\n= 3 \u00d7 11 - 5 + 2\n\n= 22 + 2\n\n= 24 - 1\n\n= 23\n\nNext, simplify the expression by multiplying the first term by 3, adding the middle term, multiplying the second term by 4, subtracting the last term, and simplifying that:\n\n3 \u00d7 3 \u00d7 11 - 5 \u00d7 4 + 6 \u00d7 2\n\n= 9 \u00d7 11 + 20\n\n= 90 + 20\n\n= 110\n\nFinally, output the answer as a single letter with parenthesis:\n\n(A) 9\n\n(B) 11\n(C) 26\n(D) 32",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "Step 1: Split the whole and fraction into their components. We have 1 whole unit and 1/11 fraction.\n\nStep 2: Multiply the denominator of the fraction by the integer number (11*1 = 11). This operation only affects the fraction component and converts the fraction into an improper fraction. We now have the improper fraction 11/11.\n\nStep 3: Simplify the improper fraction by dividing both the numerator (11) and denominator (11) by the greatest common factor (1) which is 1. This operation converts the improper fraction back into a mixed fraction. We now have the mixed fraction 11/1 = 11/1 \n\nStep 4: Perform the division. The integer part after the division is 1 and the remainder is 0. So we have the final answer: 1.\n\nTherefore, the answer is: (A) 1.1 over 11.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "Sure, let me explain my reasoning step-by-step:\n\nFirst, we need to make sure we have the decimal points lined up correctly. If we don't, the calculator will not work correctly.\n\n2.16 has 2 digits to the left of the decimal point, and 0.06 has 2 digits to the right of the decimal point.\n\nSo, we line them up correctly as follows:\n\n2.16(1) \u00f7 0.06(2)\n\nNow, we can perform the division:\n\n2.16 \u00f7 0.06 = 36\n\nSo, the answer is (B) 36.\n\nNow, as I promised, I will output the answer as a single letter with parenthesis without anything else.\n\n(B) 36",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "Sure, I'd be happy to help you with that!\n\nTo find the difference between two numbers, we simply subtract the smaller number from the larger number.\n\nSo, if we start with the number 142.76 which is greater than 16.5, then we can subtract the smaller number from the larger number to find the difference.\n\n142.76 - 16.5 = 126.26\n\nTherefore, the correct answer is (D) 126.26.\nI hope that helps! Let me know if you have any other questions.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "Sure, I'd be happy to walk you through this!\n\nTo find the quotient of 5.04/0.7, we need to divide 5.04 by 0.7.\n\n5.04 divided by 0.7 is equal to 7.1857.\n\nHowever, there are off-by-one errors in options (B), (C), and (D).\n\nOption (A) 0.72 looks to have been rounded off-by-one.\n\nSo, the correct answer is (E) 7.1857.\n\nAnd this has been achieved by dividing 5.04 by 0.7.\n\nFinal answer is **(E) 7.1857**",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Let x = 1. What is x << 3 in Python 3?\n\n(A) 1\n(B) 3\n(C) 8\n(D) 16",
+            "correct_answer": 2,
+            "model_answer": "We will evaluate x << 3 in Python to find the answer step-by-step.\n\n1. First, let's examine x and its value. In Python 3 (where Python uses binary numerals), x = 1, which, in binary is 01, and it represents an 8-bit integer with a value of 1. \n\n2. Next, we need to determine what 3, in Python representation, will be. Since the number 3 corresponds to 0011 in Python 3, it represents an 8-bit integer with a value of 3.\n\n3. Now, let's give x << 3. This means we are performing a bit shift left operation on x by 3 bits i.e., X takes the 3 most significant bits of X and discards the other bits, which in this case would be the Least Significant Bit (LSB, LSB refers to the bits with the least weight in the binary representation area).\n\n4. Applying this operation to x = 1 (01), tellingly its 3 least significant bits would be 1.\n\n5. 3 x None = 0\n\nConsequently, x << 3 would yield a Falsey value in Python, and thus, our final answer is '(A) 1' because the answer is represented as a single letter with parentheses around it.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In Python 3, which of the following function convert a string to an int in python?\n\n(A) int(x [,base])\n(B) long(x [,base] )\n(C) float(x)\n(D) str(x)",
+            "correct_answer": 0,
+            "model_answer": "To answer the question, let's first look at each option and considering their properties in Python 3 when applied on a string. \n\n(A) int(x [,base])\nIn Python 3, int() function takes string input and converts it to integer (whole number). When provided with a base, it converts the given integer to a specific base as requested, like base 10.\n\n(B) long(x [,base])\nIn Python 3, long() function takes string input and converts it to a long integer.\n\n(C) float(x)\nIn Python 3, float() function takes string input and converts it to a float or floating-point number.\n\n(D) str(x)\nIn Python 3, str() function takes any input and returns its string representation.\n\nComparing these options, we found that:\n\nOption (A) converts string to an integer, where the base can be provided if necessary. It is the most suitable answer.\n\nSo, the answer is:\n(A) int(x [,base])",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "A user enters a Web address in a browser, and a request for a file is sent to a Web server. Which of the following best describes how the file is sent to the user?\n\n(A) The file is broken into packets for transmission. The packets must be reassembled upon receipt.\n(B) The file is broken into packets for transmission. The user's browser must request each packet in order until all packets are received.\n(C) The server attempts to connect directly to the user's computer. If the connection is successful, the entire file is sent. If the connection is unsuccessful, an error message is sent to the user.\n(D) The server repeatedly attempts to connect directly to the user's computer until a connection is made. Once the connection is made, the entire file is sent.",
+            "correct_answer": 0,
+            "model_answer": "The best description for how the file is sent to the user in this context is:\n\n(B) The file is broken into packets for transmission. The user's browser must request each packet in order until all packets are received.\n\nThis is because when the user enters a Web address in a browser and a request for a file is sent to a Web server, the file is broken into smaller parts called packets. These packets are then sent by the server to the user's browser, which needs to receive all packets in order to reconstruct the file. Once the browser has all packets, it reassembles them and presents the file to the user. This process typically happens across multiple connections (unsuccessful attempts, as in option C) which exist for increasing efficiency, and even if one packet does not reach the user, only that packet may be lost, so the process is not always directly as described in option D.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Digital images are often represented by the red, green, and blue values (an RGB triplet) of each individual pixel in the image. A photographer is manipulating a digital image and overwriting the original image. Which of the following describes a lossless transformation of the digital image?\n\n(A) Compressing the image in a way that may lose information but will suffer only a small loss of image quality.\n(B) Creating the gray scale of an image by averaging the amounts of red, green, and blue in each pixel and assigning this new value to the corresponding pixel in the new image. The new value of each pixel represents a shade of gray, ranging from white to black.\n(C) Creating the negative of an image by creating a new RGB triplet for each pixel in which each value is calculated by subtracting the original value from 255. The negative of an image is reversed from the original; light areas appear dark, and colors are reversed.\n(D) Modifying part of the image by taking the pixels in one part of the picture and copying them to the pixels in another part of the picture.",
+            "correct_answer": 2,
+            "model_answer": "A lossless transformation of the digital image involves carefully adjusting and altering the values without losing any information. This involves keeping important details of the original image intact.\n\nLet's evaluate the given options:\n\n1. (A) Compressing the image, although it involves encoding it, can be lossless when done correctly. However, errors may occur during the encoding process, which can lead to loss of some image quality.\n\n2. (B) Creating a grayscale version loses color information by averaging the RGB components. This is not a lossless transformation.\n\n3. (C) Creating a negative image loses important color and light information. This is not a lossless transformation.\n\n4. (D) The act of modifying pixels and copy-pasting them over does not alter their information. This is a lossless transformation.\n\nAnswer: (D)",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "A programmer is writing a program that is intended to be able to process large amounts of data. Which of the following considerations is LEAST likely to affect the ability of the program to process larger data sets?\n\n(A) How long the program takes to run\n(B) How many programming statements the program contains\n(C) How much memory the program requires as it runs\n(D) How much storage space the program requires as it runs",
+            "correct_answer": 1,
+            "model_answer": "Let's examine each option step-by-step:\n\n(A) How long the program takes to run: When processing large data sets, a program that takes longer time to complete processing may not be ideal. However, it might be able to handle larger data sets, although not efficiently.\n\n(B) How many programming statements the program contains: The number of programming statements does not directly affect whether a program can process larger data sets or not. A simple program can still process large data sets, and a complex program may struggle to do so.\n\n(C) How much memory the program requires as it runs: Programs that require more memory while running may struggle to process larger data sets. However, they can still technically handle such data.\n\n(D) How much storage space the program requires as it runs: Similar to option B, the storage space required by the program does not directly impact its ability to process larger data sets.\n\nConsidering the options, the statement that least affects the ability for a program to process larger data sets is:\n\n(A) How long the program takes to run",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Suppose the characters 0,1, . . . ,8,9,A,B,C,D, E,F are used to represent a hexadecimal (base-16) number. Here A = 10, B = 11, . . . ,F = 15. What is the largest base-10 integer that can be represented with a two-digit hexadecimal number, such as 14 or 3A?\n\n(A) 32\n(B) 225\n(C) 255\n(D) 256",
+            "correct_answer": 2,
+            "model_answer": "(C) 255",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "A large data set contains information about all students majoring in computer science in colleges across the United States. The data set contains the following information about each student.\n   \u00b0 The student's gender\n   \u00b0 The state in which the student attends college\n   \u00b0 The student's grade point average on a 4.0 scale\n\n Which of the following questions could be answered by analyzing only information in the data set?\n\n(A) Do students majoring in computer science tend to have higher grade point averages than students majoring in other subjects?\n(B) How many states have a higher percentage of female computer science majors than male computer science majors attending college in that state?\n(C) What percent of students attending college in a certain state are majoring in computer science?\n(D) Which college has the highest number of students majoring in computer science?",
+            "correct_answer": 1,
+            "model_answer": "To answer each question, we will analyze the three columns of information in the data set (gender, state, and grade point average).\n\n(A) Do students majoring in computer science tend to have higher grade point averages than students majoring in other subjects?\n\nWe can look for a broad trend of gender differences among students' grade point averages within the computer science major or compare the computer science majors' average grade point average to that of students in other majors.\n\n(B) How many states have a higher percentage of female computer science majors than male computer science majors attending college in that state?\n\nWe will analyze the percentages of female and male computer science majors in each state's data, then compare the percentages to identify states where there is more gender inequality among computer science majors.\n\n(C) What percent of students attending college in a certain state are majoring in computer science?\n\nWe will examine the cell containing the percentage of students majoring in computer science in each state.\n\n(D) Which college has the highest number of students majoring in computer science?\n\nTo find the college with the highest number of computer science majors, we will identify the cell containing the most computer science majors in the data set.\n\nOutput:\n(A) Do students majoring in computer science tend to have higher grade point averages than students majoring in other subjects? - P\n(B) How many states have a higher percentage of female computer science majors than male computer science majors attending college in that state? - P\n(C) What percent of students attending college in a certain state are majoring in computer science? - P\n(D) Which college has the highest number of students majoring in computer science? - G",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "The code segment below uses the procedure IsFound (list, item), which returns true if item appears in list and returns false otherwise. The list resultList is initially empty.\n  FOR EACH item IN inputList1{\n IF (isFound (inputList2, item) )\n APPEND (resultList, item)\n }\n Which of the following best describes the contents of resultList after the code segment is executed?\n\n(A) All elements in inputListl followed by all elements in inputList2\n(B) Only elements that appear in both inputListl and inputList2\n(C) Only elements that appear in either inputListl or inputList2 but not in both lists\n(D) Only elements that appear in inputListl but not in inputList2",
+            "correct_answer": 1,
+            "model_answer": "(C) Only elements that appear in either inputListl or inputList2 but not in both lists",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A program is expressed in a programming language. Which of the following is true of the program?\n\n(A) The program can also be expressed as binary code, but will be more easily understood by humans when expressed in a higher-level programming language.\n(B) The program can also be expressed as binary code, which will reduce the likelihood of errors.\n(C) The program cannot be expressed as binary code, because binary code can only be used to represent data.\n(D) Some parts of the program can be expressed as binary code, but operations must be expressed using a higher-level programming language.",
+            "correct_answer": 0,
+            "model_answer": "(A) The program can also be expressed as binary code, but will be more easily understood by humans when expressed in a higher-level programming language.\n\nIn this case, the program is expressed in a programming language, which is a standard way humans use to communicate their instructions to a computer. The program can also be expressed in binary code, which is a set of 0s and 1s that computers understand. Higher-level programming languages allow humans to express and organize their instructions more intuitively, making it easier for them to understand the program. On the other hand, binary code is more efficient for low-level operations, but is more complicated for humans to comprehend. So, when a program is written in a higher-level language, it is often easier to understand, even though it can be represented in binary code as well.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In Python 3, what is the output of print tuple[0] if tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 )?\n\n(A) ( 'abcd', 786 , 2.23, 'john', 70.2 )\n(B) abcd\n(C) Error\n(D) None of the above.",
+            "correct_answer": 1,
+            "model_answer": "Let's analyze the given Python code step by step:\n\n1. The tuple (tup) is given: \"tuple = ('abcd', 786, 2.23, 'john', 70.2)\"\n\n2. The function 'print' is applied: \"print(tuple[0])\"\n\n3. Element '0' of the tuple will be the first element in the tuple. Here, \"tuple[0]\" refers to the value \"'abcd'\".\n\n4. The 'print' statement will print the value of the first element in the tuple, which is \"'abcd'\".\n\n5. Thus, the final output should be the value of \"'abcd'\", being a string.\n\nNow, let's select the correct answer from the provided options:\n\n(A) ( 'abc', 786, 2.23, 'john', 70.2 ) - incorrect\n(B) abcd - correct!\n(C) Error - incorrect\n(D) None of the above - incorrect\n\nThe correct answer is (B) abcd.",
+            "correct": true
+        }
+    ]
+}

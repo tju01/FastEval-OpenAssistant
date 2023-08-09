@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "London dispersion forces are caused by\n\n(A) temporary dipoles created by the position of electrons around the nuclei in a molecule\n(B) the three-dimensional intermolecular bonding present in all covalent substances\n(C) the uneven electron-to-proton ratio found on individual atoms of a molecule\n(D) the electronegativity differences between the different atoms in a molecule",
+            "correct_answer": 0,
+            "model_answer": "London dispersion forces are the intermolecular force that arises from the fluctuations of the electron density within a molecule. It is named after Fritz London, who first proposed it in 1930.\n\nExplanation of the options:\n\n(A) Temporary dipoles created by the position of electrons around the nuclei in a molecule: London dispersion forces do not directly interact with the dipoles formed by the distribution of electrons around the nuclei in a molecule. Instead, they arise from the fluctuations in the electron density within a molecule.\n\n(B) The three-dimensional intermolecular bonding present in all covalent substances: This option is incorrect because London dispersion forces are not a type of intermolecular bonding. London dispersion forces are an intermolecular force that arises from the fluctuations in the electron density within a molecule.\n\n(C) The uneven electron-to-proton ratio found on individual atoms of a molecule: This option is incorrect because London dispersion forces do not specifically interact with the electron-to-proton ratio on individual atoms of a molecule. Instead, they arise from the fluctuations in the electron density within a molecule.\n\n(D) The electronegativity differences between the different atoms in a molecule: This option is incorrect because London dispersion forces do not specifically rely on the electronegativity differences between the different atoms in a molecule. Instead, they arise from the fluctuations in the electron density within a molecule.\n\nBased on the explanation, the correct answer is:\n\n(D) The electronegativity differences between the different atoms in a molecule: London dispersion forces arise from the fluctuations in the electron density within a molecule, which is due to the attractive interactions between the electrons and the positively charged nuclei. The presence of electronegative atoms within a molecule increases the electron density, resulting in a higher attractive force between the molecules.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Carbon has an atomic radius of 77 pm and a first ionization energy of 1086 kJ/mol.\n\n(A) 70 pm, 1402 kJ/mol\n(B) 86 pm, 898 kJ/mol\n(C) 135 pm, 523 kJ/mol\n(D) 40 pm, 995 kJ/mol",
+            "correct_answer": 0,
+            "model_answer": "The first ionization energy is the energy required to remove an electron from a neutral atom to create a singly charged ion. The larger the atomic radius, the more difficult it is to remove an electron. Therefore, the first ionization energy increases as the atomic radius increases. \n\nSo, if the atomic radius of carbon is 77 pm, then its first ionization energy will be larger than that of an atom with a smaller atomic radius. \n\nAlso, the larger the atomic radius, the easier it is to remove an electron from a molecule dissociating it into ions. Therefore, the second ionization energy of an atom will be smaller than the first ionization energy. \n\nBased on this reasoning, option (B) is the correct answer as it has a larger atomic radius than carbon and a smaller first ionization energy.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "An unknown substance is found to have a high melting point. In addition, it is a poor conductor of electricity and does not dissolve in water. The substance most likely contains\n\n(A) ionic bonding\n(B) nonpolar covalent bonding\n(C) covalent network bonding\n(D) metallic bonding",
+            "correct_answer": 2,
+            "model_answer": "Based on the given information, we can rule out the following options:\n\n(A) Ionic bonding: Ionic compounds are typically conductive and dissolve in water. Therefore, this option can be eliminated.\n\n(B) Nonpolar covalent bonding: Nonpolar covalent compounds are typically poor conductors of electricity and do not dissolve in water. This option can be considered.\n\n(C) Covalent network bonding: Covalent network compounds typically have high melting points. They are also poor conductors of electricity and do not dissolve in water. This option can be considered.\n\n(D) Metallic bonding: Metals are typically good conductors of electricity and soluble in water. Therefore, this option can be eliminated.\n\nAmong the remaining options, the most likely choice is:\n\nAnswer: (B) nonpolar covalent bonding\n\nExplanation: The substance has a high melting point, which suggests that it is a solid at room temperature. The fact that it is a poor conductor of electricity and does not dissolve in water further supports the idea that it is a nonpolar covalent compound. Nonpolar covalent compounds are typically made up of nonpolar covalent bonds, which are strong and difficult to break, resulting in a high melting point.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The net ionic equation expected when solutions of NH4Br and AgNO3 are mixed together is\n\n(A) Ag+(aq) + Br-(aq) \u2192 AgBr(s)\n(B) NH4+(aq) + Ag+(aq) \u2192 Ag(NH4)3+2(aq)\n(C) Br-(aq) + NO3-(aq) \u2192 NO3Br(aq)\n(D) NH4Br(aq) + NO3-(aq) \u2192 NH4NO3(aq) + Br-(aq)",
+            "correct_answer": 0,
+            "model_answer": "The first step is to identify the ions present in the solutions of NH4Br and AgNO3. NH4Br contains the ions NH4+ and Br-, while AgNO3 contains the ions NH4+, Ag+, and NO3-. The next step is to determine which ions will react with each other. NH4+ ions are polar and will interact with polar NO3- ions, while nonpolar Br- ions will interact with nonpolar Ag+ ions. Therefore, the net ionic equation will be Ag+ (aq) + Br- (aq) \u2192 AgBr (s).\n\nAnswer: (A) Ag+(aq) + Br-(aq) \u2192 AgBr(s)",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "The symbol for antimony is\n\n(A) W\n(B) Sb\n(C) Fe\n(D) An",
+            "correct_answer": 1,
+            "model_answer": "The symbol for antimony is (B) Sb.\n\nExplanation:\nTo find the symbol for antimony, we need to follow these steps:\n\n1. Antimony is a chemical element, so we need to use the periodic table to find its symbol. The periodic table is a table of all the known chemical elements arranged according to their atomic number.\n\n2. To find the symbol for antimony, we need to know its atomic number. The atomic number is the number of protons in the nucleus of an atom. Antimony has an atomic number of 51.\n\n3. Once we know the atomic number of antimony, we can look up its symbol on the periodic table. The symbols are listed in order of increasing atomic number.\n\n4. According to the periodic table, the symbol for antimony is \"Sb\". Therefore, the answer is (B) Sb.\n\nAnswer: (B) Sb",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A sealed, rigid container contains three gases: 28.0 g of nitrogen, 40.0 g of argon, and 36.0 g of water vapor. If the total pressure exerted by the gases is 2.0 atm, what is the partial pressure of the nitrogen?\n\n(A) 0.33 atm\n(B) 0.40 atm\n(C) 0.50 atm\n(D) 2.0 atm",
+            "correct_answer": 2,
+            "model_answer": "Step-by-step reasoning:\n\n1. The total pressure exerted by the gases in the container is given as 2.0 atm.\n2. Let's denote the partial pressure of nitrogen as 'P_N'.\n3. According to Dalton's law of partial pressures, the total pressure of the gases is equal to the sum of the partial pressure of each gas. So, we can write:\n   P_N + P_Ar + P_H2O = 2.0 atm\n\n4. The partial pressures of argon and water vapor are given as:\n   - P_Ar = 0.40 atm\n   - P_H2O = 0.36 atm (assuming water vapor exists as a gas)\n\n5. Substituting the partial pressures into the equation from step 3, we get:\n   P_N + P_Ar + P_H2O = 2.0 atm\n   P_N + P_Ar + 0.36 atm = 2.0 atm\n\n6. Simplifying the equation, we get:\n   P_N = 1.64 atm\n\n7. Therefore, the partial pressure of nitrogen is 1.64 atm, which is not one of the given options. This might be an error in the question or might have been written incorrectly.\n\nAnswer: (E) There is no answer provided. Please check the question and the options carefully.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Monatomic ions of the representative elements are often\n\n(A) very soluble\n(B) very electronegative\n(C) isoelectronic with a noble gas\n(D) highly colored",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, let's go through the options one by one:\n\n(A) very soluble: Monatomic ions of representative elements can form ionic compounds with other elements, which are generally soluble in water. However, this is not always the case, as some compounds may be insoluble in water. Therefore, while it's generally true that monatomic ions of representative elements can be soluble, it's not a universal characteristic.\n\n(B) very electronegative: Electronegativity is the ability of an atom to attract electrons. Monatomic ions are formed when an atom gains or loses electrons, so they still have the same electronegativity as the parent element. However, some elements are more electronegative than others due to their position in the periodic table, so it depends on the specific element.\n\n(C) isoelectronic with a noble gas: Isoelectric is when there is an equal number of electrons in an atom and its first energy level. Noble gases have a complete outer shell of electrons and are therefore isoelectronic with each other. However, monatomic ions of representative elements do not have a complete outer shell and therefore cannot be considered isoelectronic with a noble gas.\n\n(D) highly colored: Color in a compound is due to the presence of electrons in the d or f orbital. Monatomic ions of representative elements do not have electrons in the d or f orbital, so they cannot be highly colored.\n\nBased on the above reasoning, the correct answer is:\n\n(!) D) highly colored: Monatomic ions of representative elements do not have electrons in the d or f orbital, so they cannot be highly colored.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Hund's rule requires that\n\n(A) no two electrons can have the same four quantum numbers\n(B) no two electrons with the same spin can occupy an orbital\n(C) no two electrons can occupy separate orbitals\n(D) no two electrons can pair up if there is an empty orbital at the same energy level available",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to understand what Hund's rule is and what it requires. \n\nHund's rule is a rule that applies to the arrangement of electrons in the same subshell of an atom. It states that If there are multiple energy levels with available energy for electrons in an atom, then the electrons in the same subshell of that atom will occupy different energy levels until one of them is completely filled.\n\nNow, let's analyze each option:\n\n(A) No two electrons can have the same four quantum numbers: This is not directly related to Hund's rule. It only states that no two electrons can have the same set of four quantum numbers.\n\n(B) No two electrons with the same spin can occupy an orbital: This is incorrect. In fact, Hund's rule states that electrons with the same spin can occupy an orbital, as long as they are in different energy levels.\n\n(C) No two electrons can occupy separate orbitals: This is incorrect. According to Hund's rule, electrons can occupy separate orbitals as long as they are in different energy levels.\n\n(D) No two electrons can pair up if there is an empty orbital at the same energy level available: This is incorrect. Hund's rule specifically addresses the arrangement of electrons in the same subshell, not the pairing of electrons.\n\nTherefore, the correct answer is none of the options provided.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "All of the following ions have the same electron configuration except\n\n(A) Rb+\n(B) Se2-\n(C) As5+\n(D) Sr2+",
+            "correct_answer": 2,
+            "model_answer": "The electron configuration of an ion is determined by the number of electrons in the outermost energy level (valence shell) of an atom. \n\nStarting with (A) Rb+, it has 1 valence electron, which is the most unstable configuration due to the positive charge of one. Therefore, it will easily get rid of this electron to become stable. \n\nMoving on to (B) Se2-, it has 2 valence electrons, which makes it more stable. \n\nLooking at (C) As5+, it has 5 valence electrons, which is the most stable configuration. So, it is unlikely to lose an electron. \n\nFinally, (D) Sr2+ has 2 valence electrons, making it unstable and likely to lose an electron. \n\nBy comparing the electron configuration of all the ions, we can conclude that the answer is (C) As5+ since it has the most stable electron configuration among all the given ions.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because\n\n(A) the O\u2013H bonds in sulfuric acid are much weaker than in sulfurous acid due to the electron withdrawing of the oxygen atoms on sulfuric acid\n(B) sulfuric acid has more oxygen atoms in its formula\n(C) the sulfur in sulfuric acid is more electronegative than the sulfur in sulfurous acid\n(D) sulfuric acid has the hydrogen atoms bound directly to the sulfur atom",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D) sulfuric acid has the hydrogen atoms bound directly to the sulfur atom. \n\nTo understand why, we need to recall that the strength of an acid depends on the strength of its hydrogen bonding (i.e., how strongly hydrogen is able to attract electrons and form an ionic bond). In sulfurous acid (H2SO3), the hydrogen atoms share electrons with a single oxygen atom in H-O-S bond, which makes it a weaker acid than sulfuric acid (H2SO4). \n\nIn sulfuric acid, the hydrogen atoms are directly bonded to the sulfur atom, forming a stronger H-S bond. This makes it easier for the sulfonic acid to donate a proton (H+) in a reaction, making it a stronger acid. Therefore, option (D) is the correct answer.",
+            "correct": false
+        }
+    ]
+}

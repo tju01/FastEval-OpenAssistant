@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "Based on our knowledge of Robertsonian translocations, we can begin by eliminating options (B), (C), and (D). Robertsonian translocations involve fusion between homologous chromosomes, but this fusion occurs at the centromeres of the chromosomes involved in the translocation. Therefore, option (B) is incorrect. Additionally, heterochromatin is found at the ends of the long arms of chromosomes and histones are proteins that package DNA, so options (D) and (C) are also incorrect.\n\nThis leaves us with option (A) telomeres as the correct answer. Telomeres are specialized DNA sequences at the ends of chromosomes that shorten with each cell division. During Robertsonian translocations, the fusion occurs between the telomeres of homologous chromosomes, resulting in a fusion of the long arms of the chromosomes. Therefore, the correct answer is (A) telomeres. \n\nAnswer: A)",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) types of DNA-binding proteins. \n\nTo determine the answer, let's analyze the information provided:\n\n1. The question states that both zinc finger proteins and helix-turn-helix proteins are involved in some process.\n2. It does not mention anything about translation or ribosomes, so we can eliminate options B and C.\n3. It also does not mention anything about hemoglobin being part of these proteins, so we can eliminate option D.\n4. Therefore, the only option left is (A) types of DNA-binding proteins.\n\nBased on the information given, we can conclude that zinc finger proteins and helix-turn-helix proteins are types of DNA-binding proteins.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "Step 1: Read and understand the problem\nThe problem is asking to find the expected frequency of females affected with an X-linked recessive condition in a human population with a frequency of males affected with the condition as 0.10.\n\nStep 2: Understand the concept of X-linked recessive conditions\nX-linked recessive conditions are genetic disorders that occur when a male inherits the mutated gene from his mother, resulting in the gene being expressed in his daughters only.\n\nStep 3: Calculate the expected frequency of affected females\nGiven the frequency of males affected with the condition as 0.10, we can calculate the expected frequency of affected females using the following formula:\nExpected frequency of affected females = 0.10 * 2 * 0.5\n                                     = 0.10 * 2\n                                     = 0.20\n\nThe expected frequency of affected females is 0.20, which is not listed in the options provided. Therefore, the answer is not given in the options and cannot be provided.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (B) guanine. This is because DNA consists of two strands that are held together by hydrogen bonds between complementary nitrogenous bases. Adenine pairs with guanine through three hydrogen bonds, while cytosine pairs with guanine through two hydrogen bonds. Thymine only pairs with adenine through two hydrogen bonds. Therefore, adenine and guanine always pair with each other in DNA. The answer is A.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "The pattern of inheritance of malignant hyperthermia (hyperpyrexia) is autosomal dominant. \n\nMalignant hyperthermia (MH) is a genetic disorder that causes severe hyperthermia (high fever) when a person undergoes general anesthesia. The inheritance pattern of malignant hyperthermia is determined by the specific gene that is affected. MH is caused by a mutation in the RYR1 gene, which provides instructions for making a protein called ryanodine receptor type 1 (RYR1). This protein plays a role in regulating the release of calcium from muscle cells.\n\nThe pattern of inheritance in autosomal dominant disorders is determined by the dominant vs. recessive nature of the mutation. In an autosomal dominant disorder, an individual affected by the disorder needs to have only one copy of the mutated gene to develop the condition. If one parent has a mutated RYR1 gene and the other parent has a normal RYR1 gene, then each of their children has a 50% chance of inheriting the mutated gene and a 50% chance of inheriting the normal gene.\n\nTherefore, the pattern of inheritance of MH is autosomal dominant because an individual affected by the disorder can exhibit the phenotype with only one copy of the mutated gene.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "The correct answer to this question is (B) proceeded much more successfully as large numbers of DNA markers became available.\n\nThe mapping of human chromosomes has been a complex task that has involved a lot of research and analysis. The first step in mapping the chromosomes was to determine the locations of genes on each chromosome. This was done using a technique called genetic linkage mapping. This technique involves studying the inheritance of DNA markers, or small segments of DNA, that are known to be present on certain chromosomes. By tracking the inheritance of these markers in family pedigrees, researchers were able to determine the location of genes on each chromosome.\n\nHowever, it was not always a straightforward process. In the early days of genetic linkage mapping, the number of DNA markers available was limited. This made it difficult to accurately determine the locations of genes on each chromosome. However, as more DNA markers became available, the mapping process became much more successful.\n\nThe answer to the question is (B) proceeded much more successfully as large numbers of DNA markers became available. This is because having more DNA markers available allowed researchers to map more genes on each chromosome, and to do so with greater accuracy. This has led to a much more complete understanding of the structure and organization of the human genome.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "Intergenerational transmission to offspring refers to the phenomenon where a characteristic or trait that is exhibited by one generation is passed down to the next generation. This is often seen in the case of genetic traits that are passed down from parents to their offspring. In this case, intergenerational transmission is typically caused by exposures during the parent's lifetime that can have a direct impact on the genes that are passed down to their offspring.\n\nA, B, and C are all examples of environmental exposures that can have an impact on a parent's genes and potentially lead to intergenerational transmission to their offspring. War, natural disasters, and hunger can all have a significant impact on a parent's health and potential genetic damage, which can then be passed down to their offspring.\n\nTherefore, the correct answer is (D) all of these.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "Aspartic acid (D) and phenylalanine (F) are both amino acids. To determine which amino acid has been replaced by the other, we need to look at the code for each amino acid. Aspartic acid is coded as D, while phenylalanine is coded as F. \n\nNext, we need to look at the code for the mutation in question, which is Asp235Phe. This means that at position 235 on the aspartic acid molecule, a mutation has occurred, and a phenylalanine molecule has taken its place. \n\nFrom this information, we can conclude that option (C) is incorrect because aspartic acid has not been replaced by phenylalanine. Similarly, option (D) is incorrect because phenylalanine has not been replaced by aspartic acid. \n\nStarting with option (A), this states that asparagine has been replaced by phenylalanine. However, asparagine is not the amino acid that was mutated in this case, so option (A) is incorrect. \n\nTherefore, the correct answer is option (B), which states that phenylalanine has been replaced by asparagine. However, as mentioned earlier, this is not the amino acid that was mutated, so option (B) is also incorrect. \n\nTherefore, the correct answer is option (A) asparagine has been replaced by phenylalanine, which is not the case in this molecular report.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to understand what phenylketonuria (PKU) is and what it can do to the child of a mother with the condition. \n\nPKU is a genetic disorder that affects the breakdown of the amino acid phenylalanine. If a mother with PKU becomes pregnant, her fetus will be exposed to high levels of this amino acid, which can lead to a buildup of phenylalanine in the baby's blood. This buildup can cause mental retardation, seizures, and other physical and developmental problems.\n\nThe risk of these health problems depends on how high the mother's phenylalanine levels are and how early the deficiency is detected and treated. If the mother's PKU is not treated, the risk of abnormalities in the child is almost 100%. However, if the mother's PKU is detected early and treated with a low-phenylalanine diet, the risk can be reduced to less than 1%.\n\nTherefore, the answer to the question is that the risk of abnormality in the child of a mother with untreated phenylketonuria is almost 100%. There are only two options that can be safely eliminated from consideration: option B (10%) and option C (25%). Option D (less than 1%) is incorrect because if the mother's PKU is appropriately treated, the risk of abnormalities can be much lower than 1%. \n\nIn summary, the answer is (D) almost 100%.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "Exon skipping is associated with RNA processing mutations. \n\nExon skipping occurs when a gene with multiple exons is incorrectly spliced, resulting in the removal of one or more exons from the final mRNA sequence. This can lead to a number of different consequences, including altered protein function or non-functional protein. \n\nThe answer (C) RNA processing mutations is correct because exon skipping is a type of mutation that affects the splicing of pre-mRNA, which is an essential step in RNA processing. Mutations that affect RNA processing can lead to a variety of different outcomes, including nonsense mutations (which result in a premature stop codon), regulatory mutations (which alter the expression of the gene), and more. \n\nThe answer (A) nonsense mutations is incorrect because exon skipping does not necessarily result in a nonsense mutation. The answer (B) regulatory mutations is incorrect because while exon skipping can affect gene regulation, it is not directly related to regulatory mutations. The answer (D) silent mutations is incorrect because exon skipping does not affect the sequence of the mRNA, and therefore does not result in a silent mutation.",
+            "correct": false
+        }
+    ]
+}

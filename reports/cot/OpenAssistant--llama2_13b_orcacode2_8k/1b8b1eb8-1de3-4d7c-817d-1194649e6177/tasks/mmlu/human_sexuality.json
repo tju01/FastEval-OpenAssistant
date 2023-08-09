@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following methods of detecting breast cancer involves exposure to radiation?\n\n(A) Needle aspiration\n(B) Mammography\n(C) Mastectomy\n(D) Lumpectomy",
+            "correct_answer": 1,
+            "model_answer": "The method of detecting breast cancer that involves exposure to radiation is Mammography. \n\nHere's how I arrived at the answer:\n\n1. The question asks specifically for a method of detecting breast cancer that involves exposure to radiation.\n2. To determine which method meets this criteria, we need to consider each option:\n   (A) Needle aspiration: This is a procedure where a small needle is used to extract fluid or tissue from the breast. It does not involve radiation.\n   (B) Mammography: This is a diagnostic test that uses low-dose x-rays to produce images of the breast tissue. Since x-rays are a form of radiation, this method meets the criteria of requiring exposure to radiation.\n   (C) Mastectomy: This is a surgical procedure where the entire breast is removed. It does not involve radiation.\n   (D) Lumpectomy: This is also a surgical procedure, where only a part of the breast is removed. It does not involve radiation.\n3. Based on this analysis, the only option that meets the criteria of involving exposure to radiation is Mammography (B).\n\nTherefore, the answer is (B) Mammography.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "The regions of the body that, when touched, are sexually exciting:\n\n(A) vary from person to person\n(B) vary for women depending on the phases of the menstrual cycle\n(C) are mainly on the lower portion of the body\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "The answer is (D) all of the above. The text mentions that the answer is (A) and (B), but it does not say that there is an answer for (C). Therefore, we cannot assume that (C) is incorrect. So, the correct answer is (D).",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is/are true of gonorrhea?\n\n(A) can be treated with antibiotics\n(B) has a high risk of infection with a single exposure\n(C) is asymptomatic (without symptoms) in only a small percentage of those infected\n(D) infections are limited to genital areas",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to analyze each statement one by one.\n\nStatement (A): \"can be treated with antibiotics\"\nThis statement is true. Gonorrhea is a bacterial infection that can be treated with antibiotics. Therefore, we can mark this statement as true.\n\nStatement (B): \"has a high risk of infection with a single exposure\"\nThis statement is also true. Gonorrhea is a sexually transmitted infection (STI) that can be transmitted through sexual contact. Therefore, a single exposure to an infected person can greatly increase the risk of acquiring the infection. We can mark this statement as true as well.\n\nStatement (C): \"is asymptomatic (without symptoms) in only a small percentage of those infected\"\nThis statement is generally true, but there is a caveat. Many individuals with gonorrhea may not exhibit symptoms, but this is not true for all cases. Symptoms can vary from person to person and can include genital pain and discharge, rectal discharge, and painful urination. The percentage of asymptomatic cases may vary, but it is not always a small percentage. Therefore, the statement is partially true, and we can mark it as true to some extent.\n\nStatement (D): \"infections are limited to genital areas\"\nThis statement is generally false. While genital areas are the most common sites of gonorrhea infection, the bacteria can also infect other parts of the body such as the rectum, throat, and eyes. Therefore, this statement is not entirely true, and we cannot mark it as true.\n\nBased on our analysis, the true statements are (A) and (B). The partially true statement is (C). The incorrect statement is (D).\n\nTherefore, the answer is: \nA",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?\n\n(A) the id\n(B) the ego\n(C) the superego\n(D) the Oedipus complex",
+            "correct_answer": 0,
+            "model_answer": "In Freudian psychoanalytic theory, the id is the basic instinctual drives and needs, the ego is the mediator between the id and the superego, and the superego is the moral and ethical conscience. Given that you were tempted by the desire for lust (which is an id drive) and you briefly considered studying (which is an ego function), but ultimately gave in to the desire, it can be inferred that the id drive was dominant. \n\nTherefore, the answer is (A) the id.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Sociobiologists believe that there are more males than females with paraphilias because:\n\n(A) paraphilias guarantee survival of the species\n(B) evolutionary selection has favored the development of males who respond to novel sexual stimuli\n(C) of left brain/right brain differences between the genders\n(D) male brains are better developed than are female brains",
+            "correct_answer": 1,
+            "model_answer": "The answer to the question \"Do sociobiologists believe that there are more males than females with paraphilias because (A) paraphilias guarantee survival of the species, (B) evolutionary selection has favored the development of males who respond to novel sexual stimuli, (C) of left brain/right brain differences between the genders, or (D) male brains are better developed than are female brains?\" is (B) evolutionary selection has favored the development of males who respond to novel sexual stimuli.\n\nSociobiologists suggest that paraphilias, which are sexual behaviors or desires that are atypical or extreme, may have been positively selected for evolutionary reasons. They argue that males who respond to novel sexual stimuli had a higher chance of passing on their genes to the next generation, even if these behaviors were not socially acceptable or commonly practiced.\n\nTherefore, option (A) is incorrect as paraphilias do not guarantee survival of the species. Option (C) is also incorrect as left brain/right brain differences are not directly related to the occurrence of paraphilias. Option (D) is also incorrect as it is due to evolutionary pressures, not differences in brain development.\n\nOverall, sociobiologists believe in option (B) that evolutionary selection favored the development of males who respond to novel sexual stimuli.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\n\n(A) felt glad\n(B) felt fear\n(C) experienced guilt\n(D) experienced regret",
+            "correct_answer": 2,
+            "model_answer": "Sure, I'd be happy to help you break down the question and answer it step-by-step. \n\nFirst, let's identify what the study is about. The study by Sprecher, Barbee, and Schwartz (1995) focuses on the experiences of women and men after their first act of intercourse. \n\nNext, we need to identify which study participants were more likely than others to experience a specific emotion or feeling following their first act of intercourse. \n\nAccording to the study, women were more likely than men to have experienced guilt. \n\nFinally, we need to provide the answer to the question in a clear and concise way. The answer to the question is (C) experienced guilt.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is cocaine abuse during pregnancy related to?\n\n(A) an increased risk of low birth weight babies\n(B) poorer growth and lower intelligence\n(C) smaller head circumference\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "Pregnancy abuse is a serious issue that can have negative effects on the baby's development. Cocaine is a drug that can harm the baby's health when the mother uses it during pregnancy. The question asks what cocaine abuse during pregnancy is related to. \n\n(A) is correct. Cocaine abuse during pregnancy is related to an increased risk of low birth weight babies. Cocaine can cause premature birth, which can lead to smaller babies who are underweight. This can increase the risk of complications and long-term health problems for the baby.\n\n(B) is also correct. Poorer growth and lower intelligence can also be related to cocaine abuse during pregnancy. Cocaine can interfere with the baby's development in the womb, which can lead to growth problems and poorer cognitive development.\n\n(C) is not related to cocaine abuse during pregnancy. Cocaine does not affect head circumference in the way that alcohol or other drugs might.\n\n(D) is the correct answer. Cocaine abuse during pregnancy is related to all of the above - increased risk of low birth weight babies, poorer growth and lower intelligence.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:\n\n(A) a secure lover\n(B) an avoidant lover\n(C) an anxious-ambivalent lover\n(D) a passionate lover",
+            "correct_answer": 2,
+            "model_answer": "Based on the information given, we can infer that Joe may be pursuing Helen aggressively, which could be seen as desperate. This suggests that Joe may not be comfortable with the attachment style of becoming close to someone, which could be a sign of avoidance. Additionally, the fact that Helen appears put off by Joe's advances could indicate that she has some level of mistrust or fear of being close to him.\n\nGiven this information, the best fit for Joe's attachment style would be:\n\n(B) an avoidant lover\n\nTherefore, the answer is (B).",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?\n\n(A) Bruce likely participated in more female-typical play than Chuck.\n(B) Bruce likely participated in more male-typical play than Chuck.\n(C) Bruce and Chuck likely participated in more male-typical play than female-typical play.\n(D) Bruce's father was more likely to have homosexual tendencies than Chuck's father.",
+            "correct_answer": 0,
+            "model_answer": "Reasoning: \n\nThe question is asking about the differences in play behavior between Bruce and Chuck as children, based on their gender preferences as adults. \n\nOption (A) suggests that Bruce would have participated in more female-typical play because he is a homosexual man, which means he has an attraction to men. However, play behavior is usually not influenced by gender-typicality, but rather by socialization, personality and interests. Therefore, option (A) is unlikely. \n\nOption (B) suggests that Bruce would have participated in more male-typical play because of his attraction to men. However, this is a stereotype and not necessarily true. Therefore, option (B) is also unlikely. \n\nOption (C) suggests that both Bruce and Chuck would have participated in more male-typical play. However, this is based on a stereotype that boys play more rough and tumble than girls, which is not always true. Therefore, option (C) is unlikely. \n\nTherefore, based on the information provided in the question, the most likely behavioral pattern between Bruce and Chuck as children would be the same as the behavioral pattern exhibited by men and women in general. This is because gender-typical play behavior is not strongly influenced by gender preferences, but rather by socialization, personality and interests. \n\nAnswer: (D) Bruce's father was more likely to have homosexual tendencies than Chuck's father.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Judaism regards sexuality as\n\n(A) inherently evil\n(B) God's afterthought and has become an aberration\n(C) a gift from God\n(D) primarily a biological function",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to understand the Jewish perspective on sexuality. Judaism is a monotheistic religion that bases its beliefs on the teachings of the Bible. According to Jewish tradition, sexuality is considered a gift from God. \n\nTo understand this perspective further, let's break down the options given in the question:\n\n(A) Inherently evil: This option implies that Judaism sees sexuality as inherently negative or sinful. However, this is not true. While Judaism acknowledges that sexual desire and acts can be misused, it does not view them as inherently evil.\n\n(B) God's afterthought and has become an aberration: This option suggests that Judaism sees sexuality as something that God created accidentally or as an aberration. This is also not true. Jewish teachings emphasize the importance of sexual relations within the context of marriage and responsibly raising a family.\n\n(C) A gift from God: As mentioned earlier, this option aligns with the Jewish perspective on sexuality. Judaism believes that sexuality is a gift from God, meant to be enjoyed in a committed relationship between a husband and wife.\n\n(D) Primarily a biological function: While this option acknowledges the biological function of sexuality, it does not address the Jewish perspective on sexuality within a religious context. Jewish teachings emphasize that sexuality is not just a biological function but also a spiritual and emotional aspect of humanity.\n\nBased on the reasoning above, the answer to the question is:\n\n(C) A gift from God.",
+            "correct": true
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "Reasoning:\nRobertsonian translocations involve chromosomal fusion between two non-sister chromatids, resulting in the formation of a palindromic structure. The fusion occurs at the long arms of the chromosomes.\n\nAnswer:\n(A) telomeres.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins.\n\nReasoning:\n- Zinc finger proteins are a specific type of DNA-binding proteins that contain zinc atoms coordinated by cysteine and histidine residues.\n- Helix-turn-helix proteins are another type of DNA-binding proteins that consist of two alpha helices connected by a loop of amino acids. These proteins bind to the major groove of DNA and play a role in transcription regulation.\n- Option (B) is incorrect because helix-turn-helix proteins are not involved in the control of translation.\n- Option (C) is incorrect because while ribosomes do contain some DNA-binding proteins, they do not contain helix-turn-helix or zinc finger proteins specifically.\n- Option (D) is incorrect because hemoglobin is a protein found in red blood cells and does not have any DNA-binding activity. Therefore, the final answer is (A) types of DNA-binding proteins.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "The frequency of males affected with an X-linked recessive condition in a human population is 0.10, which means that there are 10 affected males per 100 individuals in the population. Since this is an X-linked recessive condition, it affects males more severely than females. Therefore, the frequency of affected females would be lower than that of affected males. \n\nIn an X-linked recessive disorder, females have two X chromosomes, while males have only one. In females, the X chromosome is inactivated, while in males, the Y chromosome is inactivated. However, since this is an X-linked recessive condition, both X chromosomes need to be affected for the disorder to be expressed. Therefore, if a male has only one X chromosome, the condition will be expressed in females, but it will not be expressed in males unless both X chromosomes are affected. \n\nSince the frequency of affected males is 0.10, the expected frequency of affected females would be lower than that of affected males. We can calculate the expected frequency of affected females using the following formula:\n\nTotal proportion of affected individuals = Proportion of males affected + Proportion of females affected\n\nSince we know that the proportion of males affected is 0.10, we can substitute it in the formula:\n\nTotal proportion of affected individuals = 0.10 + Proportion of females affected\n\nSince the question asks for the expected frequency of affected females, we need to find the proportion of females affected. We know that the frequency of affected males is 0.10, so we can calculate the proportion of females affected by dividing the number of affected females by the total number of females in the population:\n\nProportion of females affected = .10 / 1 - .10\n\nSimplifying this expression, we get:\n\nProportion of females affected = .10 / 0.90 = 0.1111\n\n Therefore, the frequency of affected females is:\n\nProportion of females affected x Total number of females = 0.1111 x 100 = 11.11\n\nFinally, we can convert the frequency of affected females (11.11) to its proportion (as y(x)) by dividing by the total population size (100):\n\n\u2022 Y(x) = 11.11/100 = 0.1111\n\n\u2022 Rounding this value to two decimal places gives us:\n\nY(x) = 0.11\n\nTherefore, the expected frequency of affected females is:\n\n0.11 (which is the answer to the question).",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to remember the rules of base pairing in DNA. In DNA, adenine (A) pairs with thymine (T) to form two hydrogen bonds, while guanine (G) pairs with cytosine (C) to form three hydrogen bonds. Uracil (U) is not found in DNA, so it cannot pair with anything in DNA. Therefore, the correct pairing of adenine is with thymine, so the answer is (A) cytosine.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "Sure, I'd be happy to help you with that question. \n\nMalignant hyperthermia (hyperpyrexia) is a genetic disorder that mainly affects people who have inherited a mutated gene from both parents. \n\nTo determine the pattern of inheritance, we need to consider the possible inheritance patterns: autosomal dominant, autosomal recessive, X-linked dominant, and X-linked recessive. \n\nSince malignant hyperthermia (hyperpyrexia) is an autosomal dominant condition, it means that only one mutated copy of the gene is needed for someone to inherit the disorder. \n\nIn addition, autosomal dominant conditions are more likely to affect males and females equally, and they can also occur in people with a relatively small number of affected ancestors. \n\nTherefore, based on the information provided, the pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "Reasoning:\n- The question is asking about the mapping of human chromosomes, which involves linking together different pieces of DNA that are located on the same chromosome.\n- Option (A) suggests that the mapping of human chromosomes has been restricted to the sex chromosomes due to small family sizes. This is not correct because the mapping of all chromosomes has been achieved, including non-sex chromosomes.\n- Option (B) suggests that the mapping of human chromosomes proceeded more successfully as large numbers of DNA markers became available. This is correct because with more markers, researchers can more accurately link different pieces of DNA together.\n- Option (C) suggests that mapping has determined that the number of linkage groups is about twice the number of chromosomes. This is incorrect because linkage groups are not the same as chromosomes, and the number of linkage groups can vary depending on the type of mapping being done.\n- Option (D) suggests that mapping has demonstrated that almost all of the DNA is involved in coding for genes. This is not correct because non-coding DNA also plays important roles in gene regulation and other cellular processes.\n\nAnswer: (B) proceeded much more successfully as large numbers of DNA markers became available.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "First, let's understand what intergenerational transmission means. Intergenerational transmission refers to the way in which environmental or genetic factors can be passed on from one generation to another, often leading to changes in health outcomes. \n\nNow, let's analyze the options provided: \n\n(A) War: Exposure to war can result in physical and psychological trauma, which can have long-term effects on health and well-being. These effects can be passed on to offspring through intergenerational transmission.\n\n(B) Natural disasters: Natural disasters such as hurricanes, earthquakes, and floods can lead to significant exposure to environmental stressors such as contaminated water, air pollution, and exposure to hazardous materials. This exposure can result in changes in health outcomes, which can be passed on to offspring through intergenerational transmission.\n\n(C) Hunger: Hunger is a state of inadequate nutrition, which can lead to malnutrition and other health problems. Malnutrition can have negative impacts on the health of both the mother and the developing fetus, ultimately affecting the health of the offspring.\n\nConsidering these factors, the correct answer is (D) all of these. Exposure to war, natural disasters, and hunger can all lead to intergenerational transmission of health outcomes to offspring.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "Explanation:\n(A) tells us that amino acid asparagine has been replaced by phenylalanine. \n(B) tells us that amino acid phenylalanine has been replaced by amino acid asparagine. \n(C) tells us that amino acid aspartic acid has been replaced by phenylalanine. \n(D) tells us that phenylalanine has been replaced by amino acid aspartic acid.\n\nAnswer: A (asparagine has been replaced by phenylalanine).",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "The maternal serum phenylalanine level of less than 30 umol/l before and during pregnancy decreases the risk of phenylketonuria to almost 1%. The untreated phenylketonuria in mother increases the risk of abnormal affected child by more than 10%. \n\nSo, the answer is (B) 10%.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "Exon skipping is a type of genetic variation where the reading frame of the mRNA is altered due to the deletion of one or more exons. This can lead to the addition or deletion of amino acids in the protein produced by the gene. \n\n(A) Nonsense mutations are deletions or substitutions in the DNA sequence that leads to a stop codon in the mRNA, causing a premature termination of protein synthesis. This is not the same as exon skipping. \n\n(B) Regulatory mutations are changes in the DNA sequence that affect the gene's regulation, but do not alter the protein sequence. This is also not the same as exon skipping. \n\n(C) RNA processing mutations are changes in the DNA sequence that affect the processing of the mRNA, such as changes in splicing or transcription. These can lead to changes in the protein sequence. This sounds like a plausible answer! \n\n(D) Silent mutations are changes in the DNA sequence that do not alter either the amino acid sequence or the mRNA sequence. However, they can affect the regulatory elements of the gene, leading to changes in gene expression. This is not the same as exon skipping. \n\nTherefore, the answer is (C) RNA processing mutations.",
+            "correct": true
+        }
+    ]
+}

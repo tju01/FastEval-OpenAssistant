@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?\n\n\n(A) Meat\n(B) Confectionary\n(C) Fruits and vegetables\n(D) Potatoes",
+            "correct_answer": 2,
+            "model_answer": "Step 1: Wales and Scotland are two different countries with their own unique cultural and culinary traditions.\n\nStep 2: To determine which foods tend to be consumed in lower quantities in Wales and Scotland, we need to look at the most recent data available.\n\nStep 3: According to the British Dietetic Association, Wales and Scotland tend to have lower consumption of potatoes than other countries in the UK.\n\nStep 4: Therefore, the answer to the question is (D) Potatoes.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?\n\n\n(A) If the incidence rate of the disease falls.\n(B) If survival time with the disease increases.\n(C) If recovery of the disease is faster.\n(D) If the population in which the disease is measured increases.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (A) If the incidence rate of the disease falls.\n\nExplanation:\n\nThe incidence rate of a disease refers to the number of new cases of the disease that occur in a population during a certain period of time, typically a year. If the incidence rate of a disease falls, it means that there are fewer new cases of the disease occurring in the population. This can happen for several reasons, such as improvements in prevention or treatment, or a decrease in the prevalence of risk factors for the disease.\n\nWhen the incidence rate of a disease falls, the prevalence of the disease in the population may or may not increase. If the prevalence of the disease in the population was already decreasing, then the fall in incidence rate would likely continue to further decrease the prevalence. However, if the prevalence of the disease in the population was already increasing, then the fall in incidence rate would likely slow down or even reverse the increase in prevalence.\n\nIn summary, a fall in the incidence rate of a disease would likely lead to a decrease in the prevalence of the disease in the population.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following statements is correct?\n\n\n(A) The flavonoid class comprises flavonoids and isoflavonoids.\n(B) The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\n(C) \u00df-Carotene and lycopene can both act as provitamin A.\n(D) Carotenoids and flavonoids both belong to the polyphenol class.",
+            "correct_answer": 0,
+            "model_answer": "To determine which of the following statements is correct, we need to analyze each statement and compare it to the correct information. \n\nStatement (A) states that the flavonoid class comprises flavonoids and isoflavonoids. This statement is partially correct. Flavonoids are only one of several classes of compounds that fall under the polyphenol class. However, flavonoids can be classified into subclasses, such as aurones, flavones, flavonols, flavanols, and isoflavonoids. Therefore, the correct statement would be: The flavonoid class comprises flavonoids, flavonols, flavanols, and isoflavonoids.\n\nStatement (B) states that the digestibility and bioavailability of isoflavones in soya food products are not changed by processing. This statement is partially correct. The digestibility and bioavailability of isoflavones can be affected by processing, such as when soy is cooked, fermented, or processed into soy milk. However, some studies suggest that soy processing may actually increase the bioavailability of isoflavones. Therefore, the correct statement would be: The digestibility and bioavailability of isoflavones in soya food products can be affected by processing.\n\nStatement (C) states that \u00df-carotene and lycopene can both act as provitamin A. This statement is partially correct. \u00df-carotene is a precursor to vitamin A and can act as a provitamin A, but lycopene is not a provitamin A. Therefore, the correct statement would be: \u00df-carotene can act as a provitamin A, but lycopene cannot.\n\nStatement (D) states that carotenoids and flavonoids both belong to the polyphenol class. This statement is not entirely correct. Carotenoids and flavonoids are both classes of polyphenols, but they have different origins and structures. Therefore, the correct statement would be: Carotenoids and flavonoids are both classes of polyphenols. \n\nSo, the correct answer is: The flavonoid class comprises flavonoids, flavonols, flavanols, and isoflavonoids. The digestibility and bioavailability of isoflavones in soya food products can be affected by processing. \u00df-carotene can act as a provitamin A, but lycopene cannot. Carotenoids and flavonoids are both classes of polyphenols.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "What are the main causes of the obesity epidemic?\n\n\n(A) Increased energy quantity/density and a more sedentary life-style\n(B) Decreased leisure time activity\n(C) Changes in genetic profiles\n(D) None of the options given is correct",
+            "correct_answer": 0,
+            "model_answer": "The main causes of the obesity epidemic are (A) Increased energy quantity/density and a more sedentary life-style. This is because consuming more calories than the body burns can lead to weight gain, and a sedentary lifestyle can lead to a decrease in physical activity. While genetic profiles can be a factor in obesity, it is not the main cause. Additionally, decreased leisure time activity is not a significant contributor to the obesity epidemic. Therefore, option (D) is incorrect. \n\nThe answer is (A).",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 2,
+            "model_answer": "The vitamin that is a major lipid-soluble antioxidant in cell membranes is (C) Vitamin E.\n\nExplanation:\nVitamin E is a lipid-soluble vitamin that acts as an antioxidant in cell membranes. It helps to protect the cell membranes from oxidative damage caused by free radicals. Among the options provided in the question, only Vitamin E has been shown to have this function.\n\nTherefore, the answer is (C) Vitamin E.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Which of the following contributes to vitamin B12 deficiency in older adults?\n\n\n(A) Reduced secretion of intrinsic factor\n(B) Atrophic gastritis\n(C) Helicobacter pylori infection\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D) All of the above. \n\nJustification: \nVitamin B12 is essential for the production of red blood cells and proper functioning of the nervous system. Deficiency in vitamin B12 can cause a range of health problems, including anemia, fatigue, weakness, numbness, and tingling in the extremities. \n\nOlder adults are at a higher risk of vitamin B12 deficiency due to several factors, including reduced secretion of intrinsic factor, atrophic gastritis, and Helicobacter pylori infection. \n\nReduced secretion of intrinsic factor: Intrinsic factor is a protein secreted by the parietal cells in the stomach that aids in the absorption of vitamin B12. As people age, the secretion of intrinsic factor decreases, making it more difficult for the body to absorb vitamin B12.\n\nAtrophic gastritis: Atrophic gastritis is a condition in which the stomach lining becomes thinner and shrivels, resulting in a decrease in the acid produced by the stomach. This can lead to a decrease in the absorption of vitamin B12, as it requires an acidic environment to be absorbed.\n\nHelicobacter pylori infection: Helicobacter pylori is a bacteria that can cause inflammation and damage to the stomach lining, leading to atrophic gastritis and a decrease in the acid produced by the stomach. This, in turn, can lead to a decrease in the absorption of vitamin B12.\n\nTherefore, all of the above factors contribute to vitamin B12 deficiency in older adults.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?\n\n\n(A) Testosterone\n(B) Oestrogen\n(C) Insulin-like growth factor-1\n(D) Thyroxine",
+            "correct_answer": 1,
+            "model_answer": "The hormone that is thought to mediate the effect of obesity on endometrial cancer is (C) Insulin-like growth factor-1 (IGF-1). \n\nHere's why:\n\n- Elevated levels of IGF-1 have been shown to promote the growth of endometrial cancer cells.\n- Obese women have higher levels of IGF-1 compared to lean women.\n- Elevated IGF-1 levels have also been associated with changes in insulin-like growth factor-binding protein levels, which can further promote the growth of endometrial cells.\n\nTherefore, it is suggested that the increased risk of endometrial cancer in obese women is due to their higher levels of IGF-1. \n\nAnswer: (C) Insulin-like growth factor-1.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which vitamin is required for calcium absorption from the small intestine?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 1,
+            "model_answer": "The answer is (B) Vitamin D. \n\nVitamin D is required for calcium absorption from the small intestine. The small intestine absorbs both vitamin D and calcium together. Vitamin D then helps in calcium absorption by increasing the production of hormones that stimulate calcium absorption. Therefore, without vitamin D, the body would not be able to absorb calcium properly from the small intestine. \n\nTo answer the question, we can eliminate options (A) and (C) because they are not involved in calcium absorption. Option (E) is also not involved in calcium absorption, but it is not the correct answer. Therefore, the correct answer is (B) Vitamin D.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which of the following statements about the metabolic demand for amino acids is correct?\n\n\n(A) The metabolic demand is supplied only from the diet,\n(B) The metabolic demand is to maintain protein turnover.\n(C) The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.\n(D) The metabolic demand is a fixed amount",
+            "correct_answer": 2,
+            "model_answer": "The correct statement about the metabolic demand for amino acids is (B) The metabolic demand is to maintain protein turnover.\n\nTo arrive at this answer, let's analyze each statement one by one:\n\n(A) The metabolic demand is supplied only from the diet.\nThis statement is not entirely accurate. While it is true that the body cannot produce certain essential amino acids, such as tryptophan, isoleucine, and phenylalanine, the body can produce other amino acids through a process called de novo synthesis. Therefore, the body can partially meet its metabolic demand for amino acids through internal production.\n\n(B) The metabolic demand is to maintain protein turnover.\nThis statement is more accurate. Protein turnover refers to the continuous synthesis and breakdown of proteins in the body. The body needs a constant supply of amino acids to maintain normal protein turnover and ensure that proteins are properly synthesized and degraded.\n\n(C) The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.\nThis statement is partially correct. The body does use amino acids for various metabolic processes, including synthesis of new proteins, energy production, and various metabolic pathways. However, the statement incorrectly implies that these pathways are irreversible and non-adaptive. In reality, some of these pathways are reversible and others are regulated by adaptive mechanisms to ensure that the body optimizes its use of amino acids.\n\n(D) The metabolic demand is a fixed amount.\nThis statement is incorrect. The metabolic demand for amino acids is not a fixed amount. The body's requirements for amino acids will vary depending on factors such as age, sex, muscle mass, and overall health. Additionally, the body's ability to synthesize amino acids can influence the metabolic demand for these compounds. Therefore, the metabolic demand for amino acids is not fixed, but rather is subject to various physiological and environmental factors.\n\nIn conclusion, the correct statement about the metabolic demand for amino acids is (B) The metabolic demand is to maintain protein turnover.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following statements about human amino acid requirements in human nutrition is correct?\n\n\n(A) The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.\n(B) The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.\n(C) The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.\n(D) The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B). \n\nThe amino acid requirements determined for adults is assumed to be the requirement for maintenance for all ages. This is because as we age, our bodies require less protein and fewer amino acids to maintain our structure and function. Therefore, the amount of amino acids required for an infant or young child is higher than an adult because they need more protein for growth and development. However, the amino acid composition of human tissue protein is not assumed to be the requirement pattern for infants and young children because the body has not yet fully matured and developed the ability to regulate amino acid levels in tissue proteins. Therefore, options (A) and (D) are incorrect. Option (C) is partially correct as the amino acid pattern of breast milk is assumed to be the requirement pattern for young children, but it does not apply to infants who may require different amino acid patterns for growth and development.",
+            "correct": false
+        }
+    ]
+}

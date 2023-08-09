@@ -1,0 +1,75 @@
+{
+    "score": 0.0,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The Barkhausen criterion for an oscillator\n\n(A) Loop gain should be unity\n(B) Loop gain should be less than unity\n(C) The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0\n(D) Both A and C",
+            "correct_answer": 3,
+            "model_answer": "The Barkhausen criterion for an oscillator is a necessary but not sufficient condition for oscillation. \n\nIf the loop gain is unity, the feedback has to be out of phase with the input to avoid amplification. This means that the phase of a feedback signal with respect to input should be either 0 degrees or 360 degrees (C).\n\nIf the loop gain is less than unity, the feedback has to be in phase with the input to avoid amplification. This means that the phase of a feedback signal with respect to input should be either 0 degrees or 360 degrees (C).\n\nSince both A and C are true, the answer is:\n\n(C) The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\n\n(A) It loads the circuit moderately.\n(B) It loads the circuit to maximum extent.\n(C) It uses centre zero galvanometer instead of voltmeter.\n(D) It does not load the circuit at all.",
+            "correct_answer": 3,
+            "model_answer": "A potentiometer is a three terminal resistor that can measure voltage between its two end terminals and the middle terminal. When connecting a potentiometer in a voltage measuring circuit, the voltage drop across its middle terminal will be a fraction of the voltage across the two end terminals. Hence, the maximum error in voltage measurement using this method is 0.5% of the actual voltage. In comparison, a voltmeter has a maximum error less than 0.1%. Therefore, the potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter.\n\nThe answer to this question is: A",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of these sets of logic gates are designated as universal gates?\n\n(A) NOR, NAND.\n(B) XOR, NOR, NAND.\n(C) OR, NOT, AND.\n(D) NOR, NAND, XNOR.",
+            "correct_answer": 0,
+            "model_answer": "The universal gates are the important minimum gate set required for simulation of any other gate. Therefore, the answer would be the set of gates that are able to be simulated using only that set of gates. \n\nThe XOR gate is a universal gate, which means that if we can get a universal set of gates, we must contain one XOR gate. Therefore, from a gate perspective we use (D) NOR, NAND, XNOR to resolve the universal aspect of the set. However, now that we added a logical AND gate, we no longer have a universal set.\n\nWe can remove the AND gate, because it is not a universal gate, (like its NAND counterpart). But in doing so we disregard the simulation possibility of AND. Therefore we can remove a paranthesis since at this point we do not have a universal gate set.\n\nThe solution is (D) as we only have NOR and NAND gates left. But NAND is a universal gate, so we are left with NOR.\n\nThe answer is NOR. Using NAND and XNOR allows us to have 2 simulated gates for our universal set. By removing the NAND gate, we explode the ranks of the universal set, which is why I disregarded the NAND gate, because with XNOR, the NOR gate then becomes a universal set as well.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\n\n(A) 30\u00b0 to 150\u00b0.\n(B) 30\u00b0 to 180\u00b0.\n(C) 60\u00b0 to 120\u00b0.\n(D) 60\u00b0 to 180\u00b0.",
+            "correct_answer": 0,
+            "model_answer": "To determine the range of firing angle control for a single phase one pulse controlled circuit, we need to first determine the time corresponding to the firing angle. Then we can use trigonometry to determine the voltage at the timing resistor based on the load counter emf. After that we can discuss the voltage necessary to gate the thyristor. Finally we'll use the voltage to find the range.\n\n##### Calculate time corresponding to firing angle:\n\nLet's assume that the period for the sinewave is 1 second, then\n\nf = 1/T = 314/1 = 314 s units (Hz)\n\n$$t = arctg(E/I) = arctg(200/400) = arctg(21/2) = 48.8674\u00b0 = 0.9264 radians$$\n\nFrom above the time corresponding to firing angle is approximately 48.8674 degrees.\n\n##### Calculate voltage at timing resistor\n\nThe voltage across the timing resistor, V_t, is given by\n\nV_t = E sin(0.9264)\n\n$$V_t = 200 * sin(0.9264) = 109.62 V$$\n\n\n##### Determine voltage necessary to gate the thyristor\n\nThe voltage necessary to gate the thyristor is the gate threshold - the voltage that triggers the thyristor to start conducting, which for a thyristor is around 2-3 V. However we will consider a general ballpark of 2 V just for this example.\n\n##### Calculate firing angle range\n\nBy given assumptions the firing angle must lie between 0\u00b0 and V_t (or around 109.62 V) as the SCR needs to conduct for enough time for the thyristor to turn off again. Therefore the range of firing angle control is\n\n(A) 0\u00b0 to 109.62\u00b0 or (A) 0\u00b0 to 18.94\u00b0\n\nIt's not too hard to pick out the range among the options provided.\n\nThe range of firing angle control is\n\n(A) 0\u00b0 to 109.62\u00b0 or (A) 0\u00b0 to 18.94\u00b0.\n\n(Answer provided as a single letter, with parenthesis explaining the reasoning)",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "A box which tells the effect of inputs on control sub system is known as\n\n(A) Data Box.\n(B) Logical box.\n(C) Decision box.\n(D) State box.",
+            "correct_answer": 2,
+            "model_answer": "Sure, I'd be happy to explain and provide the answer.  \n\nIn control systems theory, a control system represents a physical system that responds to an input signal by generating an output signal. The relationship between input and output is represented using mathematical equations. The components of a control system are divided into control sub-systems.\n\nAn input/output (I/O) diagram is a block diagram that shows the relationship between the inputs to a control sub-system and its outputs. It includes some or all of the following components: a data box, a logical box, a decision box, and/or a state box.\n\nA data box is used to represent the input to the control sub-system as data values (e.g. a force) that are transferred into the box.  A decision box is used to represent logical connectivity between the input and output.   A logical box is probably a type of decision box.   A state box stores information about the current state of the system and will have one or more I/O arrows connected to it.  The state box will also typically have a logical box, decision box, and/or another state box connected to it.\n\nThe answer to whether \"A box which tells the effect of inputs on control sub system is known as \n(A) Data Box. \n(B) Logical box. \n(C) Decision box. \n(D) State box.\" is: \n(D). \nState box represents the information needed to make logical or function based decisions.  There is typically 1 for each decision box.  The state box in my view would be the most fitting term for the physical box that represents the actions of a control sub-system.\n\nThe logical box, decision box, and data box certainly can have their own physical representation, however, the name \"state box\" has been in use longer and is the correct ( though not unique) terminology for the answer.   It is more likely universal among engineering teams.\n\nI hope this answers your question.  Please let me know if you would like me to elaborate for the purpose of understanding or for a different reason.  Enjoy the rest of your day.  You are a helpful and thoughtful person.  I like being treated like I matters.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\n\n(A) same as that produced by one plate.\n(B) double the field produced by one plate.\n(C) dependent on coordinates of field points.\n(D) zero.",
+            "correct_answer": 3,
+            "model_answer": "(A) same as that produced by one plate.\n\nThe electric field between the two infinite parallel plates with the given surface charge densities should be the same as the electric field produced by one of the plates, as the charge densities on both plates are equal in magnitude and opposite in polarity. Because both plates are parallel and have the same distance between them, this efffectively gives the appearance of one plate having twice the surface charge density. However, the electric field strength is directly proportional to the surface charge density. Therefore, the field strength between the plates should be the same as one plate, with a doubled magnitude due to the doubled surface charge density.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\n\n(A) Low.\n(B) Very low.\n(C) High.\n(D) Almost zero.",
+            "correct_answer": 2,
+            "model_answer": "To determine the appropriate answer, let's consider the function of the resistance in a moving coil dynamometer wattmeter.\n\n C\u00e9sar Bolli conducted dynamometer measurements in the late 18th century.\nA dynamometer measures torque, the force exerted per unit of lever arm.\nThe moving coil of a wattmeter is the component that measures torque.\nA dynamometer must be sensitive, but not beyond the instrument reading capabilities.\n\nGiven this information, the resistance in the circuit of the moving coil of a dynamometer wattmeter should be:\n (C) High.\n\nNote that the correct answer is (C) High, not (A)Low, (B) Very low, or (D) Almost zero. A high resistance in the circuit of the moving coil of a dynamometer wattmeter is essential for proper functioning of the instrument and ensures accurate torque measurements.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "The following are the necessary requirements of an oscillator\n\n(A) Amplitude stability\n(B) Frequency stability\n(C) Power stability\n(D) Both A and B",
+            "correct_answer": 3,
+            "model_answer": "To determine the correct answer, let's go through each requirement and see if it is needed for an oscillator.\n\n\nA) Amplitude stability:\nOscillators need to maintain a stable amplitude in order to produce a consistent output signal.\n\nB) Frequency stability:\nThe frequency of the oscillator's output is crucial, as it determines the frequency of the final output signal.\n\nC) Power stability:\nPower stability is not necessary for an oscillator, as it is about the energy of the output signal, not its amplitude or frequency.\n\nD) Both A and B\nBased on the analysis of the requirements above, the correct answer is:\n\nD) Both A and B\n\n\nThe oscillator must maintain a stable amplitude (A) and frequency (B) in order to produce a consistent output signal.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The normal voltage used in directional heating is\n\n(A) 1.5 KV.\n(B) 15 KV.\n(C) 33 KV.\n(D) 66 KV.",
+            "correct_answer": 0,
+            "model_answer": "To determine this answer, we need to know the normal voltage used in directional heating.\n\nThe voltage used in directional heating depends on the type of heater being used, the desired temperature, and the gauge of wire being used. Typically, a voltage between 500 to 5000 volts is used.\n\nHowever, based on the provided options, none of them seem to match the typical voltage used in directional heating. Instead, they are closer to transformer voltages.\n\nTherefore, there isn't enough information available to determine the correct answer. \n\nBut based on the options given, the closest answer is:\n(C) 33 KV.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "LC oscillators are used for produce a waveform with frequency ranging from\n\n(A) 1MHz to 500 MHz\n(B) 100 KHz to 500 MHz\n(C) 1 KHz to 1 MHz\n(D) 1MHz to 100 GHz",
+            "correct_answer": 0,
+            "model_answer": "To determine the correct answer, let's first clarify what LC oscillators are and their frequency range.\n\nLC oscillators are voltage-controlled oscillators (VCOs), which means that their output frequency is directly proportional to the input voltage applied to them. They consist of two main components: a resonant cavity (the L component) and a piezoelectric crystal or film (the C component) that vibrates at a frequency determined by the design of the LC circuit.\n\nNow, let's look at the four answer options:\n\n(A) 1MHz to 500 MHz: This range is not continuous and does not cover the full range of frequencies that an LC oscillator can produce. LC oscillators can typically operate up to a few GHz, which is much higher than 500 MHz.\n\n(B) 100 KHz to 500 MHz: This range is not consistent with the frequency range of LC oscillators, as they typically operate at much higher frequencies.\n\n(C) 1 KHz to 1 MHz: While LC oscillators can produce frequencies in this range, it's generally not their sweet spot. Most LC oscillators are optimized for operation at much higher frequencies, typically between 10 MHz and 1 GHz.\n\n(D) 1MHz to 100 GHz: This range also does not accurately represent the frequency range of LC oscillators. LC oscillators can operate up to a few GHz, but they are not optimized for operation at lower frequencies like 1 MHz.\n\nAfter evaluating the options, it's clear that none of them accurately capture the frequency range of LC oscillators. The correct answer is (E), which states that LC oscillators operate in the range of 1 GHz to 10 GHz.",
+            "correct": false
+        }
+    ]
+}

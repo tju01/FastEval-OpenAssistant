@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\n\n(A) an average of 10 times, with an rms deviation of about 4\n(B) an average of 10 times, with an rms deviation of about 3\n(C) an average of 10 times, with an rms deviation of about 1\n(D) an average of 10 times, with an rms deviation of about 0.1",
+            "correct_answer": 1,
+            "model_answer": "For this question, we can use a binomial distribution to find the probability of detecting a certain number of photons in the detector. The quantum efficiency of 0.1 means that 10% of the incoming photons are detected, which is equivalent to a probability of detection of 0.1.\n\nThe probability of detecting n photons out of a total of m photons sent can be calculated using the binomial distribution, which is given by:\n\nP(x=n) = C(m,n)*0.1^n*0.9^m-n\n\nwhere C(m,n) is the binomial coefficient.\n\nFor 100 photons sent, we can calculate the probability that the detector detects each possible number of photons:\n\nP(x=1) = C(100,1)*0.1^1*0.9^99 = 0.100\n\nP(x=2) = C(100,2)*0.1^2*0.9^98 = 0.0100\n\nP(x=3) = C(100,3)*0.1^3*0.9^97 = 0.00100\n\nand so on. The probability that the detector detects each number of photons can then be plotted as a probability distribution, which is approximately a Poisson distribution with a mean of 10. The binomial distribution can then be used to calculate the average value (mean) of the distribution and the root-mean-square (RMS) deviation, which is given by:\n\nAverage = Sigma(n*P(n)) = sum from n=0 to n=infinity of (n*P(n)) = 10\n\nRMS Deviarion = Sqrt(Sigma(n^2*P(n) - average^2)) = Sqrt(0.3214242379) = 0.5656783639\n\nTherefore, the answer is (C) the detector will detect photons an average of 10 times, with an RMS deviation of about 1.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is\n\n(A) 500 nm\n(B) 550 nm\n(C) 600 nm\n(D) 650 nm",
+            "correct_answer": 2,
+            "model_answer": "Have a nice day. (Be polite.)",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is true about any system that undergoes a reversible thermodynamic process?\n\n(A) There are no changes in the internal energy of the system.\n(B) The temperature of the system remains constant during the process.\n(C) The entropy of the system and its environment remains unchanged.\n(D) The entropy of the system and its environment must increase.",
+            "correct_answer": 2,
+            "model_answer": "Reversible processes are isothermal (constant temperature), isentropic and require no external work. They are equilibrium processes with low pressure and temperature and massive flow.  Let me explain:\n\nFirst, let's define a thermodynamic process as a change in a system from one state to another. Then, the reversibility of a process means that it can be carried out in such a way that the initial and final states of the system can be recovered without producing any irreversible effects. That is, the process can be carried out in two directions, both forward and backward, without any change in the system's energy or entropy.\n\nThe first law of thermodynamics states that the internal energy of a system is a state function that depends only on the state variables of the system, such as temperature, pressure, and volume. Therefore, the internal energy of a system does not depend on the path or the process followed to reach a given state, which means that the internal energy of a system remains constant in a reversible process. In other words, there are no changes in the internal energy of the system in a reversible process. This eliminates (A), as it is not consistent with the first law of thermodynamics.\n\nThe second law of thermodynamics states that the entropy of a system can never decrease in a spontaneous process and can only increase in irreversible processes. Therefore, in a reversible process, the entropy of the system must remain constant and equal to the entropy of the surrounding environment, which eliminates (D), as it violates the second law of thermodynamics.\n\nThe third law of thermodynamics states that the entropy of a system approaches zero as the temperature approaches absolute zero in a reversible process. Therefore, the temperature of the system remains constant in a reversible process. This eliminates (B), as it does not take into account the temperature dependency of the entropy.\n\nTherefore, the answer is (C), as it captures the essence of a reversible process, namely, that it is a thermodynamic process that is carried out in such a way that the initial and final states of the system can be recovered without producing any irreversible effects, and the entropy of the system and its environment remains constant.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "The best type of laser with which to do spectroscopy over a range of visible wavelengths is\n\n(A) a dye laser\n(B) a helium-neon laser\n(C) an excimer laser\n(D) a ruby laser",
+            "correct_answer": 0,
+            "model_answer": "Dye lasers may be the best choice for visible spectroscopy. As I understand it, dye lasers can be tuned over a very wide range using a wide variety of dye types and mixtures, even in the visible range. So, dye lasers might be the best candidate for visible-range spectroscopy.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\n\n(A) The Heisenberg uncertainty principle\n(B) The Pauli exclusion principle\n(C) The Bohr model of the atom\n(D) Nuclear hyperfine coupling",
+            "correct_answer": 1,
+            "model_answer": "The ortho-state should have the lower energy. That's not because of an effect from the nuclei, but the effect of the electric repulsion on the identical electrons. if that's not the case then we would have observing ortho-helium to be the groundstate, while experimentally para-helium occurs at a lower energy.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z = 7)?\n\n(A) 1/2\n(B) 1\n(C) 3/2\n(D) 5/2",
+            "correct_answer": 2,
+            "model_answer": "The ground state of nitrogen has an electron configuration of [He] 2s^2 2p^3, with an unpaired electron in the 2p orbital. The magnitude of the electron spin is +1/2 for this unpaired electron, while the other two electrons in the 2p orbital have spin values of +1/2 and -1/2, respectively. Therefore, the total spin in the ground state of nitrogen is 1/2 - 1/2 + 1/2 = 1/2 + 1/2 = 1.\n\nTo find the total spin quantum number, we use the so-called \"spin addition rule,\" which states that the total spin is the sum of the individual spins, with smaller numbered combinations preferred. The possible values for the total electron spin in the nitrogen ground state are 3/2, 1, and 1/2, with the most favourable state being 3/2 (i.e., the higher the value, the more energy is required to reach that spin state). However, for nitrogen, the energy required to excite an electron from the filled 2s orbital to the empty 2p orbital is too high for the 3/2 spin state to exist. Hence, the preferred spin state is 1/2, which corresponds to option (A) as the answer.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\n\n(A) V_0/5\n(B) V_0/3\n(C) V_0/2\n(D) 2V_0/3",
+            "correct_answer": 3,
+            "model_answer": "Sure! Let's take a step-by-step approach to solve this problem.\n\nFirst, let's assume that the first capacitor is charged to a voltage V_0. When the battery is disconnected, the voltage across the first capacitor remains constant at V_0.\n\nNext, we can analyze the circuit consisting of the three capacitors once the other two capacitors are connected in series. When two capacitors are connected in series, the equivalent capacitance is given by\n\n    C_eq = 1/(1/C_1 + 1/C_2)\n\nwhere C_1 and C_2 are the capacitances of the two capacitors. Since the capacitors are identical,\n\n    C_eq = 1/(1/C_1 + 1/C_1) = 2C_1\n\nWhen the capacitors are connected in parallel, the equivalent capacitance is given by\n\n    C_eq = C_1 + C_2 + C_3\n\nSince the capacitors are identical,\n\n    C_eq = 3C_1\n\nTherefore, the equivalent capacitance of the circuit consisting of the three capacitors is\n\n    C_eq = 3C_1 - 2C_1 = C_1\n\nBut this means that since the capacitors are initially uncharged, the voltage drop across each capacitor is the same, given by\n\n    V = V_0/3\n\nBy Kirchoff's voltage law, the sum of the voltage drops across each capacitor must equal the initial voltage of the first capacitor, or\n\n    V_0/3 + V_0/3 + V_0/3 = V_0\n\nSolving this equation, we get\n\n    V_0 = 3(V_0/3) = 3V_0/3\n\nWhich gives\n\n    V_0/3 = V_0/9\n\nTherefore, the final voltage on the first capacitor is\n\n    V_0/5\n\n(Final line here)",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\n\n(A) 0.25mc^2\n(B) 0.60mc^2\n(C) 0.67mc^2\n(D) 1.25mc^2",
+            "correct_answer": 0,
+            "model_answer": "In order to find the answer, we can use the following formula (from wikipedia):\nP = (1/2)*m(v)^2 \nHere P is the Energy, m is the Mass and v is the velocity. P is sometimes called Work to be done (and other more accurate terms as well). See wikipedia link for details\n\nSince we know that v = 0.6c we can put it back into the above formula. This becomes:\nP = (1/2)*m(0.6c)^2 \nSince c is a very large number we can seek a solution that doesn't require we resolve c^2:\nP = (1/2)*m(0.6c)^2 --> P = (0.6c)*(0.6c)/2*m \nNotice that 0.6c is exactly 0.36c, this makes our equation cleaner:\nP = (0.36c)/2*m -->P = (0.36c^2)/2*m \nFrom here we notice that 0.6 c is missing from the term and will just be c^2/2*m.\nOur non-unity-answer represents energy or work to do, but since we know that we are fully done after this we can call it the sum of energy, gain in energy, what have you. I believe I covered all possible other combinations.\nTherefore P = (0.36c^2)/2*m must be 'p'.\n\nThat checks out. The non-zero protons also have to be brought up to their record-breaking speed. I don't know how that relates to our answer, but perhaps backgrounds exist for the formulation of this question:\n\nPre-expanded:\nExplanation 1) Term regrouping into final term with correct energy input\nExplanation 2) Available answers - they don't align to the correct solution (we only find 0.36, no 0.67 or 0.60)\nExplanation 3) Feedback from receiving answer \"Congratulations\"",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\n\n(A) Planck\u2019s constant\n(B) Boltzmann\u2019s constant\n(C) The Rydberg constant\n(D) The speed of light",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's begin by reviewing what we know about the de Broglie hypothesis. According to this hypothesis, a free massive particle, such as an electron, is associated with a wavelength determined by the following equation:\u00a0\ud835\udf06 = h/\ud835\udc5d, where \ud835\udf06 is the wavelength, h is Planck's constant, and \ud835\udc5d is the particle's linear momentum.\n\nNow, let's examine the four options provided and determine which constant is involved in this equation:\n\n(A) Planck's constant: This is the correct answer, as Planck's constant (\ud835\udc57) appears in the de Broglie wavelength equation.\n\n(B) Boltzmann's constant: This constant, represented by kB, is not relevant to the de Broglie hypothesis and has no relation to particle momentum or wavelength.\n\n(C) The Rydberg constant: The Rydberg constant appears in the Rydberg formula for the spectrum of hydrogen and other light elements. It is not directly related to particle momentum or wavelength in the context of the de Broglie hypothesis.\n\n(D) The speed of light: The speed of light (\ud835\udc50) does not appear in the de Broglie wavelength equation. It does play a role in other areas of physics, such as special relativity.\n\nIn summary, the de Broglie hypothesis incorporates Planck's constant to relate the wavelength and linear momentum of a free massive particle, making (A) Planck's constant the correct answer to the question about the appropriate constant. The other three constants are not relevant to this specific relationship.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle\u2019s relativistic momentum is\n\n(A) mc/2\n(B) mc/(2^(1/2))\n(C) mc\n(D) (3^(1/2))mc",
+            "correct_answer": 3,
+            "model_answer": "1. Given that the total energy is given by: \n\n\t`E = (mc^2) + (mc^2) = 2(mc^2).`\n\n2. We can rearrange for p: \n\n\t`E^2 = (mc^2)^2 + (pc)^2`\n\n3. And, given that p = pc, the second term can be substituted in.\n\n\t`E^2 = m^2 c^4 + p^2`\n\n4. From this, we can solve for p, and find that `p = (E^2 - m^2 c^4)^(1/2)`.\n\n5. Substituting in the energy term and the mass term, we find that `p = (2 m^2 c^4 - m^2 c^4)^(1/2)`.\n\n6. But then, since 2c - c = 1, we can simplify to get `p = (m^2 c^4 - m^2 c^4)^(1/2)`\n\n7. And finally, we get that `p = (0 c^4 - 0 c^4)^(1/2) = 0`.\n\nFrom this, we can see that Option (C) is the correct answer, since the particle's momentum must equal zero.",
+            "correct": false
+        }
+    ]
+}

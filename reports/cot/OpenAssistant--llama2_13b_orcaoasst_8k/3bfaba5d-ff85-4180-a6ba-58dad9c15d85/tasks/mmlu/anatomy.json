@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "Sure, here are the steps I will go through to arrive at the final answer:\n\n1. A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the facial muscles. The facial nerve is responsible for innervating the facial muscles, therefore any compression of this nerve will result in paralysis of the ipsilateral facial muscles.\n\n2. The initial lesion may also result in loss of taste (B), which is a common symptom of facial nerve damage.\n\nHowever, since paralysis of the facial muscles is a necessary precondition for the other symptoms, the correct answer is (A) paralysis of the facial muscles.\n\nThe answer is (A).",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "A \"dished face\" profile is often associated with (B) a recessive maxilla due to failure of elongation of the cranial base. This is because a \"dished face\" refers to a convex face shape with a protruding upper lip and a receding chin, which is often caused by a shortened maxilla bone or a failure to elongate the cranial base. Acromegaly, hydrocephaly, and defective maxillary air sinus development are not typically associated with a \"dished face\" profile. Acromegaly is a rare condition that causes excessive growth hormone production, hydrocephaly is a buildup of cerebrospinal fluid in the skull, and defective maxillary air sinus development is a congenital abnormality that does not typically affect the face shape. Therefore, the correct answer is (B).",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The structure that collects urine in the body is the bladder (A). Here's a breakdown of how this works:\n\nUrine (the liquid waste produced by the body) is formed in the kidneys, which filter waste products from blood. Urine travels down the ureters (tubes connecting the kidneys to the bladder) to the bladder, where it is stored until it's eliminated through the urethra (the tube connecting the bladder to the outside of the body). Therefore, the bladder is the structure that primarily collects urine in the body.\n\nSo, the correct answer is (A) Bladder.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "The structure derived from ectomesenchyme is (D) Sweat glands.\n\nExplanation:\nEctomesenchyme is a type of mesenchyme that develops outside the embryo. Sweat glands are exocrine glands that are derived from ectomesenchyme. Motor neurons are derived from neural crest cells, which are a different type of embryonic cell. Skeletal muscles are derived from myoblasts, which are muscle cells that differentiate from mesenchyme. Melanocytes are derived from neural crest cells. Therefore, the correct answer is (D) Sweat glands.\n\nAnswer: (D) Sweat glands",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "Nephrons are the functional units of the kidneys, and each nephron contains a cluster of blood capillaries called the glomerulus. The glomerulus is responsible for filtering blood and removing waste products from the body.\n\nThe glomerulus is connected to the renal pelvis, which is the opening through which urine flows out of the kidney. The glomerulus is connected to the renal pelvis by the Bowman's capsule, which contains the proximal convoluted tubule (PCT) and the loop of Henle (LoH). The PCT and the LoH are responsible for reabsorbing essential molecules such as water, electrolytes, and glucose from the filtrate.\n\nThe afferent arteriole supplies blood to the glomerulus, while the efferent arteriole drains blood from the glomerulus. The afferent arteriole is responsible for regulating blood flow through the glomerulus, while the efferent arteriole is responsible for maintaining the correct concentration of electrolytes in the blood.\n\nTherefore, the correct answer to the question is (B) Glomerulus.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (A). \n\nJustification:\nThe spinal cord is responsible for communicating messages between the brain and the rest of the body. A broken neck with damage to the spinal cord at the level of the sixth cervical vertebra can cause paralysis of the arms and legs, as well as loss of control over the diaphragm, which is the muscle responsible for breathing. Without the ability to control their breathing, the patient will require life support to breathe. Therefore, the correct answer is (A) they will be unable to breathe without life support.\n\nOption (B) is incorrect because the patient will require assistance to breathe, regardless of whether it is quiet or loud.\n\nOption (C) is incorrect because the damage to the spinal cord is a predictable cause of respiratory difficulty, and the patient will require life support for breathing.\n\nOption (D) is incorrect because damage to the spinal cord can cause respiratory distress and require life support for breathing.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "To determine which of the following anatomical regions of abdomen lies just distal to the sternum, we need to first understand their locations.\n\nThe sternum, also known as the breastbone, is a long, flat bone located in the center of the chest. It runs from the top of the breastbone to the bottom of the ribcage, forming the front of the ribcage.\n\nThe abdomen, on the other hand, is the part of the body between the chest and the pelvis. It is divided into several regions: the epigastrium, hypochondria, hypogastrium, and lumbar region.\n\nThe epigastrium is the upper central part of the abdomen, between the ribs and the umbilicus (the navel). The hypochondria is the lower part of the ribcage, above the abdomen. The hypogastrium is the lower part of the abdomen, between the umbilicus and the pubic symphysis. The lumbar region is the lower back, between the ribcage and the pelvis.\n\nBased on this information, we can determine that the region of the abdomen that lies just distal to the sternum is the hypogastrium. This is because the hypogastrium is located between the umbilicus and the pubic symphysis, which is just distal to the sternum.\n\nTherefore, the answer to the question is (C) Hypogastric.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first break down the choices and consider what they contribute to the human body's defense mechanism against environmental bacteria:\n\n(A) Hair in the nose: While hair in the nose may help filter out particles and dust, it is not a primary defense mechanism against bacteria.\n\n(B) Mucous membranes: Mucous membranes are tissues that line various organs and body cavities, including the respiratory and digestive systems. They secrete mucus, which can help trap and remove bacteria from the body. This is a likely contender for the correct answer.\n\n(C) Osteoblasts: Osteoblasts are cells that produce bone tissue, and they are not directly involved in the body's defense mechanism against environmental bacteria.\n\n(D) Saliva: Saliva contains enzymes and electrolytes that help in the digestion of food, but it is not a primary defense mechanism against bacteria.\n\nBased on this analysis, the most appropriate answer is (B) Mucous membranes.\n\nOutput: B",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "The palatine processes are a set of bones located in the roof of the mouth that help form the hard palate. The fusion of the palatine processes is an important developmental milestone in human embryonic growth. According to medical texts, the fusion of the palatine processes typically occurs between weeks 9 and 12 of embryonic development. \n\nBased on this information, the correct answer is (B) eight weeks post-fertilization.\n\nSo,\n\n(B) eight weeks post-fertilization.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "We were tasked with a question regarding the motor cortex and the resulting muscle activity, so first let's unpack what the question is asking for. The question states that primary motor cortex activity results in something. We are then given 4 options, and asked to select the single correct answer. The options are:\n\n- (A) bilateral contraction of antigravity limb muscles.\n- (B) bilateral contraction of limb musculature.\n- (C) contraction of ipsilateral limb musculature.\n- (D) contraction of contralateral limb musculature.\n\nNow let's break this down logically and eliminate what options are incorrect:\n\n- Option (A) is incorrect, as the primary motor cortex generally controls the ipsilateral limb musculature, not both ipsilateral and antigravity limb muscles in a bilateral symmetric fashion.\n- Option (B) is incorrect, as it includes both ipsilateral and contralateral limb musculature, which is not accurate considering primary motor cortex mapping.\n- Option (C) is correct, as the primary motor cortex controls the ipsilateral limb musculature. This makes sense as the ipsilateral hemisphere of the brain controls the ipsilateral side of the face and limb.\n- Option (D) is incorrect, as the primary motor cortex controls the ipsilateral limb musculature. This means it controls the muscles of the limb on the same side of the body.\n\nSo the correct answer is (C) contraction of ipsilateral limb musculature.",
+            "correct": false
+        }
+    ]
+}

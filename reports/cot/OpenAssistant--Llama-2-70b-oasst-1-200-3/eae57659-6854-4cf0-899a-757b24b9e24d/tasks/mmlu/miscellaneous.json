@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "Retailer's credit ratings are maintained by a variety of agencies which include: Creditfactors N, Inc. located in Santa Fe, New Mexico, and United States Retail Credits located in Santa Fe, New York. The first organization tends to rate creditworthiness of major retailers, whereas the latter tends to rate creditworthiness of small to mid-sized retailers. The credit ratings of these types of businesses are not maintained by any single agency but rather by several different institutions that follow their own criteria when determining the amount and quality of a retailer's debt obligations.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Identify the key elements of the situation described in the question.\n\n\n    In this question, a teacher is preparing their students for a writing unit on short stories by presenting them with examples of the genre and helping them identify defining characteristics.\n\nStep 2: Consider each instructional strategy in turn and determine whether it aligns with the situation described.\n\n\n    (A) Conferencing: This strategy involves one-on-one meetings between a teacher and a student to provide feedback on their writing. While conferencing can be a valuable tool for providing individualized feedback, it does not align with the situation described in the question, where the teacher is working with the entire class to identify defining characteristics of the genre.\n\n\n    (B) Discipline-based inquiry: This strategy involves using inquiry-based learning to foster critical thinking and problem-solving skills. While inquiry-based learning is an effective method for promoting active student engagement and deep understanding, it is not directly related to the situation described in the question, where the teacher is presenting pre-determined examples of short stories and working with the class to identify defining characteristics.\n\n\n    (C) Self-Regulated Strategy Development: This strategy involves teaching students strategies for managing their own learning and becoming self-directed learners. While self-regulation is an important aspect of effective learning, it is not directly related to the situation described in the question, where the teacher is presenting pre-determined examples and working with the class to identify defining characteristics.\n\n\n    (D) Introduction-Body-Conclusion strategy: This strategy is a writing technique that involves organizing a piece of writing into three parts: an introduction that sets the stage, a body that provides evidence and elaboration, and a conclusion that summarizes and reinforces the central theme. While this strategy is closely related to the writing process, it is not directly related to the situation described in the question, where the teacher is presenting examples and working with the class to identify defining characteristics of the genre.\n\nStep 3: Based on the analysis of each strategy, select the one that best aligns with the situation described.\n\n\n    After considering each of the strategies, the one that best aligns with the situation described is (B) Discipline-based inquiry. While this strategy is not directly related to the identification of defining characteristics of the genre, it is closely related to fostering critical thinking and promoting active student engagement, which can be beneficial in preparing students for a writing unit on short stories.\n\n#### Conclusion:\n    (B) Discipline-based inquiry",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "The temperature at which paper burns in Fahrenheit depends on the type of paper, but in general, it's between 451 degrees Fahrenheit to 500 degrees Fahrenheit. The exact temperature depends on the cellulose content, moisture content, and other factors. The paper temperature will fluctuate between the Fahrenheit degrees of 451 and 500. The 986 degrees and 2125 degrees are too high to burn paper.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "I understand the question and can provide a clear and concise explanation as to why the answer is (D).\n\n\"The Apple iMac computer is available in all of the following colors except which?\" Discerning between the colors listed, Tangerine is not a color listed as available for the iMac. We know that Strawberry, Kiwi, and Grape are available, ruling out (A), (C) and (D) as the answer.\n\nTherefore, the answer is (D): Grape.\n\nAre there any additional color requirements related to the Apple iMac computer you would need me to address?",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "**Step 1** - Lewisand is likely written as two words. Lewis And Clark is a common name for 19th century American explorers.\n\n**Step 2** - Lewis And Clark was a famous explorers and the first governuer of the Missouri territory.\n\n**Step 3** - Lewis Clark's name was William Clark\n\n**Step 4** - Lewis name was Meriwether Lewis\n\n**Step 5** - The answer is (B) Meriwether and william",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "**Answer: C. Guided reading**\n\nThe given description corresponds to the guided reading approach. As the name suggests, guided reading involves a teacher working with students individually or in small groups to help them learn to read more effectively. The teacher uses different reading strategies based on the student's ability to help them improve their reading comprehension, fluency, and overall literacy skills.This approach emphasizes the importance of providing individualized support to readers at different levels while allowing students to read challenging.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "Varicella is not a fancy pasta, nor is it a type of opera or ancient Roman poetry. Instead, it is a type of virus. However, there is no virus associated with the chicken pox that has the specific name of \"varicella.\" Therefore, the answer is option C: varicella is the virus that causes chicken pox.\n\nC. The chicken pox virus \n\n(Answer: option C)",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "A) Temperature coefficients\nCopper has a temperature coefficient of resistivity of 0.0038 per \u2103, so it varies quite a bit.\n\nCarbon has a temperature coefficient of resistivity of -0.5 per \u2103, so it changes quite a bit, though it is negative, so it becomes a more conductor with temperature.\n\nGermanium has a temperature coefficient of resistivity of -75 per \u2103, so it also changes quite a bit.\n\nSilicon has a temperature coefficient of resistivity of -5.07 per \u2103, so it  also changes with temperature.\n\nThe one that changes the least is carbon, because its temperature coefficient is negative, it is actually a better conductor with higher temperature, so its resistance will actually decrease with higher temperatures.\n\n(Answer) (B) Carbon",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) sophomore.\nThis is because in most educational systems, the second year of college is known as \"sophomore year\". This comes from the Greek word \"sophos\" which means wise or sophisticated, and \"moros\", which means foolish. A sophomore is considered to have advanced knowledge in college yet retain some of their earlier foolishness.\nMany years ago, the prefix \"soph\" was a general term for anyone who was educated (such as a \"soph\"ist or a \"soph\"istry). Over time, this term fell out of use as a general reference and instead became used specifically for people who had advanced knowledge without necessarily having wisdom (thus giving it meaning of foolishly wise or wise foolishly).\n\nThe term \"sophomore\" while originally referring to second year college students, has been extended to cover any student who is involved with academics at a higher level than a beginner but without necessarily possessing any genuine wisdom or understanding of the subject matter. It can also be used more broadly to describe someone who has basic knowledge in any topic but lacks deeper understanding or experience-based common sense",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "1. Although I have no way of knowing Jude Law, Matt Damon, Dustin Hoffman and Ben Affleck's talent as actors, I could confidently assert that they are all talented actors.\n\n2. Considering that Matt Damon is an American actor, writer, and producer, I wouldn't be able to answer the question of whether he plays Mr. Ripley in the movie 'The Talented Mr Ripley.\n\n3. Jude Law is not a film that I could definitively answer the question of whether he plays Mr. Ripley in the movie 'The Talented Mr Ripley.\n\n4. Dustin Hoffman and Ben Affleck are not actors that I could confidently state whether they played the Mr. Ripley character in the film  'The Talented Mr Ripley.\n\n5. By process of elimination, the letter corresponding to the character from the film 'The Talented Mr Ripley' would be 'D'. If correct, this would suggest that Ben Affleck is the actor who portrays the role of Mr. Ripley.\n\n6. I feel satisfied with my conclusion and am comfortable submitting the answer.\n\n7. Secondly there is no parenthesis around the letter D in my answer so I will change that.\n\n8. The final version of my answer would look like this:\n(D) Ben Affleck\n\nCorrect me if I am wrong.",
+            "correct": false
+        }
+    ]
+}

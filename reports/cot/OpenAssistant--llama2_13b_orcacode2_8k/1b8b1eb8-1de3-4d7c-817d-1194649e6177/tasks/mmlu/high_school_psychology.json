@@ -1,0 +1,75 @@
+{
+    "score": 0.8,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Nearsightedness results from\n\n(A) too much curvature of the cornea and lens\n(B) too little curvature of the cornea and lens\n(C) too much curvature of the iris and lens\n(D) too little curvature of the iris and lens",
+            "correct_answer": 0,
+            "model_answer": "The answer to the question \"Nearsightedness results from: (A) too much curvature of the cornea and lens, (B) too little curvature of the cornea and lens, (C) too much curvature of the iris and lens, (D) too little curvature of the iris and lens?\" is (A) too much curvature of the cornea and lens.\n\nTo arrive at this answer, we need to understand the definition of nearsightedness. Nearsightedness, also known as myopia, is a visual condition where distant objects appear blurry, but close objects appear clear. This occurs when light entering the eye is focused in front of the retina instead of directly on it.\n\nNow, let's analyze the given options:\n\n(A) Too much curvature of the cornea and lens: This option suggests that the cornea and lens have excessive curvature, which causes light to focus in front of the retina instead of directly on it. This excessive curvature leads to myopia or nearsightedness.\n\n(B) Too little curvature of the cornea and lens: This option suggests that the cornea and lens have insufficient curvature, which causes light to focus behind the retina instead of directly on it. This insufficient curvature leads to the opposite condition, farsightedness or hyperopia.\n\n(C) Too much curvature of the iris and lens: This option suggests that the iris and lens have excessive curvature, but this is not the traditional cause of nearsightedness. The curvature of the iris does not directly contribute to light focusing in front of the retina.\n\n(D) Too little curvature of the iris and lens: This option suggests that the iris and lens have insufficient curvature, which is not the traditional cause of nearsightedness. The curvature of the iris does not directly contribute to light focusing in front of the retina.\n\nTherefore, the correct answer is (A) too much curvature of the cornea and lens.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Delusions of grandeur are most characteristic of\n\n(A) OCD.\n(B) schizophrenia.\n(C) conversion disorder.\n(D) antisocial personality disorder.",
+            "correct_answer": 1,
+            "model_answer": "Delusions of grandeur refer to a belief that one is more important, powerful, or skilled than is realistic or true. This type of delusion is associated with a disorder called schizophrenia. Therefore, the answer is (B) schizophrenia.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n\n(A) Homeostatic regulation\n(B) Goal-setting\n(C) Expectancy-value\n(D) Hierarchy of needs",
+            "correct_answer": 3,
+            "model_answer": "The answer is (D) Hierarchy of needs. \n\nExplanation: Abraham Maslow proposed the concept of a hierarchy of needs, which suggests that some needs are more fundamental than others and must be satisfied before higher-order needs can be addressed. The need for physiological survival (food, water, and shelter) is at the base of the hierarchy, followed by the need for safety, love and belonging, esteem, and finally, self-actualization. Maslow believed that individuals are driven to satisfy these needs in a hierarchical order, with each need becoming more important once the previous need is met. This approach aligns with Maslow's idea that some motives are more imperative to survival than others.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In test construction and evaluation, validity refers to the degree to which a test\n\n(A) measures what it purports to measure\n(B) yields consistent results on successive administrations\n(C) has been piloted and statistically analyzed\n(D) includes norms based on a representative sample of the general population",
+            "correct_answer": 0,
+            "model_answer": "Validity in test construction and evaluation refers to how accurately a test measures what it is supposed to measure. The term can have different meanings depending on the context and the type of test being used. \n\nIn item response theory (IRT), validity is measured by how well a test measures the underlying attribute that it is supposed to measure. For example, if a test is designed to measure intelligence, then its validity would depend on how well it actually measures intelligence. \n\nIn other contexts, such as in educational testing, validity refers to how well a test measures what it is supposed to measure for a particular population or group of people. For example, if a test is designed to measure reading comprehension, then its validity would depend on how well it actually measures reading comprehension for the population being tested. \n\nSo, the correct answer is (A) measures what it purports to measure.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "The precedent established in Larry P. v. Riles resulted in\n\n(A) the provision of a free, appropriate public education for students with disabilities\n(B) the provision of bilingual education for English-language learners\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race\n(D) the assignment of similar funding to athletic activities for boys and girls",
+            "correct_answer": 2,
+            "model_answer": "The question presents a statement and asks for a resulting action or outcome. \n\nTo answer the question, we need to determine what is being referred to by \"Larry P. v. Riles.\" \n\nLarry P. v. Riles was a court case decided by the United States Supreme Court in 1982. The case determined that schools must provide a \"free appropriate public education\" (FAPE) for students with disabilities. \n\nTherefore, the correct answer is (A) the provision of a free, appropriate public education for students with disabilities. \n\nPaying attention to the details of the prompt and using prior knowledge about the court case, we can arrive at the correct answer.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "The heritability for traits of a cloned population is\n\n(A) 0%\n(B) 25%\n(C) 50%\n(D) 75%",
+            "correct_answer": 0,
+            "model_answer": "Heritability refers to the proportion of the phenotypic variance of a population that can be attributed to genetic sources. In the case of a cloned population, all individuals are genetically identical, so there is no variation in genotype. Therefore, there is no genetic influence on the phenotype. \n\nIn other words, since the genotype is fixed and the same for all individuals, there is no genetic variation in a cloned population. As a result, there is no heritability in a cloned population. \n\nTherefore, the correct answer is:\n\n(A) 0%",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?\n\n(A) variance\n(B) mean\n(C) range\n(D) median",
+            "correct_answer": 0,
+            "model_answer": "The question is asking about a statistic that provides information about how spread out a distribution of scores is. To answer this question, we need to consider the different statistics available.\n\n(A) Variance: Variance is a measure of how much the scores in a distribution deviate from the mean. It tells us how spread out the scores are from the average value. Therefore, variance provides information about the spread of a distribution.\n\n(B) Mean: Mean is the average value of a distribution. It represents the central tendency of the scores. While the mean does provide some idea of the central tendency of the scores, it does not specifically measure how spread out the distribution is. Therefore, mean is not the correct answer.\n\n(C) Range: Range is the difference between the highest and lowest values in a distribution. It gives an idea of how spread out the scores are by measuring the distance between the highest and lowest values. Range provides information about the spread of a distribution.\n\n(D) Median: Median is the middle value of a distribution when the scores are arranged in order. It represents the typical or most common value. While median gives an idea of the central tendency of the scores, it does not specifically measure how spread out the distribution is. Therefore, median is not the correct answer.\n\nBased on the reasoning above, the correct answer is (A) variance, as it provides a direct measure of how spread out a distribution of scores is.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\n\n(A) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\n(B) They should provide professional but not administrative supervision.\n(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n(D) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+            "correct_answer": 3,
+            "model_answer": "The question is asking about the most accurate statement concerning school psychologists who will be supervising in a school district according to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP). \n\n(A) This statement says that school psychologists who will be supervising in a school district should provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns. However, this statement is too specific and may not apply to all school psychologists who will be supervising in a school district. Therefore, this statement is not the most accurate.\n\n(B) This statement says that school psychologists who will be supervising in a school district should provide professional but not administrative supervision. This statement is a little too vague and does not give specific guidelines for supervision. Therefore, this statement is not the most accurate.\n\n(C) This statement says that school psychologists who will be supervising in a school district are eligible to serve as supervisors after one year of experience as a school psychologist. This statement is a good starting point, but it does not address all the requirements for supervision. Therefore, this statement is not the most accurate.\n\n(D) This statement says that school psychologists who will be supervising in a school district should hold the Nationally Certified School Psychologist credential or the state school psychologist credential. This statement is accurate because it emphasizes the importance of having the necessary credentials and experience to perform supervision duties. Therefore, this statement is the most accurate.\n\nAnswer: (D)",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are\n\n(A) at the beginning of the list\n(B) in the middle of the list\n(C) at the end of the list\n(D) distributed throughout the list",
+            "correct_answer": 0,
+            "model_answer": "The serial position effect suggests that items at the beginning and end of a list are more likely to be remembered than those in the middle. This is because the information at the beginning and end of the list is processed more effectively and is more strongly encoded in memory. Therefore, we would expect that Dan remembers the words at the beginning of the list two days later. \n\nThe answer is (A) at the beginning of the list.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n\n(A) Piaget's cognitive development theory\n(B) Erikson's psychosocial stage theory\n(C) Kohlberg's moral development theory\n(D) Ainsworth's social attachment theory",
+            "correct_answer": 1,
+            "model_answer": "The developmental stage theory that explained how experiences in infancy, childhood, adolescence, adulthood, and old age influence later personality characteristics is Erikson's psychosocial stage theory. \n\nFirst, let's understand what Erikson's psychosocial theory is. This theory suggests that personality development occurs in a series of eight stages, from infancy to old age. Each stage presents a unique conflict or challenge that must be resolved in order to develop a positive personality characteristic.\n\nNext, let's consider the other options:\n\n(A) Piaget's cognitive development theory: Piaget's theory focuses on cognitive development and how individuals acquire and develop knowledge and understanding. It does not specifically address personality characteristics based on experiences throughout life stages.\n\n(B) Erikson's psychosocial stage theory: As mentioned earlier, Erikson's theory addresses personality development across different life stages.\n\n(C) Kohlberg's moral development theory: Kohlberg's theory focuses on moral development and how individuals perceive and reason about moral issues and dilemmas. It does not explicitly address personality characteristics influenced by experiences throughout life stages.\n\n(D) Ainsworth's social attachment theory: Ainsworth's theory focuses on the development of attachment styles in infancy and how they influence later relationships. While attachment styles are related to personality characteristics, Ainsworth's theory does not address the broader developmental stage theory.\n\nBased on this reasoning, the correct answer is (B) Erikson's psychosocial stage theory.",
+            "correct": true
+        }
+    ]
+}

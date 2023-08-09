@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is: \n\n(C) Dun & Bradstreet, Inc.\n\nReasoning: Dun & Bradstreet has a very good credibility and is an internationally recognized value-oriented business company that is known to maintain a global database of business risk information.This information is widely believed to be accurate so creditors and other interested parties can make more informed decisions with the help of Dun & Bradstreet. They maintain a fellow organization who is responsible for the compilation of this data. Another very prominent organization that provides assets and information on businesses is the System for Award Management (SAM), which collects, organizes, and updates information on various businesses that are active within the United States government contracting system. However, the Dun & Bradstreet has additional information outside of US government contracting, hence they are a better option for the question provided. \n\nThe Retail Merchants Association, the United States Retail Credit Association, and the local chamber of commerce do not meet the requirements of the question compared to Dun & Bradstreet. Dun & Bradstreet is a much more reliable source.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "This question describes a comprehension strategy rather than an instructional strategy. It is most closely related to (B) Discipline-based inquiry, which is a type of instructional strategy that is focused on inquiry and often includes elements such as guided reading, modeling, and scaffolding. It helps students understand and apply concepts and strategies by actively engaging with the material. Discipline-based inquiry is likely the best way to describe this instructional strategy. However, if you have any questions or would like further clarification, feel free to ask. I'd be happy to discuss this with you in more detail.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "Sure, let me explain:\n\nWood and most other organic materials will ignite and burn at approximately 451 degrees Fahrenheit. It is commonly called the ignition point of paper.  The ignition point will vary depending on the type and condition of the paper, particle size, and other factors.  The boiling point of water is higher than the normal operating temperature of any home printer at about 212 degrees Fahrenheit, so there is no concern for causing combustion with the water vapor from an inkjet. Toner used in laser printers can reach temperatures well up to 248 degrees Fahrenheit, which is well above the ignition point of paper and could cause combustion.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, let's first list all the colors the Apple iMac computer is currently available in:\n\n- Space Grey\n- Silver\n- Gold\n- Rose Gold\n- Sky Blue\n- (D) Green\n- (C) Blue\n- Red\n- Yellow\n- Configurable colors: Grey, Silver, or Rose Gold (but in different shades than the regular colors)\n\nNow, let's go through the options one by one:\n(A) Tangerine\n- This is a fall-colored orange with a strong reddish tone. The closest color in the given options is Red.\n(B) Strawberry\n- This is a bright magenta-red color. The closest color in the given options is Red.\n(C) Kiwi\n- This is a bright, greenish-yellow fruit. The closest color in the given options is Yellow.\n(D) Grape\n- This is a dark, purplish-blue color. The closest color in the given options is Blue.\n\nIn each case, the closest color is the same as the color it is directly next to. No color isentsirely missing from the list, so the final letter is not needed.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "(B) Meriwether and William\n\nStep 1: Identify that the question is about early American explorers named Lewis and Clark\n\nStep 2: Eliminate choices that do not match common names for the early American period\n\n    Eliminate (A) - Morgan and Mason are not common early American explorer names.\n    Eliminate (C) - Cabot and Joseph are not commonly known as early American explorers.\n\nStep 3: Compare the remaining choices to known early American explorers\n\n    Choice (B) - Meriwether Lewis was a member of the Lewis and Clark Expedition and was a common captain during the American Revolution. William Clark was Meriwether's companion on the Lewis and Clark Expedition and was the commanding officer of a US Battalion in the War of 1812.\n\nStep 4: Select the best match\n\n    Choice (B) - Meriwether and William is the most likely pair of names for early American explorers.\n\nConclusion: The first names of the early American explorers Lewisand Clark are Meriwether and William (B).",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "(C) Guided reading",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "(C) the chicken pox virus\n\nStep-by-step reasoning:\n\n1. The question asks for what \"varicella\" is, which seems to be a noun.\n2. The answer choices given are:\n   - (A) a fancy pasta\n   - (B) a type of opera\n   - (C) the chicken pox virus\n   - (D) ancient Roman poetry\n3. Of the given answers, \"varicella\" most closely resembles the name of a disease or virus, which suggests it might be the correct answer.\n4. Varicella-zoster virus (VZV) is the actual name of the virus that causes chicken pox, and \"varicella\" is simply another name for the virus.\n5. Therefore, the correct answer is (C) the chicken pox virus.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "The term \"resistivity\" refers to the relationship between the electrical current flowing through a material and its temperature.\n\nTo determine which material has the least resistance affected by temperature changes, we need to look at the coefficient of resistivity in each material.\n\nCoefficient of resistivity refers to the change in the resistivity per unit temperature change.\n\nLet's research each material:\n\nA) Copper has a coefficient of resistivity of 0.0039 ohms, meaning its resistivity will increase by 0.0039 ohms for every increase of 1\u00b0C. (\"yes\")\n\nB) Carbon has a coefficient of resistivity of 0.0036 ohms, meaning its resistivity will increase by 0.0036 ohms for every increase of 1\u00b0C. (\"yes\")\n\nC) Germanium has a coefficient of resistivity of 0.004 (approximately), meaning its resistivity will increase by 0.004 ohms for every increase of 1\u00b0C.\n\n(D) Silicon has a coefficient of resistivity of 0.02 ohm/K.\n\nTherefore, based on our research, silicon has the least resistance affected by temperature changes among these materials, while the resistivity of copper and carbon is more affected by changes in temperature.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "To determine the correct answer, let's go through the steps:\n\n1. We are given that the student is in their second year of college.\n2. We need to determine which option describes this stage of education.\n3. We know that \"sophomore\" means \"second-year student\" in English.\n4. We know that \"senior\" means \"fourth-year student\" in English.\n5. We know that \"freshman\" means \"first-year student\" in English.\n6. We know that \"junior\" means \"third-year student\" in English.\n\nBased on our analysis, the correct answer is:\n\n(A) sophomore\n\nSo the final answer is: (A) sophomore.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, I need to find the information about the film 'The Talented Mr. Ripley', specifically about the actor who plays Mr. Ripley. \n\nThe film 'The Talented Mr. Ripley' is a psychological thriller film from 1999 based on the novel of the same name by Patricia Highsmith. The film was directed by Anthony Minghella and stars Matt Damon as Tom Ripley. Tom Ripley is a con artist who The question is asking for the name of the actor that played Tom Ripley, also known as Mr. Ripley, in the 1999 film \"The Talented Mr. Ripley\". The answer isoption to \n\nThe answer is (B) Matt Damon.\n\nI arrived at this answer by doing research about the film and identifying Matt Damon's name as the actor who portrayed Tom Ripley in 'The Talented Mr. Ripley'. \n\nI hope this helps! Don't hesitate to ask more movie-related questions you may have.",
+            "correct": false
+        }
+    ]
+}

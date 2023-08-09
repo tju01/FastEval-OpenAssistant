@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "How many human polyomaviruses are known at present?\n\n(A) 100\n(B) 1\n(C) 10\n(D) unknown",
+            "correct_answer": 0,
+            "model_answer": "To determine the correct number of human polyomaviruses at present, let's go through a step-by-step approach.\n\nStep 1: Define Human Polyomaviruses\nHuman polyomaviruses are a family of small, circular DNA viruses that cause mostly persistent infections in humans, but some can cause infections and associated diseases, such as cancer.\n\nStep 2: Identify Known Members of the Human Polyomavirus Family\nThere are currently seven known human polyomaviruses:\n- JC virus (BK virus)\n- Simian virus 40 (SV40)\n- Variable Complexes\n- The 6 human polyomaviruses discovered between 2017 and 2021\n\nStep 3: Count the number of identified human polyomaviruses\nThere are seven known human polyomaviruses at present.\n\nAnswer: (D) unknown (Incorrect count, see explanation above)",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "AIDS activism in the U.S. resulted in:\n\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, let's first understand what AIDS activism is and then relate it to the provided options.\n\nAIDS activism refers to the efforts and protests led by individuals and organizations to increase awareness, support research, and improve the quality of life of those affected by AIDS (Acquired Immunodeficiency Syndrome).\n\nNow we can analyze each option step-by-step and decide which one makes more sense in the context of AIDS activism:\n\n(A) Food and Drug Administration (FDA) reforms: AIDS activism could have prompted a change in the policies of the FDA, making medical research and development more efficient. This option is plausible.\n\n(B) Easier access to investigational drugs: AIDS activism has advocated for faster and easier access to experimental drugs, especially for patients with no viable choices. This option makes sense as well.\n\n(C) Changes in the way medicine was practiced in the U.S: It's less clear how AIDS activism would have resulted in changes in the general practice of medicine in the U.S., as this depends on various factors, and it's not a direct result or goal of AIDS activism.\n\n(D) All of the above: Since both option (A) and (B) are valid outcomes of AIDS activism and option (C) is less directly related, it's possible that (D) is the correct answer. However, (C) is not directly connected and could be irrelevant as the dominant answer.\n\nBased on the analysis, option (D) makes the most sense out of all the answers. It encompasses the aspects closely related to AIDS activism, which aim to improve the situation for AIDS patients and impact FDA policies and investigational drug availability.\n\nAnswer: D) All of the above",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Globally, the most deaths are caused by:\n\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis",
+            "correct_answer": 1,
+            "model_answer": "To find out the most causes of death globally, we can consult reliable sources like the World Health Organization (WHO) that track such data regularly.\n\n(A) Respiratory infections according to WHO are responsible for 6% deaths globally.\n\n(B) Diarrheal diseases are responsible for 3.5% deaths according to WHO.\n\n(C) According to WHO, Malaria causes 409,000 deaths globally.\n\n(D) Tuberculosis is considered one of the leading causes of death, with about 1.6 million deaths worldwide as per WHO.\n\nFrom the available options, it's clear that the most deaths are caused by:\n\n(D) Tuberculosis",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What happens during the 'incubation period'?\n\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours",
+            "correct_answer": 1,
+            "model_answer": "During the 'incubation period' (C) this period commonly lasts for a few days. \n\nHere's the reasoning:\n- In the 'incubation period', after exposure to the virus, the body's immune system starts fighting it off but it hasn't yet attacked the cells effectively enough. \n- The virus replication occurs inside of the infected cell (B) and it's not completed during this period. \n- The immune system doesn't immediately clear the virus (A), usually taking a few days for it to increase to detect the new foreign pathogen and then mount an effective response to kill the virus. \n- The incubation period doesn't last for hours, in fact it can stretch from a few days to two weeks, depending on the type of virus. So, during the incubation period, viral replication occurs and the body is trying to build an immune response to fight against it.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:\n\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months",
+            "correct_answer": 1,
+            "model_answer": "Let's consider each option and think about the factors that should influence the choice.\n\n(A) Exclusively formula fed for six months: \nFormula-fed infants are fed commercially prepared formulas, which can be costly and rely on access to safe water. In countries with limited access to safe water, it may be difficult to prepare the formula safely. Since Formula feeding is not the most suitable option when clean water is a concern.\n\n(B) Exclusively breastfed for six months:\nBreastfeeding provides natural benefits to infants like maintaining the temperature, acting as immunity booster, and easily accessible in rural or underdeveloped areas with limited resources. Furthermore, the act of breastfeeding itself creates a strong bond between the mother and the baby.\n\n(C) Should receive both breast milk and other foods as tolerated in the first 6 months:\nThis option is ideal because it offers the benefits of breastfeeding and introducing solids at the appropriate age, assuming that safe water and food are available. It is practical for mothers to continue breastfeeding while pairing it with appropriate weaning to introduce solids.\n\nConclusion:\n(C) Should receive both breast milk and other foods as tolerated in the first 6 months.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?\n\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's assess which segment of society usually drives effective change in a community:\n\n(A) Innovators: These are individuals who develop new ideas or introduce new concepts in society. They can play a significant role in sparking change, as their ideas can influence the rest of the community to adopt new ways of thinking or acting.\n\n(B) Early adapters: These are the individuals who are quick to adopt new ideas, technologies, or behaviors. They often play a critical role in the initial success and acceptance of new concepts, as they help pave the way for the wider adoption by the rest of the community.\n\n(C) Middle adapters: These individuals align with the mainstream views and prefer to follow the trends set by the early adopters. They do not necessarily shape the new ideas or adapt to them quickly but can help disseminate them throughout the community.\n\n(D) Late adapters: These individuals often resist change and are the last to embrace new trends or concepts.\n\nConsidering the role each segment plays in driving change, effective change in a community is usually dependent on both Innovators (A) and Early adapters (B), who introduce and adopt new ideas respectively. The final line should contain:\n\n(A) Innovators",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "\u201cContingency management\u201d is\u201d:\n\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's analyze each option step by step:\n\n(A) A strategy of last resort for reducing high-risk behaviors: This is a general statement about contingency management, but it doesn't specifically mention any specific action taken.\n\n(B) Paying drug users for negative urine specimens: This action involves drug users providing negative urine samples, which could be a part of contingency management, as it helps to reduce drug use.\n\n(C) Paying sex workers to use condoms: This action involves encouraging safer sex practices among sex workers, which also falls under contingency management, as it promotes safer behaviors.\n\n(D) Paying drug users to use condoms: Similar to option (C), this action involves promoting safer behaviors among drug users, which is also a part of contingency management.\n\nBased on the analysis, options (B) and (D) both involve actions that can be considered part of contingency management. However, option (C) also fits the criteria as it involves promoting safer behaviors.\n\nTherefore, the answer is:\n\n(A) is (B) and (C) and (D)",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we will first analyze the given options and understand the typical clinical symptoms that follow astrovirus infections:\n\n(A) Acute pneumonia: Astrovirus infections typically do not cause acute pneumonia, as they primarily affect the gastrointestinal system.\n\n(B) Gastroenteritis in children: Astrovirus infections are not limited to children but can occur in people of all ages, and gastroenteritis is a common symptom of astrovirus infections, involving diarrhea, nausea, and vomiting.\n\n(C) Hepatitis: Astroviruses are not hepatotropic, which means they don't primarily affect the liver. Instead, they primarily infect the gastrointestinal tissue.\n\n(D) Rashes: The skin is not a primary site of infection for astroviruses, and rashes are generally not a typical clinical symptom following astrovirus infections.\n\nSo, based on the analysis, the correct answer is:\n\n(B) Gastroenteritis in children",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the most special characteristic of the adaptive immune system?\n\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells",
+            "correct_answer": 3,
+            "model_answer": "The most special characteristic of the adaptive immune system is:\n\n(B) T cells\n\nReasoning:\n\n- The adaptive immune system is a highly specific primary response against pathogens. (A) Antibodies are the secondary response of humoral immunity activated by B cells which have already encountered the pathogen, while T cells are the primary mediators of cellular immunity directly activated by pathogeninvading antigens.\n- Antibodies themselves are not unique characteristics of the adaptive immune system but can be considered its product, and clonal expansion (D) rather refers to how the adaptive immune system utilizes itsordinate' memory components (B cells and T cells) to rapidly respond to infections by proliferating and producing more specialized effector cells.\n- Memory T cells (C) are specialized, long-lived T cells that maintain immune surveillance and memory against specific pathogens. However, they are part of the adaptive immune system like any other T cells, rather than defining the adaptive immune system itself.\n\nTherefore, out of all the given options, the most special characteristic of the adaptive immune system is T cells (B).",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first identify which options are related to chemotherapy and drug regimens.\n\n(A) Interferon and ribavirin are related to anti-viral treatments, not cancer therapy. It is more likely to be related to situations where a virus is involved, such as infections. However, it does not directly involve in Chemotherapy. \n\n(B) Lamivudine and ribavirin are also related to the treatment of viral infections and viral hepatitis rather than cancer treatment. Again, they are not cancer therapy. \n\n(C) Combinations of adefovir and entecavir (antivirals and antiretrovirals) and/or tenofovir (a direct-acting antiviral for hepatitis B and hepatitis C) are not directly related to chemotherapy. Given options, these are used to treat Hepatitis B and Hepatitis C, not cancer.\n\n(D) Interferons alone are used in some cancer treatments as the interferon class of proteins can help to stimulate the immune system to combat cancer. Although they may in some cases be used as a chemotherapy drug, it's not a typical regimen.\n\nGiven this, the most fitting option is (D) Interferons alone.\n\n(D) The answer is (D) Interferons alone.",
+            "correct": false
+        }
+    ]
+}

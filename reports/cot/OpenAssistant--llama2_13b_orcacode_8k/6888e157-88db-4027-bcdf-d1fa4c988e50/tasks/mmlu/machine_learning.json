@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Statement 1| Linear regression estimator has the smallest variance among all unbiased estimators. Statement 2| The coefficients \u03b1 assigned to the classifiers assembled by AdaBoost are always non-negative.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 3,
+            "model_answer": "(A) True, True\n\nExplanation:\nStatement 1 is true because linear regression has the smallest variance among all unbiased estimators. This is because in regression, the mean squared error decreases as the number of observations increases, and linear regression provides the best-fit line with the least possible error.\n\nStatement 2 is also true because the coefficients assigned to the classifiers assembled by AdaBoost are always non-negative because AdaBoost selects classifiers with smaller misclassification errors and weighs them with greater emphasis in the final output. This ensures that the algorithm is positive and minimizes the error rate. Therefore, the correct answer is (A) True, True.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Statement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 2,
+            "model_answer": "First, let's analyze Statement 1: \"RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on.\" This statement suggests that the corpus used for pretraining RoBERTa is larger than the corpus used for pretraining BERT. This means that RoBERTa has more training data available to it than BERT.\n\nNext, let's analyze Statement 2: \"ResNeXts in 2018 usually used tanh activation functions.\" This statement suggests that ResNeXts in 2018, a type of neural network, used tanh activation functions.\n\nTo answer the question, we need to determine whether both statements are true or false. Let's consider the options:\n\n(A) True, True: This option suggests that both statements are true. \n\n(B) False, False: This option suggests that both statements are false.\n\n(C) True, False: This option suggests that Statement 1 is true, but Statement 2 is false.\n\n(D) False, True: This option suggests that Statement 1 is false, but Statement 2 is true.\n\nBased on the analysis, we can conclude that the correct answer is (B) False, False. This is because Statement 1 suggests that RoBERTa pretrains on a larger corpus than BERT, but Statement 2 suggests that ResNeXts in 2018 used tanh activation functions, which is not related to the size of the corpus used for pretraining. Therefore, both statements cannot be true, and the answer is False.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Statement 1| Support vector machines, like logistic regression models, give a probability distribution over the possible labels given an input example. Statement 2| We would expect the support vectors to remain the same in general as we move from a linear kernel to higher order polynomial kernels.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "Answer: (C) True, False\n\nExplanation:\nStatement 1 is a true statement. Support vector machines (SVMs) are classification algorithms that use a decision boundary to separate different classes of data by constructing hyperplanes. Each SVM uses a probability distribution over the possible labels given an input example.\n\nStatement 2 is a false statement. While the support vectors do remain the same for the same data in the same training set, moving from a linear kernel to a higher order polynomial kernel can change the support vectors, depending on the size and shape of the dataset. \n\nTherefore, the answer to the question (True, False) would be False.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A machine learning problem involves four attributes plus a class. The attributes have 3, 2, 2, and 2 possible values each. The class has 3 possible values. How many maximum possible different examples are there?\n\n(A) 12\n(B) 24\n(C) 48\n(D) 72",
+            "correct_answer": 3,
+            "model_answer": "To solve this problem, we need to use the multiplication rule of probability. \n\nFirst, we need to calculate the number of possible combinations for each attribute. \n\n- For attribute 1, we have 3 possible values: 0, 1, and 2. \n- For attribute 2, we only have 2 possible values: 0 and 1. \n- For attribute 3, we only have 2 possible values: 0 and 1. \n- For attribute 4, we only have 2 possible values: 0 and 1. \n\nNext, we need to calculate the number of possible combinations for each combination of these attributes. \n\nFor each possible combination of attributes, we need to multiply the values together to get the total number of possible examples. \n\nWe can use the following table to calculate these numbers:\n\n| Design | Total |\n|--------|-------|\n| 0      | 3     |\n| 1      | 3     |\n| 2      | 3     |\n| 0      | 2     |\n| 1      | 2     |\n| 2      | 2     |\n| 0      | 1     |\n| 1      | 1     |\n| 2      | 1     |\n| 0      | 0     |\n\nTo calculate the total number of possible examples, we can use the following equation:\n\n Num_Possible_Examples = Total * Total_Combinations\n\nNext, we need to multiply the number of possible combinations by the total number of possible examples:\n\n Num_Possible_Examples = Num_Total_Combinations * Num_Total_Examples\n\nNow, we can output the answer:\n\n The answer is D (72)",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "As of 2020, which architecture is best for classifying high-resolution images?\n\n(A) convolutional networks\n(B) graph networks\n(C) fully connected networks\n(D) RBF networks",
+            "correct_answer": 0,
+            "model_answer": "The architecture that is best for classifying high-resolution images as of 2020 is (A) convolutional networks. \n\nThe reasoning behind this answer is as follows:\n\n1. Convolutional networks are specifically designed to process and classify images.\n2. They use convolutional layers which are effective in extracting features from high-resolution images.\n3. Other networks such as fully connected networks are not as effective in classifying high-resolution images because they do not perform feature extraction as well as convolutional networks.\n4. RBF networks and graph networks are not well-suited for image classification tasks as they do not have the necessary architecture or capabilities to efficiently process high-resolution images.\n\nTherefore, the best architecture for classifying high-resolution images as of 2020 is (A) convolutional networks.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Statement 1| The log-likelihood of the data will always increase through successive iterations of the expectation maximation algorithm. Statement 2| One disadvantage of Q-learning is that it can only be used when the learner has prior knowledge of how its actions affect its environment.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Understand the question\nThe task is to compare two statements and determine if they are both true or false. \n\nStep 2: Analyze Statement 1\nStatement 1 states that the log-likelihood of the data will always increase through successive iterations of the expectation maximization algorithm. This statement is not necessarily true. The log-likelihood may increase or decrease depending on the data and the parameters of the algorithm. \n\nStep 3: Analyze Statement 2\nStatement 2 states that one disadvantage of Q-learning is that it can only be used when the learner has prior knowledge of how its actions affect its environment. This statement is true. Q-learning is an algorithm used in reinforcement learning, and it requires some knowledge of the environment in order to work properly. \n\nStep 4: Determine the answer\nSince Statement 1 is not necessarily true and Statement 2 is true, the answer is (C) True, False.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Let us say that we have computed the gradient of our cost function and stored it in a vector g. What is the cost of one gradient descent update given the gradient?\n\n(A) O(D)\n(B) O(N)\n(C) O(ND)\n(D) O(ND^2)",
+            "correct_answer": 0,
+            "model_answer": "Given that we have computed the gradient of our cost function and stored it in a vector g, we can define the cost of one gradient descent update as the cost of the update step itself. The update step is where we update the iterate t to be the new iterate t-1. At each update, we need to do the following:\n\n1. Compute the gradient: This step involves computing the gradient of the cost function at the current iterate t and storing it in the vector g.\n   - Cost: O(1)\n\n2. Compute the magnitude of the step: This step involves computing the magnitude of the gradient vector g.\n   - Cost: O(1)\n\n3. Normalize the step: This step involves normalizing the magnitude of the step to ensure that it is less than or equal to the desired step size.\n   - Cost: O(1)\n\n4. Update the iterate t: This step involves taking the dot product of the pre-normalized step and the iterate t-1, and then adding the pre-normalized step to get the new iterate t.\n   - Cost: O(1)\n\nTherefore, the total cost of one gradient descent update is:\n\nCost = O(1 + 1 + 1 + 1) = O(1 + 1 + 1 + 1) = O(4)\n\nSo, the answer is (D) O(ND^2).",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Statement 1| For a continuous random variable x and its probability distribution function p(x), it holds that 0 \u2264 p(x) \u2264 1 for all x. Statement 2| Decision tree is learned by minimizing information gain.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "First, let's analyze Statement 1. \n\nStatement 1 states that for a continuous random variable x and its probability distribution function p(x), it holds that 0 \u2264 p(x) \u2264 1 for all x. \n\nThis statement is true because p(x) represents the probability of the random variable x taking a value in a certain range, and the probability of an event occurring must always be between 0 and 1. \n\nNow, let's analyze Statement 2. \n\nStatement 2 states that decision trees are learned by minimizing information gain. \n\nThis statement is also true. Decision trees are used in machine learning to classify or predict the value of an input based on a set of features. The process of learning the decision tree involves finding the split that gives the maximum information gain, which is the minimum reduction in entropy. \n\nNow that we have analyzed both statements, we can see that Statement 1 and Statement 2 are both true. Therefore, the answer is: \n\n(A) True, True.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Consider the Bayesian network given below. How many independent parameters are needed for this Bayesian Network H -> U <- P <- W?\n\n(A) 2\n(B) 4\n(C) 8\n(D) 16",
+            "correct_answer": 2,
+            "model_answer": "To determine the number of independent parameters needed for this Bayesian network, we must examine the structure of the network and determine the number of parameters required to fully describe each variable.\n\nFirst, we have the variable H with 4 states representing the color of a horse. Each state is unique and cannot be divided further into smaller components. Therefore, there are 4 independent parameters for the variable H.\n\nNext, we have the variable U representing the owner of the horse. Since the number of states for U is not given, we cannot determine the number of independent parameters needed for U. Therefore, we cannot consider U as an independent parameter in this network.\n\nMoving on, we have the variable P representing the performance of the horse. Unfortunately, we do not have enough information to determine the number of independent parameters required for P. Again, we cannot consider P as an independent parameter.\n\nFinally, we have the variable W, representing the place where the owner takes the horse. Since W can only take two values (\"Stall\" or \"Hay\", representing whether the horse is in one or the other option), there is only one independent parameter needed for W.\n\nTherefore, the total number of independent parameters needed for this Bayesian network is the sum of the parameters for each variable: 4 (H) + 0 (U) + 0 (P) + 1 (W) = 5.\n\nTherefore, the answer is (C) 8.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "As the number of training examples goes to infinity, your model trained on that data will have:\n\n(A) Lower variance\n(B) Higher variance\n(C) Same variance\n(D) None of the above",
+            "correct_answer": 0,
+            "model_answer": "The statement \"As the number of training examples goes to infinity\" suggests that we have an infinite amount of data available for our model to train on. However, it does not imply that the model will actually be able to train on the entire dataset due to computational limitations. \n\nAssuming that we do have an infinite amount of data, we can apply the law of large numbers to the model's predictions. The law of large numbers states that the mean of a large number of samples will tend towards the population mean as the number of samples increases.\n\nIn this case, the population mean is the true value that we are trying to predict. As the number of training examples becomes larger and larger, the mean of the model's predictions will converge towards the population mean.\n\nTherefore, the model trained on an infinite amount of data will have lower variance. This means that the model's predictions will become more accurate and consistent as the number of training examples increases.\n\nTherefore, the answer is (A) Lower variance.",
+            "correct": true
+        }
+    ]
+}

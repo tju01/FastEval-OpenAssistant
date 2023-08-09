@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "The facial nerve travels from the brain to the face through the stylomastoid foramen. A lesion in this area can cause compression of the nerve, leading to ipsilateral (affecting the same side of the body) paralysis of the facial muscles that are innervated by this nerve. \n\nThe options given are: \n\n(A) paralysis of the facial muscles. \n(B) paralysis of the facial muscles and loss of taste. \n(C) paralysis of the facial muscles, loss of taste and lacrimation. \n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.\n\nWe can eliminate options (B), (C), and (D) since they include additional symptoms that are not typically associated with facial nerve lesions. Therefore, the correct answer is:\n\n(A) paralysis of the facial muscles.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "The answer to this question is (D) defective development of the maxillary air sinus. \n\nTo arrive at this answer, I first read the sentence carefully to understand what it is asking. The question is asking about the profile associated with a \"dished face\", which suggests that there is a specific set of facial features that are associated with this type of face shape. \n\nNext, I read each of the answer choices carefully to see which one fits with the information provided in the sentence. Option (A) refers to a protruding mandible, which is not directly related to the overall shape of the face. Option (B) refers to a recessive maxilla, which could potentially create a dished face profile, but it doesn't specifically address the issue of defective development of the maxillary air sinus. Option (C) refers to an enlarged frontal bone due to hydrocephaly, which is not related to the overall shape of the face. \n\nOption (D) refers to defective development of the maxillary air sinus, which is a specific issue that could potentially be associated with a dished face profile. The air sinuses are located in the maxillary bone, which is part of the skull that supports the nose and cheeks. If there is a defect in the development of these air sinuses, it could potentially impact the overall shape of the face, leading to a \"dished\" appearance. \n\nTherefore, based on the information provided in the sentence and the answer choices, the most appropriate answer is (D) defective development of the maxillary air sinus.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The structure that collects urine in the body is the bladder. \n\nHere's the explanation: \n- The urine is produced in the kidneys. \n- The urine then travels down the ureters (C) to the bladder. \n- The bladder (A) is a hollow, muscular organ that stores urine until it's ready to be eliminated through the urethra (D). \n\nSo, the correct answer is (A) Bladder.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "The answer is not intuitive and requires some understanding of developmental biology. Therefore, it is necessary to provide step-by-step reasoning to reach a clear understanding of the question.\n\n1. Ectomesenchyme is a type of mesenchyme that does not have an epithelial layer or induced epithelial organ development. It is composed of cells expressing unique molecular markers.\n2. Ectomesenchyme is derived from the extra-embryonic mesoderm, which is a source of mesenchyme cells in the early embryo.\n3. The morphogenetic movements of the embryo shape these mesenchyme cells into different structures, depending on their location and function.\n4. Therefore, it is not appropriate to deduce the answer from the list given, as all the options could be potential answers depending on the specific location and context of the question.\n5. However, some eliminative logic can be used to narrow down the list. Sweat glands and skeletal muscles are derived from ectomesenchyme, but not from inducing epithelial organ development.\n6. Melanocytes are also derived from mesenchyme cells, but specifically from the neural crest.\n7. Therefore, the correct answer is (C) Melanocytes, as they are derived from a similar type of cells as the ectomesenchyme, but not from the same function or location.\n\nSo, the answer is (C) Melanocytes.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "To determine which of the following describes the cluster of blood capillaries found in each nephron in the kidney, we need to understand the function of each of the options provided. \n\n(A) Afferent arteriole: This is a blood vessel that carries oxygen-rich blood into the kidney. It is not a part of the nephron or glomerulus.\n\n(B) Glomerulus: The glomerulus is a network of very small blood vessels found within the nephron. It is responsible for filtering blood and producing urine. Therefore, it is the correct answer for the cluster of blood capillaries found in each nephron in the kidney.\n\n(C) Loop of Henle: The loop of Henle is a loop-shaped tube in the nephron. It is responsible for reabsorbing water, salts, and other substances from the filtrate produced by the glomerulus. It is not the cluster of blood capillaries found in each nephron in the kidney.\n\n(D) Renal pelvis: The renal pelvis is a funnel-shaped structure at the beginning of the ureter. It is responsible for collecting urine from the kidneys before it is transported to the bladder. It is not the cluster of blood capillaries found in each nephron in the kidney.\n\nTherefore, the correct answer to the question is (B) Glomerulus.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "The spinal cord is responsible for controlling the basic functions of the body, including respiration. With damage to the spinal cord at the level of the sixth cervical vertebra, there is a chance that the patient may experience paralysis or loss of function in the chest, arms, and legs. However, since the spinal cord is not directly responsible for breathing, it is unlikely that the patient's ability to breathe will be affected.\n\nThe answer is (D) Breathing will be unaffected.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "The anatomical region of abdomen that lies just distal to the sternum is located below the diaphragm, which is the main muscle of the abdomen. \n\nTo determine which anatomical region of abdomen lies just distal to the sternum, we need to consider each of the options provided: Epigastric, Hypochondriac, Hypogastric, and Lumbar.\n\nFirst, let's exclude the options that are unlikely to be distal to the sternum. The sternum is located in the anterior part of the body, so it is unlikely that the epigastric or hypogastric regions would be located distal to the sternum.\n\nThe hypochondriac region is located on each side of the sternum and is part of the abdominal wall. However, it is not immediately distal to the sternum.\n\nThat leaves us with the lumbar region. The lumbar region is located in the posterior part of the abdomen and is just distal to the diaphragm. Since the diaphragm is located below the sternum, the lumbar region is also located just distal to the sternum.\n\nTherefore, the answer is (D) Lumbar.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B) Mucous membranes. The human body has several defense mechanisms against environmental bacteria. One of them is the mucous membranes that line the mouth, nose, throat, and other parts of the respiratory and digestive systems. These mucous membranes produce mucus, which helps to trap and prevent the entry of bacteria and other foreign substances into the body. Additionally, the mucous membranes have ciliary escalator mechanisms that help to propel mucus and bacteria towards the mouth for expulsion when coughing or sneezing. Therefore, the correct answer is (B) Mucous membranes.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "The palatine processes are the two processes that extend from the palate and later fuse with the maxillary processes to form the three bones of the hard palate. In humans, this process occurs after birth during the first to second year of life. Therefore, the correct answer is (E) twelve weeks post-conception, not post-fertilization. \n\nOutput: (E) twelve weeks post-conception.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "When the primary motor cortex is activated, it sends out an electrical signal called an action potential that travels down the spinal cord and reaches the target skeletal muscles. The action potential reaches a local synapse, and neurotransmitters are released to stimulate the muscle fibers, causing contraction. \n\nThe primary motor cortex controls the contralateral muscles, which means that when the right primary motor cortex is activated, it controls the muscles on the left side of the body and vice versa. Therefore, the answer is (B) bilateral contraction of limb musculature.",
+            "correct": false
+        }
+    ]
+}

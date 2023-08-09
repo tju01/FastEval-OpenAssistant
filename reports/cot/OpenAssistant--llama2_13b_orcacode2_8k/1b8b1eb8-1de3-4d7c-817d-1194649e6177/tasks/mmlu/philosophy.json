@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Aesthetics deals with objects that are_____.\n\n(A) essential to our existence\n(B) unimportant to most people\n(C) not essential to our existence\n(D) rarely viewed",
+            "correct_answer": 2,
+            "model_answer": "Aesthetics deals with the beauty or the pleasing appearance of objects, whether they are essential to our existence or not. Therefore, the correct answer is (C) not essential to our existence.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.\n\n(A) the state\n(B) the justice system\n(C) the body\n(D) the soul",
+            "correct_answer": 3,
+            "model_answer": "The step-by-step reasoning is as follows:\n\nAccording to the given statement, the question is asking about the result of an unexamined life on a specific entity.\n\nLooking at the options, we can eliminate options (A), (C), and (D) because they do not relate to the idea of an examined life in the context of Socrates' philosophy.\n\nOption (B) is also eliminated because Socrates' philosophy is focused on the individual development of the soul rather than the justice system.\n\nThe remaining option is (A) the state. However, this option does not relate to the idea of an examined life as it pertains to the broader political system rather than an individual's personal introspection and reflection.\n\nBased on the given statement and the context of Socrates' philosophy, the correct answer is (D) the soul. This is because an unexamined life, according to Socrates, results in harm to the individual's personal growth and spiritual development.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "According to Kant, nothing can be called \u201cgood\u201d without qualification except _____.\n\n(A) right action\n(B) good consequences\n(C) happiness\n(D) a good will",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (A) right action. Kant's categorical imperative states that the only thing that can be considered as \u201cgood\u201d without qualification is a maxim that can be universalized, meaning that it must be something that everyone can do at all times without exception. Therefore, only actions that are inherently good and can be universalized, such as those that promote the well-being of others, can be considered \u201cgood\u201d without qualification. \n\nThe answer to the question is (A) good action. \n\n(B) good consequences can be influenced by the initial action, but they may not be inherently good without qualification. \n(C) happiness is subjective and cannot be considered good without qualification. \n(D) a good will alone is not enough to make an action good, as the end goal may not be universalizable. \n\nTherefore, the only thing that we can say is inherently good without qualification is the idea that we ought to act in a way that can be universalized, which is the principle of right action.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Plato's view is that true beauty is _____.\n\n(A) found in everyday objects\n(B) nonexistent\n(C) everywhere in the natural world\n(D) not of this world",
+            "correct_answer": 3,
+            "model_answer": "According to Plato's view, beauty is found in the symmetrical arrangement of physical features, proportions, and ratios. Therefore, the answer is (A) found in everyday objects.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "In Aristotle\u2019s terminology, incontinence is when:\n\n(A) one does not know that one\u2019s actions are wrong.\n(B) one knows that one\u2019s actions are wrong, but does them anyway.\n(C) one knows that one\u2019s feelings are inappropriate, and does not act on them.\n(D) one does the right action, but for the wrong reason.",
+            "correct_answer": 1,
+            "model_answer": "Aristotle's terminology is used to describe various types of moral failures. The term \"incontinence\" refers to the failure of self-control in the face of temptation or other strong desires. \n\nThe question asks about the definition of incontinence according to Aristotle's terminology. \n\nThe answer is (B) one knows that one\u2019s actions are wrong, but does them anyway. This is because incontinence is the failure to control one's desires or passions despite knowing what is right or wrong. \n\nIn this case, the person knows that their actions are wrong, but they still do them anyway, which is a failure of self-control. \n\nTherefore, the answer is (B).",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Nagel claims that most skeptical arguments:\n\n(A) are the result of applying arbitrarily stringent standards.\n(B) are based on linguistic confusions.\n(C) are logically self-refuting.\n(D) grow from the consistent application of ordinary standards.",
+            "correct_answer": 3,
+            "model_answer": "Nagel claims that most skeptical arguments are the result of applying arbitrarily stringent standards. \n\nExplanation: \nNagel's claim is that skeptical arguments are not applying strictly defined standards but rather imposing extreme or arbitrary standards on the evidence. This means that these arguments claim that the evidence does not meet an unreasonably high standard, which is not a valid form of skepticism. \n\nAnswer: (A)",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Rawls conceives of the original contract as one to:\n\n(A) enter a particular society.\n(B) set up a particular form of government.\n(C) establish the principles of justice for the basic structure of society.\n(D) establish the content of morality.",
+            "correct_answer": 2,
+            "model_answer": "The original contract refers to the idea of a hypothetical agreement that individuals would make if they were equals, in a state of nature, choosing the basic structure of society in relative isolation from the influence of society. John Rawls' conception of the original contract is concerned with the establishment of principles of justice for the basic structure of society. Therefore, the correct answer is (C) establish the principles of justice for the basic structure of society.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "According to Singer, compliance with his principle requires:\n\n(A) modest changes to our personal habits, but not to our society as a whole.\n(B) modest changes to our personal habits, as well as to society.\n(C) drastic changes to our personal habits, but not to our society.\n(D) drastic changes to both our personal habits and to our society.",
+            "correct_answer": 3,
+            "model_answer": "According to Singer, compliance with his principle requires either (B) modest changes to our personal habits, as well as to society. This means that both individuals and society as a whole must make changes to their habits and actions in order to align with Singer's principle.\n\nSinger's principle is centered around the idea of helping those in need and reducing suffering. In order to do so, individuals need to make personal changes to their habits and actions that may contribute to suffering or injustice. At the same time, society as a whole must also make changes to its systems and structures to address larger societal issues that may perpetuate suffering or injustice.\n\nBy requiring both individual and societal changes, Singer's principle aims to create a collective effort towards reducing suffering and promoting a more just society.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "For Socrates, the soul is harmed by lack of _____.\n\n(A) knowledge\n(B) wealth\n(C) community\n(D) courage",
+            "correct_answer": 0,
+            "model_answer": "The question is asking about what harms the soul according to Socrates. \n\nOption (A) knowledge is a possibility, as Socrates believed in the importance of knowledge and argued that knowledge was the key to happiness and good life. However, this option seems to be too broad and philosophical, and it is not clear how lack of knowledge exactly harms the soul.\n\nOption (B) wealth is also a possibility, as Socrates believed that wealth was not a guarantee of happiness and that poverty was not necessarily a bad thing. However, this option is not very specific and does not directly address the question.\n\nOption (C) community is a possibility, as Socrates believed in the importance of social interaction and community. However, this option is also not very specific and does not address the question in a direct manner.\n\nOption (D) courage is the most likely answer, as Socrates believed that courage was a virtue and that lack of courage led to fear and timidity, which could harm the soul.\n\nTherefore, the answer to the question is (D) courage.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "According to Kant, morality requires us to:\n\n(A) perform the action that leads to the greatest total happiness.\n(B) act only on maxims that we can will to become universal laws.\n(C) behave only in such a way as a perfectly virtuous person would behave.\n(D) place the interests of others above the interests of ourselves.",
+            "correct_answer": 1,
+            "model_answer": "The answer is (B) act only on maxims that we can will to become universal laws.\n\nExplanation:\nKant believed that morality is determined by the duty to act in a way that is consistent with the categorical imperative, which is a principle that guides our actions. The categorical imperative consists of two formulations: the hypothetical imperative and the categorical imperative. The categorical imperative is a universal law that applies to all rational beings. Kant argued that if we want our actions to be considered morally right, we must act in a way that conforms to the categorical imperative.\n\nAccording to Kant, the hypothetical imperative has two formulations: the ought-to-be-done maxim and the ought-to-be-done-in-order-to-comply-with-a-law maxim. The ought-to-be-done-in-order-to-comply-with-a-law maxim says that a maxim is moral if and only if it can be adopted as a universal law. In other words, we ought to act only on maxims that can be willed to become universal laws. This means that we must act in a way that treats other people as ends in themselves, not just as means to our own ends.\n\nTherefore, the correct answer is (B) act only on maxims that we can will to become universal laws.",
+            "correct": true
+        }
+    ]
+}

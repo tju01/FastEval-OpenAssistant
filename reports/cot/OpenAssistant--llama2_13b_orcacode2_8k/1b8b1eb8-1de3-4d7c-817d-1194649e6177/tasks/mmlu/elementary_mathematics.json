@@ -1,0 +1,75 @@
+{
+    "score": 0.1,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "First, we need to isolate the variable p on one side of the equation. To do this, we can subtract 2 from both sides of the equation:\n\n24 - 2 = 2p - 2\n\nSimplifying the left side of the equation, we get:\n\n22 = 2p\n\nNext, we need to isolate p by dividing both sides of the equation by 2:\n\n22/2 = p\n\nSimplifying the left side of the equation, we get:\n\n11 = p\n\nTherefore, the value of p in 24 = 2p is 11. The answer is (A) p = 4.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "To solve this problem, we need to use a math trick known as \"dividing by a quantity to distinguish variables from numbers.\" \n\nFirst, we need to isolate the variable - the number of miles Ms. Perez drove each day - by using the fact that she drove the same number of miles each day. We can set up an equation like this:\n\n40 = 40/x \n\nwhere x is the number of miles Ms. Perez drove each day. \n\nNext, we'll substitute 40/x for x in the equation above. \n\n40 = 40/x\n40 = 40/40 = 1\n\nTherefore, Ms. Perez drove 1 mile each day.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "First, we need to simplify the numerator and denominator separately. \n\nNumerator: \u221240\nDenominator: \u22128\n\nTo simplify the numerator, we can add 40 to both sides. This gives us:\n\n40 + 40 \u00f7 (\u22128) = 40 \u00f7 (\u22128) + 40\nThe left side simplifies to 0, so we get:\n\n40 \u00f7 (\u22128) + 40 = 0 + 40\nThe left side simplifies to 0, so we get:\n\n0 + 40 = 40\n\nTo simplify the denominator, we can add 8 to both sides. This gives us:\n\n\u22128 + 8 = \u22128 + 8\nThe left side simplifies to 0, so we get:\n\n0 = 0\n\nNow, if we divide 40 by \u22128, we get:\n\n\u22125\n\nTherefore, the quotient of \u221240 \u00f7 (\u22128) is (\u22125).",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "To solve this problem, we need to find the greatest number of soccer balls that can be bought with $90.00. \n\nWe know that one soccer ball costs $15.60, so we can write the equation:\n\n90.00 = x + 15.60\n\nwhere x is the number of soccer balls that can be bought. \n\nTo find the least possible integer value of x that satisfies this equation, we can start by adding 1 to both sides of the equation:\n\n91.60 = x + 15.60 + 1\n\nNow we can subtract 15.60 from both sides of the equation:\n\n76 = x + 1\n\nFinally, we can subtract 1 from both sides of the equation:\n\n75 = x\n\nTherefore, the greatest number of soccer balls the team can buy is 75 (the least possible integer value of x that satisfies the equation). \n\nThe answer is (C) 6.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "First, we need to set up an equation that represents the relationship between the cost of four tickets and the cost of one ticket. Let's call the cost of one ticket \"t\".\n\nOne way to do this is to use the formula \"total cost = number of items * cost per item\". In this case, we want to find the cost per item (i.e., one ticket), so we can set up the following equation:\n\ntotal cost = number of items * cost per item\n\nPlugging in the given information, we get:\n\n$112 = 4 items * cost per item\n\nNow we want to solve for the cost per item. We can do this by dividing both sides of the equation by 4:\n\n$112/4 = cost per item\n\n3 = cost per item\n\nSo the cost of one ticket is $3 (since the cost per item is 3 and we need 4 tickets in total).\n\nAnswer: t = 3",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "To solve this expression, we need to perform the operations in the order they are written:\n\n3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1\n\nFirst, we perform the multiplication inside the parentheses:\n\n3 \u00d7 [(2 \u00d7 6) + 4] - 1 = 3 \u00d7 12 + 4 - 1 = 36 - 1 = 35\n\nNext, we perform the subtraction:\n\n35 - 1 = 34\n\nTherefore, the value of the expression is 34.\n\nAnswer: (A) 9",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "To express 1 and 1/11 as a whole or mixed number in simplest form, we need to first add the entire numbers together which gives us 1. Then, we need to find out how many times 1/11 fits into 1. \n\nTo find out how many times 1/11 fits into 1, we can do long division. \n\nSo, 1 = 11/11 AND 1 = 1/0.11\n\nThis means that 11/11 = 1/0.0 exact same. \n\nSince 1 does not have any decimal or fraction, it is already in the simplest form. Therefore, the answer is (A) 1.1 over 11.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "To find the quotient of 2.16 \u00f7 0.06, we first need to simplify the fraction by dividing both the numerator and denominator by their greatest common factor, which is 2. \n\nSo, we get:\n\n2.16 \u00f7 (0.06 \u00f7 2) = 108 \u00f7 2 = 54 \u00f7 2 = 27 \u00f7 2 = 13.5\n\nTherefore, the quotient of 2.16 \u00f7 0.06 is 13.5.\n\n(A) 3.6 is incorrect.\n(B) 36 is incorrect.\n(C) 36 is incorrect.\n(D) 36 is incorrect. \n\nThe answer is (C) 0.01272.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "To find the difference of 142.76 - 16.5, we need to subtract 16.5 from 142.76. \n\n142.76 - 16.5 = (142.76 - 16.5)\n\n142.76 - 16.5 = 126.26\n\nTherefore, the answer is (D) 126.26.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of 5.04/0.7, we need to perform the following steps:\n\nStep 1: Write down the dividend and the divisor in horizontal form:\n\n5.04 (dividend) \u00f7 0.7 (divisor) = (5.04 \u00f7 0.7)\n\nStep 2: Divide the dividend by the divisor:\n\n5.04 \u00f7 0.7 = 7.17\n\nStep 3: Simplify the result by removing the decimal part:\n\n5.04 \u00f7 0.7 = 1 (rounded to the nearest whole number)\n\nTherefore, the quotient of 5.04/0.7 is 1.",
+            "correct": false
+        }
+    ]
+}

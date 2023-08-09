@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "we know that 24 = 2p because that's given. therefore we must subtract 4 from each side of the equation (i'll call 2p as x). Once we do that we have x-4=24-4=20. If we divide both sides by 2 we get x/2=20/2=10\ntherefore p=10",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "Okay, here is my step-by-step reasoning to answer the question:\n\n- Let us first calculate the total number of days that Ms. Perez drove:\n    - 40 miles total distance\n    - 5 days\n    - Therefore, Ms. Perez drove an average of 8 miles per day. This means that each day, she drove the same number of miles.\n- Now, we need to figure out how many miles Ms. Perez drove each day. To do this, we need to divide the total number of miles by the number of days.\n    - 40 miles / 5 days = 8 miles\n- Therefore, Ms. Perez drove 8 miles each day.\n\nThe answer is: C) 8 miles per day.\n\nHope this helps! Let me know if you have any other questions or if there is something you'd like me to clarify further.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "Let's begin with dividing 40 by 8:\n\n```\n-40 / 8 = -5\n = (-4) + (-5) \n```\nFinal step is to multiply it by the second summand. Since we are multiplying a number by a negative number, that's actually a subtraction, consisting of:\n\n```\n(-4) + (-5) [* -1] = -1 + 5\n```\nAdding to the negative identity, we get the final answer:\n\n```\n(-4) + 5\n```\nFinal answer: `A`",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "The soccer team can buy up to $90.00 soccer balls. Since one soccer ball costs $15.60, the team can buy:\n$$\n\\frac{\\$90.00}{15.60} \\approx 5.77\n$$\nof soccer balls. The team cannot buy six soccer balls, as that would exceed their budget. Therefore, the greatest number of soccer balls they can buy is five.\n\nFinal answer: (B)",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "1. $112 is the cost for four tickets.\n2. Let t be the cost of one ticket.\n3. We can represent it as $112 = 4 *$ t, here 4 represents the number of tickets.\n4. We need to find t so we'll move it to one side\n5. Simplifying $112 = 4 *$ t = $t * 4, based on the distributive property. This leaves t on one side\n6. Now we have $112 = $ t * 4 which means you can get rid of all the units to just get $ so we'll cancel out 4\n7. Simplifying $112 / 4 = $t\n8. $112 / 4 = $28\n9. So the cost of one ticket is $28.\n\nThe answer is $28. You have 4 tickets and they cost $112 total so we can write $112 = 4 * $t = 4t, so $t = $28.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "Let's step through the expression inductively. I will explain the meaning of each term in this challenge as I go. I will go from inside out instead of left to right, because we can use distributivity to make the calculation easier.\n\n[(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)]\n\n2 x 6 is 12. Multiplication is already done.\n\n6 - 5, which is 1 is subtraction.\n\n8 / 4 is 2, division.\n\n1 + 2 is addition.\n\nThe resulting expression is [(12 - 5) + (8 \u00f7 4)]\n\nThis simplifes to a single term nested in two layers of square brackets. It makes sense to conclude the nested expression first, since it is already simplified:\n\n(12 - 5) + (8 \u00f7 4)\n\nwhich is 7.\n\nPutting 7 in nested in 3 x (7 - 1), we can use distribution to evaluate this expression faster:\n\n3 x [(12 - 5) + (8 \u00f7 4)]\n\n= 3 x [(12 - 5) ] + 3 x ((8 \u00f7 4))\n\n= 3 x 7 + 3 x 2\n\n= (3 x (12 - 5))\n\n= 3 x (7)\n\n= 3 x 7\n\nThe answer is D: 21.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "Step 1: Simplify the fraction\n\n11/1 can be divided by 11 to simplify the fraction, since the divisor is also the factor of the bottom and the top: 1/11\n\nStep 2: Multiply by the reciprocal\n\nThe reciprocal of 1/11 is 11/1, so it should be multiplied by itself. This operation is equivalent to converting the fraction to a mixed number.\n\nStep 3: Solve for the integer part\n\n11 multiplied by 1 is 11: it is the integer part of the mixed number.\n\nAnswer: D. 11/12\n\nKnowing the final result, this is how I put logic into words. However, every person would reason differently. Hope this helps!\n\nFor further information, you might want to do a search for converting a percentage to a fraction.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "Okay, I will do my best to walk you through the solution:\n\nFirst, make sure to check if 2.16 and 0.06 are numbers that you can divide without risking losing precision. For example, 2.16 and 0.06 are both expressed in decimal places, so it is safe to assume that we can divide them without losing precision.\n\nNow, let's calculate the quotient. To do this, we can use the following steps:\n\n- Multiply both 2.16 and 0.06 by 100 so that we have integers to work with. This gives us 216 and 6, respectively.\n\n- Divide 216 by 6 using long division. You can use the following steps:\n  - 216 \u2192 2|16 = 13 r 4 \n  - Bring down the next digit, 4 from 16 to the right: 16 \u2192 16 \n  - 6 goes into 16 exactly 2 times, leaving 4 \n  - Write the answer, 2 above the 4\n  - Multiply 2x6=12 to subtract and write the remainder above the 16 as 2: 16 \u2192 12|4, 16 \u2192 12|4 = 4 (2)\n- Finish off with the remainder 4: 2|4 \u2192 1: 2|4 = 1\n\nTherefore, the correct quotient is 36, which is represented as option B in our original question. I hope this step-by-step explanation was helpful and that you now have a better understanding of how to calculate the quotient when dividing numbers with decimal places.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "First, we need to subtract 16.5 from 142.76 (142.76 \u2013 16.5). To do this, we need to follow the order of operations, which is PEMDAS (parentheses, exponents, multiplication, division, addition, and subtraction). In this case, there are no parentheses or exponents, so we move on to multiplication and division. Since there are no multiplication or division involved, we move on to addition and subtraction. In this case, we need to perform the subtraction first.\n\n142.76 \u2013 16.5 = 126.26\n\nTherefore, the answer is (D) 126.26",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of 5.04/0.7, we will follow these steps:\n\n1. Round the first number (5.04) to the decimal place of the second number (0.7), making it 5.040.\n2. Divide 5.040 by 0.7 using the long division algorithm.\n    a. Divide 5 by 0.7, leaving a remainder of 2.\n    b. Bring down the next place value (0) and add it to the remainder (2).\n    c. Divide 20 by 0.7, leaving a remainder of 4.\n    d. Bring down the next place value (4) and add it to the remainder (4).\n    e. Divide 44 by 0.7, leaving a remainder of 4.\n    f. Bring down the next place value (0) and add it to the remainder (4).\n    g. Divide 40 by 0.7, leaving no remainder.\n\n3. Write the quotient with the remaining number of decimal places (from Step 1) after the decimal point.\n\nThe solution:\n\n(C) 10.0571",
+            "correct": false
+        }
+    ]
+}

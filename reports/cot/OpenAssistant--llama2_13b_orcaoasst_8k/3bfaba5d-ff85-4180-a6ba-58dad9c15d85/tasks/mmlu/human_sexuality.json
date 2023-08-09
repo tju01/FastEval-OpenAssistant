@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following methods of detecting breast cancer involves exposure to radiation?\n\n(A) Needle aspiration\n(B) Mammography\n(C) Mastectomy\n(D) Lumpectomy",
+            "correct_answer": 1,
+            "model_answer": "Answer: (B) Mammography.\n\nExplanation: \n\nThe question is asking which method of detecting breast cancer involves exposure to radiation. The correct answer is mammography.\n\nNeedle aspiration involves a needle being inserted into the breast to extract fluid or tissue samples, which is generally less invasive and does not involve radiation.\n\nMastectomy is a surgical procedure which involves removing all or part of the breast, and is not used as a method of detecting breast cancer.\n\nLumpectomy is a surgical procedure which involves removing a lump or part of the breast, and is also not used as a method of detecting breast cancer.\n\nMammography, on the other hand, is a non-invasive medical imaging technique which uses low-dose X-rays to create images of the breast tissues. While exposure to radiation can be concerning for breast cancer detection methods, mammography remains the frontline screening method for breast cancer due to its high accuracy in detecting tumors at an early stage.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The regions of the body that, when touched, are sexually exciting:\n\n(A) vary from person to person\n(B) vary for women depending on the phases of the menstrual cycle\n(C) are mainly on the lower portion of the body\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D) all of the above. The answer is \"mainly on the lower portion of the body\" is likely incorrect as many people find stimulation from their entire body exciting. \"Vary for women depending on the phases of the menstrual cycle\" is likely incorrect as it is not scientifically proven to be the case. As for \"vary from person to person\", this is not incorrect.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is/are true of gonorrhea?\n\n(A) can be treated with antibiotics\n(B) has a high risk of infection with a single exposure\n(C) is asymptomatic (without symptoms) in only a small percentage of those infected\n(D) infections are limited to genital areas",
+            "correct_answer": 0,
+            "model_answer": "The question is asking about the characteristics of gonorrhea. Let's go through each option and determine if it is true or false based on our knowledge:\n\nOption (A): Can be treated with antibiotics.\nTrue. Gonorrhea can be effectively treated with antibiotics, but resistance to some antibiotics has been increasing.\n\nOption (B): Has a high risk of infection with a single exposure.\nTrue. A single exposure to gonorrhea can lead to an infection, even if there are no symptoms.\n\nOption (C): Is asymptomatic (without symptoms) in only a small percentage of those infected.\nFalse. It is estimated that around 20% of women and 5-10% of men with gonorrhea do not experience symptoms, making asymptomatic infections relatively common.\n\nOption (D): Infections are limited to genital areas.\nFalse. While gonorrhea is primarily a sexually transmitted infection that affects the genital area, it can also infect other parts of the body, such as the throat and rectum.\n\nTherefore, the correct answers are:\n\n(A) is True\n(B) is True\n(C) is False\n(D) is False\n\nThe final line should contain the answer as a single letter with parenthesis without anything else, which is:\n\n(C) False\n(D) False",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?\n\n(A) the id\n(B) the ego\n(C) the superego\n(D) the Oedipus complex",
+            "correct_answer": 0,
+            "model_answer": "The dominant Freudian concept in this scenario would be (A) the id. \n\nThe id is the part of the psyche that contains basic drives and instincts, including the need for food, water, and sexual pleasure. In this scenario, the attraction to Jacques and the desire for a glass of milk are driven by basic instincts and unconscious urges, which are characteristics of the id.\n\nWhile Freud believed that the ego and superego play important roles in shaping our behavior and thoughts, they are not the dominant factor in this scenario. The ego is responsible for balancing the competing demands of the id and superego, and making decisions based on reality and practicality. The superego is responsible for enforcing moral and social norms, and would likely oppose the decision to drink milk with Jacques. \n\nThe Oedipus complex, on the other hand, is closely associated with the development of the superego and the formation of gender identity in children. While sexual attraction to a same-sex parent is common and natural among children, it is not a defining characteristic of the Oedipus complex.\n\nTherefore, the dominant Freudian concept in this scenario is the id, and the answer is (A).",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Sociobiologists believe that there are more males than females with paraphilias because:\n\n(A) paraphilias guarantee survival of the species\n(B) evolutionary selection has favored the development of males who respond to novel sexual stimuli\n(C) of left brain/right brain differences between the genders\n(D) male brains are better developed than are female brains",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B). Evolutionary selection has favored the development of males who respond to novel sexual stimuli in order to increase their chances of reproducing. This has resulted in a higher frequency of paraphilias in males compared to females.\n\nExplanation:\n\nParaphilias refer to non-normative sexual interests, behaviors, and fantasies that cause distress or impairment in an individual's functioning. Sociobiologists believe that paraphilias have evolved in humans because they can increase reproductive success. Males who were able to respond to novel sexual stimuli were more likely to engage in sexual activities, regardless of whether or not their partners were interested, increasing their chances of reproducing. This behavior was favored by evolutionary selection, leading to a higher frequency of paraphilias in males compared to females.\n\nLeft brain/right brain differences between genders and male brain superiority are not supported by scientific evidence and are not relevant to the question.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\n\n(A) felt glad\n(B) felt fear\n(C) experienced guilt\n(D) experienced regret",
+            "correct_answer": 2,
+            "model_answer": "The task is to determine the most likely response of women following their first act of intercourse, according to the study by Sprecher, Barbee, and Schwartz (1995).\n\nIn this study, researchers investigated the emotional experiences of 250 women and 243 men following their first sexual encounter. They found that 23% of women reported feeling \"highly negative emotions\" such as fear, sadness, and guilt, while only 12% of men reported similar emotions.\n\nBased on the research conducted by Sprecher, Barbee, and Schwartz, the most likely response of women following their first act of intercourse is (C) experienced guilt.\n\nTherefore, the answer is (C) experienced guilt.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is cocaine abuse during pregnancy related to?\n\n(A) an increased risk of low birth weight babies\n(B) poorer growth and lower intelligence\n(C) smaller head circumference\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "Cocaine abuse during pregnancy is related to poorer growth and lower intelligence in babies, as well as a higher risk of having a low birth weight baby. It is also associated with smaller head circumference, though this is a less well-known effect. The correct answer is (D) all of the above.\n\nWhen a mother abuses cocaine during pregnancy, it can cause a variety of problems for the developing fetus. It can lead to placental abruption, which can cause bleeding and interfere with the exchange of nutrients and oxygen between the mother and the fetus. It can also cause premature birth, which can result in a baby that is underdeveloped and has a lower birth weight.\n\nStudies have also shown that cocaine use during pregnancy can lead to cognitive deficits in babies, including lower IQ scores and slower language development. Additionally, babies born to mothers who used cocaine during pregnancy are more likely to have smaller head circumferences than babies born to mothers who did not use cocaine.\n\nTherefore, the answer to the question \"What is cocaine abuse during pregnancy related to?\" is (D) all of the above: an increased risk of low birth weight babies, poorer growth and lower intelligence, and smaller head circumference. It is important for pregnant women to avoid using drugs, including cocaine, as it can have significant and lasting effects on the health and development of their children.\n\n(D) all of the above.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:\n\n(A) a secure lover\n(B) an avoidant lover\n(C) an anxious-ambivalent lover\n(D) a passionate lover",
+            "correct_answer": 2,
+            "model_answer": "According to attachment theory, if Joe's relationships with women are typically characterized by desperate advances that put women off, he would likely be described as an anxious-ambivalent lover. An anxious-ambivalent lover is someone who is uncertain about their emotional bonds and frequently worries about the safety and security of their relationship. They may exhibit both anxious and avoidant behaviors, which contribute to the instability of their relationships. In Joe's case, he is anxious because he desperately wants to be close to Helen, but his extreme and intense advances may also scare her away, making the relationship uncertain and unstable. Therefore, the answer is (C) an anxious-ambivalent lover.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?\n\n(A) Bruce likely participated in more female-typical play than Chuck.\n(B) Bruce likely participated in more male-typical play than Chuck.\n(C) Bruce and Chuck likely participated in more male-typical play than female-typical play.\n(D) Bruce's father was more likely to have homosexual tendencies than Chuck's father.",
+            "correct_answer": 0,
+            "model_answer": "If we could have observed Bruce and Chuck as children, we might have expected Bruce to have participated in more male-typical play than Chuck. This is because sexual orientation is believed to be primarily determined by biological factors in the womb, rather than external social factors such as play preferences or parents. Additionally, research suggests that homosexual men tend to demonstrate more masculine play behaviors in childhood than heterosexual men.\n\nHowever, it is important to note that this is not always the case, as there are many factors that can influence an individual's sexual orientation and play preferences. Therefore, we cannot say for certain what we would have observed if we had observed Bruce and Chuck as children.\n\nThe correct answer is (B).",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Judaism regards sexuality as\n\n(A) inherently evil\n(B) God's afterthought and has become an aberration\n(C) a gift from God\n(D) primarily a biological function",
+            "correct_answer": 2,
+            "model_answer": "Judaism regards sexuality as a gift from God.\n\nHere's why:\n\nThe Torah, the central text of Judaism, celebrates the creation of humans as male and female, and states that \"God created human beings in his image; in the image of God he created them; male and female he created them\" (Genesis 1:27). This suggests that sex and sexuality are an integral part of human existence and are seen as positive and good.\n\nThe Talmud, a commentary on the Torah, has numerous discussions of sexual ethics and sexual relationships. These discussions are focused on how to live a responsible and ethical life in relation to sexuality, rather than treating sexuality as inherently evil or harmful.\n\nFurthermore, Judaism places a strong emphasis on procreation and the continuation of the Jewish people. Jewish law and teachings encourage marriage and having children as a fulfillment of this mission and as a way to express love and intimacy between husband and wife.\n\nTherefore, based on the teachings of the Torah and the Talmud, as well as the focus on procreation and family in Judaism, it can be concluded that Judaism sees sexuality as a gift from God.\n\n(C)",
+            "correct": true
+        }
+    ]
+}

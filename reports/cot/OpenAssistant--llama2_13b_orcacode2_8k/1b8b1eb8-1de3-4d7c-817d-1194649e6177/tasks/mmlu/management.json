@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "The correct option is (B) Satisficing.\n\nSatisficing is the term used to describe a decision-making strategy where the decision-maker is willing to accept an outcome that is \"good enough\" but not necessarily optimal. In the context of negotiations, satisficing is a strategy where both parties are willing to accept an outcome that is acceptable but not necessarily the best outcome possible. This can be beneficial in situations where time, resources or energy are limited.\n\nTherefore, the correct answer is (B) Satisficing.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "The term for the 'rule of thumb' type of bias in decision making is Framing bias. This is a cognitive bias that involves perceiving or interpreting situations and decisions in a way that favors a particular outcome or course of action, often due to the way a problem is presented. It can lead to overestimating the importance of small probabilities or details, and underestimating the importance of larger probabilities or big picture perspectives.\n\nTherefore, the answer to the question is:\n\n(A) Framing bias",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "A normative perspective refers to a way of looking at things that is based on values and moral principles. It is a way of understanding how things should be, rather than just how they are or how they will be in the future. This perspective is concerned with questions of right and wrong, and it involves making judgments about what is good or bad, right or wrong. Therefore, the correct answer is (C) The way things should be.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "The question is asking about the type of competitive activity that exists between organizations in the 'five forces model'. \n\nTo answer this question, we need to understand what the 'five forces model' is. The 'five forces model' is a framework used to analyze the competitive environment in which a company operates. It is a tool used to determine the strength of the position of a company in relation to its competition, and to identify the key factors that can affect the profitability of the company. \n\nNow, coming back to the question, there are five key factors that are included in the 'five forces model'. These are: \n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry\n(E) The bargaining power of suppliers\n\nOut of these five factors, the type of competitive activity that exists between organizations is the level of rivalry (D). \n\nTherefore, the answer to the question is (D).",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "The term 'transformational leader' refers to a leader who inspires followers to change and improve themselves. To determine which of the given political leaders could not be termed a transformational leader, we need to consider their leadership styles and achievements.\n\nMargaret Thatcher: Thatcher was known for her conservative, free-market policies and her strong personality. During her leadership, she implemented significant economic reforms in the UK, including privatization and deregulation, which had a transformative impact on the country's economy. Therefore, Margaret Thatcher can be considered a transformational leader.\n\nMikhail Gorbachov: Gorbachov was the leader of the Soviet Union during a period of significant political and economic changes. He introduced policies of glasnost (transparency) and perestroika (restructuring), aiming to modernize the Soviet economy and society. These reforms significantly impacted the Soviet Union's political and economic landscape, leading to the end of the Cold War and the collapse of the Soviet Union itself. Therefore, Mikhail Gorbachov can be considered a transformational leader.\n\nNelson Mandela: Nelson Mandela is widely recognized for his leadership in the fight against apartheid in South Africa and his efforts to promote social justice and reconciliation. Mandela's leadership style was characterized by his ability to inspire and motivate people, combined with his emphasis on nonviolent conflict resolution and reconciliation. His influence and legacy have had a transformative impact on the nation of South Africa and the world at large. Therefore, Nelson Mandela can be considered a transformational leader.\n\nBill Clinton: Bill Clinton's presidency was marked by significant economic and social reforms in the United States. He worked towards reducing deficits, promoting trade, and implementing policies aimed at expanding access to healthcare and education. Clinton's leadership style was characterized by his ability to work across party lines and his focus on improving the lives of ordinary people. Therefore, Bill Clinton can be considered a transformational leader.\n\nBased on the analysis of the personalities, policies, and achievements of the given political leaders, it can be concluded that all four leaders\u2014Margaret Thatcher, Mikhail Gorbachov, Nelson Mandela, and Bill Clinton\u2014can be termed transformational leaders. Therefore, none of them fits the description of a leader who cannot be considered a transformational leader.\n\nThe answer is None (no letter is given as it cannot be determined).",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "A Gantt chart is a type of work schedule design. It is a visual representation of a project schedule that displays the tasks, milestones, and deadlines. The Gantt chart is named after its inventor, Henry Gantt, who developed the chart in the early 1900s. \n\nThe Gantt chart is commonly used in project management to plan and schedule projects. It consists of a horizontal axis representing time and a vertical axis representing tasks or activities. The chart shows the start and end dates of each task, as well as their duration and status. This type of chart is useful for identifying critical path tasks, finding bottlenecks, and ensuring that the project is on track to meet its objectives.\n\nTo summarize, the answer is (B) Work schedule design.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "The question is asking about a feature of McGregor's Theory X. McGregor's Theory X suggests that most workers dislike work and will attempt to avoid it. Therefore, the correct answer must be the opposite of what is suggested by McGregor's Theory X. \n\n(A) Workers enjoy responsibility: This contradicts the basic assumption of McGregor's Theory X, which suggests that most workers dislike work. \n\n(B) Workers view physical and mental effort as a natural part of work: This is actually a feature of McGregor's Theory Y, which suggests that most workers like work and can be motivated to put in effort if they are given the right incentives and autonomy. \n\n(C) Workers like to show initiative: This is a common motivation for workers and is often encouraged in the workplace. However, it is not a feature of McGregor's Theory X, which suggests that most workers don't want to be responsible for making decisions. \n\n(D) Workers like to be directed: This is a feature of McGregor's Theory X, which suggests that most workers dislike work and require close supervision and direction. \n\nTherefore, the correct answer is (D) Workers like to be directed, which is a feature of McGregor's Theory X.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "The term for power derived from status or position in an organisation is \"legitimate\". \n\nExplanation: \n- Legitimate power is based on the individual's position as a manager or supervisor. \n- Legitimate power does not necessarily involve any personal or professional skills or achievements. \n- Therefore, the correct answer is (D) Legitimate.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to understand what bureaucratic structures are. Bureaucratic structures refer to the organization and functioning of a large institution or government. The person who is most associated with the concept of bureaucratic structures is Max Weber.\n\nMax Weber was a German sociologist who studied the development of modern bureaucracies and their impact on society. He believed that bureaucracy was a necessary institution for the efficient administration of large organizations and that it was associated with industrialization and urbanization.\n\nTherefore, the correct answer is (B) Max Weber.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to identify which of the following individuals is known for being an industrial philanthropist. \n\n(A) Frederick Taylor - Although Frederick Taylor is known for his contributions to scientific management, he was not known for being an industrial philanthropist.\n\n(B) Seebohm Rowntree - Seebohm Rowntree was a British social reformer, political activist, and businessman who is primarily known for his research and advocacy efforts in the field of social science. While he was not primarily known as an industrial philanthropist, he did have philanthropic interests and engaged in various social and political initiatives.\n\n(C) Henry Ford - Henry Ford was the founder of the Ford Motor Company and is widely known for his invention of the assembly line technique for mass production. He was also known for his philanthropic efforts and his Model T car was affordable to the average worker. Therefore, Henry Ford is the industrial philanthropist mentioned in the question.\n\n(D) Max Weber - Max Weber was a German sociologist, philosopher, and political economist known for his contributions to sociology and the social sciences. However, there is no direct connection between Max Weber and being labeled as an industrial philanthropist.\n\nBased on the above analysis, the answer to the question \"Who of the following is the industrial philanthropist?\" is (C) Henry Ford.",
+            "correct": false
+        }
+    ]
+}

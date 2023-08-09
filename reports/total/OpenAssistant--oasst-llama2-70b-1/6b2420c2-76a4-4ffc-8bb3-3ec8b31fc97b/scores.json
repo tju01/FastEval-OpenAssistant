@@ -1,0 +1,6 @@
+{
+    "benchmarks": {
+        "human-eval-plus": 0.2926829268292683,
+        "mt-bench": 6.853125
+    }
+}

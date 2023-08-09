@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to understand the function of the facial nerve and the effects of a lesion causing compression at the stylomastoid foramen.\n\nThe facial nerve is responsible for driving the facial muscles and for conveying taste sensations from the tongue to the brain. It is also a source of a parasympathetic nerve supply, which is involved in many oral and ocular functions, including tear production and salivation.\n\nSo, when there's a lesion causing compression of the facial nerve, it would affect not only the function of the muscles (M) and taste sensation (T), but also any parasympathetic functions, including lacrimation (L) and salivation (S).\n\nLet's see the options:\n\n(A) paralysis of the facial muscles,\nThis is a correct answer, but it only covers the primary symptom caused by lesion compression.\n\n(B) paralysis of the facial muscles and loss of taste,\nThis is also correct but it still lacks some of the other parasympathetic effects as mentioned above.\n\n(C) paralysis of the facial muscles, loss of taste and lacrimation,\nThis is a correct combination including both M and T and the presence of lachrymation.\n\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation,\nThis is again correct, including all the related parasympathetic effects.\n\nSo, considering all the points mentioned, the answer would be (D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "A \"dished face\" profile is often associated with:\n\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n\nThis is because a dished face profile occurs when the prominence of the maxilla (the bone above the mouth) is reduced, which results in less projection of the face and a flatter appearance. The recessive position of the maxilla is often due to a failure of elongation of the cranial base, which is responsible for maintaining a normal facial height. Option A is incorrect because a protruding mandible (the bone below the mouth) would not cause a dished face profile, but rather a more protruding appearance. Option C is incorrect because a hydrocephaly (excessive fluid in the brain) doesn't directly influence the shape of the face. Option D is incorrect because a defective development of the maxillary air sinus wouldn't cause a dished face profile; it might lead to congestion in the sinus, but wouldn't result in a flatter profile.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "To determine the best structure that collects urine in the body, let's consider each of the options:\n\n(A) Bladder: The bladder is a hollow muscular organ that stores urine until it is excreted. It is correctly able to collect and hold the urine in the body.\n\n(B) Kidney: The primary role of the kidney is to filter and purify blood, not collecting urine. It does, however, produce urine, which then travels to the bladder to be stored.\n\n(C) Ureter: The ureter is a tube that moves urine from the kidney to the bladder. Though it is involved in moving urine, it is not the one that collects it.\n\n(D) Urethra: The urethra's primary purpose is to transfer urine from the bladder to the outside world during the process of urination.\n\nBased on our reasoning, the best answer that describes the structure that collects urine in the body is:\n\n(A) Bladder",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "Step 1: Identify the term \"ectomesenchyme\" to understand its role in the development of the structures.\n\nEctomesenchyme is a cellular layer that forms from the fusion of epiblast and mesoderm, which are both mesodermal-derived tissues. It is the precursor of the peripheral nervous tissue, organs and melanocytes.\n\nStep 2: Determine the structures that are derived from ectomesenchyme.\n\nFrom the information gathered in step 1, the answer is clear. In this case, it is the peripheral nervous tissue which includes structures like (A) Motor neurons and (B) Skeletal muscles. Melanocytes (C) and sweat glands (not listed) are also derived from ectomesenchyme, although not part of the peripheral nervous system.\n\nStep 3: Condense the answer.\n\nWe have identified three structures that are derived from ectomesenchyme: motor neurons (A), skeletal muscles (B), and melanocytes (C). Thus, the answer is a set of these structures:\n\n (A, B, C)",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "To answer the question, let's understand the components of the kidney nephron first:\n\n1. Afferent arteriole: This is a blood vessel which carries glomerular blood containing waste products and excess substances from the body back to the kidneys for filtration.\n2. Glomerulus: This is a group of capillaries that form part of the renal corpuscle. The filtration process begins here.\n3. Loop of Henle: This is a bent tube located within the kidney nephron that helps to concentrate urine by forming a countercurrent multiplier mechanism.\n4. Renal pelvis: This is a funnel-shaped structure that collects urine from the nephrons. It is part of the renal pelvis system, connecting with the ureter.\n\nNow, let us analyze each option:\n\nAfferent arteriole (A) - This is the proper blood vessel that carries glomerular blood back to the kidney. It does not form part of the nephron itself.\nGlomerulus (B) - This is a group of capillaries that makes up part of the renal corpuscle and is involved in the filtration process. \n\nLoop of Henle (C) - This structure concentrates urine, but it is not part of the renal corpuscle in each nephron. Therefore, it is not the correct answer.\nRenal pelvis (D) - This is involved in the urine collection but it does not describe the cluster of blood capillaries found in each nephron.\n\nAfter analyzing each option, we can conclude that the correct answer is:\n\nB) Glomerulus\n\nThe glomerulus is the cluster of capillaries found in each nephron in the kidney that filters glomerular blood.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "To determine the effect of a broken neck with damage to the spinal cord on the patient's ability to breathe, we can analyze these options step by step:\n\n(A) The spinal cord is usually protected by a strong structure called the spine or vertebral column. In the case of a broken neck, the spinal cord might not be completely protected, and it can lead to paralysis of the limbs and certain parts of the body, depending on the severity and location. Breathing, however, is not controlled by the spinal cord; rather, it is controlled by the autonomic nervous system. So the spinal cord injury would not have a direct effect on the person's ability to breathe on their own.\n\n(B) If the patient is receiving life support (which they may be if they have a significant spinal injury), then they will be able to breathe with the aid of the life support equipment. Without life support, however, their ability to breathe may be compromised but could still be maintained through external mechanical means, such as using a positive-pressure ventilator.\n\n(C) A definitive answer to the effect on the patient's breathing cannot be made without considering the extent of the injury and the specific deficit it causes. Some patients could have breathing deficits, while others may not. It is not possible to predict a definitive outcome without a medically accurate prognosis based on the patient's specific condition.\n\n(D) This statement is incorrect, as a spinal cord injury could potentially have an effect on the person's ability to breathe independently, as discussed in option (A). If the injury is severe, they may rely on life support or alternative methods of breathing due to the dysfunctional autonomic nervous system caused by the injury.\n\nTherefore, the correct answer is:\n(C) It is impossible to predict an effect on breathing.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "Let's explore each region step-by-step:\n\n(A) Epigastric: It is the region lying lateral and slightly superior to the umbilicus. It is not the region directly distal to the sternum.\n\n(B) Hypochondriac: The hypochondriac regions are the areas located lateral to the ribs and inferior to the breastbone. However, it is not distal to the sternum.\n\n(C) Hypogastric: It is the region just above the umbilicus, and it is directly distal to the sternum as it is located directly below it.\n\n(D) Lumbar: The lumbar region is the mid-lower back, lying distal to the thoracic region. It is not directly related to the sternum.\n\nBased on above explanation, the answer is (C) Hypogastric.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "To determine the best description of the human body's defense mechanism against environmental bacteria, let's examine each option step-by-step:\n\n(A) Hair in the nose: Hair in the nose does not directly contribute to the body's defense against bacteria.\n\n(B) Mucous membranes: Mucous membranes, such as those located in the nose, throat, and mouth, coated with a layer of mucus, which traps and filters bacteria and other pathogens before they can enter the body.\n\n(C) Osteoblasts: Osteoblasts are cells in the bone marrow that create new bone tissue. They are not directly related to the body's defense mechanism against bacteria.\n\n(D) Saliva: Saliva contains enzymes that neutralize bacteria and moisturize, thereby helping to remove the bacteria from the mouth.\n\nAfter a thorough analysis, the best description of the human body's defense mechanism against environmental bacteria is:\n\n(B) Mucous membranes",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, let's consider each option step by step:\n\n(A) \"Six weeks post-fertilization\" - This doesn't make sense because weeks are not measuring units in fetal stages. The gestation period and fetal development are measured in months, not weeks.\n\n(B) \"Eight weeks post-fertilization\" - As mentioned above, weeks are not standard units for fetal development, and it is too early for the palatine processes to fuse.\n\n(C) \"Ten weeks post-fertilization\" - Similar to the options before, weeks are not the standard units used in fetal stage development, and it is too early for the palatine processes to begin fusing.\n\n(D) \"Twelve weeks post-fertilization\" - Later in pregnancy, the palatine processes do undergo fusion as part of the development of the palate and other nose and mouth structures. This is the correct answer.\n\nSo, the palatine processes begin to fuse at (D) twelve weeks post-fertilization.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "First, let's understand what each choice represents:\n\n(A) Bilateral contraction of antigravity limb muscles: This means muscles that otherwise would increase the weight bearing downward on a joint.\n\n(B) Bilateral contraction of limb musculature: This option is ambiguous. It is not clear if 'limb' means the same thing as in option (A) which is specific muscles or is it referring to the entire limb.\n\n(C) Contraction of ipsilateral limb musculature: Ipsilateral means the same side of the body.\n\n(D) Contraction of contralateral limb musculature: Contra-lateral also means the same side of the body as the other but on the opposite side of the body.\n\nSo, the choice we're looking for should refer to the muscles on the same side where the brain is located and this activity occurs. Now, output the choice which is single letter 'C' inside parenthesis:\n\n(C) Contraction of ipsilateral limb musculature.",
+            "correct": false
+        }
+    ]
+}

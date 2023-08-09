@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "The term for a sub-optimal but acceptable outcome of negotiations between parties is \"Satisficing\" (B).\n\nJustification:\nIn the context of negotiations, the term \"satisficing\" refers to a situation where a mutually acceptable solution is reached, even if it is not the best possible outcome. It implies that both parties are willing to settle for a solution that is good enough, rather than pursuing the ideal outcome. This term is commonly used in the field of economics and psychology to describe decision-making processes that involve accepting a solution that meets a minimum acceptable level of requirements, rather than seeking the optimal solution. Therefore, option (B) \"Satisficing\" is the correct answer to the question.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "The term for the 'rule of thumb' bias in decision making is heuristics. \n\nHeuristics are mental shortcuts or rules of thumb that people use to make decisions quickly and efficiently. They can be beneficial in certain situations, but can also lead to cognitive biases and errors in judgment. The rule of thumb is a specific type of heuristic, where a person uses a general guide or rule of thumb to make a decision, rather than carefully reasoning through all the available information.\n\nThe other options listed are not correct. Framing bias refers to the tendency to make decisions based on the way information is presented, rather than the actual content. Hindsight bias is the tendency to believe that past events were more predictable than they actually were. Over-confidence bias is the tendency to overestimate one's own abilities or knowledge.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "To determine the answer to the question \"What is a normative perspective?\" we need to understand what it means. Normative perspective refers to a \"theoretical position on how a social phenomenon should be done judging from some standard\". In other words, it is a way of looking at a situation or a problem and deciding what the \"desired outcome\" should be based on a set of values or principles. \n\nUsing this definition, we can eliminate option (D) \"The way things were\" as it represents a descriptive perspective, which is focused on describing the way things are rather than prescribing how they should be. \n\nWe are left with three options: A) The way things are, B) The way things are going to be, and C) The way things should be. Option A is also a descriptive perspective as it refers to current reality. Therefore, the correct answer is option C) The way things should be, which represents a normative perspective. \n\nSo, the final answer is: C) The way things should be.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "In the 'five forces model', the type of competitive activity that exists between organisations is the power of customers. \n\nHere's a detailed explanation:\n\nThe 'five forces model' is a business strategy framework that is used to analyze the external environment of an organization. It identifies the forces that affect the competitive intensity of an industry. The five forces are:\n\n1. The threat of new entrants (potential for entry into the industry): This force measures the ability of new companies to enter the industry and compete with existing players.\n\n2. The power of buyers (customers): This force measures the bargaining power of customers to demand lower prices and better quality products and services.\n\n3. The power of suppliers: This force measures the bargaining power of suppliers to demand higher prices and better terms and conditions.\n\n4. The threat of substitute products (substitutes): This force measures the alternatives available to customers that can satisfy the same needs without buying the product from the industry's existing players.\n\n5. The level of rivalry: This force measures the competitive intensity within the industry.\n\nOf these five forces, only the power of buyers (customers) represents the type of competitive activity that exists between organizations. This is because customers have the ability to switch to rival products and demand better service, which puts pressure on organizations to maintain their market share and profitability.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to first define what it means to be a \"transformational\" leader. A transformational leader is someone who has the ability to inspire and motivate their followers to achieve goals that are important to both the leader and their followers. They are able to create a vision that is both inspiring and achievable, and they are able to work with their followers to create a plan to achieve that vision.\n\nNow, let's look at the options given:\n\n(A) Margaret Thatcher: Thatcher was a British politician who served as the Prime Minister of the United Kingdom from 1979 to 1990. She is often considered a transformational leader, as she was able to implement significant changes to the country's economy and social welfare system during her time in office.\n\n(B) Mikhail Gorbachov: Gorbachov was the last Soviet leader, serving from 1985 to 1991. He is also often considered a transformational leader, as he was able to implement significant changes to the Soviet Union's political and economic systems during his time in office.\n\n(C) Nelson Mandela: Mandela was a South African politician who served as the President of South Africa from 1994 to 1999. He is also often considered a transformational leader, as he was able to lead the country through a period of transition from apartheid to democracy.\n\n(D) Bill Clinton: Clinton was the 42nd President of the United States, serving from 1993 to 2001. He is also often considered a transformational leader, as he was able to implement significant changes to the country's economic and social policies during his time in office.\n\nTherefore, the political leader that could not be termed a 'transformational' leader is not listed among the options given.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "A Gantt chart is a type of work schedule design.\n\nExplanation:\nA Gantt chart is a graphical representation of a project that shows the timeline for completing tasks. It is used to visually display the start and end dates of each task, as well as the dependencies between tasks. The primary purpose of a Gantt chart is to create a schedule for the project, which is why it falls under the category of work schedule design. It is not a type of work flow design, work rate design, or work output design.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D) Workers like to be directed.\n\nMcGregor's Theory X is a leadership theory that assumes that employees do not like work and will avoid it if possible. It also assumes that employees are not trustworthy and need to be closely supervised and controlled. This means that workers prefer to be directed and have clear instructions.\n\nNow, let's analyze the options:\n\n(A) Workers enjoy responsibility - This is the opposite of Theory X. Workers may enjoy responsibility, but Theory X assumes that they dislike work and will avoid it if possible.\n\n(B) Workers view physical and mental effort as a natural part of work - This is a possible feature of Theory X, but it is not enough to prove it. The theory assumes that workers are not motivated and need to be directed.\n\n(C) Workers like to show initiative - This is the opposite of Theory X. Workers may show initiative, but Theory X assumes that they do not like work and will avoid it if possible.\n\n(D) Workers like to be directed - This is the correct answer. McGregor's Theory X assumes that workers prefer to be directed and have clear instructions.\n\nTherefore, the answer is (D) Workers like to be directed.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "The term for power derived from status or position in an organization is (D) Legitimate power. \n\nLegitimate power is based on the authority granted by the organization to a person in a specific role or position. This power is viewed as legitimate because it is given by the organization and is recognized by others within the same organization. \n\nExpert power is based on knowledge and expertise in a particular area, while referent power is based on personal attributes such as likability and charisma. Reward power is based on the ability to grant or withhold rewards. \n\nTherefore, the correct answer is (D) Legitimate power.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "The answer to this question is (D) Mary Parker Follett. \n\nTo arrive at this answer, first, we need to understand the question. The question asks about a writer who is most associated with bureaucratic structures. Bureaucratic structures refer to the formal systems of organization, decision-making, and control that are found in large institutions such as governments, corporations, and universities.\n\nNext, we need to eliminate the options that are not relevant to the question. Adam Smith is known for his ideas on free-market economics and individualism, which are not directly related to bureaucratic structures. Henry Fayol is also known for his ideas on management and organization, but he is not specifically associated with bureaucratic structures. Max Weber, on the other hand, is a renowned sociologist who is known for his concepts of bureaucracy and authority in modern society.\n\nHowever, Max Weber's ideas on bureaucracy are not the only ones that have been influential in the field of management and organization. Mary Parker Follett, an American author and social worker, is also well-known for her contributions to the study of bureaucracy and organization. Her work focused on the importance of collaboration, cooperation, and power within bureaucratic structures, which was a departure from the more individualistic approach of Adam Smith and Henry Fayol, and a complement to Max Weber's emphasis on authority and structure.\n\nTherefore, the answer to the question is (D) Mary Parker Follett.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "The question is asking which of the following individuals is an industrial philanthropist. An industrial philanthropist is a person who uses their wealth and influence to improve the lives of others. \n\nOption (A) Frederick Taylor is a well-known figure in the field of management, but he is not known for his philanthropy. Option (B) Seebohm Rowntree was a British industrialist who is known for his work in improving the living and working conditions of factory workers. However, he is not necessarily known as an industrial philanthropist. Option (C) Henry Ford is widely regarded as an industrial philanthropist. He was a successful businessman who used his wealth to improve the lives of his workers, including implementing a minimum wage and providing healthcare benefits. \n\nOption (D) Max Weber is a sociologist who is known for his theories on bureaucracy and the Protestant work ethic, but he is not known for his philanthropy. \n\nTherefore, the answer is (C) Henry Ford.",
+            "correct": false
+        }
+    ]
+}

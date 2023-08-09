@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "The facial nerve is responsible for supplying most of the muscles of the face, salivary gland parasympathetic efferents and taste sensations. When the facial nerve is compressed at the stylomastoid foramen, it can cause ipsilateral paralysis of the facial muscles, loss of taste, and lacrimation. Lacrimation refers to the production of tears. Therefore, the correct answer is (C) paralysis of the facial muscles, loss of taste and lacrimation.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "Based on the options given, we cannot definitively determine the cause of a \"dished face\" profile. Therefore, the answer to this question is (E) cannot be determined from the given options. However, we can make some educated guesses based on the options provided. \n\nOption (A) suggests that a dished face could be caused by the onset of acromegaly, a condition characterized by overproduction of growth hormone, which can lead to enlargement of the jaw and other bones in the face. However, acromegaly is not a common cause of a dished face and is usually accompanied by other noticeable symptoms.\n\nOption (B) suggests that a lack of elongation of the cranial base could lead to a dished face, but this is less likely to be a common cause of a dished face than other factors such as hormonal imbalances or developmental abnormalities.\n\nOption (C) suggests that hydrocephaly, which is a condition characterized by excess fluid in the skull, could lead to a dished face, but this is also less likely to be a common cause of a dished face than other factors such as hormonal imbalances or developmental abnormalities.\n\nOption (D) suggests that a defect in the development of the maxillary air sinus could lead to a dished face, but this is also less likely to be a common cause of a dished face than other factors such as hormonal imbalances or developmental abnormalities.\n\nTherefore, based on the given options, we cannot definitively determine the cause of a \"dished face\" profile.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The structure that collects urine in the body is the bladder. To determine this, let's first eliminate the options that are not correct. \n\nOption (B) Kidney is incorrect because the kidneys are responsible for filtering waste products from the blood and producing urine, but they are not directly involved in storing urine. \n\nOption (C) Ureter is incorrect because although the ureters do transport urine from the kidneys to the bladder, they do not act as a storage organ. \n\nOption (D) Urethra is incorrect because while the urethra is the final part of the urinary tract that carries urine from the bladder to the outside of the body, it is not responsible for storing urine. \n\nTherefore, the correct answer is (A) Bladder. The bladder is a muscular sac located in the pelvis that stores urine until it is eliminated from the body.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "Out of the given options, the structure that is derived from ectomesenchyme is skeletal muscles. Therefore, the answer is (B).\n\nTo arrive at this answer, we need to understand the meaning of ectomesenchyme and its relation to the given options. Ectomesenchyme is a type of mesenchyme tissue that occurs outside the embryonic ectoderm and endoderm. Now, let's analyze each of the given options and see if they are derived from ectomesenchyme:\n\n(A) Motor neurons: Motor neurons are derived from neural crest cells, which are a separate lineage of cells from the mesoderm. They are not derived from ectomesenchyme.\n\n(B) Skeletal muscles: Skeletal muscles are derived from the mesoderm, specifically from the somites. Somites are mesenchymal cells that give rise to thoracic and lumbar vertebrae, as well as a series of skeletal muscles. Since somites are a type of mesenchymal tissue, they are derived from ectomesenchyme. Therefore, the correct answer is (B).\n\n(C) Melanocytes: Melanocytes are derived from the dorsal root of the neural tube, which is a type of nervous tissue. They are not derived from ectomesenchyme.\n\n(D) Sweat glands: Sweat glands are derived from the epidermis, which is a type of skin tissue. They are not derived from ectomesenchyme, as this tissue type occurs outside the epithelium.\n\nIn conclusion, the correct answer to the question is (B) skeletal muscles, as they are directly derived from ectomesenchyme.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "The cluster of blood capillaries found in each nephron in the kidney are known as the glomerulus. \n\n(B) Glomerulus (Answer)",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "This is a physics and biology question, hence the answer would be based on the physical and physiological mechanisms of breathing. \n\n(A) A broken neck with damage to the spinal cord at the level of the sixth cervical vertebra (C6) would not make the person unable to breathe without life support. This is because breathing can occur through other means, such as the diaphragm and external muscles, as well as the upper respiratory tract. The spinal cord gives rise to the respiratory muscles, and damaging it at C6 would only affect the muscles below C6. \n\n(B) Breathing would still be possible, but it may be affected by the damage to C6. The diaphragm and external muscles can still contract and expand the chest, but the strength and coordination may be compromised. So, the person may be able to breathe, but it may be difficult and loud. \n\n(C) It is possible to predict an effect on breathing. The damage to C6 in this scenario may compromise the strength and coordination of the diaphragm and external muscles, making it difficult to breathe easier. \n\n(D) Breathing will be affected, but it will not be unaffected. The spinal cord is involved in respiratory function, and damaging it at C6 may compromise the strength and coordination of respiratory muscles, making it more difficult to breathe. \n\nTherefore, the answer would be (B) They will only be able to breathe quietly, but with difficulty.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to recall the anatomical positions and areas in the abdomen. The skeletal system in the abdomen consists of a sternum, ribs, and pelvis. The sternum, also known as the breastbone, is located in the center of the chest. The ribs run parallel to the sternum, with multiple sections known as rib numbering or intercostal space. The abdominal regions are divided into epigastric, hypochondriac, hypogastric, and lumbar regions.\n\nNow, let's analyze each option:\n\n(A) Epigastric: This option is correct. The epigastric region lies just distal to the sternum in the upper abdomen. It is located between the xiphoid process and the costal margin, extending from the xiphoid process to the umbilicus.\n\n(B) Hypochondriac: This option is also correct. The hypochondriac region lies just distal to the sternum in the upper abdomen. It is located above the epigastric region and is bounded by the costal margin and the junction of the ribs.\n\n(C) Hypogastric: This option is partially correct. The hypogastric region lies in the lower abdomen and comprises the iliac crests, pelvic bones, and the umbilicus. It is not directly distal to the sternum.\n\n(D) Lumbar: This option is incorrect. The lumbar region is located in the back, not in the abdomen. It is also not directly distal to the sternum.\n\nTherefore, the correct answer is (A) Epigastric.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "The human body's defense mechanism against environmental bacteria is best described by the mucous membranes. \n\nStep-by-step reasoning:\n\n1. Mucous membranes are specialized tissues that line various cavities of the body, such as the mouth, nose, and lungs.\n2. These tissues are rich in mucus, a viscous fluid that helps to trap and remove foreign particles, including bacteria.\n3. Mucous membranes also contain immune cells, such as lymphocytes and macrophages, that help to identify and eliminate bacteria.\n4. Unlike hair in the nose (option A) or saliva (option D), mucous membranes are specifically adapted to serve as the body's first line of defense against environmental bacteria.\n5. Osteoblasts, on the other hand, are cells that are involved in bone formation and are not related to the body's defense against bacteria (option C). \n\nTherefore, the correct answer is (B) Mucous membranes.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "Based on the information provided in the question, we cannot determine the exact answer to the question. However, we can make an educated guess based on the typical time frame for palatal fusion in humans.\n\nPalatal fusion, or sutural fusion, is the process by which the sutures between the hard palate and the maxillary bones close, creating a solid connection. This process occurs after birth in humans, typically between the ages of 6-15 months.\n\nSince the question specifically asks about the post-fertilization period, we can assume that we are referring to the process occurring inside the womb rather than after birth.\n\nA full-term human pregnancy typically lasts around 40 weeks, or 280 days. Therefore, we can guess that palatal fusion occurs around 12 weeks post-fertilization (8 weeks post-conception) to fit within the typical 40-week pregnancy timeline.\n\nTherefore, the answer is likely (D) twelve weeks post-fertilization, but without further information, we cannot say for certain.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "To answer the question, \"Primary motor cortex activity results in,\" we need to understand the functions of the primary motor cortex. \n\nThe primary motor cortex, also known as the precentral gyrus, is a region in the frontal lobe of the brain that controls voluntary movements. When we initiate movement, our brain sends signals through the central nervous system to the muscles responsible for that movement. \n\nNow, let's analyze the given options:\n\n(A) Bilateral contraction of antigravity limb muscles: Antigravity limb muscles are those responsible for maintaining posture and stability while standing or during movements that counteract gravity. This option might be true, but it is not specific enough to determine whether the primary motor cortex is responsible.\n\n(B) Bilateral contraction of limb musculature: This option suggests that the primary motor cortex is responsible for both contraction of ipsilateral (same side) and contralateral (opposite side) limb muscles. While the primary motor cortex does control both ipsilateral and contralateral muscles, it is not accurate to say that it results in bilateral contraction.\n\n(C) Contraction of ipsilateral limb musculature: This option suggests that the primary motor cortex is responsible only for ipsilateral muscles. While the primary motor cortex does control ipsilateral muscles, it is not accurate to say that it results in contraction.\n\n(D) Contraction of contralateral limb musculature: This option suggests that the primary motor cortex is responsible only for contralateral muscles. While the primary motor cortex does control contralateral muscles, it is not accurate to say that it results in contraction.\n\nBased on the analysis, the most accurate option is:\n\n(D) Contraction of contralateral limb musculature.\n\nTherefore, the answer is: (D)",
+            "correct": true
+        }
+    ]
+}

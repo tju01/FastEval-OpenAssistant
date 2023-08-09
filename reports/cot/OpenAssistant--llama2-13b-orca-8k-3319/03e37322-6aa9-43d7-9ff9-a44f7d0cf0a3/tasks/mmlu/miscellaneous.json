@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "Based on the information that the most important sources of information on the credit rating of retail businesses are:\n\n- Dun & Bradstreet, Inc.\n- the United States Retail Credit Association\n\nA is a Related Organization rather than the primary source.\nB is not a direct source of information but may provide related data.\nC is not specific to credit ratings\n\nThus, considering all of these factors, the correct answer is:\n\n(D) the United States Retail Credit Association",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "This instructional strategy best describes an approach by the teacher to jointly create a understanding of a specific genre (in this case, short stories). Considering the steps: checking the list of options A) Conferencing, B) Discipline-based inquiry, C) Self-Regulated Strategy Development, and D) Introduction-Body-Conclusion strategy, we deduce that the teacher's'style' of teaching implies a more active 'participation' that is a typical element of inquiry-based and active learning strategies.\n\nIn active learning'styles', teachers encourage students to be more engaged and take active role in their own learning. Students are not only listening to but also listening to understand, and the key to this being done is by ask questions and facilitating discussions and group work. Which of the available options match this personalised and inquiry-based approach?\n\nOption B, Discipline-based inquiry, perfectly fits the 'goal' of this 'activity' as the teacher is aiding students to develop their skills and understanding in an in-depth and methodical manner, as you'd in scientific research. It collectively also implies an instructor guiding individuals, ensuring they are at ease and actively participating in the exchange of ideas. \n\nAll these reasons lead to the conclusion that the appropriate answer is \n\n(B) Discipline-based inquiry",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to identify the temperature at which paper typically burns. \n\nTo determine the temperature at which paper burns, we can follow these steps:\n\n1. Start by researching the basic fact: chemically, paper is primarily made of cellulose, which has a decomposition point of around 451 degrees Fahrenheit.\n2. Paper combusts at lower temperatures than this, as a flame ignites the paper and helps it burn more effectively.\n3. However, there is not a specific standard temperature for paper burning.\n4. In practical terms, paper commonly burns between 400-500 degrees Fahrenheit.\n\nNow we can provide the answer:\n\n(D) 451 degrees",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, first let's review the colors provided: Tangerine, Strawberry, Kiwi, and Grape. \n\nNow, let's check which color is not commonly associated with the Apple iMac. The ones we need to focus on are Kiwi and Grape, as both Tangerine and Strawberry are not specific color names used by Apple for their iMacs. \n\nAfter researching and checking available information online about the color selection of iMac computers, I have determined that:\n\n(C) Kiwi\n\nThe above information is based on available data and I strongly advise to stick with the question's inquiry. Of course please remember to update your resources if necessary.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "To determine the first names of the early American explorers Lewis and Clark, let's consider the details related to them.\n\nLewis and Clark were part of the famous exploration of North America, which is known as the Lewis and Clark Expedition or the Corps of Discovery. Meriwether Lewis and William Clark are the key explorers in this expedition. Lewis and Clark is the short form of their names, but their full names are Meriwether Lewis and William Clark.\n\nNow, let's examine the provided options:\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George\n\nClearly, the names that correspond to the early American explorers Lewis and Clark are Meriwether and William from option (B).\n\nSo, the answer is:\n\n(B) Meriwether and William",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "(C) Guided reading\n\nHere's the step-by-step reasoning:\n\n1) The teacher provides support for small, flexible groups of beginning readers. This suggests they are not being taught in a large-class format, but rather in a personalized or guided setting.\n\n2) As students read a text or a book that is unfamiliar to them, it implies that they are learning how to engage with new material, which is common for beginners.\n\n3) The teacher works with the students to teach them how to use a variety of reading strategies. This demonstrates that they are actively helping the students to understand the text, term which is needed for them to advance.\n\nGiven these factors, the reading approach described is (C) Guided reading, as it provides a personalized learning environment and helps beginner readers develop their skills.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "First, let's analyze the possible answers:\n\n(A) a fancy pasta: This option does not relate to any medical or scientific condition or topic.\n(B) a type of opera: Similarly, this option too has nothing to do with any medical or scientific subject.\n(C) the chicken pox virus: This option is the only one that involves a viral infection and is closely related to the topic 'Varicella,' which is a disease caused by a virus. Indeed, 'Varicella' is the medical term for chicken pox.\n(D) ancient Roman poetry: Like options (A) and (B), this option is also not related to any medical or scientific topic.\n\nGiven the analysis, the answer is:\n\n(C) the chicken pox virus",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's first understand the main factor determining the resistance of a material. \n\nThe resistance of a material depends on the resistance per unit length, which depends, among other things, on temperature. This means that for a given metal, its resistance will change with the change in temperature.\n\nNow let's analyze each of the provided materials:\n\n(A) Copper: Copper is a metallic element and its resistance per unit length does change slightly (though not very much) with temperature. So it is not the least affected by temperature changes.\n\n(B) Carbon: Graphite is pure carbon in an allotrope, which is a form the element takes depending on its physical properties. In its crystalline, graphitic form, its resistance is very low (like a conductor) and its resistance doesn't change much with temperature. Here, carbon can be considered to have the least affected resistance per unit length by temperature changes compared to the other materials.\n\n(C) Germanium: Germanium is a semiconductor material, and its resistance per unit length does change significantly with temperature.\n\n(D) Silicon: Similar to germanium, silicon is also a semiconductor material, and thus its resistance also changes significantly with temperature.\n\nNow that we've analyzed the materials, we can determine which one has the least affected resistance. The least affected resistance per unit length mostly goes to (B) Carbon. So the answer is (B) Carbon.\n\n(B) Carbon",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "The correct option is:\n\n(C) a freshman\n\nA second-year college student is usually called a freshman because they are in their second year of college or university. At that stage, they would be completing most of their core courses and starting to narrow down their major or area of study. \n\n(A) sophomore is incorrect because it refers to someone in the third year of college or university, which does not match the question's statement. \n\n(B) senior is incorrect because it refers to someone in their final year of college or university, after completing all general courses and choosing a major.\n\n(D) junior is incorrect because it refers to someone in their fourth year of college or university after completing general courses and most core courses specific to their major.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "The film 'The Talented Mr. Ripley' features actor Matt Damon. So, the correct answer is (B) Matt Damon. Jude Law plays an important role in the movie, but he is Dickie Greenleaf, who is Ripley's long-time friend. Matt Damon plays the character of Tom Ripley. Dustin Hoffman is also in the film, but he plays the character of a suspicious police officer, and not Ripley. Ben Affleck is also an actor, but not from this movie. So, considering these dynamics, the most logical choice for the correct answer is Matt Damon (as the actor who plays Mr. Ripley).",
+            "correct": true
+        }
+    ]
+}

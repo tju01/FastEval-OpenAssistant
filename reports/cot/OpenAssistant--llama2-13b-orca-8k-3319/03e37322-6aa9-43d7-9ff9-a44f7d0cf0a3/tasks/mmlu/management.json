@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "The term for a sub-optimal but acceptable outcome of negotiations between parties is (B) Satisficing.\n\nReasoning:\nIn general terms, a satisfactory or acceptable outcome may not be optimal, but it is enough to fulfill the parties' immediate needs and desires. This term is used to describe a situation in which each party accepts less than their ideal outcome solely to overcome the hurdles and move forward with a solution they can both agree to.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Understand the term \"rule of thumb\" bias in decision making.\nStep 2: Analyze the four given options.\nStep 3: Choose the option that best fits the definition of a rule of thumb bias.\n\n(A) Framing bias: This refers to people's preference for one option or choice, and the belief system that supports it.\n(B) Hindsight bias: This is the tendency to judge events as predictable once they have already occurred.\n(C) Overconfidence bias: This occurs when people overestimate their own abilities and knowledge.\n(D) Heuristics: These are simple and efficient ways of making decisions or solving problems.\n\nStep 4: Evaluate the most appropriate option.\nStep 5: Decide on the answer.\n\nThe term for the 'rule of thumb' type of bias in decision making is (D) Heuristics.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "(C) The way things should be.\n\nA normative perspective is a point of view that focuses on what is believed to be the ideal or proper way for something to be or function. It is concerned with setting guidelines and moral judgment, as well as evaluating how societies or individuals behave in relation to these guidelines. This perspective often incorporates moral or ethical standards and aims to establish a certain level of \"rightness\", \"goodness\", or \"justice\".",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "When breaking down the 'five forces model', these are the two forces it focuses on:\n\n1. Competitive Rivalry (among existing organizations)\n2. Threat of substitute products/services\n\nCorrect options are: \n\n(A) The potential for entry into the industry (also included in: Competitive Rivalry)\n(B) The threat of substitute products/services\n\nSo, between options A and B: \n\n(A) The potential for entry into the industry\n\nFinal answer: A)",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "Okay, let's analyze each political leader's leadership qualities step by step to determine which one would not be considered a 'transformational' leader.\n\n(A) Margaret Thatcher: She was known for her strong, assertive leadership style and her significant economic and political reforms in the UK. Her bold decisions and uncompromising approach made her a major force in the world, eventually influencing the political landscape. Thus, she qualifies as a transformational leader.\n\n(B) Mikhail Gorbachov: He was a Soviet leader whose 'perestroika' (restructuring) and 'glasnost' (openness) policies led to significant political, economic, and social changes in the Soviet Union and beyond. This would certainly qualify him as a transformational leader.\n\n(C) Nelson Mandela: He is celebrated for his courage, determination, and extraordinary leadership in the face of adversity. His leadership led to the dismantling of apartheid and the establishment of democracy in South Africa, making him a transformational leader.\n\n(D) Bill Clinton: He was the 42nd President of the United States and implemented economic reform, public welfare inititalions, reduction in crime and increased international cooperation. Due to these achievements he is seen as a transformational leader.\n\nBased on the analysis, there is no single leader out of these options that fits the description of not being termed a 'transformational' leader. So the answer for the above question is:\n\n(D) Bill Clinton",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "To answer the question about what type of chart a Gantt chart is, we can follow these steps:\n\n1. Identify the main elements of a Gantt chart.\n2. Compare with the referent chart in each answer option.\n3. Choose the one that best fits the Gantt chart concept.\n\nStep 1: A Gantt chart is a bar chart that illustrates a schedule of activities or tasks. It is commonly used in project management to plan, coordinate, and manage resources and activities.\n\nStep 2: Compare with the referent chart in each answer option:\n\n (A) Work flow design: Gantt charts are not primarily focused on work flow design, as they mainly deal with scheduling and tracking tasks.\n(B) Work schedule design: Gantt charts do design work schedules through allocating tasks on a timeline. This aligns with the concept of the chart.\n(C) Work rate design: A Gantt chart is not focused on work rate design, as it primarily offers a timeline view for project scheduling.\n(D) Work output design: While Gantt charts can indirectly help to identify work output through task completion, it is not the primary focus of the chart.\n\nStep 3: Choose the one that best fits the Gantt chart concept.\n\nBased on the comparison, the best answer is:\n\n(B) Work schedule design",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "The feature of McGregor's Theory X related to these choices is (C) Workers like to show initiative. \n\nHere's the reasoning behind why that's the correct choice:\n\nMcGregor's Theory X, as proposed by management theorist and author Douglas McGregor, is a management theory that centers on human motivation in the workplace. Specifically, McGregor deliberated on two types of extrinsic motivators, among which Theory X is negatively oriented. Theory X assumes that many workers are inherently lazy, resistant to change, are not self-motivated, and will be unhappy in their jobs. It manifests in the belief that micro-management is necessary in order to extract value from these employees.\n\nChoice (C) \"Workers like to show initiative\" aligns closely with Theory X because under this ideology, workers are viewed as being unmotivated, indifferent, or disinclined to take initiatives. The perspective puts the responsibility of proactive behavior solely on the shoulders of the supervisor. Therefore, the assumption that workers like to show initiative is indeed a feature of McGregor's Theory X.\n\nChoice (A), (B) and (D) are not in line with Theory X, because they suggest the employee is prone to enjoy responsibility, take physical and mental effort, and does not necessarily require direction. These assumptions challenge the notion of Theory X.\n\nIn retrospect, the answer to your question is (C).",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "When analyzing types of power, we can classify them into different categories, one of which is based on a person's status or position in an organization. In this context, the term that refers to power derived from status or position is:\n\n(D) Legitimate\n\nThis classification of power is called legitimate power. It's a type of positional power that comes with authority, and people are more likely to follow the orders of a leader who possesses legitimate power due to their superior rank or position within the organization.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "Answer: (B) Max Weber\n\nReasoning:\n\n(A) Henry Fayol - While Henry Fayol is known for his work in management and organizational theory, he is not as strongly associated with bureaucratic structures as Max Weber.\n\n(B) Max Weber - Max Weber's work, such as \"The Protestant Ethic and the Spirit of Capitalism\" and \"Economy and Society,\" discusses the emergence and role of bureaucracy in modern societies. This makes him the most associated with bureaucratic structures among the given options.\n\n(C) Adam Smith - Adam Smith is primarily known for his work on the principles of economics in \"The Wealth of Nations.\" However, his ideas and focus are not specifically on bureaucratic structures.\n\n(D) Mary Parker Follett - Mary Parker Follett was a early 20th century management theorist who considered some aspects related to bureaucracy. But her work is not as closely associated with bureaucratic structures as Max Weber.\n\nThus, the correct answer is (B) Max Weber, who is most associated with bureaucratic structures.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "To determine the answer, we need to consider who is an industrial philanthropist. A philanthropist is someone who has a generous disposition, donates money and time to public good causes, or supports charitable institutions. An industrial philanthropist is a person who amassed great wealth in an industrial corporation and used some of their wealth to help others or benefit society.\n\n(A) Frederick Taylor - Frederick Taylor is known as the father of scientific management and is responsible for helping companies streamline their production processes. However, there is no information suggesting that he made contributions as an industrial philanthropist that would make him stand out in this group.\n\n(B) Seebohm Rowntree - Seebohm Rowntree was a British social scientist and philanthropist who advocated for improving working-class people's quality of life. He researched poverty, inequality, and health, leading him to establish various charities and social reform programs. He can be considered an example of an industrial philanthropist.\n\n(C) Henry Ford - Henry Ford was an American industrialist, founder of the Ford Motor Company, and one of the wealthiest people of his time. He was a forward-thinking innovator who sought to provide good-quality, affordable cars to the masses. Ford is an example of an industrial philanthropist.\n\n(D) Max Weber - Max Weber was a German sociologist and political economist who heavily influenced modern social theory. While he did introduce concepts like rationalization, bureaucratization, and social stratification, there is no evidence suggesting that he actively worked as an industrial philanthropist or contributed to philanthropic activities using his wealth.\n\nConsidering the definition of an industrial philanthropist and the various choices, the correct answer for the question is:\n\nB) Seebohm Rowntree",
+            "correct": false
+        }
+    ]
+}
