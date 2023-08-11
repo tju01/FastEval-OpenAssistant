@@ -1,0 +1,75 @@
+{
+    "score": 0.1,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "How many human polyomaviruses are known at present?\n\n(A) 100\n(B) 1\n(C) 10\n(D) unknown",
+            "correct_answer": 0,
+            "model_answer": "Polyomaviruses are small viruses that can infect both humans and animals. Human polyomaviruses are a group of viruses that can cause various diseases in humans. According to the CDC, there are four human polyomaviruses that are known:\n\n1. Merkel cell polyomavirus (MCV): This virus is found in Merkel cells, which are cells that are found in the skin and in the mucous membranes of the respiratory and urinary tracts. MCV can cause a condition called Merkel cell carcinoma, which is a type of skin cancer.\n\n2. JC virus (JCV): This virus is commonly found in the brain and spinal cord, and can cause a condition called progressive multifocal leukoencephalopathy (PML). PML is a rare but serious neurological disease that usually affects patients who have weakened immune systems.\n\n3. BK virus (BKV): This virus is commonly found in the urinary tract, and can cause a condition called hemorrhagic cystitis, which is bleeding in the bladder. BKV can also cause a more severe condition called polyomavirus-associated nephropathy (PVAN), which is a kidney disease that can lead to kidney failure.\n\n4. Trichodysplasia spinulosa-associated polyomavirus (TSPV): This virus is found in the skin cells of people with trichodysplasia spinulosa, which is a rare genetic condition that causes skin growths and other skin problems.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "AIDS activism in the U.S. resulted in:\n\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "My reasoning is as follows:\n\n(A) Food and Drug Administration reforms: AIDS activism in the U.S. led to the development of the AIDS Drug Treatment program, which aimed to provide affordable treatment to people living with HIV/AIDS. This program led to changes in the FDA approval process and increased access to experimental drugs for people with HIV/AIDS. However, this did not directly result in easier access to investigational drugs.\n\n(B) Easier access to investigational drugs: AIDS activism pushed for greater access to experimental drugs for people with HIV/AIDS. This resulted in the creation of the AIDS Drug Treatment program and increased access to investigational drugs.\n\n(C) Changes in the way medicine was practiced in the U.S.: AIDS activism also brought attention to the lack of research into AIDS and the lack of access to treatment for people with the disease. This led to changes in the way medicine was practiced in the U.S., with greater emphasis placed on clinical trials and research into new treatments.\n\nThe answer is (B), \"Easier access to investigational drugs.\" While AIDS activism led to changes in the way medicine was practiced and resulted in FDA reforms, it directly resulted in easier access to investigational drugs.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Globally, the most deaths are caused by:\n\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis",
+            "correct_answer": 1,
+            "model_answer": "I will step through the process I used to come to the answer:\n\n1. See the 4 options given (A-D). \n2. Look for a word that appears more than once. \n3. Found the word \"deaths\". \n4. Since the number of deaths should be higher than one, any of the options can be chosen. \n5. Check for obvious outliers. \n6. Malaria and tuberculosis (TB) are tropical diseases which are commonly associated with poverty and lack of access to healthcare. These diseases are easy to cure, but often people lack access to doctors. \n7. Diarrheal diseases can also be associated with poverty and lack of access to clean drinking water and sanitation. \n8. Respiratory infections include cold and flu season, which is seasonal and comes in winter. \n9. The remaining option, respiratory infections is the least suspicious. It is not very unusual or concerning. \n10. Since respiratory infections is the least suspicious option left, it is chosen as the answer.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What happens during the 'incubation period'?\n\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours",
+            "correct_answer": 1,
+            "model_answer": "The \"incubation period\" is the time between when a person is infected with a virus and when they first start to show symptoms of that infection. The incubation period is different for each virus and can range from a few hours to a few weeks or even months.\n\nThe correct answer to the question: \"What happens during the 'incubation period'?\" is (D) \"This period commonly lasts for a few hours.\"\n\nDuring the incubation period, the virus is replicating within the host cell. This replication process takes place at an intracellular level, meaning it happens inside the cell and not on the surface of the cell. The virus remains inactive until it replicates to a certain point, at which time it begins to produce symptoms.\n\nThe other answers (A, B, and C) are incorrect because they do not accurately describe what happens during the incubation period. Answer (A) suggests that the virus is cleared from the body by the immune system, which is not typically the case during the incubation period. Answer (B) suggests that virus replication happens on the surface of the cell, which is not the case for most viruses. Answer (C) suggests that the incubation period commonly lasts for a few days, which is not accurate for all viruses.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:\n\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months",
+            "correct_answer": 1,
+            "model_answer": "I'll walk you through each choice, and explain how I got to the correct answer in the end.\n\nA: Exclusively formula-fed for six months. This is incorrect because it shouldn't be the choice. Newborn infants in countries with limited access to safe water and low levels of education should receive only breast milk until they are six months old.\n\nB: Exclusively breast milk-fed for six months. This is incorrect because it shouldn't be the choice. Newborn infants in countries with limited access to safe water and low levels of education should receive only breast milk until they are six months old.\n\nC: Should receive both breast milk and other foods as tolerated in the first six months. This is the correct answer. Newborn infants in countries with limited access to safe water and low levels of education should receive both breast milk and other foods as tolerated in the first 6 months. It is important to note that if the infant shows any signs of illness or malnutrition, they should be seen by a healthcare provider. The Food and Agriculture Organization of the United Nations recommends that infants receive six or more feedings per day. If the infant is formula-fed, they should be given Iron-Folate supplements.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?\n\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (C). Market segments that are less willing to try new products or services and represent a smaller part of the potential market are called late adapters. On the other hand, innovators are the first segment to try new products or services and represent a smaller part of the potential market. Early adapters are those who are more willing to try new products or services but represent a larger part of the potential market than innovators. Middle adopters fall in between the innovators and early adopters, representing a larger part of the potential market than early adopters but smaller than late adopters. Achieving effective change in a community is usually dependent on altering the attitudes and behaviors of the late adapters or the largest segment of the potential market.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "\u201cContingency management\u201d is\u201d:\n\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms",
+            "correct_answer": 1,
+            "model_answer": "What this question seems to be asking for is the answer to:\n\n\"What is the correct response to this question: \"Contingency management is (A) A strategy of last resort for reducing high-risk behaviors, (B) Paying drug users for negative urine specimens, (C) Paying sex workers to use condoms, or (D) Paying drug users to use condoms?\"\n\n\nOf these choices, the answer is (D): \"Paying drug users to use condoms\".",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+            "correct_answer": 1,
+            "model_answer": "After analyzing the given question, I have determined the following step-by-step process to arrive at the answer:\n\n1) Read the options: Acute pneumonia, Gastroenteritis in children, Hepatitis, and rashes.\n\n2) Identify the relevant subsets: Astroviruses are known to cause gastroenteritis in children, which is the only option related to the virus.\n\n3) Eliminate unrelated options: Since rashes are not a common clinical symptom associated with astroviruses, we can eliminate option D as a potential answer.\n\n4) Evaluate the remaining options: Astroviruses are known to cause gastroenteritis in children, so options A, B, and C remain as potential answers.\n\n5) Evaluate the specificity of the symptom: Among the remaining options, option B specifically mentions \"gastroenteritis in children,\" which is a more specific symptom associated with astroviruses.\n\nTherefore, the final answer is Option B: \"Gastroenteritis in children.\"",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the most special characteristic of the adaptive immune system?\n\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells",
+            "correct_answer": 3,
+            "model_answer": "The most special characteristic of the adaptive immune system is T cells.\n\nThe adaptive immune system is able to produce antibodies and T cells that are highly specific to different antigens. It can do so because of the process of clonal selection, in which a small number of B cells producing antibodies specific to a particular antigen undergoes rapid expansion. The B cells become plasma cells and produce large quantities of antibodies. These antibodies can bind to antigens, either neutralizing them or signaling to the cells of the adaptive immune system to destroy them. The T cells provide the second line of defense, which can recognize infected cells, kill them, or stimulate B cells to produce antibodies.\n\nHowever, the process of clonal selection is not exclusively a feature of the adaptive immune system. It also occurs in the innate immune system, where some macrophages and natural killer cells undergo clonal expansion following stimulation with certain molecules.\n\nAntibodies and T cells are important components of the adaptive immune system. Antibodies play a crucial role in neutralizing infectious agents, while T cells eliminate cells infected with viruses or cells that are aberrant or cancerous and activate B cells to produce antibodies. However, clonal selection is the most special characteristic of the adaptive immune system because it allows for the production of highly specific antibodies and T cells adaptively.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone",
+            "correct_answer": 1,
+            "model_answer": "Chemotherapy is a treatment used in oncology (the study of cancer) to destroy or slow the growth of cancer cells.\n\nCommon drug regimens for chemotherapy include:\n\n(A) Interferon and ribavirin \u2014 this combination is not typically used for the treatment of cancer but rather for viral infections.\n(B) Lamivudine and ribavirin \u2014 this combination is used for the treatment of hepatitis B virus infection.\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA) \u2014 these are antiretroviral drugs used for the treatment of HIV/AIDS. (D) Interferons alone \u2014 this is a form of biologic therapy, which involves the use of natural substances made by the body or their synthetic versions, to treat cancer.",
+            "correct": false
+        }
+    ]
+}

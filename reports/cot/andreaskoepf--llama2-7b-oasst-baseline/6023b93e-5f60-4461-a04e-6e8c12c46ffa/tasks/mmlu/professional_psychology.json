@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following statements expresses a relationship between aging and sexual functioning\n\n(A) Aging is related to an increase in vaginal lubrication\n(B) Aging is associated with an increase in the frequency and number of orgasmic contractions in both sexes\n(C) There is no significant relationship between aging and sexual responses in either sex\n(D) Aging is related to some loss of erectile rigidity in the male",
+            "correct_answer": 3,
+            "model_answer": "Option D the \"Loss erectile rigidity in the male\"",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "According to Piaget, children are ___________.\n\n(A) \u201cBlank slates\u201d\n(B) Less intelligent than adults\n(C) \u201cLittle scientists\u201d\n(D) Shaped by culture",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to consider the theory of cognitive development put forward by Jean Piaget. According to his theory, children are not \"blank slates\" but rather have innate cognitive abilities that develop and change over time. Theyare \"little scientists\" who actively explore their environment and draw conclusions based on their observations.Culture plays a role in shaping children's cognitive development, but it is not the only factor.\n\nTherefore, Option C: \"Little scientists\" is the correct answer.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "If a test has a standard error of measurement of 15 points, itis correct to conclude that\n\n(A) about 68% of the observed scores for the test population lie within 15 points of the mean score\n(B) about 68% of the individuals with a given cure score will have observed scores within 15 points of the true score\n(C) about 15% of the scores are in error (i.e., they are not measuring the trait reliably)\n(D) differences of up to 30 points represent the same true score",
+            "correct_answer": 1,
+            "model_answer": "The question presents us with a hypothetical scenario where a test has a standard error of measurement of 15 points. We are asked to choose between four possible conclusions about the test's performance.\n\nThe first conclusion is that \"(A) about 68% of the observed scores for the test population lie within 15 points of the mean score.\" This statement is true, as the standard error of measurement represents the amount of variation in scores that is due to sampling error, rather than differences in true scores. Therefore, if scores are sampled from a population, about 68% of the observed scores will be within 15 points of the mean score.\n\nThe second conclusion is that \"(B) about 68% of the individuals with a given cure score will have observed scores within 15 points of the true score.\" This is also true, as the statement assumes that scores are sampled from a population and that the true scores are known.\n\nThe third conclusion is that \"(C) about 15% of the scores are in error (i.e., they are not measuring the trait reliably).\" This statement is not necessarily true, as it depends on the true scores and the accuracy of the measurement. If the standard error of measurement is 15 points, then 15% of the scores could potentially be in error, but this does not necessarily mean that the test is not measuring the trait reliably.\n\nThe fourth and final conclusion is that \"(D) differences of up to 30 points represent the same true score.\" This statement is not necessarily true, as it depends on the true scores and the accuracy of the measurement. If the standard error of measurement is 15 points, then differences of up to 30 points could potentially represent different true scores.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Any substance that can have a negative impact on fetal development is ___________.\n\n(A) An Apgar\n(B) A teratogen\n(C) Only a problem in the first 6 weeks\n(D) A controlled substance",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (B), a teratogen.\n\nA teratogen is any substance that can cause birth defects or other abnormalities in a developing fetus. This can include drugs, chemicals, infections, and radiation, among other things.\n\nOther options are not correct:\n\nAn Apgar: An Apgar is a scoring system used to assess a newborn baby's overall health shortly after birth. It is not a substance that can have a negative impact on fetal development.\n\nA controlled substance: This refers to substances that are regulated by law due to their potential for abuse or harm. While controlled substances can have adverse effects on individuals, they are not necessarily linked to fetal development.\n\nOnly a problem in the first 6 weeks: This option implies that issues only arise during the first 6 weeks of fetal development, which is not accurate. Teratogens can affect development at any stage, although some are more harmful than others during particular periods.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "If you were hired by a large company to develop a new training program, your first step would probably be to conduct a:\n\n(A) needs analysis.\n(B) job evaluation.\n(C) summative evaluation.\n(D) formative evaluation.",
+            "correct_answer": 0,
+            "model_answer": "(A) needs analysis",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Practitioners of Gestalt psychotherapy consider a client\u2019s desire to talk about his/her past as:\n\n(A) a useful strategy for helping the client understand the present.\n(B) a way for the client to avoid coming to terms with the present.\n(C) \"the \"\"second layer\"\" of therapy.\"\n(D) \"a way for achieving \"\"closure\"\" near the end of therapy.\"",
+            "correct_answer": 1,
+            "model_answer": "Assuming we're talking about Gestalt therapy, the answer based on the given options is:\n\n(D) \"a way for achieving \"\"closure\"\" near the end of therapy.\"",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "In regard to memory, aging is most closely associated with a decline in\n\n(A) the efficiency of controlled memory processes\n(B) metamemory skills, or knowledge about memory\n(C) recognition memory\n(D) the amount of factual memory knowledge available",
+            "correct_answer": 0,
+            "model_answer": "Here's how I would approach this step-by-step.\n\n1. First, let's consider which of the options is most closely associated with decline in memory functioning in general.\n   Some possibilities are:\n    - the efficiency of controlled memory processes (e.g., rehearsal)\n    - metamemory skills, or knowledge about memory\n    - recognition memory\n    - the amount of factual memory knowledge available\n\n2. Now, let's consider the role that memory plays in everyday life. For most people, memory is essential for navigating the world and getting things done. This suggests that:\n   - _metamemory skills, or knowledge about memory_ are key because they help us assess our own memory performance and adjust our strategies accordingly.\n\n3. Based on these considerations, the answer appears to be (B) metamemory skills.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "A 66-year-old client who is depressed, has rhythmic hand movements, and has a flattened affect is probably suffering from\n\n(A) Parkinson's disease\n(B) Vascular Dementia\n(C) a right frontal lobe tumor\n(D) Alzheimer's disease",
+            "correct_answer": 0,
+            "model_answer": "Eliminating options: (C) since Parkinson's disease doesn't cause flattened affect, (B) since Parkinson's disease doesn't cause hand movements, and (D) since Parkinson's disease doesn't cause depression.\n\nThe given symptoms match those of Parkinson's disease:\n\nRhythmic hand movements: Tremors are common symptoms of Parkinson's disease.\nFlattened affect: Depression is a common symptom of Parkinson's disease.\nDepression: Parkinson's disease can cause depression.\n\nTherefore, the answer is (A) Parkinson's disease",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "One Friday afternoon, just before leaving on a weekend tip, a psychologist receives a call from a therapy client who claims to have taken an overdose of pills in a suicide attempt. The psychologist: tells the client to call a physician immediately and to come in at 9:00 A.M. on Monday for a session. The psychologist makes no other attempt to intervene, and the client dies later that evening without making any other calls for assistance. In this situation, the psychologist's behavior was clearly\n\n(A) unethical, because the client's needs were not addressed more directly\n(B) unethical, because the psychologist should have delayed the trip and given the client an appointment for that afternoon\n(C) unethical, because the psychologist should have called a physician directly\n(D) ethical, because it was not possible to determine whether or not the client was being manipulative",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D).\n\nThe psychologist's behavior was ethical because it was not possible to determine whether or not the client was being manipulative. The psychologist received a call from a therapy client who claims to have taken an overdose of pills in a suicide attempt, and while it was appropriate to call a physician and schedule a session for the following Monday, the psychologist should have acted with caution and made further inquiries to determine if the client was truly in danger. Taking a weekend trip without ensuring the client's safety was not appropriate given the circumstances, and the psychologist should have evaluated the situation more carefully before making any decisions.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "A family therapist using the structural approach of Salvador Minuchin would most likely:\n\n(A) clarify boundaries between family members in order to reduce enmeshment.\n(B) work initially with the most differentiated family member.\n(C) \"use a multiple-therapist team to prevent any one therapist from becoming \"\"triangulated\"\" into the family system.\"\n(D) \"issue specific \"\"directives\"\" designed to counteract dysfunctional processes.\"",
+            "correct_answer": 0,
+            "model_answer": "(A)",
+            "correct": true
+        }
+    ]
+}

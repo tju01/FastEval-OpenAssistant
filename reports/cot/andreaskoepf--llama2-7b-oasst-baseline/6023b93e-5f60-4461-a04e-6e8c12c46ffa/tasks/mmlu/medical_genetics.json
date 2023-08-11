@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "In a Robertsonian translocation, fusion occurs between the long arms of homologous chromosomes. Since the centromeres are situated in the middle of the chromosomes, fusion cannot occur at the centromere.\n\nThe telomeres are DNA sequences at the ends of chromosomes that shorten every time a cell division occurs. Fusion cannot occur at telomeres because they do not play a role in chromosome segregation during cell division.\n\nThe histones are DNA-binding proteins that package DNA into nucleosomes and regulate its accessibility. Fusion cannot occur at histones because it involves a rearrangement of the chromosome structure, which would require the disassembly and reassembly of the nucleosomes.\n\nTherefore, the correct answer is: (B) centromeres.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "Let's break down the question into smaller steps so we can solve it step-by-step.\n\n1. Identify what the question is asking. The question is asking about the relationship between Zinc finger proteins and helix-turn-helix proteins.\n\n2. Define the terms. Zinc finger proteins and helix-turn-helix proteins are types of DNA-binding proteins. Each of these proteins has a specific function that relates to DNA binding.\n\n3. Determine the possible answers. The possible answers are (A), (B), (C), or (D). We want to eliminate any answers that don't relate to DNA binding.\n\n4. Evaluate the answers. Here's our evaluation:\n\n- Type of DNA-binding protein: Answer (A) is correct. Zinc finger proteins and helix-turn-helix proteins are both types of DNA-binding proteins.\n- Involved in the control of translation: Answer (B) is incorrect. While Zinc finger proteins and helix-turn-helix proteins may play a role in translation, they are not primarily involved in the control of translation.\n- Components of ribosomes: Answer (C) is incorrect. Zinc finger proteins and helix-turn-helix proteins do not directly affect ribosomes.\n- Part of the hemoglobin in blood cells: Answer (D) is incorrect. While hemoglobin is certainly a protein, it plays no direct role in DNA binding.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "1. The human population we are talking about has .10 (one in ten) frequency of males affected with an X-linked recessive condition.\n\n2. Since this is a recessive condition, if a woman gets this condition she will have two X-chromosomes, one of which has the mutation. This means that only one of her two X-chromosomes needs to have the mutation in order to get the condition, so she will be affected.\n\n3. If one in ten males are affected then that means that .1 of the females in the population have an affected father (one in ten). This means that .9 of the females in the population have unaffected fathers (nine in ten).\n\n4. We know the frequency of affected females is .9 because all of their fathers are unaffected.\n\n5. Therefore, the expected frequency of affected females is .9. (answer: D)",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "Yes, the correct answer is: (A) cytosine.\n\nIn DNA, adenine typically pairs with cytosine, rather than with the other nitrogenous bases ( guanine, thymine, and uracil). This is known as the Watson-Crick base pairing and is fundamental to the structure and function of DNA as the genetic material of living organisms.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "Here is your question, step-by-step:\n\n```\nThe pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.\n```\n\nStep 1: Solve the question:\nThe pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\nIn order to determine which of the given answer options is the correct answer, it is important to understand the features and inheritance patterns of malignant hyperthermia (hyperpyrexia) first.\n\nMalignant hyperthermia (MH) is a rare genetic disorder that causes an abnormal response to certain anesthetic drugs. It is characterized by an rapid increase in body temperature, tachycardia (fast heart rate), tachypnea (fast breathing), muscle rigidity, and even death in severe cases.\n\nNow, we need to consider the inheritance pattern of MH. According to medical literature, MH is an autosomal dominant inherited disorder. This means that only a single copy of the mutated gene is needed to cause the disease, and a person with one copy of the mutated gene is said to be a carrier. Affected individuals have a 50% chance of passing on the mutated gene to their offspring.\n\nTherefore, the correct answer to the question is (A) autosomal dominant.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "Ans: (D)",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "First we have to clarify what kind of intergenerational transmission it is talking about.\nI think it is about genetic transfer.\nSo the answer is:\n(D) all of these",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "Please explain your reasoning step-by-step to answer the following question: \"Asp235Phe in a molecular report indicates that:\".\n\n1. \"Asp235Phe\" is a substitution of the amino acid aspartic acid (Asp) at position 235 with the amino acid phenylalanine (Phe).\n\n2. Amino acids in a protein are generally numbered sequentially starting from the N-terminus (the amino group attached to the nitrogen atom in the first residue). Therefore, Asp235 is the 235th residue from the N-terminus, which is equivalent to position 235 in the protein structure.\n\n3. Since the \"Phe\" at position 235 indicates that aspartic acid has been replaced by phenylalanine, we can conclude that the answer is D.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "Sure, I will explain my reasoning step-by-step:\n\n1. **Step 1: Identify the question**\n   The question states that the risk of abnormality in the child of a mother with untreated phenylketonuria (PKU) is missing a letter or number giving different answers.\n\n2. **Step 2: Identify the options**\n   There are 4 options:\n   * (A) 1%\n   * (B) 10%\n   * (C) 25%\n   * (D) Almost 100%\n\n3. **Step 3: Determine which answer is correct**\n   Only option (D) Almost 100% is correct.\n\n4. Under what conditions would option (A) 1% be a valid answer?\nOption (A) 1% would be a valid answer if the question stated that only sons of mothers with untreated PKU had a 1% risk of being abnormal. However, the question does not make any mention of sons.\n\n5. Under what conditions would option (B) 10% be a valid answer?\nOption (B) 10% would be a valid answer if the question stated that only males with untreated PKU had a 10% risk of being abnormal. However, the question does not make any mention of males or sons.\n\n6. Under what conditions would option (C) 25% be a valid answer?\nOption (C) 25% would be a valid answer if the question stated that only babies born to mothers with untreated PKU had a 25% risk of being abnormal. However, the question does not make any mention of babies, only children.\n\n7. Under what conditions would option (D) Almost 100% be a valid answer?\nOption (D) Almost 100% would be a valid answer if the question stated that all children born to mothers with untreated PKU had an almost 100% risk of being abnormal. This is the only answer that accurately reflects the question.\n\nTherefore, the final line should contain the answer as \"D\" with parenthesis.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "Oh dear oh dear, you have asked a complex computation question, which to be frank I do not know the answer to. However, I shall do my best to answer this one step at a time.",
+            "correct": false
+        }
+    ]
+}

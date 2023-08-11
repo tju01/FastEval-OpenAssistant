@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of these principles is not an element of the responsibility to protect?\n\n(A) The responsibility to prevent.\n(B) The responsibility to react.\n(C) The responsibility to remain sovereign.\n(D) The responsibility to rebuild.",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (D) The responsibility to rebuild.\n\nThe responsibility to protect (R2P) is a principle that calls on the international community to protect civilians from genocide, war crimes, crimes against humanity, and ethnic cleansing. The principle consists of three elements: the responsibility to prevent, the responsibility to react, and the responsibility to rebuild.\n\nNone of the other options are elements of the responsibility to protect, so they can be eliminated from the answer choices.\n\nThe responsibility to rebuild is not an element of the responsibility to protect. This principle involves helping countries affected by genocide, war crimes, crimes against humanity, or ethnic cleansing to rebuild their societies and economies. While this is a laudable goal, it is not an element of the responsibility to protect as defined by the international community.\n\nTherefore, the correct answer is (D) The responsibility to rebuild.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Can environmental changes be reconciled with national security interests?\n\n(A) Environmental challenges to economic growth, such as natural resource management and employment, leads to diversification and research which may in the long-term result in technological advancements that bolster military programs.\n(B) Environmental changes can undermine national security in many ways; including weakening the economic base that determines military capacity. So if the natural capital base of an economy erodes than so does the long-term capacity of its armed forces. Any developments however, will be 'human' in impact.\n(C) The environmental problems encountered by countries are principally internal. External threats remain within a country's control: external military threats will remain unchanged and a primary concern.\n(D) All of these options.",
+            "correct_answer": 1,
+            "model_answer": "Option (C) is the correct answer. soirniing answer",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following statements could be described as a liberal perspective on future energy security?\n\n(A) The global economy is interconnected, ensuring that energy security for one is dependent upon energy security for all. Thus all core powers have the same interests in maintaining and extending the conditions under which this market operates. As long as this economic order exists, conflict between major powers over energy reserves is highly unlikely.\n(B) Energy scarcity is likely to lead to future disruptions in the global system and the emergence of a 'new international energy order', characterized less by liberal free-market trading than by statism and neo-mercantilism.\n(C) Oil remains the lifeblood of the current order - an order that is based upon an unequal (and deeply unjust) distribution of wealth and power in favour of capitalist economic elites. Those who benefit most from the prevailing order will ensure that the flow of energy under favourable conditions continues to underpin their position in the global system.\n(D) Energy scarcity will signal a return to an era of greater geopolitical confrontation. 'Resource wars', in particular over energy sources, present a clear possibility for a breakdown in international cooperation, as states begin to compete (and eventually conflict) over the control of major reserves.",
+            "correct_answer": 0,
+            "model_answer": "Option A could be described as a liberal perspective on future energy security because it emphasizes the interconnectedness of the global economy and the shared interests of core powers in maintaining the current market conditions that facilitate energy trade. This view suggests that cooperation and not conflict is the most likely outcome of energy scarcity.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is a common criticism of the human security concept?\n\n(A) Human security is neo-colonial.\n(B) Human security promotes global capitalism.\n(C) Human security is too broad.\n(D) All of these options.",
+            "correct_answer": 3,
+            "model_answer": "Human security is a concept that emphasizes the protection of individuals and communities from threats to their physical and psychological well-being. Critics argue that human security is neo-colonial, as it promotes Western ideologies and practices without considering the cultural context of non-Western societies.\n\nSome argue that human security promotes global capitalism by encouraging free trade and investment, which can lead to economic inequality and exploitation of local populations.\n\n Critics also suggest that human security is too broad, as it can encompass a wide range of issues that are not necessarily related to security.\n\nWhile all of these options have been raised as criticisms of the human security concept, the answer to this question is (C). Human security is too broad.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "In what ways have governments responded to the threat of TNC post-Cold War?\n\n(A) State responses to transnational crime have evolved in correlation to the increased threat posed to the integrity of the state. Organized crime has been regarded primarily as a national security threat to be addressed domestically. The institutionalized international approaches for information sharing have been predominately bilateral to the extent of bringing to justice perpetrators of crime that are seeking to evade justice.\n(B) With the expansion of TNC in the 1990s, states became increasingly willing to take measures to reduce the asymmetries between countries through harmonization of legislation and increasing police capacity and networking. The government response to transnational crime has focused on targeting the individuals and organizations perpetrating the crime, rather than the criminal markets themselves.\n(C) The US war on drugs has heavily influenced the construction of the governmental response to the growing perception that the phenomenon of TNC represents a national security threat. The approach has an emphasis on bilateral and multilateral cooperation on law enforcement combined with sticks on a bi-lateral basis to induce states to increase regulation and enforcement against TNC.\n(D) The emergence of norms governing the response to address the spectre of organized crime and to harmonize legislation occurred with the evolving Global War on Terror in which the terrorism-organized crime nexus resulted in the militarization of law enforcement: the use of military technology and intelligence as opposed to addressing the underlying conditions that facilitate illicit trade through an international institutionalist response.",
+            "correct_answer": 1,
+            "model_answer": "Option B",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What potential problem for policy in the institutionalization of academe-policy interaction emerged?\n\n(A) The main disciplinary context for security studies theorizing was a move away from the disciplinary domination of political science toward multi-academe interaction from sociology, mathematics, psychology, natural and political sciences, and economics.\n(B) Policy-academe developments have resulted in the modification of the role of think tanks away from policy towards politicization resistant theory.\n(C) Security studies has been marked by the gradual \"IR-ification\" of the discipline. Security studies became one of International Relations' (IR's) two pillars, the second being International Political Economy. Henceforth IR became the main disciplinary context in which security studies was deliberated.\n(D) Think tanks and policymakers are increasingly interrelated. The institutional blurring between universities, think tank, and policy has resulted in policy mergers at every level.",
+            "correct_answer": 2,
+            "model_answer": "Answer: (C)",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is not one of the 10 steps of the Washington Consensus?\n\n(A) Fiscal Discipline: budget deficits of no more than 2 per cent of gross domestic product (GDP).\n(B) Tax Reform: broadening the tax base, cut marginal tax rates, improve tax administration.\n(C) Property Rights: legal reforms to secure property rights without excessive costs and to regularize the informal sector.\n(D) Nationalization: state enterprises should be protected.",
+            "correct_answer": 3,
+            "model_answer": "Sure, here's a detailed analysis and explanation of how I arrived at the correct answer:\n\nThere are 10 steps of the Washington Consensus policy framework advanced by the Institute for International Economics in 1999, as part of a consensus emerging from a gathering of leading economists and policymakers in Washington, D.C. The ten principles are:\n(1) macroeconomic stabilization, (2) trade liberalization, (3) fiscal responsibility, (4) exchange rate flexibility, (5) privatization, (6) deregulation, (7) monetary policy independence, (8) fostering investment, (9) openness to migration, and (10) corruption control.\n\nOut of these 10 steps, option (D) \"Nationalization: state enterprises should be protected\" is not one of the 10 steps of the Washington Consensus.\n\n(A) \"Fiscal Discipline: budget deficits of no more than 2 per cent of gross domestic product (GDP)\": This step is included in the Washington Consensus.\n(B) \"Tax Reform: broadening the tax base, cut marginal tax rates, improve tax administration\": This step is also included in the Washington Consensus.\n(C) \"Property Rights: legal reforms to secure property rights without excessive costs and to regularize the informal sector\": This step is also included in the Washington Consensus.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following concepts does NOT form part of the technical discourse on cyber-security?\n\n(A) Business networks\n(B) Computer experts\n(C) Anti-virus industry\n(D) Computer networks",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (C). The concept of the anti-virus industry does form part of the technical discourse on cyber-security.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "What are the characteristics and manifestations of the strategy adopted by the USA in pursuit of energy security?\n\n(A) The deployment of troops in the Persian Gulf is part of the USA's attempt to secure its dominance in the oil-rich region.\n(B) All of these options.\n(C) The USA has sought to assert its primacy vis-\u00e0-vis friendly and rival powers, through the deployment of troops and other interventions.\n(D) The USA has actively sought to stabilize oil-rich friendly political actors and secure the economic and political status quo.",
+            "correct_answer": 1,
+            "model_answer": "B, it is using a combination of the options",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In what ways do theories of conventional and critical social constructivism differ?\n\n(A) Conventional constructivists view constructivism as a bridge between rationalist and reflectivist approaches, enabling both to benefit from the insights of the other. Conversely, critical constructivists argue that this approach simply reproduces the binary distinctions that characterize positivist methodology.\n(B) Critical constructivism regards the strength of social constructivism to be its ability to bridge rationalist and reflectivity approaches. Conversely, social constructivists regard this as an unhelpful regression to positivist binary frameworks of analysis.\n(C) Conventional constructivism refers to the earlier works of social constructivist theorists that are characterised by a rejection of positivist methodology. Critical constructivists challenge these theories, embracing positivist methodologies in their work.\n(D) Social constructivism is best understood as a uniform approach to the construction of social identities and security; although distinctions exist within the field, these are not easily defined as distinctive separate approaches.",
+            "correct_answer": 0,
+            "model_answer": "Option D \n\n(D) Social constructivism is best understood as a uniform approach to the construction of social identities and security; although distinctions exist within the field, these are not easily defined as distinctive separate approaches.",
+            "correct": false
+        }
+    ]
+}

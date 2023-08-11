@@ -1,0 +1,75 @@
+{
+    "score": 0.1,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The rate, r, of a zero-order chemical reaction A \u2192 B can be expressed as which of the following?\n\n(A) r = k ln[A]\n(B) r = k [A]^2\n(C) r = k [A]\n(D) r = k",
+            "correct_answer": 3,
+            "model_answer": "Option (A) is correct, as the rate of a zero-order chemical reaction can be expressed as r = k.\n\nThe rate of a zero-order chemical reaction is defined as the rate of change of the reactant concentration with time. Therefore, the rate can be expressed as the product of the reaction constant (k) and the reactant concentration (A). In other words, r = k[A].\n\nOption (B) is incorrect, as [A]2 is not the reactant concentration. Option (C) is also incorrect, as [A] is not the reactant concentration. Option (D) is also incorrect, as k is not the reactant concentration.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because\n\n(A) all molecular bonds absorb IR radiation\n(B) IR peak intensities are related to molecular mass\n(C) most organic functional groups absorb in a characteristic region of the IR spectrum\n(D) each element absorbs at a characteristic wavelength",
+            "correct_answer": 2,
+            "model_answer": "IR spectroscopy is useful for determining the structure of organic molecules because it allows the identification and characterization of organic functional groups based on their distinctive IR absorption patterns. The wavelengths at which individual functional groups absorb IR radiation are specific to each group, and their relative intensity and position in the spectrum provide clues to their structure. For example, hydrogen bonding and ring symmetries can be identified through characteristic IR absorption patterns.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?\n\n(A) 2\n(B) 3\n(C) 4\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "I'll explain each step and where I'm getting my calculations from for the answer of B.\n\n1. Start with a 3 component mixture with components a, b, c. Let the sum of the masses of each component at equilibrium be given by A, B, C respectively. \n2. For the first phase at equilibrium, we have the following balance equations for components a, b, c:\n\na: mA = n0aVa + m1aVb + m2aVc (where VIA, VB and VCA are the individual compartment volumes, and n0a, m1a and m2a are components a's initial concentration, molar mass and mass respectively in compartment A) \nb: mB = n0bVb + m1bVa + m2bVc (n0b, m1b, m2b and VBA, VAB, VCA are defined above) \nc: mC = n0cVc + m1cVa + m2cVb (n0c, m1c, m2c and VCA are defined above)\n3. For the second equilibrium phase, we can just redo the same calculations using the VAc and VBc compartment volumes:\na: mA = n0aVa + m1aVb + m2aVc (VAa, m1a and m2a are defined above)\nb: mB = n0bVb + m1bVa + m2bVc (VAb, VBc, sum of molar masses VBA + VBc, and total mass B  are defined above) \nc: mC = n0cVc + m1cVa + m2cVb (defined above)\n4. Finally we repeat the same calculations for the third equilibrium phase using the VAc, VBc, VBA and VBA + VBc compartment volumes:\na: mA = n0aVa + m1aVb + m2aVc (VAa, m1a and m2a)\nb: mB = n0bVb + m1bVa + m2bVc (VBc and VBA)\nc: mC = n0cVc + m1cVa + m2cVb (VBc, VAc and VBA)\n\nWe see each component (a, b, c) can reach equilibrium with each other twice, since there are two compartments, and each component can be in two different phases, thus the maximum number of phases at equilibrium is B = 3",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "When the following equation is balanced, which of the following is true?\n__ MnO4\u2212 + __ I\u2212 + __ H+ <-> __ Mn2+ + __ IO3\u2212 + __ H2O\n\n(A) The I\u2212 : IO3\u2212 ratio is 3:1.\n(B) The MnO4- : I- ratio is 6:5.\n(C) The MnO4- : Mn2+ ratio is 3:1.\n(D) The H+ : I\u2212 ratio is 2:1.",
+            "correct_answer": 1,
+            "model_answer": "Sure, I'll calculate the balanced equation and explain each step along the way.\n\nStep 1: Chelating ligands are commonly used to balance out charges in chemical equations. In this case, we can proceed by assuming that all ligands are chelated to the metal ion.\n\nStep 2: Using the fact that one ligand can be removed by adding hydrogen ions, we can remove the water molecule from the end of the equation without affecting the balance of charges.\n\nStep 3: We can use this information to move the hydrogen ion onto the hydroxide ligand and remove the iodide by adding the peroxide ion.\n\nStep 4 (Part 1): Simplifying the equation, we get:\n\nMnO4- + I- + H+ <-> Mn2+ + IO3-\n\nStep 4 (Part 2): Recognizing that the iodide ion can be removed by adding water, we can replace the iodide ion with a water molecule without affecting the balance of charges.\n\nMnO4- + I- + H+ <-> Mn2+ + H2O + IO3-\n\nStep 5: From this point on, we can just rearrange terms and cancel charges to get the balanced form of the equation:\n\n2 MnO4- + I- + H+ <-> Mn2+ + 2 IO3- + H2O\n\n(Question): The I- : IO3- ratio is __:1__.\n\nSolution: To get the I- : IO3- ratio, we simply need to divide both sides of the equation by 2 and cancel out the charges.\n\n\n(Question): The MnO4- : I- ratio is __:5__.\n\nSolution: To get the MnO4- : I- ratio, we again need to divide both sides of the equation by 2 and cancel out the charges.\n\n\n(Question): The MnO4- : Mn2+ ratio is __:1__.\n\nSolution: To get the MnO4- : Mn2+ ratio, we again need to divide both sides of the equation by 2 and cancel out the charges.\n\n\n(Question): The H+ : I\u2212 ratio is __:2__.\n\nSolution: To get the H+ : I\u2212 ratio, we again need to divide both sides of the equation by 2 and cancel out the charges.\n\nSo the answer to the question is (D).",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The equation \u0394H = \u0394U + P\u0394V is applicable\n\n(A) always\n(B) only for constant pressure processes\n(C) only for constant temperature processes\n(D) only for constant volume processes",
+            "correct_answer": 1,
+            "model_answer": "Option A is always applicable since both \u0394H and \u0394U are always applicable.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a?\n\n(A) 3 lines\n(B) 9 lines\n(C) 5 lines\n(D) 7 lines",
+            "correct_answer": 1,
+            "model_answer": "To solve this problem, we need to consider the principles of electronic structure and ESR spectroscopy.\n\nThe EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a will consist of three components: the four-line pattern (g = 2.002), the doublet at g = 2.172 (A2g), and the EPR signal at g = 4.214 (Eg).\n\nThe four-line pattern is due to the hyperfine interaction between the unpaired electron and the nuclei of the nitrogen atoms of the nitronyl nitroxide diradical. The doublet at g = 2.172 is due to the splitting of the four-line pattern into two components, arising from the electrons in different pi systems of the nitronyl nitroxide diradical. The EPR signal at g = 4.214 is due to the interaction between the unpaired electron and the nuclei of the three hydrogen atoms attached to the nitrogen atom of the nitronyl nitroxide diradical.\n\nTherefore, the answer to the question is A (3 lines).",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?\n\n(A) Neutrons\n(B) Alpha particles\n(C) Beta particles\n(D) X-rays",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to identify the nuclear reaction that produces Cobalt-60.\n\nOption (A) - Neutrons: Cobalt-59 has a nuclear spin of 3/2, meaning it can form stable isotopes with even numbers of neutrons. By bombarding Cobalt-59 with neutrons, it can undergo a nuclear reaction called beta decay (electron capture), which converts it into Cobalt-60 (with an atomic number of 27 and a nuclear spin of 3/2). This is the correct answer.\n\nOption (B) - Alpha particles: Alpha particles are composed of two protons and two neutrons, which is not sufficient to create Cobalt-60, which has 27 protons and neutrons.\n\nOption (C) - Beta particles: Beta particles are high-energy electrons that are emitted during beta decay. However, this type of decay does not result in the creation of Cobalt-60.\n\nOption (D) - X-rays: X-rays are not capable of producing Cobalt-60 through nuclear reactions.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is required for both paramagnetism and ferromagnetism?\n\n(A) Strong oxidizing conditions\n(B) Low-spin electron configuration\n(C) Metallic physical properties\n(D) Unpaired electrons",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is (D): Unpaired electrons.\n\nBoth paramagnetism and ferromagnetism involve the presence of unpaired electrons, which can interact with an external magnetic field.\n\nParamagnetism occurs in substances that have some unpaired electrons but are not magnetically attracted to an external magnetic field.\n\nFerromagnetism, on the other hand, refers to the strong magnetic attraction that some materials exhibit in the presence of an external magnetic field, due to their spontaneous alignment of unpaired electrons in a particular direction.\n\nTherefore, unpaired electrons are the common feature required for both paramagnetism and ferromagnetism.\n\nA, B, and C are not associated with either paramagnetism or ferromagnetism.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\n\n(A) 1:1\n(B) 1:3\n(C) 1:6\n(D) 2:3",
+            "correct_answer": 2,
+            "model_answer": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. This information can be used to determine the ratio of the two concentrations, [DMSO]:[AN]. \n\nThe relative intensities of the two lines, \u03b1 and 3\u03b1, can be used to calculate the concentrations of DMSO and AN in the mixture.\n\nCalculating Concentrations\nWe can calculate the concentrations of DMSO and AN in the mixture using the following equation:\n\n[DMSO] = \u03b1/(\u03b1 + 3\u03b1)\n[AN] = 1 - [DMSO]\n\nGiven that the relative intensities of the two lines are \u03b1 and 3\u03b1, we can plug these values into the equation to solve for [DMSO] and [AN].\n\n\u03b1 = relative intensity of DMSO line\n3\u03b1 = relative intensity of AN line\n[DMSO] = \u03b1/(\u03b1 + 3\u03b1)\n[AN] = 1 - [DMSO]\n\nSubstituting the values, we get:\n\n\u03b1 = 1.3 ppm\n3\u03b1 = 1.7 ppm\n[DMSO] = \u03b1/(\u03b1 + 3\u03b1)\n[AN] = 1 - [DMSO]\n\n= 1.3 ppm / (1.3 ppm + 1.7 ppm)\n= 1.3 ppm / 2.9 ppm\n= 0.44085... mol/L\n\n= 0.44 mol/L",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following statements most accurately explains why the T1 of a nucleus is sometimes longer than its T2?\n\n(A) T1, unlike T2, is sensitive to very low-frequency molecular motions.\n(B) T2, unlike T1, is sensitive to very low-frequency molecular motions.\n(C) T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.\n(D) T2, unlike T1, is sensitive to molecular motions at the Larmor frequency.",
+            "correct_answer": 3,
+            "model_answer": "T1 and T2 are nuclear magnetic resonance (NMR) relaxation times that describe the decay of nuclear magnetic resonance signals. They are affected by molecular motions, including low-frequency motions such as chemical shifts and quadrupole relaxation.\n\nOption A is incorrect because T1 is not specifically sensitive to very low-frequency molecular motions. It is sensitive to all types of molecular motions, including low-frequency motions, but not to a greater extent than T2. Option B is also incorrect because T2 is not specifically sensitive to very low-frequency molecular motions either. Both T1 and T2 are affected by molecular motions of all frequencies.\n\nOption C is correct because T1 is mainly affected by molecular motions at the Larmor frequency. The Larmor frequency is the frequency at which the nucleus precesses in a magnetic field. Since T1 is sensitive to molecular motions at the Larmor frequency, it can sometimes be longer than T2, which is not as sensitive to motions at this frequency.",
+            "correct": false
+        }
+    ]
+}

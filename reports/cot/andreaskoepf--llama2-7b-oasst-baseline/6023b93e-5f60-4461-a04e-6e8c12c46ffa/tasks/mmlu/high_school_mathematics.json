@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "If a pentagon P with vertices at (\u2013 2, \u2013 4), (\u2013 4, 1), (\u20131, 4), (2, 4), and (3, 0) is reflected across the line y = x to get a new pentagon, P\u2019, then one of the vertices of P\u2019 is\n\n(A) (0, \u2013 3)\n(B) (4, 1)\n(C) (2, 2)\n(D) (\u2013 4, \u20132)",
+            "correct_answer": 3,
+            "model_answer": "First, we need to identify the five vertices of the pentagon P. We can do this by plotting the points on a coordinate plane (where x represents the horizontal coordinate, and y represents the vertical coordinate).\n\n(\u20132, \u20134)\n(\u20134, 1)\n(-1, 4)\n(2, 4)\n(3, 0)\n\nNow, we need to reflect P across the line y = x. To do this, we need to map each vertex onto the line y = x. This can be done by looking at the equation of the line and figuring out how to transform each vertex onto it.\n\nTo reflect the first vertex, (\u20132, \u20134), across the line y = x, we need to transform it by shifting it up by y = x and then flipping it horizontally.\n\nSo, the transformed vertex is: (\u20132, \u20134) + (0, 1) = (-2 + 0, \u20134 + 1) = (-2, 3) (This is because we shift the vertex up by y = x, which is 1, and then flip it horizontally.)\n\nSimilarly, we can reflect the other vertices onto the line y = x as follows:\n\n(\u20134, 1) + (0, 1) = (-4 + 0, 1 + 1) = (-4, 2) (This is because we shift the vertex up by y = x, which is 1, and then flip it horizontally.)\n(-1, 4) + (1, 1) = (\u20131 + 1, 4 + 1) = (0, 5) (This is because we shift the vertex up by y = x, which is 1, and then flip it horizontally.)\n(2, 4) + (0, 1) = (2 + 0, 4 + 1) = (2, 5) (This is because we shift the vertex up by y = x, which is 1, and then flip it horizontally.)\n(3, 0) + (1, 1) = (3 + 1, 0 + 1) = (4, 1) (This is because we shift the vertex up by y = x, which is 1, and then flip it horizontally.)\n\nNow, we can compare the five vertices of P\u2019 (the new pentagon after reflection) with the five vertices of P to find the correct answer.\n\nThe five vertices of P\u2019 are: (0, \u20133), (4, 1), (2, 2), (\u20134, \u20132), and (\u20132, 3).\n\nWe can eliminate some of these vertices based on their coordinates:\n\n(0, \u20133) is not one of the vertices of P, since it does not match up with any of the coordinates of the vertices of P.\n\n(4, 1) is not one of the vertices of P, since it does not match up with any of the coordinates of the vertices of P.\n\n(\u20134, \u20132) is not one of the vertices of P, since it does not match up with any of the coordinates of the vertices of P.\n\nSo, we are left with the following four vertices: (2, 2), (2, 5), (\u20132, 3), and (\u20132, 3).\n\nOf these four vertices, only (2, 2) matches up with all of the coordinates of the vertices of P: (\u20132, \u20134), (\u20134, 1), (-1, 4), (2, 4), and (3, 0).\n\nTherefore, the correct answer is (2, 2).",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The length of a rectangle is twice its width. Given the length of the diagonal is $5\\sqrt{5}$, find the area of the rectangle.\n\n(A) 2500\n(B) 2\n(C) 50\n(D) 25",
+            "correct_answer": 2,
+            "model_answer": "First we need to find the width of the rectangle. Since the length of the diagonal is $5\\sqrt{5}$, and the length is twice the width, we can write the formula:\n\n$l = 2 * w$\n\nSo we can substitute $l$ for $2*w$ in the square of the length equation and solve for $w$:\n\n$l^2 = 4w^2 + 25\\sqrt{5}$\n\n$w^2 = \\frac{l^2 - 25\\sqrt{5}}{4}$\n\nNow that we have the width of the rectangle, we can find the area using the formula:\n\n$A = l * w = 2w * w = \\frac{l^2 - 25\\sqrt{5}}{16}$\n\nSubstituting $w$ from the previous step into this formula, we get:\n\n$A = 2*w*w = \\frac{l^2 - 25\\sqrt{5}}{16}$\n\nSo the area of the rectangle is:\n\n$A = \\frac{l^2 - 25\\sqrt{5}}{16}$",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "A positive integer n is called \u201cpowerful\u201d if, for every prime factor p of n, p^2 is also a factor of n. An example of a powerful number is\n\n(A) 392\n(B) 336\n(C) 300\n(D) 297",
+            "correct_answer": 0,
+            "model_answer": "Sure!\n\nLet p be a prime factor of n. \nThen, we have  p^2 | n.\nOn the other hand, if p^2 is a factor of n, then by the definition of powerful,  p^2 must be a divisor of n^2, i.e. n^2 | p^2.\nHence, n^2 must divide both n and p^2. \nThus n | p^2, i.e. the powerful number n must have all its factors being of the form p^2 or p^3. \n\nAmong the options, only (A) 392 meets all these requirements, and it is therefore a powerful number.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "At breakfast, lunch, and dinner, Joe randomly chooses with equal probabilities either an apple, an orange, or a banana to eat. On a given day, what is the probability that Joe will eat at least two different kinds of fruit?\n\n(A) \\frac{7}{9}\n(B) \\frac{8}{9}\n(C) \\frac{5}{9}\n(D) \\frac{9}{11}",
+            "correct_answer": 1,
+            "model_answer": "Let x be the number of different kinds of fruit that Joe eats on a given day. We can represent this situation using a probability tree as follows:\n\nOrange (1)\n- Apple (2) or Orange (3)\n- Banana (4) or Orange (5)\nApple (6)\n- Banana (7) or Apple (8)\nBanana (9)\n\nFrom the tree, we can calculate the probability of Joe eating at least two different kinds of fruit as follows:\n\nTotal outcomes: (10Cx) + (9C(x-1)) + (8Cx-2) + (7Cx-3) + (6Cx-4) + (5Cx-5) + (4Cx-6) + (3Cx-7) + (2Cx-8) + (1Cx-9)\n\nNumber of outcomes where Joe eats at least two different kinds of fruit: (x-1)!\n\nProbability: ( Total outcomes ) / ( Number of outcomes where Joe eats at least two different kinds of fruit )\n\n= (10Cx) + (9C(x-1)) + (8Cx-2) + (7Cx-3) + (6Cx-4) + (5Cx-5) + (4Cx-6) + (3Cx-7) + (2Cx-8) + (1Cx-9)\n/ (x-1)!\n\n= 10 + 9 + 8 - 2 + 7 - 3 + 6 + 5 + 4 - 1\n\n= 10 + 9 + 8 - 2\n\n= 19\n\nTherefore, the answer is:\n\n(B) \\frac{8}{19}",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Suppose $f(x)$ is a function that has this property: For all real numbers $a$ and $b$ such that $a<b$, the portion of the graph of $y=f(x)$ between $x=a$ and $x=b$ lies below the line segment whose endpoints are $(a,f(a))$ and $(b,f(b))$. (A function with this property is called strictly convex.) Given that $f(x)$ passes through $(-2,5)$ and $(2,9)$, what is the range of all possible values for $f(1)$? Express your answer in interval notation.\n\n(A) (-inf, 10)\n(B) (-inf, 9)\n(C) (-inf, 8)\n(D) (-inf, 7)",
+            "correct_answer": 2,
+            "model_answer": "Unfortunately the questions you have asked are unfortunately unclear. If you could please rephrase the question I would be happy to producing a correct answer.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "John divided his souvenir hat pins into two piles. The two piles had an equal number of pins. He gave his brother one-half of one-third of one pile. John had 66 pins left. How many pins did John originally have?\n\n(A) 396\n(B) 72\n(C) 66\n(D) 36",
+            "correct_answer": 1,
+            "model_answer": "To find the number of pins that John originally had, we can follow these steps:\n\n1. John divided his souvenir hat pins into two piles, each with an equal number of pins.\n2. He then gave his brother one-third of one of the piles, which means he had to take one-third of the total number of pins in both piles.\n3. John then took one-half of the remaining pins in the other pile, which means he took half of what was left after giving his brother one-third of one pile.\n4. Finally, John was left with 66 pins.\n\nFrom these steps, we can see that the total number of pins John originally had must be the sum of the number of pins in both piles before he divided them, plus one-third of the number of pins in one pile, plus one-half of the number of pins in the other pile.\n\nWe can write this as:\nTotal pins = pins in first pile + pins in second pile - one-third pins in first pile + one-half pins in second pile\n\nPlugging in the values we know:\nTotal pins = pins in first pile + pins in second pile - one-third pins in first pile + one-half pins in second pile\n\nTotal pins = 2 x (equal number of pins in both piles) - one-third (equal number of pins in one pile) + one-half (equal number of pins in other pile)\n\nTotal pins = 2 x equal number of pins in both piles - one-third (equal number of pins in one pile) + one-half (equal number of pins in other pile)\n\nTotal pins = 2 x equal number of pins in both piles\n\nFinally, we can rearrange the equation to get the number of pins John originally had:\nTotal pins = 2 x equal number of pins in both piles\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\nTotal pins = 2 x (equal number of pins in both piles / 2)\n\n\nTherefore, John originally had 396 souvenir hat pins.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "A meteorologist reports that there is a 30% probability of rain and no sun. If there is a 40% probability of no rain, then the probability of both rain and sun is\n\n(A) 0.16\n(B) 0.24\n(C) 0.3\n(D) 0.5",
+            "correct_answer": 2,
+            "model_answer": "The probability of rain and sun is 0.06 (or 6%) as the probability of rain is 0.3 and the probability of no rain is 0.4.\nTherefore option (C) is the answer.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the sum of all positive integer values of $n$ such that $n^2$ is a factor of $1200$?\n\n(A) 42\n(B) 12\n(C) 36\n(D) 39",
+            "correct_answer": 0,
+            "model_answer": "When $n^2$ is a factor of $1200$, we can write $1200 = n^2$ where $n = 30$. So the sum of all positive integers $n$ such that $n^2$ is a factor of $1200$ is $30$.\n\n(A) 42 is not a valid answer.\n\n(B) 12 is not a valid answer.\n\n(C) 36 is not a valid answer.\n\n(D) 39 is the correct answer.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "We roll a fair 6-sided die 5 times. What is the probability that we get a 6 in at most 2 of the rolls?\n\n(A) \\frac{125}{648}\n(B) \\frac{25}{648}\n(C) \\frac{625}{648}\n(D) \\frac{1}{648}",
+            "correct_answer": 2,
+            "model_answer": "We can determine the probability of getting a 6 in at most 2 rolls by excluding the outcomes where we get 6 in more than 2 rolls.\n\nThere are 6 ways to roll the die 5 times (1, 2, 3, 4, 5 or 6 on each roll)\n\nThere are 3 ways to get a 6 in exactly 1 roll\nThere are 2 ways to get a 6 in exactly 2 rolls\nThere are 1 way to get a 6 in exactly 3 rolls\nThere are 0 ways to get a 6 in exactly 4 or 5 rolls\n\nTherefore, the probability of getting a 6 in at most 2 rolls is:\n\n        (3 / 6) * (2 / 6) - (1 / 6) * (0 / 6) = 2/3\n\nNow it's your turn to show your work!",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "How many arithmetic sequences of consecutive odd integers sum to 240?\n\n(A) 8\n(B) 12\n(C) 10\n(D) 4",
+            "correct_answer": 1,
+            "model_answer": "You're looking for an arithmetic sequence of consecutive odd integers, where the first term is 1 and the common difference is 3.\n\nTo find the number of such sequences that sum to 240, we can use the formula for the nth term of an arithmetic sequence:\n\na_(n+1) = a_n + d\n\nwhere d is the common difference.\n\nSubstituting n = 39 and d = 3, we get:\n\na_(40) = a_(39) + 3 = 3 + 3 = 6\na_(41) = a_(39) + 3 = 6 + 3 = 9\na_(42) = a_(39) + 3 = 9 + 3 = 12\na_(43) = a_(39) + 3 = 12 + 3 = 15\n\nNote that we only need to include the first 43 terms, since the first term is 1 and there are no terms larger than 43.\n\nWe can keep track of the number of terms in each sequence that sum to 240 by keeping a running total, like this:\n\n| Starting Term | Ending Term | Number of Terms | Sum |\n--- | --- | --- | --- |\n1 | 39 | 0 | 0 |\n40 | 42 | 3 | 6 + 9 + 12 = 27 |\n43 | 43 | 4 | 15 |\n\nWe can see that there are 4 arithmetic sequences of 39 odd integers that sum to 240. Each of these sequences has the following form:\n\n{1, 3, 5, 7, ..., 39} + {3, 6, 9, 12, ..., 42} and the common difference is 3.\n\nTherefore, the final answer is (A) 8.\n\nNote that you can also use recursion to solve this problem efficiently.",
+            "correct": false
+        }
+    ]
+}

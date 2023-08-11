@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?\n\n(A) Generational\n(B) Blackbox\n(C) Whitebox\n(D) Mutation-based",
+            "correct_answer": 2,
+            "model_answer": "Based on the provided descriptions, the blackbox style of fuzzer is more likely to explore paths covering every line of code in the given program.\n\nA generational fuzzer focuses on finding input patterns that cause the program to terminate in different ways, but it may not cover every line of code thoroughly. The other styles, whitebox and mutation-based, are built on knowledge of the program and its input format, which can limit their ability to explore unexpected paths or corner cases.\n\nBlackbox fuzzers work by injecting random or semi-random input into the program, allowing them to explore a wider range of possible inputs without knowledge of the program's internal structures. This makes them well-suited for exploring the full behavior space of the program and uncovering unexpected behavior, including paths that cover every line of code.\n\nOverall, a blackbox style of fuzzer is more likely to explore paths covering every line of code in a given program because it does not depend on knowledge of the program structure or input format, allowing it to explore a wider range of possibilities.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don\u2019t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replaying bytes that a client sent earlier.\n2. An attacker impersonating the server.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 0,
+            "model_answer": "The correct option is (A).\n\nTLS protects against attacks such as replay attacks and impersonation attacks. replay attacks where the attacker replays bytes that a client sent earlier to the server, and impersonation attacks where the attacker pretends to be the server by sending forged server certificates to the client.\n\nSo, TLS protects against attacks such as replay attacks and impersonation attacks, which are described in option (A).",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "MIT\u2019s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?\n\n(A) The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.\n(B) When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket\u2019s maximum lifetime.\n(C) When a client connects to a server, the server compares the ticket\u2019s expiration time to the server\u2019s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.\n(D) When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC\u2019s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.",
+            "correct_answer": 2,
+            "model_answer": "Answer: (C) When a client connects to a server, the server compares the ticket's expiration time to the server's current clock, and refuses to authenticate the user if the ticket expiration time is in the past.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In Message Condentiality, the transmitted message must make sense to only intended\n\n(A) Receiver\n(B) Sender\n(C) Modulor\n(D) Translator",
+            "correct_answer": 0,
+            "model_answer": "For the message to only make sense to the intended receiver, we can use a function that takes in a plain message and returns only the elements that the intended receiver can understand.\nThe message must make sense to the intended receiver:\nSure, it can be done using a function `parse_message` that takes in a plain message and returns only the elements that the intended receiver can understand:\n```python\ndef parse_message(message):\n  # Add some logic here to parse the message into parts that the intended receiver can understand\n  return parts\n```\nUsing this function, we can construct a new message for the intended receiver:\n```python\n# Test message\nmessage = \"I love pyton\"\n\n# Parse message into parts that the intended receiver can understand\nparts = parse_message(message)\n\n# Construct new message for intended receiver that only includes parts they can understand\nnew_message = ''.join(parts)\n```\nThe new message `new_message` only includes elements that the intended receiver can understand.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is a remote Trojan?\n\n(A) Troya\n(B) DaCryptic\n(C) BankerA\n(D) Game-Troj",
+            "correct_answer": 0,
+            "model_answer": "Working through the possibilities:\n\n**If the answer is Troya, '(A)' is the correct response.** It is a remote Trojan, so that satisfies the criteria.\n\n**If the answer is DaCryptic, '(B)' is the correct response.** It is a remote Trojan, so that also satisfies the criteria.\n\n**If the answer is BankerA, '(C)' is the correct response.** It is not a remote Trojan, but a banking Trojan. Therefore, it is not a 'remote Trojan'. So, '(D)' should be the correct response.\n\n**If the answer is Game-Troj, '(D)' is the correct response.** It is not a remote Trojan, but a game Trojan. Again, '(D)' is the correct response.\n\nTherefore, the final response would be '(D) Game-Troj'.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "______________ is a widespread app\u2019s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.\n\n(A) Memory leakage\n(B) Buffer-overrun\n(C) Less processing power\n(D) Inefficient programming",
+            "correct_answer": 1,
+            "model_answer": "Memory leakage.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.\n\n(A) all instructions that modify segment state\n(B) all loads or stores to addresses that are not 0 mod 32\n(C) all indirect loads or stores (via an address in a register or variable)\n(D) all indirect jumps (via an address in a register or variable)",
+            "correct_answer": 0,
+            "model_answer": "(C) all indirect loads or stores",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "____________ is also a part of darknet that is employed for transferring files anonymously.\n\n(A) Freenet\n(B) ARPANET\n(C) Stuxnet\n(D) Internet",
+            "correct_answer": 0,
+            "model_answer": "The answer to the question is (A) Freenet.\n\nFreenet is a darknet that allows for the transfer of files anonymously. Darknets are networks that are designed to be difficult to access and navigate, and are often used for illegal activities such as drug trafficking, weapons smuggling, and other criminal activity. Freenet is a separate overlay network that runs on top of the internet, allowing users to share files anonymously. It works by using a decentralized network of nodes to route traffic around censorship and surveillance. Files are stored in a data structure called a \"darknet\" which allows them to be accessed anonymously. Freenet is also used for sharing other types of information, such as news articles and political documents.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Why apps developed in languages like C, C++ is prone to Buffer-overflow?\n\n(A) No string boundary checks in predefined functions\n(B) No storage check in the external memory\n(C) No processing power check\n(D) No database check",
+            "correct_answer": 0,
+            "model_answer": "A buffer overflow occurs when a program tries to write more data into a buffer than the buffer is designed to hold.  In languages like C and C++, the buffer is typically an array of characters or bytes that is used to store data temporarily while it is being read or written to another location.\n\nOne of the reasons why buffer overflows are common in programs written in C and C++ is because these languages do not have any built-in mechanisms to prevent string boundary checks.  This means that there is no automatic null termination check to ensure that a string of characters ends with a null character.  When a program tries to write a string of characters into a buffer that is designed to hold a different length of data, it can result in an overflow and potentially cause the program to crash or be vulnerable to security exploits.\n\nAnother reason is because these languages do not have any built-in storage checks in the external memory.  This means that programmers are tasked with validating and verifying all types of memory accesses.  If a program tries to access an array that is beyond its boundaries or tries to write to a location that is not allocated, it can result in an overflow and potentially cause the program to crash or be vulnerable to security exploits.\n\nFinally, while C and C++ do have powerful programming constructs, they can also lead to buffer overflows if programmers do not take the necessary precautions.  C and C++ programs are often written in a low-level language, which means that they have direct access to the hardware and memory.  This can lead to increased performance but also increased risk of buffer overflows if programmers do not take the necessary precautions, such as verifying all memory accesses and ensuring that strings are properly terminated.\n\nIn summary, buffer overflows occur in C and C++ programs because of (1) the lack of automatic string boundary checks, (2) the lack of storage checks in the external memory, and (3) the increased power of the language which can lead to programmers overlooking important precautions.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not\n\n(A) Joined\n(B) Authenticated\n(C) Submitted\n(D) Shared",
+            "correct_answer": 1,
+            "model_answer": "In order to prevent a man-in-the-middle attack from endangering the security of the Diffie-Hellman method, it is important that both parties be properly authenticated and have submitted valid keys to the other party. Without these steps, an attacker in the middle could pretend to be one of the parties and participate in the Diffie-Hellman exchange, allowing them to eavesdrop on the key exchange and potentially use that information to decrypt sensitive data later. Therefore, the correct answer is (B) and (C).",
+            "correct": false
+        }
+    ]
+}

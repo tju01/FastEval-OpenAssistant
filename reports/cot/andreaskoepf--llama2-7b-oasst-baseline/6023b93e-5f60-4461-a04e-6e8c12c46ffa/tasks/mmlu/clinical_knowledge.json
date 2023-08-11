@@ -1,0 +1,75 @@
+{
+    "score": 0.1,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?\n\n(A) 18 gauge.\n(B) 20 gauge.\n(C) 22 gauge.\n(D) 24 gauge.",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (A) 18 gauge.\n\nIn order to deliver rapid blood transfusion, a larger cannula is needed as it can provide greater flow rate and reduce the time required for transfusion. According to the current medical knowledge (as of 2020), an 18 gauge cannula is commonly used for rapid blood transfusion due to its large size and high flow rate.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The key attribute in successful marathon running is:\n\n(A) strength.\n(B) power.\n(C) stride length.\n(D) stamina.",
+            "correct_answer": 3,
+            "model_answer": "In marathon running, the key attribute that determines success is **stamina**, also known as endurance. This attribute refers to an athlete's ability to sustain physical exertion over a prolonged period of time.\n\nDuring a marathon, athletes must be able to maintain a consistent pace and resist the urge to slow down or stop, which requires significant endurance. Training for a marathon often involves consistent and intense training sessions that improve cardiovascular fitness, muscular endurance, and flexibility and reduces the risk of injury.\n\nStrength, power, stride length, and stamina are all important attributes for marathon running, but stamina is the most critical factor in determining success. Without stamina, even the strongest and most powerful runners would be unable to finish a marathon.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is the commonest cause of dementia in the UK?\n\n(A) Alzheimer's disease.\n(B) Cerebrovascular (stroke) disease.\n(C) Lewy body dementia.\n(D) HIV infection.",
+            "correct_answer": 0,
+            "model_answer": "I cannot provide a definitive answer as to which is the commonest cause of dementia in the UK, as this information may be outdated or inaccurate. However, I can provide you with some information about the causes of dementia and their prevalence based on recent data.\n\nAccording to the Alzheimer's Society, Alzheimer's disease is the most common type of dementia in the UK, accounting for around two-thirds of all diagnoses. However, this figure can vary depending on the source of data and the geographic area being assessed.\n\nCerebrovascular disease, which is caused by blockages or bleeding in the brain's blood vessels, is the second most common cause of dementia.\n\nLewy body dementia, which is characterized by the presence of abnormal protein structures called Lewy bodies in the brain, is less common but still a significant cause of dementia.\n\nHIV infection is associated with a higher risk of dementia, but it is not a common cause of dementia in the UK, as antiretroviral therapy has significantly reduced the risk of HIV-related cognitive impairment.\n\nIt is important to note that the exact cause of dementia can vary greatly from person to person, and there may be multiple contributing factors at play. Additionally, the prevalence of dementia can vary based on a number of factors, including age, geography, and socioeconomic status.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is NOT a symptom of anaphylaxis?\n\n(A) Stridor.\n(B) Bradycardia.\n(C) Severe wheeze.\n(D) Rash.",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Eliminate options that are not symptoms of anaphylaxis\n\nSymptoms of anaphylaxis include:\n\n    Severe wheeze\n    Rash          (C) Severe wheeze\n    Bradycardia   (B) Bradycardia\n    Stridor        (A) Stridor\n\nStep 2: Select the correct option\n\nOption D is the correct option, as a rash is a symptom of anaphylaxis. The other options are not symptoms of anaphylaxis.\n\nAnswer: Rash is a symptom of anaphylaxis. The other options are not symptoms of anaphylaxis.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "In what situation are closed pouches applied?\n\n(A) The patient has a semi-formed or liquid output.\n(B) The patient has a colostomy.\n(C) In the immediate post-operative period.\n(D) The patient has a urostomy.",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (C). Open pouches are typically applied in the immediate post-operative period, but closed pouches are typically used for patients who have a colostomy, a urostomy, or a semi-formed or liquid output.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "With an increasing number of sprints the:\n\n(A) anaerobic contribution progressively increases.\n(B) pH of the muscle falls below 6.0.\n(C) blood glucose concentration falls below 3 mmol/L.\n(D) relative contribution of aerobic metabolism increases.",
+            "correct_answer": 3,
+            "model_answer": "The correct answer is \"D\", which means \"the relative contribution of aerobic metabolism increases\" among the options given.\n\nExplanation: As the number of sprints increases, the body's ability to utilize aerobic metabolism for energy production increases, while the contributions of anaerobic metabolism and blood glucose levels tend to decrease. Anaerobic metabolism involves the breakdown of glucose without oxygen, which produces ATP quickly but also produces lactic acid as a byproduct, which can cause muscle fatigue and soreness. A pH below 6.0 can occur when there is an accumulation of hydrogen ions in the muscle, which can impact muscle function and recovery. Therefore, none of the other options accurately capture the effect of increased sprints on metabolism.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is true in diplopia?\n\n(A) Diplopia can never occur if one eye is covered\n(B) The outer image is always the false image\n(C) A fourth nerve palsy occurs when the patient looks upwards\n(D) A sixth nerve palsy causes a divergent squint",
+            "correct_answer": 1,
+            "model_answer": "Diplopia is a medical condition that refers to the double vision, which can be caused by a variety of reasons, including problems with the eye alignment, injury to the eye muscles or the nerves that control them, or diseases such as multiple sclerosis or stroke.\n\nOf the given options, only (D) is true in diplopia. A sixth nerve palsy is one of the causes of diplopia, in which the patient experiences double vision due to the paralysis or weakness of the muscles that control the movement of the eye. Specifically, a sixth nerve palsy occurs when the muscle that controls the upward movement of the eye (levator palpebrae superioris) is affected. As a result, when the patient looks upwards, they will experience a divergent squint, which is a type of diplopia where the images are separated vertically.\n\nTherefore, the correct answer to the question is (D).",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Sodium bicarbonate ingestion improves middle distance running performance by:\n\n(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(B) reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(C) elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.\n(D) elevating the pre-exercise muscle pH.",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A).\n\nWhen athletes consume sodium bicarbonate before engaging in a middle-distance running event, it can improve their performance by elevating the pH and buffering capacity of the extracellular fluid. This allows for a faster efflux of hydrogen ions from muscle, which helps to reduce acidosis and improve muscle function. Acidosis can cause muscle fatigue and impair performance, so elevating the pH in the extracellular fluid can help to improve athletic performance by allowing the muscles to function more efficiently.\n\nHere are the steps to arrive at this conclusion:\n\n(1) Sodium bicarbonate ingestion improved middle-distance running performance: It is well-established that sodium bicarbonate ingestion can improve performance in short-duration, high-intensity events. However, it is less clear whether it can also improve performance in longer, middle-distance events. Some studies have shown mixed results, but there is evidence to suggest that sodium bicarbonate may have a positive effect on middle-distance running performance.\n\n(2) Theory on how sodium bicarbonate might improve performance: One theory that has been put forward to explain how sodium bicarbonate might improve performance is by elevating the pH and buffering capacity of the extracellular fluid. When athletes consume sodium bicarbonate before engaging in exercise, it leads to an increase in carbon dioxide levels in the bloodstream. This carbon dioxide reacts with water in the blood to form carbonic acid. The carbonic acid then dissociates into hydrogen ions (H+) and bicarbonate ions (HCO3-). The increased hydrogen ion concentration can lead to acidosis, which can cause muscle fatigue and impair performance. By increasing the pH and buffering capacity of the extracellular fluid, sodium bicarbonate can help to reduce acidosis and improve muscle function.\n\n(3) Experimental study supporting claim: In a 2011 study published in the Journal of Science and Medicine in Sport, researchers compared the effects of sodium bicarbonate ingestion on running performance in amateur middle-distance runners. The participants were divided into two groups: One group ingested sodium bicarbonate (NaHCO3) immediately before the exercise test, while the other group ingested a placebo. Both groups ran a series of time trials at different distances, and their performance was analyzed.\n\nThe results showed that the group that ingested sodium bicarbonate had significant improvements in their performance compared to the placebo group. Specifically, they had lower heart rates, higher blood lactate levels, and improved running times at the 3,000-meter distance. The researchers attributed these improvements to the elevation of the pH and buffering capacity of the extracellular fluid, which allowed for a faster efflux of hydrogen ions from muscle.\n\n(4) Other studies supporting claim: Additional research has also shown that sodium bicarbonate ingestion can have positive effects on middle-distance running performance. In one study, published in the British Journal of Sports Medicine, researchers gave athletes either sodium bicarbonate or a placebo before a 1500-meter time trial. The athletes who ingested sodium bicarbonate had significantly lower heart rates and faster running times than the placebo group.\n\nIn another study, published in the Journal of Applied Physiology, researchers gave athletes either sodium bicarbonate or a placebo before a 3000-meter time trial. The athletes who ingested sodium bicarbonate had lower heart rates and higher work rates than the placebo group.\n\n(5) Conclusion: Based on the available evidence, it can be concluded that sodium bicarbonate ingestion can improve middle-distance running performance by elevating the pH and buffering capacity of the extracellular fluid, allowing for a faster efflux of hydrogen ions from muscle. Raising the pH in the extracellular environment can help to reduce acidosis and improve muscle function, leading to improvements in performance.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Codons are composed of:\n\n(A) triplet sequences of nucleotide bases in mRNA or DNA .\n(B) quadruplet sequences of nucleotide bases in mRNA or DNA.\n(C) triplet sequences of amino acids in polypeptide chains.\n(D) triplet sequences of deoxyribose sugars in DNA.",
+            "correct_answer": 0,
+            "model_answer": "Option (A) is correct. Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Fatty acids are transported into the mitochondria bound to:\n\n(A) thiokinase.\n(B) coenzyme A (CoA).\n(C) acetyl-CoA.\n(D) carnitine.",
+            "correct_answer": 3,
+            "model_answer": "In order to transport fatty acids into the mitochondria, they need to be esterified with coenzyme A (CoA) in the cytosol. Coenzyme A is then transported into the mitochondria where it dissociates from the fatty acid complex and the fatty acid, now in the beta position of CoA, is taken up by carnitine acyltransferase, which transfers it to acetyl-CoA on the mitochondrial side. Acetyl-CoA then enters the citric acid cycle. Alternatively, short-chain fatty acids (C<sub>2</sub>\u2013C<sub>6</sub>) enter the mitochondria bound to thiokinase, which catalyzes the ATP-dependent transfer of acetyl groups to coenzyme A.",
+            "correct": false
+        }
+    ]
+}

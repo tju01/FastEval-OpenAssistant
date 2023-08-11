@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Nearsightedness results from\n\n(A) too much curvature of the cornea and lens\n(B) too little curvature of the cornea and lens\n(C) too much curvature of the iris and lens\n(D) too little curvature of the iris and lens",
+            "correct_answer": 0,
+            "model_answer": "You are correct, apart from your typos.\n\nThe answer is (A), \"too much curvature of the cornea and lens\".",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Delusions of grandeur are most characteristic of\n\n(A) OCD.\n(B) schizophrenia.\n(C) conversion disorder.\n(D) antisocial personality disorder.",
+            "correct_answer": 1,
+            "model_answer": "First, let's review the characteristics of each disorder:\n\n(A) Obsessive-Compulsive Disorder (OCD): OCD is characterized by obsessive thoughts and compulsive behaviors. It does not typically involve delusions of grandeur.\n(B) Schizophrenia: Schizophrenia is a mental disorder that involves hallucinations, delusions, and disorganized thinking. Delusions of grandeur are one of the typical symptoms of schizophrenia.\n(C) Conversion Disorder: Conversion disorder is a condition where a person experiences physical symptoms, such as paralysis or blindness, that have no physical cause. It is not typically associated with delusions of grandeur.\n(D) Antisocial Personality Disorder (ASPD): ASPD is characterized by a lack of empathy, deceitfulness, recklessness, and a history of illegal behavior. Delusions of grandeur are not typically included in the list of symptoms for ASPD.\n\nBased on the symptoms listed, we can conclude that delusions of grandeur are most characteristic of schizophrenia.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n\n(A) Homeostatic regulation\n(B) Goal-setting\n(C) Expectancy-value\n(D) Hierarchy of needs",
+            "correct_answer": 3,
+            "model_answer": "Answer: (D) Hierarchy of needs\n\nMaslow's hierarchy of needs is a theory that suggests that human motivation and behavior are influenced by a hierarchy of needs, ranging from the most basic physical needs to the highest level of self-actualization. This hierarchy suggests that the lower-order needs must be fulfilled before an individual can focus on higher-order needs. Therefore, this approach expresses the idea that some motives are more imperative to survival than others as it provides a framework for understanding the hierarchy of human needs. \n\n(A), (B), and (C) do not directly address the idea of motivation and survival in relation to Maslow's hierarchy. While homeostatic regulation, goal-setting, and expectancy-value have their own distinct meanings and applications, they do not directly align with Maslow's theory.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In test construction and evaluation, validity refers to the degree to which a test\n\n(A) measures what it purports to measure\n(B) yields consistent results on successive administrations\n(C) has been piloted and statistically analyzed\n(D) includes norms based on a representative sample of the general population",
+            "correct_answer": 0,
+            "model_answer": "The validity of a test refers to the extent to which it measures what it is designed to measure, and it can be divided into four types: content validity, construct validity, criterion validity, and face validity.\n\nContent validity refers to the extent to which the items on the test cover all the essential content or concepts related to the test's purported outcome.\n\nConstruct validity refers to the extent to which the test measures the construct (i.e., the underlying idea or concept) that it was designed to measure. For example, a test of reading comprehension might be designed to measure the ability to understand and interpret written text.\n\nCriterion validity refers to the extent to which the test scores can be related to other measures of the same construct or to performance on related tasks. For example, a test of reading comprehension might be compared to scores on a test of vocabulary to determine how well the reading comprehension test measures reading ability.\n\nFace validity refers to the extent to which the test appears to be measuring what it is designed to measure, based on its format, content, and instructions.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The precedent established in Larry P. v. Riles resulted in\n\n(A) the provision of a free, appropriate public education for students with disabilities\n(B) the provision of bilingual education for English-language learners\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race\n(D) the assignment of similar funding to athletic activities for boys and girls",
+            "correct_answer": 2,
+            "model_answer": "The answer to the question is (D), \"the assignment of similar funding to athletic activities for boys and girls.\"\n\nIn Larry P. v. Riles, the California Supreme Court held that schools had a constitutional obligation to provide equal opportunities for girls in athletics, and that this included providing equal funding for boys' and girls' athletic programs.\n\nThis precedent established the principle that schools must allocate similar funding for boys' and girls' athletic programs, and schools that discriminate against girls in athletics may be held liable under the California Constitution. This case is considered to be an important milestone in advancing gender equity in athletics, and it has had a lasting impact on laws and policies related to sports and gender equality in the United States and beyond.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "The heritability for traits of a cloned population is\n\n(A) 0%\n(B) 25%\n(C) 50%\n(D) 75%",
+            "correct_answer": 0,
+            "model_answer": "Sure! Given a dataset where genetic material from the parents is transferred to cloned offspring, we can estimate the heritability in the cloned population by dividing the variance in the cloned population by the total variance. We can also measure the covariance between cloned offspring, which approximates the sum of the parental genetic correlation and the within-group correlation between the offspring. We can calculate these estimates using the following equation:\n\nH = vC / (vT + vC)\n\nwhere H is the heritability estimate, vC is the variance explained by clonal relatedness, vT is the total variance (i.e., sum of within and between group variance), and is the covariance between cloned offspring.\n\nSolving for H, we can calculate that:\n\nH = vC / (vT + vC) = (vC - vT) / vC\n\nSince the cloned population by definition has the same genetic material as the parents, we can assume that the parental genetic correlation is close to 1. Therefore, substituting this value into the equation, we can calculate that:\n\nH = (vC - vT) / vC = vC / vC = 1\n\nTherefore, the heritability of the trait in the cloned population is 1, or 100%.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?\n\n(A) variance\n(B) mean\n(C) range\n(D) median",
+            "correct_answer": 0,
+            "model_answer": "Of the given options, the **median** statistic provides the most information about how spread out a distribution of scores is.\n\nThe **median** is the value in the middle of a sorted list of scores, when the list is even in length. If the list has an even number of scores, the middle two scores are averaged, and the resulting value is taken as the median. The median provides a good measure of central tendency and can be useful in comparing distributions across different samples or populations.\n\nFor example, imagine that we have three scores: 20, 40, and 60. The scores have been sorted in order from lowest to highest, so the median score is 40 (i.e., the middle score when the list is split in half). The median provides a good measure of how spread out the scores are, as it falls in the middle of the distribution.\n\nIn contrast, the **variance** and **range** statistics provide less information about the distribution of scores. The **variance** measures the overall dispersion or spread of scores in a distribution. It provides insight into how close the scores are to the mean in terms of whether they are high or low relative to the mean. However, it does not necessarily capture how spread out the scores are when they are plotted on a graph.\n\nSimilarly, the **range** simply measures the difference between the lowest and highest scores in a distribution. It provides information about the spread of scores, but it is not a measure of central tendency and does not take into account the distribution of scores in the middle of the distribution.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\n\n(A) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\n(B) They should provide professional but not administrative supervision.\n(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n(D) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+            "correct_answer": 3,
+            "model_answer": "Explanation:\n\nAccording to the NASP position statement, school psychologists who will be providing supervision in a school district should hold the Nationally Certified School Psychologist credential or the state school psychologist credential. This is because supervision is a complex and demanding task that requires specialized training and experience. School psychologists who are not certified or licensed, or who are interns, may not be able to provide effective supervision.\n\nTherefore, the most accurate option is (D).",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are\n\n(A) at the beginning of the list\n(B) in the middle of the list\n(C) at the end of the list\n(D) distributed throughout the list",
+            "correct_answer": 0,
+            "model_answer": "The answer appears to be \"C\", with the serial position effect being distributed throughout the list.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n\n(A) Piaget's cognitive development theory\n(B) Erikson's psychosocial stage theory\n(C) Kohlberg's moral development theory\n(D) Ainsworth's social attachment theory",
+            "correct_answer": 1,
+            "model_answer": "Here is my reasoning step-by-step:\n\nWhich developmental stage theory explained how experiences in infancy, childhood, adolescence, adulthood, and old age influence later personality characteristics?\n\nThe correct answer is (B) Erikson's psychosocial stage theory.\n\nHere's some additional information about Erikson's psychosocial stage theory:\n1. Erik Erikson, a psychoanalytic theorist, proposed a psychosocial stage theory of development that described the psychological changes that occur throughout the lifespan.\n2. Erikson identified eight stages of development, from birth to old age. Each stage is characterized by a psychosocial conflict that must be resolved in order for individuals to move on to the next stage.\n3. The first stage is the oral stage, which occurs from birth to 18 months. During this stage, the primary conflict is between trust and mistrust, as infants learn to trust or mistrust caregivers based on their responsiveness.\n4. The next stage is the anal stage, which occurs from 18 months to 3 years. The primary conflict is between independence and overcontrol, as toddlers learn to assert their independence while also learning how to control their impulses.\n5. The third stage is the phallic stage, which occurs from 3 to 6 years. The primary conflict is between initiative and guilt, as children learn to assert themselves while also developing a sense of guilt and shame.\n6. The fourth stage is the latency stage, which occurs from 6 to puberty. The primary conflict is between industry and inferiority, as children develop skills and abilities while also confronting feelings of inferiority.\n7. The fifth stage is the adolescent stage, which occurs from puberty to early adulthood. The primary conflict is between identity and role confusion, as adolescents struggle to establish a sense of their own identity while also exploring different roles and orientations.\n8. The sixth stage is the young adulthood stage, which occurs from early adulthood to mid-life. The primary conflict is between intimacy and isolation, as individuals work to establish close, intimate relationships while also confronting feelings of isolation and loneliness.\n9. The seventh stage is the mid-life crisis stage, which occurs from mid-life to old age. The primary conflict is between generativity and stagnation, as individuals work to pass on their knowledge and skills to future generations while also confronting feelings of stagnation and meaninglessness.\n10. The final stage is the old age stage, which occurs from old age to death. The primary conflict is between ego integrity and despair, as individuals work to maintain their sense of self and purpose while also confronting the inevitability of death.\n\nSo, in summary, Erikson's psychosocial stage theory explains how experiences in infancy, childhood, adolescence, adulthood, and old age influence later personality characteristics by describing the psychosocial conflicts that individuals must resolve at each stage of development.",
+            "correct": false
+        }
+    ]
+}

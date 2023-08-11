@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is (D).\n\nThe foramen rotundum is an opening on the external surface of the tympanic ring and it is the\ncommon exit of the facial nerve and the vestibular artery.\n\nA lesion causing compression of the facial nerve at the stylomastoid foramen will cause\nipsilateral paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.\n\nParalysis of the facial muscles, loss of taste and lacrimation combined together may cause\ndecreased salivation (C).\n\nParalysis of the facial muscles and loss of taste alone will not cause decreased salivation\n(B).\n\nParalysis of the facial muscles, loss of taste, lacrimation and decreased salivation are all\ncombined together, answer is (D).",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "D. defective development of the maxillary air sinus.\n\n    Note:\n\n    D is the correct answer as defective development of the maxillary air sinus is often associated with a \"dished face\" profile. The maxillary air sinus is a hollow cavity located behind the upper jawbone that helps regulate air pressure in the nasal cavity. Defective development of the maxillary air sinus can result in a narrowing or narrowing of the nasal passages, which can interfere with the proper functioning of the nose and affect the facial appearance.\n\n    This defect can cause the face to appear dished, with a flattened nasal bridge, a narrowed nose, and a recessed upper jaw. In some cases, the maxillary air sinus may also be missing entirely, leading to an even more pronounced dished face profile.\n\n    The other suggested answers do not fully explain the connection between a \"dished face\" profile and the specific conditions mentioned. Aproachingance of the condylar cartilage by acromegaly, as mentioned in (A), can result in a protruding mandible by increasing the size of the jawbone, potentially creating a more pronounced dished face profile. However, other underlying conditions such as enlarged frontal bones due to hydrocephaly, as mentioned in (C), or a recessive maxilla due to failure of elongation of the cranial base, as mentioned in (B), are unlikely to cause a \"dished face\" profile in themselves.\n\n    I hope this explanation helps! Let me know if you have any further questions.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The structure in the body that collects urine is the **bladder**.\n\nThe kidney filters waste products and excess water from the blood to produce urine. The urine then travels down the **ureter**, a tube that connects the kidney to the bladder. The bladder stores the urine before it is released through the **urethra** during urination.\n\nTherefore, option **(A)**, which is the bladder, best describes the structure that collects urine in the body.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is (D).\n\nSweat glands are derived from ectomesenchyme, which is a type of embryonic tissue that is located outside of the body's organs and cavities. Ectomesenchyme gives rise to several types of tissues, including bone, cartilage, connective tissue, and skin.\n\nMotor neurons, skeletal muscles, and melanocytes are all derived from other types of embryonic tissues, not directly from ectomesenchyme. Motor neurons develop from neural crest cells, which are a type of embryonic cell that gives rise to a variety of neural and non-neural tissues. Skeletal muscles originate from myoblasts, which are embryonic muscle precursor cells that fuse together to form muscle fibers. Melanocytes are derived from neural crest cells that give rise to pigment-producing cells, including melanocytes.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (A) \"Afferent arteriole\". \n\nThe afferent arteriole is the smallest of the blood vessels in the kidney. It carries blood containing waste products away from the glomerulus and towards the renal tubules, where waste is filtered out and water is reabsorbed. The glomerulus is a capillary network located in the kidney that filters blood and removes waste and excess water from the blood. The loop of Henle is a part of the renal tubule that plays a role in regulating the concentration of salt and water in the blood. The renal pelvis is a collection chamber at the end of the renal tubule that empties into the ureter.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to understand the consequences of a broken neck at the level of the sixth cervical vertebra on breathing. Let's look at the anatomy of the neck and the function of the spinal cord.\n\nThe cervical spine is composed of seven vertebrae, from C1 (atlas) to C7. The C6 vertebra is known as the atlas, which supports the head and allows for movement. The C7 vertebra is known as the axis, which helps stabilize the neck. The spinal cord, which runs through the spinal column, carries messages between the brain and the rest of the body.\n\nWhen a person suffers a broken neck at the level of the sixth cervical vertebra, the spinal cord is severed or damaged, which can cause paralysis and difficulty breathing. The muscles that control breathing are located in the chest and diaphragm, which are connected to the spinal cord. When the spinal cord is damaged, the signals from the brain that control breathing can no longer reach these muscles, which can lead to respiratory failure.\n\nSo, based on the anatomy and function of the neck and spinal cord, the answer to the question is (A). The patient will be unable to breathe without life support due to the damage to the spinal cord at the level of the sixth cervical vertebra.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "It is asked to analyse the question step by step.\nStep 1. Identify the possible answers. There are four options: \n(A) Epigastric, (B) Hypochondriac, (C) Hypogastric, (D) Lumbar.\n\nStep 2. Read the question carefully. The question asks for a region of the abdomen that is \"just distal to the sternum\", which implies that the other areas should be located either before or after the sternum in the anatomical regions.\n\nStep 3. Evaluate each option based on the question. Epigastric is located above the sternum, Hypochondriac is located on either side of the sternum, Hypogastric is located below the pelvis, which does not include the sternum, and Lumbar is located below the pelvis and above the sacrum, which includes the sternum. Therefore, only options B, C, and D are valid possibilities.\n\nStep 4. Rule out options that do not meet the criteria. Hypochondriac and Hypogastric are located either side of or below the sternum, respectively, and do not fulfill the requirement of being \"just distal\", so they are eliminated.\n\nStep 5. Analyze the remaining options. Only options B (Hypochondriac) and D (Lumbar) are located below the pelvis and above the sacrum, which includes the sternum. Option B is located on either side of the sternum, but option D is located directly below the sternum, so option D is more likely to be the correct answer.\n\nStep 6. Conclude the answer and output it. Option D (Lumbar) is located directly below the sternum and meets the criteria of being \"just distal\" to the sternum. Therefore, the final answer is option D.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "The human body has several defense mechanisms against environmental bacteria, including:\n\n1. Immune system: The immune system is the body's primary defense mechanism against pathogens, including bacteria. It consists of a complex network of cells, tissues, and organs, including white blood cells, antibodies, and the lymphatic system.\n\n2. Skin: The skin is the first line of defense against bacteria. It produces natural oils and proteins that help to keep bacteria from entering the body. Additionally, the skin contains cells called Langerhans cells, which are part of the immune system and can recognize and destroy bacteria that enter through the skin.\n\n3. Mucous membranes: Mucous membranes, such as those in the nose, mouth, and respiratory system, produce mucus, which traps and removes bacteria and other pathogens. The mucous membranes also contain cells called goblet cells, which produce mucus, and ciliated cells, which move the mucus and bacteria up and out of the body.\n\nBased on these defense mechanisms, the best answer would be (B) \"Mucous membranes.\"",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "Here are the steps for solving the question:\n1. First, we need to determine when on average human eggs are fertilized. It is estimated that eggs are fertilized 1-2 days before ovulation, which typically occurs around day 14 of a menstrual cycle. Therefore, we can assume that the earliest a human egg could be fertilized is around day 12-13 of a menstrual cycle.\n2. The palatine processes begin to fuse at some point after fertilization. However, the exact timing of this fusion is not well-known. Some research suggests that it occurs around six to eight weeks post-fertilization, while other studies suggest that it occurs later, around ten to twelve weeks post-fertilization.\n3. To determine the correct answer, we need to eliminate the options that do not fit with the timing of when eggs are typically fertilized and when the palatine processes are thought to begin to fuse.\n4. Option A, which suggests that the palatine processes begin to fuse at six weeks post-fertilization, is incorrect because this is not a reasonable time frame for when eggs are typically fertilized.\n5. Option B, which suggests that the palatine processes begin to fuse at eight weeks post-fertilization, is also incorrect because again, this is not a reasonable time frame for when eggs are typically fertilized.\n6. Option C, which suggests that the palatine processes begin to fuse at ten weeks post-fertilization, could potentially be a reasonable time frame, but it is still earlier than some research suggests that fusion occurs.\n7. Finally, option D, which suggests that the palatine processes begin to fuse at twelve weeks post-fertilization, is the most likely time frame and is therefore the correct answer.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "In order to determine which one of the options is the correct answer, you would have to be provided with additional information. For example:\n\nWhich limb is meant? Arm or leg?\nIs the contraction caused by voluntary or reflexive action?\nIs the primary motor cortex activity a start or a stop command?\n\nI'm sorry, but based on the information given, it is not possible to determine which one of the options is the correct answer.",
+            "correct": false
+        }
+    ]
+}

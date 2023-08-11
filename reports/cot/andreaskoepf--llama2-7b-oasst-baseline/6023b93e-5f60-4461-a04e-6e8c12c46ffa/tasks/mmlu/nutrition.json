@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?\n\n\n(A) Meat\n(B) Confectionary\n(C) Fruits and vegetables\n(D) Potatoes",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to look at the data that was published in 2020. According to the UK Department of Health and Social Care, the average weekly amount of meat eaten per person in Wales (in kilograms) was 70.4 kg, while in Scotland it was 76.0 kg. This means that people in Wales consume slightly less meat than people in Scotland.\n\nIn terms of confectionery, the average weekly usage of sugar confectionery per person in Wales was 4.9 kg in 2020, while in Scotland it was 4.6 kg. This means that people in Wales consume slightly more confectionery than people in Scotland.\n\nAs for fruits and vegetables, the average weekly usage of fresh fruit per person in Wales was 2.5 kg in 2020, while in Scotland it was 2.7 kg. This means that people in Wales consume slightly less fresh fruit than people in Scotland. The same trend is seen for fresh vegetables, with the average weekly usage of fresh vegetables per person in Wales being 2.0 kg in 2020, while in Scotland it was 2.2 kg. This means that people in Wales consume slightly less fresh vegetables than people in Scotland.\n\nPotatoes are a staple food in both Wales and Scotland, and the average weekly usage of potatoes per person in Wales was 11.2 kg in 2020, while in Scotland it was 13.6 kg. This means that people in Wales consume slightly less potatoes than people in Scotland.\n\nTherefore, based on the available data, the food that tends to be consumed in lower quantities in Wales and Scotland is meat.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?\n\n\n(A) If the incidence rate of the disease falls.\n(B) If survival time with the disease increases.\n(C) If recovery of the disease is faster.\n(D) If the population in which the disease is measured increases.",
+            "correct_answer": 1,
+            "model_answer": "If the incidence rate of the disease falls, then the prevalence of the disease will increase all else being constant. This is because the crude prevalence will increase proportionally to the incidence rate.\n\nIf survival time with the disease increases, then the prevalence of the disease will increase all else being constant. This is because the proportion of affected individuals who die will fall, again leading to an increase in the crude prevalence.\n\nIf recovery of the disease is faster, then the prevalence of the disease will increase all else being constant. This is because a larger proportion of individuals will recover from a disease, which will again lead to an increase in the crude prevalence.\n\nIf the population in which the disease is measured increases, then the prevalence of the disease will increase all else being constant. This is because the absolute number of individuals affected by the disease will increase, leading to an increase in the crude prevalence.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following statements is correct?\n\n\n(A) The flavonoid class comprises flavonoids and isoflavonoids.\n(B) The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\n(C) \u00df-Carotene and lycopene can both act as provitamin A.\n(D) Carotenoids and flavonoids both belong to the polyphenol class.",
+            "correct_answer": 0,
+            "model_answer": "Step 1: Study each part of the given statement carefully\nEach statement is made up of multiple parts. the purpose of this is to see which two parts will contradict each other if true.\n\nA: It says that the flavonoid class comprises flavonoids and isoflavonoids.\nThis means that it is half true. either the statement is true in its entirety and the flavonoid class comprises both flavonoids and isoflavonoids, or the statement is overall false.\n\nB: It says that the digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\nAnd then it says that the flavonoid class comprises isoflavonoids, so this part directly contradicts part A. either part A is true and part B is false, or the statement as a whole is false, but two parts of the statement contradict each other and one of them must be necessarily true for the entire statement to be true.\n\nC: It says that \u00df-carotene and lycopene can both act as provitamin A.\nThis agrees with part A, which said that flavonoids are a part of the flavonoid class, so this must be true. But It also contradicts part B, which said that the bioavailability of isoflavones in soya food products are not changed by processing, which means this must be false.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What are the main causes of the obesity epidemic?\n\n\n(A) Increased energy quantity/density and a more sedentary life-style\n(B) Decreased leisure time activity\n(C) Changes in genetic profiles\n(D) None of the options given is correct",
+            "correct_answer": 0,
+            "model_answer": "For the first step of the problem, if we are to describe the causes then, we can write the answer as '(A). Increased energy quantity/density and a more sedentary life-style'.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 2,
+            "model_answer": "Vitamin E is a major lipid-soluble antioxidant in cell membranes. It helps to protect cells from damage caused by free radicals and oxidative stress. Vitamin E is a group of eight fat-soluble compounds, including tocopherols and tocotrienols, which are found in plant-based foods and certain animal products.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Which of the following contributes to vitamin B12 deficiency in older adults?\n\n\n(A) Reduced secretion of intrinsic factor\n(B) Atrophic gastritis\n(C) Helicobacter pylori infection\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "Explanation:\n\nAs an AI assistant, I would explain the following steps I would use to answer this question:\n\n1. Assess the answer choices.\n\n    Choices A, B, and D all contribute to vitamin B12 deficiency in older adults, so I would eliminate C as the answer.\n\n2. Determine which of the remaining choices is the most likely cause of vitamin B12 deficiency in older adults.\n\n    Choice A: Reduced secretion of intrinsic factor is the most likely cause, as intrinsic factor is necessary to facilitate the absorption of vitamin B12 in the small intestine.\n\n3. Eliminate any remaining choices that are not related to vitamin B12 deficiency.\n\n    Choices B and D: Atrophic gastritis and Helicobacter pylori infection are both related to gastric disease, which can contribute to vitamin B12 deficiency. However, choice B specifically affects production of intrinsic factor, making it the most likely cause.\n\n4. Choose the best answer.\n\n    Choice B: Atrophic gastritis is the best answer, as it is the most direct cause of reduced intrinsic factor production, which leads to vitamin B12 deficiency.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?\n\n\n(A) Testosterone\n(B) Oestrogen\n(C) Insulin-like growth factor-1\n(D) Thyroxine",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we can follow the steps below:\n\n1. Obesity increases the risk of endometrial cancer - This is a known fact that obesity is a risk factor for endometrial cancer.\n\n2. Hormones play a significant role in endometrial cancer - We know that endometrial cancer is a type of cancer that starts in the lining of the uterus, also known as the endometrium. Hormones such as estrogen and progesterone are known to play a role in the regulation of this lining.\n\n3. Hormone thought to mediate the effect of obesity - Based on this information, we can hypothesize that obesity might increase the risk of endometrial cancer by affecting the levels or action of one or more hormones.\n\n4. Options A, B, and C are potential hormones - We can eliminate options D as it is not a hormone related to endometrial cancer. Options A, B, and C are known hormones that could potentially play a role in endometrial cancer.\n\n5. Option B is the likely answer - Among the remaining options, Oestrogen seems the most likely answer as it is a hormone that is known to be involved in the regulation of the endometrium. Obesity can potentially increase the levels of estrogen, leading to an increased risk of endometrial cancer.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which vitamin is required for calcium absorption from the small intestine?\n\n\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin E\n(D) Vitamin K",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is (D) Vitamin K. Calcium absorption in the small intestine requires Vitamin K, which is essential for the activation of osteocalcin, a hormone that regulates calcium absorption in the gut. If Vitamin K is deficient, calcium absorption may be reduced, leading to bone problems like osteoporosis. Other vitamins, such as (A) Vitamin A, (B) Vitamin D, and (C) Vitamin E, are also essential for bone health and calcium absorption, but they do not directly affect calcium absorption in the small intestine in the same way that Vitamin K does.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following statements about the metabolic demand for amino acids is correct?\n\n\n(A) The metabolic demand is supplied only from the diet,\n(B) The metabolic demand is to maintain protein turnover.\n(C) The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.\n(D) The metabolic demand is a fixed amount",
+            "correct_answer": 2,
+            "model_answer": "The correct statement is (B) `The metabolic demand is to maintain protein turnover.`\n\nYour choices are (A), (B), (C), (D).\n\nExplanation:\n\nThe metabolic demand for amino acids is to maintain protein turnover. This means that amino acids are required to build and break down proteins in the body. The body does not have a fixed amount of amino acids it stores, so it must get amino acids from the diet to meet its metabolic demand. This also means that amino acids are consumed by a number of irreversible pathways, but these are not either obligatory or adaptive.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following statements about human amino acid requirements in human nutrition is correct?\n\n\n(A) The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.\n(B) The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.\n(C) The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.\n(D) The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.",
+            "correct_answer": 1,
+            "model_answer": "It is (C).",
+            "correct": false
+        }
+    ]
+}

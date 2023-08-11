@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the structure of the United Nations Security Council?\n\n(A) 5 permanent members with veto power, 10 rotating members with no veto power\n(B) 5 permanent members and 10 rotating members, all with veto power\n(C) 10 permanent members with veto power, and 5 rotating members without veto power\n(D) 15 permanent members with veto power",
+            "correct_answer": 0,
+            "model_answer": "The United Nations Security Council (UNSC) is an organizational body within the United Nations that is responsible for maintaining international peace and security. It is composed of 15 members, including five permanent members (US, UK, Russia, China and France) and 10 non-permanent members, who are elected by the General Assembly for a two-year term.\n\nThe permanent members of the UNSC have veto power, which means they can Block or Override resolutions passed by the council. The non-permanent members do not have veto power.\n\nThe UNSC can adopt resolutions by a majority of its members present and voting. A resolution requires nine affirmative votes to be adopted, and a negative vote by any of the five permanent members (veto) can block its adoption.\n\nThe rotating members of the UNSC are elected for a two-year term, and each member takes turns serving on the council for one month of each year.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What was the significance of the Gulf of Tonkin resolution?\n\n(A) It allowed the US to intensify its involvement in Vietnam\n(B) It illustrated the influence of public opinion on US foreign policy\n(C) It enhanced Congressional control over the Vietnam War\n(D) It curtailed US involvement in Vietnam",
+            "correct_answer": 0,
+            "model_answer": "The Gulf of Tonkin Resolution was a significant event in US history that had far-reaching consequences for both the Vietnam War and US foreign policy in general. The resolution gave President Lyndon B. Johnson the authorization to take all necessary measures to repel any armed attack against US forces in Southeast Asia.\n\nAt the time, North Vietnamese torpedo boats had attacked two US destroyers, the USS Maddox and the USS Turner Joy, in the Gulf of Tonkin. The Johnson administration used this incident as a pretext to request a congressional authorization for military action in Vietnam.\n\nThe resolution passed overwhelmingly in both the House of Representatives and the Senate, with only a handful of dissenting votes. This showed the unwavering support for the Vietnam War among US lawmakers and the American public.\n\nHowever, later investigation revealed that the incident was in fact a false flag attack instigated by the Johnson administration itself to justify military escalation in Vietnam. The Gulf of Tonkin Resolution, therefore, had far-reaching consequences beyond the Vietnam War itself. It represented a shift in the way the US government wielded its military power and shaped its foreign policy.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which is not a nonstate actor that poses a threat to the United States?\n\n(A) Terrorists\n(B) Organized crime\n(C) Drug traffickers\n(D) China",
+            "correct_answer": 3,
+            "model_answer": "The answer to the question is \"China\".\n\n> Which is not a nonstate actor that poses a threat to the United States?\n>\n> (A) Terrorists\n> (B) Organized crime\n> (C) Drug traffickers\n> (D) China\n\nHere is my reasoning step-by-step:\n\nB) Organized crime: Organized crime is a form of criminal activity carried out by a group with a formalized structure and leadership. It is usually focused on illegal activities such as drug trafficking, money laundering, and extortion. Although organized crime groups can pose a threat to society, they are typically Ukraine Brides Review insufficient to be considered as a nonstate actor that poses a threat to the United States.\n\nC) Drug traffickers: Drug traffickers are individuals or organizations that traffic in controlled substances for financial gain. Although drug trafficking is illegal and can cause harm to individuals and society, it is not typically considered a threat to national security, especially on a state level. States typically lack the capacity to pose a direct threat to other states, as it is not in their interests to do so. Drug traffickers may collaborate with other nonstate actors to achieve their objectives, but they are not a threat in themselves.\n\nD) China: China is not a nonstate actor that poses a threat to the United States. While China is a geopolitical rival of the United States and has its own interests and agenda, it is not an actor that operates outside the structure of the state and cannot be considered a nonstate actor. Countries typically exercise power and influence through state institutions, such as their military, diplomatic corps, and economic policies. China may collaborate with nonstate actors to achieve its objectives, but it does so through state institutions.\n\n> only afterwards output the answer:\n>\n> The final line should contain the answer as a single letter with parenthesis without anything else.\n>\n> The answer is: (D) China",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Who was the first American president to visit communist China?\n\n(A) Richard Nixon\n(B) George H. W. Bush\n(C) Jimmy Carter\n(D) Ronald Reagan",
+            "correct_answer": 0,
+            "model_answer": "After four years of negotiations, President Richard Nixon became the first American president to visit communist China in 1972. The trip is widely regarded as a turning point in U.S.-China relations and has had a lasting impact on both countries. While Nixon's journey was the first official presidential visit to China by an American leader, George H. W. Bush became the second in 1979, and Jimmy Carter and Ronald Reagan both visited China as well during their respective presidencies.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The Strategic Arms Reduction Treaty was the first accord\n\n(A) on nuclear weapons signed between the United States and the Soviet Union.\n(B) cutting conventional arms in Europe.\n(C) to be rejected by the U.S. Senate.\n(D) mandating the elimination of many long-range nuclear missiles.",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Identify the key words and phrases in the question\n\n- The Strategic Arms Reduction Treaty (SORT)\n- nuclear weapons\n- United States and the Soviet Union\n- conventional arms in Europe\n- U.S. Senate\n- elimination of many long-range nuclear missiles\n\nStep 2: Break the question into smaller sub-questions\n\n1. Why was the SORT signed?\n   A. Because of nuclear weapons\n   B. Because it cut conventional arms in Europe\n   C. Because it was rejected by the U.S. Senate\n   D. Because it mandated the elimination of long-range nuclear missiles\n2. What was the SORT about?\n   A. Just the first accord\n   B. Both 1 and 2\n   C. None of the above\n   D. Just 2\n\nStep 3: Analyze sub-questions and eliminate possible answers\n\n1. Sub-question 1\n   A. Not A because the SORT was not the first accord\n   B. Not B because of the nuclear weapons.\n   C. Not C because it was not rejected by the Senate.\n   D. D because it mandated the elimination of many long-range nuclear missiles.\n\n2. Sub-question 2\n   A. A because the SORT was the first accord\n   B. D because the SORT mandated the elimination of many long-range nuclear missiles\n\nConclusion\n\nThe answer is D",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What were the implications of the Cold War for American exceptionalism?\n\n(A) It ended the influence of American exceptionalism entirely\n(B) Exceptionalism was enhanced by America's status as the 'leader of the free world'\n(C) The extension of American power globally challenged core assumptions of exceptionalism\n(D) Both b and c",
+            "correct_answer": 3,
+            "model_answer": "Your question seems to be about the topic of American exceptionalism. I assume you want to know which of the given options best describes the implications of the Cold War for American exceptionalism.\n\n*Both B and C* describe the implications. Exceptionalism was enhanced by America's status as the 'leader of the free world' and the extension of American power globally challenged core assumptions of exceptionalism.\n\nOf these two options, I would say *C* is more correct as it better describes the challenge that American power posed to the core assumptions of exceptionalism.\n\nI hope this helps.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\n\n(A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US\n(B) He believed that German domination of Europe would be in US interests\n(C) He always favoured isolationism\n(D) All of the above",
+            "correct_answer": 0,
+            "model_answer": "During the 1930s, Franklin D. Roosevelt initially favored an isolationist stance for several reasons:\n\n(A) + (B): Roosevelt believed in the importance of domestic policies for economic growth and recovery. He advocated for public works projects, Social Security, and other programs to address domestic issues rather than relying on international agreements or alliances. However, he also recognized the interconnected nature of the global economy and believed that international cooperation was necessary to address the economic and political challenges facing the United States and the world.\n\n(C): Roosevelt was indeed an isolationist who believed in keeping the US out of international conflicts and disputes. However, this isolated stance did not mean that he was against international cooperation or negotiation when it benefited the US.\n\nOverall, Roosevelt's initial isolationist stance during the 1930s was a result of a combination of factors, including his belief in domestic reform, his recognition of the interconnected nature of the global economy, and his preference for non-interventionist foreign policy.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What was the 'New Populism'?\n\n(A) A strand of neo-isolationist sentiment\n(B) A strand of internationalist sentiment\n(C) An expression of American cultural superiority\n(D) Increased incorporation of public opinion in foreign policy making",
+            "correct_answer": 0,
+            "model_answer": "The \"New Populism\" refers to a political movement that emerged in the United States in the late 19th and early 20th centuries. It was a response to the economic and social changes brought about by industrialization and urbanization. Populists believed that the interests of the wealthy and powerful had come at the expense of working-class Americans, and they advocated for government intervention to protect the rights and interests of the common man.\n\nThe New Populism was characterized by a strong emphasis on the power of the people and a rejection of the elite. Populists believed that working-class Americans should have a voice in the political process, and they called for the direct election of senators, the abolition of the gold standard, and the nationalization of railroads.\n\nWhile the New Populism was a response to the economic and social changes brought about by industrialization, it is not accurately characterized as a strand of neo-isolationist sentiment, a strand of internationalist sentiment, an expression of American cultural superiority, or increased incorporation of public opinion in foreign policy making. Instead, it was a political movement that aimed to protect the rights and interests of working-class Americans and to give them a greater voice in the political process.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "How did World War I shift economic power from Europe to the United States?\n\n(A) The war reduced European population levels below that of the United States\n(B) The United States seized German resources after the war\n(C) European countries paid the United States for assistance\n(D) The United States became a creditor country and financial centre, with European war spending boosting the US economy",
+            "correct_answer": 3,
+            "model_answer": "Briefly, World War I shifted economic power from Europe primarily because of American willingness to fund the war effort of the Allies but more importantly the unprecedented level of spending on war materiel by the Allies countries. This spending drained reserves while destroying factories and infrastructure; meanwhile, the U.S. grew significantly stronger and attracted capital from Europe.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In American government, the power to declare war rests with\n\n(A) the president of the United States.\n(B) the secretary of defense.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) Congress.",
+            "correct_answer": 3,
+            "model_answer": "Great, let's start!\n\nStep 1: Explain the fact that the power to declare war rests with either congress or the president, or jointly with both.\nPrerequisites:\nThe powers of the president and congress within the US are well documented.\n\nThe president is the commander-in-chief of the military.\nCongress has the power to raise and fund armies, and declare war.\n\nThe power to declare war is done to ensure that it is a step taken by the entire legislature and not just the president.\n\nOption A - The president:\nSince the president has the power to declare war, this is not the correct answer.",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which State ordinarily exercises jurisdiction in respect of crimes committed on board vessels?\n\n(A) The coastal State\n(B) The flag State\n(C) All States enjoy such jurisdiction\n(D) The International Tribunal for the Law of the Sea",
+            "correct_answer": 1,
+            "model_answer": "In the context of crimes committed on board vessels, the term \"State\" generally refers to a country or sovereign entity that has jurisdiction over its territory and its citizens. There are generally two ways in which a State can exercise jurisdiction over a crime committed on board a vessel:\n\n1. Nationality principle: If the vessel is flagged (registered) in a certain State, then that State has jurisdiction over crimes committed on board the vessel, regardless of the nationality of the perpetrator or the victim. This is known as the \"flag State's\" jurisdiction.\n2. Territorial principle: If the crime occurs on the territorial waters or the exclusive economic zone of a certain State, then that State has jurisdiction over the crime, regardless of the nationality of the perpetrator or the vessel. This is known as the \"coastal State's\" jurisdiction.\n\nFrom the given options, it can be deduced that the correct answer is \"(B) The flag State\".",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What is the meaning of justiciability?\n\n(A) Justiciability refers to the possibility of enforcement of a particular right by the relevant rights holders\n(B) Justiciability refers to the just nature or cause of a particular right\n(C) Justiciability refers to the courts' assessment of whether the non-enforcement of a particular rights conforms to principles of justice\n(D) Justiciability refers to the obligation of a State to enforce a particular Right",
+            "correct_answer": 0,
+            "model_answer": "Justiciability refers to whether a particular right can be enforced in a court of law. It is a legal concept that determines whether a case involving a constitutional, statutory, or international right can be heard by a court for the purpose of adjudicating its merits. The meaning of justiciability is that a right must be ripe for adjudication, meaning that it must be both concrete and presently available to the party seeking relief. This means that the right must be actual and not speculative, and that the party seeking relief must have a real interest in enforcing the right.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "In what way is Responsibility to Protect (R2P) different from humanitarian intervention?\n\n(A) R2P is essentially the same as humanitarian intervention\n(B) R2P requires a call for assistance by the State in distress\n(C) R2P is less arbitrary because it requires some UNSC input and its primary objective is to avert a humanitarian crisis\n(D) R2P always involves armed force, whereas humanitarian intervention does not",
+            "correct_answer": 2,
+            "model_answer": "R2P and humanitarian intervention differ in several ways, including:\n\nPurpose: The primary objective of R2P is to prevent and halt genocide, war crimes, crimes against humanity, and ethnic cleansing. On the other hand, humanitarian intervention is typically carried out to address humanitarian crises and provide relief to those in need, without necessarily addressing the root causes of the crisis.\n\nInvolvement of the UN Security Council (UNSC): R2P emphasizes the role of the UNSC in addressing situations of mass atrocities. The UNSC can make binding decisions to ensure States fulfill their responsibilities to protect their populations. Humanitarian intervention, however, does not necessarily require UNSC authorization, although it may seek such authorization.\n\nTypes of intervention: R2P allows for a range of interventions, including peacekeeping, peacekeeping, and military responses, depending on the severity of the crisis and the capacity of the State to protect its population. Humanitarian intervention, on the other hand, typically involves military intervention to provide relief and protection to those in need.\n\nCall for assistance: In contrast to R2P, humanitarian intervention can occur without a call for assistance from the State in distress.\n\nPrimary responsibility of States: R2P recognizes the primary responsibility of States to protect their populations from genocide, war crimes, crimes against humanity, and ethnic cleansing. However, if a State is unable or unwilling to do so, the international community has a responsibility to intervene. Humanitarian intervention, on the other hand, primarily aims to provide relief to those in need, regardless of the responsibility of the State.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What is the 'Lotus principle'?\n\n(A) The so-called Lotus principle is that 'restrictions upon the independence of States cannot therefore be presumed', or, as it has been construed, 'whatever is not prohibited is permitted in international law'\n(B) The so-called Lotus principle is that States are free to choose the Court that they will submit their disputes\n(C) The so-called Lotus principle is that States are not prohibited to assert their enforcement jurisdiction on the high seas\n(D) The so-called Lotus principle is that customary law derives from the combination of State practice and opinio juris",
+            "correct_answer": 0,
+            "model_answer": "The \"Lotus principle\" is a legal doctrine in international law that is often associated with the case of the SS Lotus, a British ship that was seized by French authorities in the Horn of Africa in 1886. The principle stems from the decision of the Permanent Court of International Justice (PCIJ) in the Lotus case, which held that \"whatever is not prohibited is permitted in international law.\"\n\nIn other words, the Lotus principle holds that any action that is not specifically prohibited by international law is permissible and may be taken by States. This principle has been interpreted broadly by some authors and has been used to justify a variety of actions taken by States in international relations, including the use of force, the establishment of tariffs, and the enforcement of treaties.\n\nTherefore, the answer to the question \"What is the Lotus principle?\" is (A) The so-called Lotus principle is that \"whatever is not prohibited is permitted in international law.\"",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of these statements best describes the UK Constitution?\n\n(A) The UK Constitution's only source of power is that of the sovereign\n(B) The UK Constitution gives the judiciary the power to overturn acts of parliament\n(C) The UK Constitution is uncodified and can be found in a number of sources\n(D) The UK Constitution is based on a Bill of Rights",
+            "correct_answer": 2,
+            "model_answer": "Sure thing ill explain my reasoning step by step\n\nThe correct answer is option C",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What is the obligation of the peaceful settlement of disputes?\n\n(A) It is an obligation of result, that is, States are under a strict obligation to resolve their disputes as soon as possible\n(B) It is an obligation of conduct, ie States have an obligation to try to resolve their disputes through peaceful means. This does not entail an obligation to resolve their disputes\n(C) It is a peremptory norm of international law and all States have a legal interest to safeguard its application in any given dispute\n(D) It is an obligation which concerns solely international courts and tribunals",
+            "correct_answer": 1,
+            "model_answer": "It is an obligation of conduct, ie States have an obligation to try to resolve their disputes through peaceful means. This does not entail an obligation to resolve their disputes",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following statements is false?\n\n(A) Protocol 14 changed the committee that hears admissibility cases from a three judge to a one judge formation\n(B) Protocol 14 added a new criterion for admissibility\n(C) Protocol 14 abolished the Commission of Human Rights\n(D) Protocol 14 extended the judicial term of office for the European Court of Human Rights",
+            "correct_answer": 2,
+            "model_answer": "First, let's recapitulate the statements:\n- A changed the committee that hears admissibility cases from a three judge to a one judge formation\n- B added a new criterion for admissibility\n- C abolished the Commission of Human Rights\n- D extended the judicial term of office for the European Court of Human Rights.\n<|im_start|> \n<|im_start|> assistant\nThe statement that is false is \"D\", as Protocol 14 did not extend the judicial term of office for the European Court of Human Rights. \nThe final answer is therefore `D`.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?\n\n(A) Rocks are the islands that are less than 10 square miles\n(B) Rocks are the islands that do not have any maritime zone\n(C) Rocks are the islands which cannot sustain human habitation or economic life of their own and according to article 121 (3) have no Exclusive Economic Zone or continental shelf.\n(D) Rocks are the small islands that can sustain human habitation",
+            "correct_answer": 2,
+            "model_answer": "The answer to the question \"Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?\" is (C).\n\nAccording to Article 121 of UNCLOS, the definition of a rock is as follows:\n\n\"Rocks shall not be considered islands, and never shall maritime zones be extended beyond the territorial sea by virtue of their inclusion within an island's natural boundaries.\"\n\nThis means that for a rock to be classified as a rock under UNCLOS, it must meet certain criteria, which are outlined in option (C). Specifically, a rock must:\n\n- Be less than 10 square miles in size.\n- Not have a maritime zone of its own, such as an exclusive economic zone or continental shelf.\n- Be unable to sustain human habitation or economic life of its own, as determined by the relevant authorities.\n- According to article 121 (3) of UNCLOS, have no Exclusive Economic Zone or continental shelf.\n\nThus, option (C) is the best answer as it fully complies with the definition of a rock under UNCLOS.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "What is the meaning of international legal personality?\n\n(A) It means that only States are considered subjects of international law\n(B) It means having rights and duties under international law and a capacity to enforce these by or against the relevant actor\n(C) It means that an entity may challenge the authority of States\n(D) It is a term that is meant to denote legal, as opposed, to physical persons under international law",
+            "correct_answer": 1,
+            "model_answer": "International legal personality refers to the capacity of an entity other than a State to have rights and duties under international law and to enforce those rights and duties through legal mechanisms. It means that an entity, such as an organization, an individual, or a corporation, can exist and act in the international arena with legal capacity and the ability to participate in international relations.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following is a treaty-based human rights mechanism?\n\n(A) The UN Human Rights Committee\n(B) The UN Human Rights Council\n(C) The UN Universal Periodic Review\n(D) The UN special mandates",
+            "correct_answer": 0,
+            "model_answer": "The correct answer is Option A i.e. \"The UN Human Rights Committee\". \n\n    Explanation:\n    The UN Human Rights Committee is a treaty-based human rights mechanism established by the International Covenant on Civil and Political Rights (ICCPR), which is a treaty ratified by member states of the United Nations. The Human Rights Committee is responsible for interpreting the provisions of the ICCPR and monitoring its implementation by states parties. It provides advice and recommendations to states on how to implement their human rights obligations under the ICCPR, and can receive and consider individual complaints from people who claim their human rights have been violated by a state party to the ICCPR.\n    The other options mentioned, i.e. UN Human Rights Council (Option B), UN Universal Periodic Review (Option C) and UN special mandates (Option D) are not treaty-based human rights mechanisms, but rather are bodies or processes within the UN system that are designed to promote and protect human rights on a global scale. They may use a variety of mechanisms to accomplish this, including resolutions, recommendations, and expert reviews, but they are not tied directly to specific treaties and are not specifically responsible for interpreting or monitoring the implementation of human rights treaties.",
+            "correct": false
+        }
+    ]
+}

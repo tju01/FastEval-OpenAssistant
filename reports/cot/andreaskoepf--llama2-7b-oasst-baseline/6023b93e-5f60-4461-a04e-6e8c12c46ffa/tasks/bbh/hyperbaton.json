@@ -1,0 +1,215 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) midsize old grey Brazilian sweater\n(B) midsize grey Brazilian old sweater",
+            "correct_answer": "(A)",
+            "model_answer": "(A) is correct. When using adjectives that describe size, age, color, origin, and other attributes in descending order, the correct order is:\n\n1. Age: old, ancient, vintage, antique, old-fashioned, outdated, obsolete (this one is somewhat optional)\n2. Size: large, small, medium, mini, micro, microscopic, macroscopic, gigantic, ginormous\n3. Shape: square, rectangular, triangular, oval, round, elliptical, heart-shaped\n4. Color: purple, blue, green, yellow, orange, red, black, white, ivory, gray, pink, rainbow (this one is also somewhat optional, but common)\n5. Material: cotton, silk, wool, leather, plastic, nylon, polyester, natural fiber\n6. Origin: American, Canadian, British, Irish, Australian, Welsh, Scottish, Ethiopian, Japanese, Bolivian, etc.\n7. Quality: high-quality, low-quality, premium, economy, budget, deluxe, standard, moderate\n8. Manufacturer: Nike, Adidas, Reebok, Under Armour, New Balance, Asics, Columbia, Patagonia, North Face\n9. Special features: washable, dry clean only, handmade, machine-made, with tags, without tags, vintage, authentic, replica, etc.\n10. Other: fashionable, trendy, unique, special, luxurious, affordable, cheap, outrageous, modest, etc.\n\nIn the given sentence, \"old grey Brazilian\" comes first, then \"sweater\". So the correct adjective order is: \"old grey Brazilian\" -> \"sweater\".",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) rubber gray walking Mexican midsize cat\n(B) midsize gray Mexican rubber walking cat",
+            "correct_answer": "(B)",
+            "model_answer": "Option (B): midsize gray Mexican rubber walking cat",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) mysterious big Indian iron smoking motorcycle\n(B) big smoking mysterious Indian iron motorcycle",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order is (A), \"mysterious big Indian iron smoking motorcycle\".\n\nThe correct adjective order should follow the FANBOYS rule which states that adjectives that modify a noun are placed in the following order:\n1. **Further** away, **Advanced**, **New**\n2. Farther, Advanced, New\n3. Nearer, Advanced, New\n4. Farther, Advanced, Old\n5. Nearer, Advanced, Old\n6. Nearer, Old, Advanced\n7. Farther, Old, Advanced\n8. Nearer, Old, Old\n9. Farther, Old, Old\n\nHence in case of the sentence in question: \"Indian iron smoking motorcycle\" is a compound phrase describing the motorcycle. As such, it does not follow the standard FANBOYS rule and will be placed after all modifiers for \"motorcycle\". This includes size which is \"big\", origin which is \"Indian\", function which is \"smoking\", and lastly color which is \"iron\".",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) cloth smoking rectangular motorcycle\n(B) rectangular cloth smoking motorcycle",
+            "correct_answer": "(B)",
+            "model_answer": "The correct adjective order in sentence (A) is 'rectangular, smoking, cloth', and in sentence (B) it is 'rectangular, cloth, smoking'.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) pyramidal American glass exercise surfboard\n(B) glass exercise American pyramidal surfboard",
+            "correct_answer": "(A)",
+            "model_answer": "The sentence with correct adjective order is:\n(B) glass exercise American pyramidal surfboard\n\nLet's break it down:\n\n    1. Glass - Describes the material of the surfboard\n    2. Exercise - Describes the intended use of the surfboard\n    3. American - Describes the origin of the surfboard\n    4. Pyramidal - Describes the shape of the surfboard\n\nIn this sentence, the adjectives (in order) are:\n\nglass exercise American pyramidal surfboard\n\nThe correct order should be:\n\npyramidal American exercise glass surfboard\n\nBecause surfboards typically do not have glass as a material, option (A) is incorrect. Option (C) is also incorrect because the word \"American\" should come before \"pyramidal\" given that it describes the origin of the surfboard.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) midsize ancient spherical knife\n(B) spherical ancient midsize knife",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order for sentence Option (A) is: midsize, ancient, spherical, knife.\n\nThe correct adjective order for sentence Option (B) is: spherical, ancient, midsize, knife.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) tan silly old-fashioned dog\n(B) silly old-fashioned tan dog",
+            "correct_answer": "(B)",
+            "model_answer": "(B) is the correct answer, as the adjectives should be placed in the order of size, shape, age, color, irregularity, origin, material, purpose, and quality. In this case, \"silly\" would be described as the most main characteristic, and \"old-fashioned\" as the least main characteristic. Hence, \"silly old-fashioned tan dog\" would be the correct order according to the given criteria.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) wool repulsive prismlike American chair\n(B) repulsive prismlike American wool chair",
+            "correct_answer": "(B)",
+            "model_answer": "After analyzing each sentence, it can be concluded that sentence (A) has the correct adjective order.\n\nHere is a step-by-step breakdown of my reasoning:\n\nAdjective order:\n\nEnglish adjective order is subjective-objective-comparative (SOC), which dictates that objective adjectives come before subjective adjectives, and comparative adjectives come after subjective adjectives.\n\nIn sentence (A), the adjectives are \"wool,\" \"repulsive,\" \"prismlike,\" \"American,\" and \"chair.\"\n\nFrom left to right, these adjectives are subjective, comparative, objective, and subjective. Therefore, the adjective order in sentence (A) is correct.\n\nSentence structure:\n\nBoth sentences (A) and (B) use a noun phrase (wool chair or American wool chair) followed by a modifier that consists of several adjectives modifying the noun phrase.\n\nHowever, in sentence (A), the modifier comes before the noun phrase, while in sentence (B), the modifier comes after the noun phrase.\n\nThis minor difference in sentence structure does not affect the adjective order, which remains subjective-objective-comparative in both sentences.\n\nConclusion:\n\nTherefore, sentence (A) has the correct adjective order and structure.\n\nAnswer: (A)",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) medium-size archaic prismlike purple American car\n(B) archaic purple prismlike American medium-size car",
+            "correct_answer": "(A)",
+            "model_answer": "Sentence (A) has the correct adjective order: medium-size, archaic, prismlike, purple, American, car.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) enormous rectangular blue dog\n(B) enormous blue rectangular dog",
+            "correct_answer": "(A)",
+            "model_answer": "I would rearrange the adjectives in sentence (A) to be in order from specific to general as follows:\nblue rectangular enormous dog\nSentence (B) can already be in the correct order, but if it is rearranged to be specific to general as follows:\nenormous blue rectangular dog, this would match the order in sentence (A).",
+            "correct": true
+        },
+        {
+            "id": 10,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) good pyramidal grey Indian cloth computer\n(B) good pyramidal cloth Indian grey computer",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order for the sentence \"good pyramidal cloth Indian grey computer\" is B - Good, Adjective Phrase: pyramidal cloth Indian grey computer.\nOption A places the adjective \"grey\" before the noun it modifies, which is incorrect.",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) terrible tiny new square Egyptian typing sock\n(B) new typing square Egyptian tiny terrible sock",
+            "correct_answer": "(A)",
+            "model_answer": "Here are the steps to solve this question:\n\n1) Determine the subject of the sentence: In this sentence, the subject is \"sock.\"\n\n2) Determine the type of adjective phrase: In this sentence, there are two adjective phrases: \"terrible tiny new square Egyptian typing\" and \"typing square Egyptian tiny terrible.\"\n\n3) Order the adjectives in the adjective phrases: According to the rules of adjective order, we should order the adjectives in ascending order of size, shape, age, and then quality.\n\nSo, the correct adjective order for this sentence is:\n\n(A) typing square Egyptian tiny terrible sock.\n\nNote that the adjective order for this sentence would be different if we had more than two adjective phrases, or if the type of adjective phrase were different (e.g., possessive adjective phrase).",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) Pakistani normal-size white paper good snorkeling monkey\n(B) good normal-size white Pakistani paper snorkeling monkey",
+            "correct_answer": "(B)",
+            "model_answer": "Option (B) is correct.\n\nLet's break down the sentence, adjective order is determined by how close the noun is to the modifier:\n\n```typescript\nnoun + adjective -> noun + determinative -> adjective\n```\n\nIn this case, there is only one noun, which is monkey. \n\n* snorkeling is a determinative, it is not required but it is used here to specify the kind of monkey (snorkeling monkey)\n\n* white and normal-size are adjectives, they are determined by how close they are to the noun, since snorkeling is the closest adjective, it will come before normal-size\n\n* Pakistani and good are ways to describe the noun, there is no specific order here, both are describing the monkey, so they can come anytime before the noun or after it\n\nTherefore, the adjective order is: snorkeling normal-size white Pakistani good",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) silver square red chair\n(B) square red silver chair",
+            "correct_answer": "(B)",
+            "model_answer": "Option A is the correct adjective order. Adjectives typically follow the following order in English:\n\n1. Opinion/degree\n2. Size\n3. Age\n4. Shape/type\n5. Color\n6. Origin/material\n7. Qualitative\n\nSo in the sentence \"a silver square red chair\", the order would be:\n\n- opinion/degree (silver)\n- size (square)\n- age (red)\n- shape/type (chair)\n- color (red)\n- origin/material (silver)\n- qualitative (is square)\n\nThe sequence here is significant because it helps to determine the semantic hierarchy in the sentence. Especially in comparison to option B, where the order would be (from left to right):\n\n- shape/type (chair)\n- color (red)\n- opinion/degree (silver)\n- size (square)\n- age (undefined)\n- origin/material (undefined)\n- qualitative (undefined)\n\nIn other words, the object that catches the viewer's attention the most would be a chair, then the color red which would themselves be highlighted by the application of the qualitative adjective \"square\" to the chair.",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) nice American computer\n(B) American nice computer",
+            "correct_answer": "(A)",
+            "model_answer": "\u2022 Option A is Correct\n\n1. Usually, adjectives in a sentimental phrase are in a specific order: opinion, size, age, shape, color, origin, material.\n\n2. American is an opinion adjective that means \"of or relating to the United States; belonging or pertaining thereto\". It carries the most weight.\n\n3. Nice is an opinion adjective that means \"pleasant or agreeable to the mind or feelings; not unpleasant: a nice day\". It is weaker than American, as it's comparing a computer to pleasantness.\n\n4. Computer is a size adjective that means \"any of various programmable electronic devices designed to accept data, perform prescribed mathematical and logical operations, and display the results\". You do not compare size to pleasantness.\n\nThus, the correct order is: American Nice Computer.",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) enormous yellow Egyptian driving computer\n(B) driving yellow enormous Egyptian computer",
+            "correct_answer": "(A)",
+            "model_answer": "(B) Driving yellow enormous Egyptian computer",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) enormous yellow Egyptian monkey\n(B) enormous Egyptian yellow monkey",
+            "correct_answer": "(A)",
+            "model_answer": "The sentence with the correct adjective order is (B) **enormous Egyptian yellow monkey**.\n\nIn English, it is generally recommended to place adjectives in the following order:\n\n* Opinion/degree adjectives (largest, fastest, coolest)\n* Size/amount adjectives (big, small, much)\n* Color/shade adjectives (red, blue, dark)\n* Age/nationality/animals/profession/material adjectives (old, British, monkey, tall, wooden)\n\nIn sentence (A), the adjectives are arranged as **enormous yellow Egyptian monkey**. This is incorrect, as **enormous** should be placed before the other two adjectives.\n\nIn sentence (B), the adjectives are arranged as **enormous Egyptian yellow monkey**. This is the correct order, as **enormous** should be placed before the other two adjectives.",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) lovely midsize green Filipino sock\n(B) Filipino midsize lovely green sock",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order in the given sentence is: \"lovely green Filipino sock\".",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) leather wonderful Pakistani white medium-size monkey\n(B) wonderful medium-size white Pakistani leather monkey",
+            "correct_answer": "(B)",
+            "model_answer": "The sentence with the correct adjective order is option (B). The order of adjectives should be: size, color, nationality, material, shape. Therefore, the correct sentence should be: \"wonderful medium-size white Pakistani leather monkey\".",
+            "correct": true
+        },
+        {
+            "id": 19,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) repulsive big rectangular pink steel exercise shoe\n(B) pink big exercise repulsive steel rectangular shoe",
+            "correct_answer": "(A)",
+            "model_answer": "The sentence with correct adjective order is:\n\n(B) pink big exercise repulsive steel rectangular shoe\n\nThe order of adjectives in English is usually:\n1. opinion or size (e.g. big, small, tall, short)\n2. age or condition (e.g. new, old, broken)\n3. material (e.g. steel, wood, plastic)\n4. shape or color (e.g. rectangular, round, pink)\n5. qualifying words or descriptions (e.g. repulsive, delicious, longish)\n\nFor example:\n- a small red rectangular pizza box\n- a new steel blue expensive bicycle\n\nSo in the given options:\n- \"rectangular\" is used to describe shape, therefore should come before \"shoe\"\n- \"big\" is used to describe size, therefore should come before \"repulsive\"\n- \"pink\" is used to describe color, therefore should come before \"exercise\"\n- \"exercise\" is used to describe function, therefore should come before \"steel\"\n\nThus the only possible answer is (B), pink big exercise repulsive steel rectangular shoe.",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) wonderful big circular orange Pakistani smoking car\n(B) circular wonderful smoking Pakistani big orange car",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order in the sentence \"(A) wonderful big circular orange Pakistani smoking car\" is,\"Pakistani smoking car\", because if we rearrange the adjectives in the sentence, they can still retain their original meaning; for example: \"Pakistani smoking car circular wonderful orange big\", still conveys the original meaning of the sentence.\n\nFor sentence (B): if we rearrange the adjectives in the sentence: \"circular wonderful smoking Pakistani big orange car\", we can still retain the original meaning of the sentence; For example: \"smoking Pakistani big orange car circular wonderful\", still conveys the original meaning of the sentence to a certain extent.",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) medium-size prismlike grey cardboard cat\n(B) prismlike cardboard grey medium-size cat",
+            "correct_answer": "(A)",
+            "model_answer": "(A) is the correct adjective order in this sentence. According to the standard English adjective order, adjectives that describe size, shape, or quantity go before adjectives that describe color, age, or other qualities. In this sentence, \"prismlike\" describes a shape, \"grey\" describes a color, and \"medium-size\" describes a size, so \"prismlike\" should go before \"medium-size\" and \"grey\" should go before both \"prismlike\" and \"medium-size.\"\n\n(B) would have the adjective order \"grey medium-size prismlike cardboard cat,\" which is incorrect.",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) new white lead walking surfboard\n(B) walking lead new white surfboard",
+            "correct_answer": "(A)",
+            "model_answer": "Sentence B has the correct adjective order because in English, adjectives are usually placed in the following order:\n\nDescriptive adjectives: These describe the noun in general terms. They normally come before the noun. Example: \"a tall, handsome man.\"\nSize or age adjectives: These describe the noun in terms of its size or age. They normally come after the noun. Example: \"a small baby.\"\nComparative adjectives: These compare two things. They normally come after the noun. Example: \"the taller of the two boys.\"\nSuperlative adjectives: These compare three or more things. They normally come after the noun. Example: \"the tallest boy in the class.\"",
+            "correct": false
+        },
+        {
+            "id": 23,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) ancient mysterious yellow walking cat\n(B) mysterious ancient yellow walking cat",
+            "correct_answer": "(B)",
+            "model_answer": "Option B",
+            "correct": true
+        },
+        {
+            "id": 24,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) new leather big triangular American chair\n(B) big new triangular American leather chair",
+            "correct_answer": "(B)",
+            "model_answer": "The correct order of adjectives in the sentence should be:\nAesthetic, Functional, Material (in descending order)\n\nOption B: \"big new triangular American leather chair\"\n\nExplained:\nThe adjectives in the sentence can be classified into three categories:\n\nAesthetic Adjectives: These adjectives describe the appearance or beauty of the object. In this case, \"new\" and \"leather\" are aesthetic adjectives.\n\nFunctional Adjectives: These adjectives describe the function or purpose of the object. In this case, \"big\" and \"triangular\" are functional adjectives.\n\nMaterial Adjectives: These adjectives describe the material or substance the object is made of. In this case, \"American leather\" is a material adjective.\n\nWhen we follow the order of adjectives, we start with the aesthetic adjectives, followed by the functional adjectives, and finally the material adjectives. This means that the correct order of adjectives in the sentence should be:\n\nAesthetic: \"new\" and \"leather\"\nFunctional: \"big\" and \"triangular\"\nMaterial: \"American leather\"\n\nTherefore, option B has the correct adjective order: \"big new triangular American leather chair\".",
+            "correct": true
+        },
+        {
+            "id": 25,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) rectangular silver ancient green ridiculous big knife\n(B) ridiculous big ancient rectangular green silver knife",
+            "correct_answer": "(B)",
+            "model_answer": "The correct adjective order in the sentence is: \n(B) ridiculous big ancient rectangular green silver knife\n\nAdjectives should be placed in the following order according to the conventions of English:\n\n1. Descriptive adjectives\n2. Selective adjectives\n3. Statistical adjectives\n4. Possessive adjectives (if applicable)\n\nIn the sentence (A), the adjectives are placed in the wrong order. Specifically, the descriptive adjectives \"ancient\" and \"green\" should come before the selective adjective \"rectangular\", which should then be followed by the statistical adjective \"big\". However, in sentence (A), the descriptive adjectives \"rectangular\" and \"silver\" are placed before \"green\" and \"ancient\", which is incorrect.\n\nIn the sentence (B), on the other hand, the adjectives are placed in the correct order, with the descriptive adjectives \"ancient\" and \"green\" coming first, followed by the selective adjective \"rectangular\", then the statistical adjective \"big\", and finally the possessive adjective \"silver\" (if applicable).\n\nTherefore, the sentence with the correct adjective order is (B).",
+            "correct": true
+        },
+        {
+            "id": 26,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) silly midsize tan computer\n(B) midsize silly tan computer",
+            "correct_answer": "(A)",
+            "model_answer": "B\n\nThe correct adjective order for a sentence is:\n\n1. Determiner (such as the, a, an)\n2. Noun (such as book, traveler, computer)\n3. Adjective (such as red, tall, small)\n4. Article (such as the, a, an)\n5. Possessive (such as my, our, their)\n\nSince the word \"tan\" modifies the noun \"computer,\" it should come before the word \"midsize\" in the sentence. Therefore, option B has the correct adjective order: midsize, silly, tan, computer.",
+            "correct": false
+        },
+        {
+            "id": 27,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) ridiculous grey cardboard whittling motorcycle\n(B) cardboard ridiculous whittling grey motorcycle",
+            "correct_answer": "(A)",
+            "model_answer": "The correct adjective order in the sentence \"ridiculous grey cardboard whittling motorcycle\" is:\n\nRidiculous -> Grey -> Cardboard -> Whittling -> Motorcycle\n\nThis is because adjectives are typically ordered in English according to their level of specificity/generality, with the most general adjective coming first. In this case, \"grey\" is the most general adjective since it describes a color, whereas \"ridiculous\" is a more specific adjective that describes a property of the motorcycle. So the adjective order should be:\n\nRidiculous grey cardboard whittling motorcycle\n\nOption (A) has the adjective order incorrect since \"grey cardboard\" comes before \"ridiculous\", which is the more general adjective describing the whole object.",
+            "correct": true
+        },
+        {
+            "id": 28,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) enormous brand-new German drinking motorcycle\n(B) brand-new drinking German enormous motorcycle",
+            "correct_answer": "(A)",
+            "model_answer": "The sentence with the correct adjective order is (B): \"brand-new drinking German enormous motorcycle\".\n\nThe order of adjectives in English is:\n\n1. Quantitative (age, height, size, quantity)\n2. Qualitative (color, nationality, material)\n3. Demonstrative (this, that, these, those)\n4. Possessive (my, your, its, our)\n5. Articles (a, an, the)\n6. Other (adverbial modifiers, participles, participle phrases)\n\nIn the sentence (A), the adjective order is:\n\n1. Quantitative (brand-new)\n2. Qualitative (drinking)\n3. Demonstrative (German)\n4. Possessive (enormous)\n5. Articles (a, an, the)\n\nThe order is incorrect because \"drinking\" should come after \"German\".\n\nIn the sentence (B), the adjective order is:\n\n1. Quantitative (drinking)\n2. Qualitative (German)\n3. Qualitative (enormous)\n4. Possessive (brand-new)\n5. Articles (a, an, the)\n\nThe order is correct because \"enormous\" and \"brand-new\" are in the correct order.",
+            "correct": false
+        },
+        {
+            "id": 29,
+            "question": "Which sentence has the correct adjective order:\nOptions:\n(A) square Congolese driving old-fashioned dog\n(B) old-fashioned square Congolese driving dog",
+            "correct_answer": "(B)",
+            "model_answer": "The sentence with the correct adjective order is Option (B): \"old-fashioned square Congolese driving dog\".\n\nHere is my reasoning step-by-step:\n\n1. When adjectives modify nouns, they follow a specific order in English:\n\n* **Opinion adjectives**: tall, beautiful, happy\n* **Size adjectives**: large, small, big\n* **Age adjectives**: old, young\n* **Shape adjectives**: square, round, rectangular\n* **Nationality adjectives**: Congolese, American, British\n* **Possession adjectives**: old-fashioned, new, used\n\n2. In the given options, only Option (B) follows this order. Option (A) has the opinion adjective \"square\" before the nationality adjective \"Congolese\", which is incorrect. Option (C) has the possession adjective \"old-fashioned\" before the shape adjective \"square\", which is also incorrect. Only Option (B) correctly follows this order.\n\n3. Therefore, the sentence with the correct adjective order is Option (B): \"old-fashioned square Congolese driving dog\".",
+            "correct": true
+        }
+    ]
+}

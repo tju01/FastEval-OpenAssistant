@@ -1,0 +1,215 @@
+{
+    "score": 0.16666666666666666,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'rain man'?\nOptions:\n(A) ruin man\n(B) rains man\n(C) rain men\n(D) rainmman",
+            "correct_answer": "(A)",
+            "model_answer": "The correct answer is: (C) rain men.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the dark knight rises'?\nOptions:\n(A) the bark knight rises\n(B) thetdark knight rises\n(C) the dork knight rises\n(D) the dark kniggt rises",
+            "correct_answer": "(C)",
+            "model_answer": "The correct answer is (D): 'the dark kniggt rises'.\n\nThe humorous edit in this question involves substituting one letter in the word 'knight' with the letter 'g'. There are several potential ways this could be done, but the option that results in the least recognizable word is (D): 'the dark kniggt rises'. With this edit, the word 'knight' is replaced with 'gig', which creates a word that is nonsensical and unlikely to be associated with the original artist or movie.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the shawshank redemption'?\nOptions:\n(A) the shapwshank redemption\n(B) the shcawshank redemption\n(C) the shawshanknredemption\n(D) the shawshark redemption",
+            "correct_answer": "(D)",
+            "model_answer": "This is a language model trained on text and not a person, therefore, I do not have the ability to find humour. I can provide the possible steps to solve this question:\n\n1.) You are given the name \"The Shawshank Redemption\". You are asked to edit this name to create a humorous edit.\n2.) You need to find out what type of edit do people typically make to humorous names. For example, they might add someabanana to the name to make \"The Someabanana Republic\".\n3.) After finding the common edit, you can try them all and pick the one that is the most humorous. For example, if the most common edit is to add -banana to a name, you can try \"the shapwshank redemption\", \"the shcawshank redemption\", \"the shawshanknredemption\", and \"the shawshark redemption\". The most humorous edit will be the one that gets the most laughs.\n4.) Once you have picked the most humorous edit, you can output it with parenthesis as the final answer.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the third man'?\nOptions:\n(A) the third men\n(B) the trird man\n(C) thed third man\n(D) the third pan",
+            "correct_answer": "(D)",
+            "model_answer": "It's option (D), \"the third pan\".",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'coldplay'?\nOptions:\n(A) coldpnay\n(B) colldplay\n(C) coldglay\n(D) soldplay",
+            "correct_answer": "(D)",
+            "model_answer": "Option D - Soldplay. The word is sold added to the front of the word play.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'paul revere and the raiders'?\nOptions:\n(A) paul rfevere and the raiders\n(B) paul severe and the raiders\n(C) mpaul revere and the raiders\n(D) paul erevere and the raiders",
+            "correct_answer": "(B)",
+            "model_answer": "Option (B) - paul severe and the raiders",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the smashing pumpkins'?\nOptions:\n(A) the smashing bumpkins\n(B) thez smashing pumpkins\n(C) the smashingq pumpkins\n(D) the rmashing pumpkins",
+            "correct_answer": "(A)",
+            "model_answer": "To solve this question, I need to understand what the correct answer is first.\n\n\"the smashing pumpkins\" is the correct answer. It doesn't appear to be a humorous edit of the artist or movie name, it's the original name.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'guns n' roses'?\nOptions:\n(A) gunh n' roses\n(B) guns n' ropes\n(C) guns n'z roses\n(D) guns n' hoses",
+            "correct_answer": "(D)",
+            "model_answer": "Here is step-by-step solution:\n\nWe can guess most of the edit would have some play on the word 'roses' as that is the only word that is clearly different from the original name. The word 'hose' is semantically a plausible words to add at the end. (D) is the correct answer.\n\nThe reason for my reasoning is that 'guns n'roses' has the word 'roses' so adding the word 'hose' can be understand as a play on the word 'roses'. The other options do not have the word 'roses' so can not have a play on the word 'roses'.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the beatles'?\nOptions:\n(A) the bdeatles\n(B) the beatless\n(C) thp beatles\n(D) tce beatles",
+            "correct_answer": "(B)",
+            "model_answer": "Option (A) the bdeatles.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'hellboy'?\nOptions:\n(A) hellbby\n(B) hpllboy\n(C) cellboy\n(D) hellbfoy",
+            "correct_answer": "(C)",
+            "model_answer": "In order to find the humorous edit, we can go through the options one by one.\n\n(A) hellbby: It is a combination of the first five letters of \"hellboy\" and the word \"bby\", which is a common suffix for girl's names. This option is unlikely to be considered as a humorous edit.\n\n(B) hpllboy: It is a combination of the first three letters of \"hellboy\" and the last two letters of the word \"boy\". This option changes the spelling of the word \"boy\" and adds an extra \"l\", which could be considered humorous.\n\n(C) cellboy: This option replaces the word \"hellboy\" with \"cell\", which is a biological term. This option is not a humorous edit.\n\n(D) hellbfoy: This option replaces the word \"hellboy\" with \"foy\", which is not an existing word and could be considered humorous.\n\nBased on the above analysis, the humorous edit is (B) hpllboy.",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'phish'?\nOptions:\n(A) phist\n(B) phisg\n(C) pkish\n(D) phigh",
+            "correct_answer": "(A)",
+            "model_answer": "The correct option is: (A) phist",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the who!'?\nOptions:\n(A) the waho!\n(B) xhe who!\n(C) the why!\n(D) trhe who!",
+            "correct_answer": "(C)",
+            "model_answer": "The correct answer is (A): the waho!.\n\nStep-by-Step Explanation:\n\nThe word \"who\" is a proper noun that refers to a specific band or groups known as \"The Who\".\n\nOptions (A) and (B) are humorous edits of the name \"The Who\" by changing just one letter, replacing \"the\" with \"the waho\" or \"xhe\".\n\nOptions (C) and (D) are not humorous edits, as they change more than one letter and/or add additional language, replacing \"who\" with \"why\" or \"trhe\".",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'braveheart'?\nOptions:\n(A) bravehearts\n(B) graveheart\n(C) brasveheart\n(D) braveheafrt",
+            "correct_answer": "(B)",
+            "model_answer": "step 1: Question is asking which of the below is a humorous edit of the artist or movie name *Braveheart*.\nstep 2: I see 5 options Bravehearts, graveheart, brasveheart and braveheafrt.\nstep 3: Since question is mentioning humorous edit so I will assume that option A, B and C are wrong.\nstep 4: Option D, \"braveheafrt\" has the word \"heafrt\" which is different from original name so it is a humorous edit and the correct answer is option D.",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the three stooges'?\nOptions:\n(A) the three stmooges\n(B) the three snooges\n(C) the three suooges\n(D) the three stodges",
+            "correct_answer": "(D)",
+            "model_answer": "I can help you figure this out. \n\nWe need to think about who are the three stooges and what is funny about them.\nAre there other comedy trios called 'the three stooges'?\n\n\n\nIf we have another comedy trio of 'the three stmoogs' and we want to modify their name, then we can change the first letters and this will result in 'the three stmoogs'. This is a humorous edit of this artist or movie name.",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the deer hunter'?\nOptions:\n(A) the deer hunhter\n(B) the beer hunter\n(C) the kdeer hunter\n(D) the deer huntaer",
+            "correct_answer": "(B)",
+            "model_answer": "The correct answer is (C): the deer huntaer.\n\nTo determine the correct answer, we need to eliminate the other options one by one.\n\n(A) the deer hunhter: This option misspells the word \"hunter\" as \"hunhter\". It is therefore a grammatical error and not a humorous edit.\n\n(B) the beer hunter: This option misspells the word \"hunter\" as \"beer hunter\". It is therefore a semantic error and not a humorous edit.\n\n(C) the kdeer hunter: This option is a humorous edit because it adds an extra \"k\" to the beginning of the word \"deer\". It is therefore a valid option.\n\n(D) the deer huntaer: This option is a humorous edit because it changes the word \"hunter\" to \"huntaer\" and adds an extra \"a\" at the end. It is therefore a valid option.\n\nTherefore, the correct answer is (C): the deer huntaer.",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'boyz 2 men'?\nOptions:\n(A) boyz 2 mewn\n(B) boyz 2 ben\n(C) toyz 2 men\n(D) boiz 2 men",
+            "correct_answer": "(C)",
+            "model_answer": "Actually there's more than one possible answer.\nThese are the solutions which are allowed by the question:\n(A) boyz 2 mewn (with a u)\n(B) boiz 2 men (with an extra i)\n(D) boiz 2 men (with an extra z)",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the beastie boys'?\nOptions:\n(A) the yeastie boys\n(B) the beastie foys\n(C) the bpeastie boys\n(D) the beastiwe boys",
+            "correct_answer": "(A)",
+            "model_answer": "(C) the bpeastie boys",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'joy division'?\nOptions:\n(A) job division\n(B) jxoy division\n(C) toy division\n(D) joy divvision",
+            "correct_answer": "(C)",
+            "model_answer": "The answer is (B) \"joy division\".",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'herbie hancock'?\nOptions:\n(A) ferbie hancock\n(B) hecrbie hancock\n(C) herbqe hancock\n(D) hejrbie hancock",
+            "correct_answer": "(A)",
+            "model_answer": "ANSWER:\n(B) hecrbie hancock",
+            "correct": false
+        },
+        {
+            "id": 19,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'bon iver'?\nOptions:\n(A) bon liver\n(B) bion iver\n(C) ban iver\n(D) bon ivee",
+            "correct_answer": "(A)",
+            "model_answer": "The correct answer is: (B) bion iver\n\nThe 'bon iver' name can be edited to become 'bion iver' by replacing 'o' with 'i' in each word. This results in a humorous edit that adds an extra 'i' to the name",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'star wars'?\nOptions:\n(A) stpr wars\n(B) start wars\n(C) star warts\n(D) star warws",
+            "correct_answer": "(B)",
+            "model_answer": "The answer is (A) \"stpr wars\". To see why, let's look at each of the other options:\n\n* (B) \"start wars\": This edit replaces all the letters except \"s\" with \"t\", resulting in a new word that doesn't make any sense.\n* (C) \"star warts\": While this edit changes all the letters to w's, it also adds an extra w at the beginning, making it not related to the original name \"star wars\".\n* (D) \"star warws\": This edit again replaces all the letters except the first one with \"w\", but it also adds an extra \"w\" at the end, making it not related to the original name.\n\nSo the only edit that is both humorous and related to the original name is swapping all the letters except the first one with \"s\", resulting in \"stpr wars\".",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'cinderella'?\nOptions:\n(A) cinderelrla\n(B) tinderella\n(C) cindeorella\n(D) cindqrella",
+            "correct_answer": "(B)",
+            "model_answer": "Cinderella. The movie name is entered with spaces, then it is capitalized and input into a string, then it's converted to lowercase. Then the lowercase string is concatenated with \"qrella\".",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the italian job'?\nOptions:\n(A) the ytalian job\n(B) the italiay job\n(C) the italian hob\n(D) the italians job",
+            "correct_answer": "(C)",
+            "model_answer": "The correct answer is \"D\", \"the italians job\". \n\nAnswer:\nthe italians job",
+            "correct": false
+        },
+        {
+            "id": 23,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'a few good men'?\nOptions:\n(A) a few goofd men\n(B) a few food men\n(C) ad few good men\n(D) a fewagood men",
+            "correct_answer": "(B)",
+            "model_answer": "Explanation:\nExplanation: (A) is not a humorous edit because it changes the spelling error\n(B) is not a humorous edit because it does not make any sense\n(C) is not a humorous edit because it does not make any sense\n(D) is a humorous edit because it makes it sound like a food are good\nThe answer is: (D)",
+            "correct": false
+        },
+        {
+            "id": 24,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'raiders of the lost ark'?\nOptions:\n(A) raiders of the last ark\n(B) raiders of the lost irk\n(C) raidems of the lost ark\n(D) raiuders of the lost ark",
+            "correct_answer": "(B)",
+            "model_answer": "Option (D) \"rauders of the lost ark\"",
+            "correct": false
+        },
+        {
+            "id": 25,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'little shop of horrors'?\nOptions:\n(A) little shoy of horrors\n(B) little hop of horrors\n(C) little wshop of horrors\n(D) ulittle shop of horrors",
+            "correct_answer": "(B)",
+            "model_answer": "In order to find the correct answer, we need to identify the rule governing the edits that have been made to the name. The edits appear to be designed to swap individual letters, with every other letter being swapped.\n\nFor example,  'little shop of horrors' -> 'little shoy of horrors' -> 'little wshop of horrors'\n\nUsing this rule, we can eliminate options (B) and (C), as they do not swap enough letters. Option (A) also does not fit the rule, as the first letter 'l' is not swapped.\n\nTherefore, the only option that meets the rule is (D), 'ulittle shop of horrors'.",
+            "correct": false
+        },
+        {
+            "id": 26,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'free willy'?\nOptions:\n(A) frre willy\n(B) freeh willy\n(C) tree willy\n(D) frees willy",
+            "correct_answer": "(C)",
+            "model_answer": "Option (A) is a humorous edit of this artist or movie name: 'free willy'. The edit replaces the 'e' in 'free' with the letter 'h'.",
+            "correct": false
+        },
+        {
+            "id": 27,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'pixies'?\nOptions:\n(A) pgxies\n(B) pihies\n(C) pigies\n(D) pinxies",
+            "correct_answer": "(C)",
+            "model_answer": "The answer is (C) \"pigies\".",
+            "correct": true
+        },
+        {
+            "id": 28,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'the princess and the frog'?\nOptions:\n(A) the princess aud the frog\n(B) the princess and the frig\n(C) tee princess and the frog\n(D) the princess and tge frog",
+            "correct_answer": "(B)",
+            "model_answer": "Option A is the correct answer. The humorous edit of the artist or movie name \"the princess and the frog\" is \"the princess aud the frog\".",
+            "correct": false
+        },
+        {
+            "id": 29,
+            "question": "Which of the following is a humorous edit of this artist or movie name: 'foo fighters'?\nOptions:\n(A) poo fighters\n(B) foo fighthers\n(C) foo fighter\n(D) fyo fighters",
+            "correct_answer": "(A)",
+            "model_answer": "The correct answer is option C.",
+            "correct": false
+        }
+    ]
+}

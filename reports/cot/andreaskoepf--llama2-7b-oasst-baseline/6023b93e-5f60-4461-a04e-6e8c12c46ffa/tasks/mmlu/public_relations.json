@@ -1,0 +1,75 @@
+{
+    "score": 0.0,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which common public relations tactic involves sending journalists on visits to appropriate locations?\n\n(A) Media release\n(B) Media tour\n(C) Press room\n(D) Promotional days/weeks",
+            "correct_answer": 1,
+            "model_answer": "Media tour involves sending journalists on visits to appropriate locations, making it the correct answer. Media release, press room, and promotional days/weeks are not common public relations tactics that involve sending journalists on visits to appropriate locations.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "You are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?\n\n(A) Quickly investigate to make certain your product is definitely the cause of the illness.\n(B) Stop all sales of the product throughout the nation and issue a recall for that product.\n(C) Stop sales of the product in the Albany, New York, market and issue a recall for that product.\n(D) Issue a press release to the Albany, New York, market explaining how to treat the symptoms.",
+            "correct_answer": 1,
+            "model_answer": "I would recommend Option D: \n\n\"Option D) Issue a press release to the Albany, New York, market explaining how to treat the symptoms. It is important to focus on the safety and health of the consumers, and this step will show that the company takes responsibility for its products. This approach will also allow the company to gather more information about the contamination and make necessary changes to ensure future product safety.\"",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "In public relations, ________ deals with an organization's ability to satisfy and create a positive experience for its consumers.\n\n(A) community relations\n(B) consumer relations\n(C) employee relations\n(D) public issues",
+            "correct_answer": 1,
+            "model_answer": "Community relations deal with an organization's ability to satisfy and create a positive experience for its consumers. Public relations practitioners work to build and maintain positive relationships with the community, which includes customers, stakeholders, and the general public. They may engage in activities such as community outreach, social responsibility initiatives, and crisis management to promote the organization's image and reputation while providing value to the communities they serve.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In what year did the BBC start broadcasting radio?\n\n(A) 1917\n(B) 1922\n(C) 1925\n(D) 1927",
+            "correct_answer": 1,
+            "model_answer": "The BBC started broadcasting radio in 1922.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "________ advertising campaigns are focused on gathering support for a particular message or cause.\n\n(A) Product-oriented\n(B) Person-oriented\n(C) Idea-oriented\n(D) Message-oriented",
+            "correct_answer": 2,
+            "model_answer": "This is a multiple-choice question, so there are four possible answers:\n\n    (A) Product-oriented\n    (B) Person-oriented\n    (C) Idea-oriented\n    (D) Message-oriented\n\nSince the question asks which type of advertising campaign is \"focused on gathering support for a particular message or cause\", the answer should be either (C) \"Idea-oriented\" or (D) \"Message-oriented\". Let's start with (C).\n\nOption (C): \"Idea-oriented\" campaigns are designed to promote a specific idea or message. They don't focus on selling a product or individual, but on raising awareness and encouraging support for a certain cause.\nFor example, a campaign to raise awareness for breast cancer might focus on sharing information about the disease, its symptoms, and possible treatments, without explicitly promoting a particular brand of products or services.\n\nOption (D): \"Message-oriented\" campaigns are also focused on promoting a specific idea or message, but they may not necessarily be \"idea-oriented\" in the same sense as option (C).\nFor example, a campaign to promote a new product might focus on the benefits and features of the product, without explicitly discussing the cause or message behind it.\n\nTherefore, the answer to the question is \"Message-oriented\".",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Why should a successful public relations counselor continually review present and future realities for an organization?\n\n(A) to develop a vision statement\n(B) to interpret trends for management\n(C) to interpret the organization's business plan\n(D) to consider the role public relations might play",
+            "correct_answer": 1,
+            "model_answer": "A successful public relations counselor should continually review present and future realities for an organization to develop a vision statement. This involves analyzing the organization's current situation, such as its strengths and weaknesses, the market it operates in, and its longer-term goals. Based on this analysis, the public relations counselor can help the organization create a vision statement that articulates its goals, values, and aspirations for the future. The vision statement serves as a guide for the organization's actions and helps it create a compelling narrative that resonates with stakeholders. By reviewing present and future realities on a regular basis, the public relations counselor helps ensure that the organization is aligned with its core values and has a clear understanding of its direction for growth and success.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of these definitions best describes the 'spiral of silence'?\n\n(A) When victims of abuse remain silent about the abuse\n(B) When people hide their opinions if they do not agree with the majority\n(C) When people hide their opinions if they are in disagreement with their close peers or family members\n(D) When public relations uses opinion poll results to generate support for a particular issue",
+            "correct_answer": 0,
+            "model_answer": "The definition that best describes the \"spiral of silence\" is (B), which states that people hide their opinions if they do not agree with the majority. This phenomenon is described by sociologist Erving Goffman and refers to the tendency for people to conform to the opinions of the majority, even if they hold different beliefs. This can lead to a reduction in the visibility and expression of minority views, which in turn reinforces the perception that the majority opinion is the correct one.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What two elements do the planning models of Hendrix (2002), Kendall (1999), Merston (1963) and Parkinson and Ekachai (2006) have in common?\n\n(A) Research and evaluation\n(B) Strategy and evaluation\n(C) Strategy and implementation\n(D) Objectives and implementation",
+            "correct_answer": 0,
+            "model_answer": "All four planning models mentioned have strategy and implementation as a common element.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "At which stage in the planning process are the objectives decided on?\n\n(A) Defining the program\n(B) Planning the program\n(C) Taking action and implementing ideas\n(D) Evaluation of the program",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is: (D) Evaluation of the program\n\nObjectives are decided on during the evaluation of the program, as this is when analyzes can be made to see if the program was actually successful and whether or not the goals were met.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which of the following is NOT one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs?\n\n(A) ingratiation\n(B) downplaying\n(C) distancing\n(D) nonexistence",
+            "correct_answer": 1,
+            "model_answer": "Downplaying is not one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs. \n\nCoombs identified four persuasive crisis communication strategies:\n- Apologize\n- Explain\n- Sympathize\n- Advocate\n\n\nThe other three strategies are persuasive, as they aim to persuade the audience to accept the message and the organizations position on the crisis. \n\nDownplaying is not persuasive, but rather a defense strategy. It aims to minimize the impact of the crisis and attempts to reduce public condemnation.",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "As of 2016, about what percentage of adults aged 18 years or older were overweight?\n\n(A) 10%\n(B) 20%\n(C) 40%\n(D) 80%",
+            "correct_answer": 2,
+            "model_answer": "It is 40%",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?\n\n(A) About $300\n(B) About $3k\n(C) About $8k\n(D) About $15k",
+            "correct_answer": 1,
+            "model_answer": "The GDP per capita in the United States in 1850 can be estimated by adjusting for inflation and PPP in 2011 prices using various methods and assumptions. However, before providing an answer, it's important to note that reliable data on GDP per capita in the 1800s is limited, and various estimates can vary widely.\n\nOne approach is to use averaged price estimates provided by the Department of Commerce. According to the U.S. Bureau of Economic Analysis, the real GDP per capita for 1850 was $856 in 1850 chained 2011 dollars. This estimate includes the effects of inflation, but not PPP adjustments.[1]\n\nTo adjust for PPP, we can use estimates from the International Monetary Fund (IMF). The PPP exchange rate for the U.S. dollar in 1850 is not directly available, but we can use its best estimate for 1850 from 2011 forward. The IMF estimates the PPP exchange rate for the U.S. dollar in 2011 was approximately $1.27.[2]\n\nBy multiplying the real GDP per capita with the PPP rate, we get an adjusted GDP per capita for 1850 in 2011 prices. Assuming $856 real GDP per capita in 1850 and $1.27 PPP rate for 2011, the adjusted GDP per capita in 1850 in 2011 prices would be:\n\n$856 * $1.27 = $1,078\n\nHowever, this still includes the effects of inflation and does not take into account potential changes in the standard of living between 1850 and 2011. To address this, we can apply the same PPP adjustments to the GDP per capita estimates for 2011. According to the IMF, the purchasing power of the U.S. dollar in 2011 was approximately 1.02 times higher than in 1850.[2]\n\nApplying this multiplier to the adjusted GDP per capita in 1850 in 2011 prices ($1,078), we get an estimate of the GDP per capita in 2011 purchasing power parity prices as follows:\n\n$1,078 * 1.02 = $1,100\n\nComparing this with the average PPP exchange rate for 2011 of $1.27, we see that the GDP per capita in 2011 purchasing power parity prices would be approximately $1,100. This indicates that the GDP per capita in the United States in 1850 adjusted for inflation and PPP in 2011 prices would be around $1,100 or approximately A.\n\nFinally, it's worth noting that this is a rough estimate based on assumptions and limited data, and there may be other methods and assumptions that give different answers. Additionally, the standards of living in 1850 and 2011 may have differed in ways that affect how we measure GDP per capita, particularly for factors like healthcare, leisure, and transportation.[3]",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?\n\n(A) 52%\n(B) 62%\n(C) 72%\n(D) 82%",
+            "correct_answer": 2,
+            "model_answer": "Option C: 72%",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following countries generated the most total energy from solar sources in 2019?\n\n(A) China\n(B) United States\n(C) Germany\n(D) Japan",
+            "correct_answer": 0,
+            "model_answer": "Sorry, would you mind rephrasing your question? Specifically, please provide the four options to choose from.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?\n\n(A) by 5 fold\n(B) by 10 fold\n(C) by 15 fold\n(D) by 20 fold",
+            "correct_answer": 2,
+            "model_answer": "From 1950 to 2016, GDP per capita in Japan increased by approximately 7.4 times (740%) when controlling for inflation and PPP adjustment.\n\nTo calculate this, we first need to measure GDP per capita for both years. This can be done by dividing GDP by the population.\n\nIn 1950, GDP in Japan was $36 billion and the population was 86 million, resulting in GDP per capita of $410.\n\nIn 2016, GDP in Japan was $5.3 trillion and the population was 127 million, resulting in GDP per capita of $41,000.\n\nThe increase in GDP per capita can be calculated as follows:\n\nGDP per capita in 2016 - GDP per capita in 1950\n\n= $41,000 - $410\n\n= $40,590\n\nWe can then convert this increase to a percentage by dividing it by the original value:\n\nPercentage increase = (GDP per capita in 2016 - GDP per capita in 1950) / GDP per capita in 1950\n\n= ($40,590 / $410) * 100%\n\n\u2248 740%\n\nTherefore, the answer is (D), GDP per capita in Japan increased by approximately 740% from 1950 to 2016 when adjusting for inflation and PPP.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "What is the biggest cause of death in children under five years old (as of 2017)?\n\n(A) Lower respiratory infections\n(B) Preterm birth complications\n(C) Diarrheal diseases\n(D) Malaria",
+            "correct_answer": 0,
+            "model_answer": "The biggest cause of death in children under five years old (as of 2017) is (A): Lower respiratory infections.\n\n70.8% of all under 5 deaths were caused by lower respiratory infections.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "As of 2019, about what percentage of the global population does not have access to safe drinking water?\n\n(A) 10%\n(B) 20%\n(C) 30%\n(D) 40%",
+            "correct_answer": 2,
+            "model_answer": "Sure, first I gathered some relevant knowledge about the topic.\n\nAccording to the World health organization, in 2020 approx 1.1 billion people lacked access to safe drinking water. This means the percentage of people who don\u2019t have access to safe drinking water is roughly 14%. If you want to round to the nearest percentage, then it would be 10% as that is the closest.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?\n\n(A) 29%\n(B) 49%\n(C) 69%\n(D) 89%",
+            "correct_answer": 2,
+            "model_answer": "To solve this, we need to interpret the\nquestion.\n\nThe question has 2 parts,\n1) what percentage of survey respondents from India report\nhaving paid a bribe in the last year.\n2) for accessing public services.\n\nSo we need to calculate 2 parts separately.\n\nfor 1) There are 5 options,\nlet us select the one which is closest to 100%\n(C) 69%\n\nfor 2) the list of public services\nthe number of services is 9,\nso the probability for each survey respondent to have paid a bribe is 69%/9 = 7.6%.\n\nTotal probability = 7.6% * number of survey respondents,\nwhich is 1254,491,770 from India.\n\nTotal probability = 7.6% * 1254491770 = 93990174\n\n\nThe probability of survey respondent in India to have paid a bribe in the last year is 93990174/1254491770 = 7.45%\n\nAs there are 5 options,\nwe will take the smallest one.\nSo the answer is (C).",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "As of 2017, what fraction of the population in Brazil used the internet in the past three months?\n\n(A) 18%\n(B) 38%\n(C) 58%\n(D) 78%",
+            "correct_answer": 2,
+            "model_answer": "As of 2017, the latest data that is available, the internet penetration rate in Brazil was 68.7%, which means that about 68.7% of the population in Brazil used the internet in the past three months. Therefore, the correct answer is option (C).",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "As of 2017, what fraction of the population in India used the internet in the past three months?\n\n(A) 11%\n(B) 26%\n(C) 41%\n(D) 56%",
+            "correct_answer": 1,
+            "model_answer": "Solution: \n\n1. There are multiple ways to get any information, one of them is data collection by reputable sources such as \"World Bank\".\n2. In the case of the above question, https://data.worldbank.org/indicator/IT.NET.USER.P2?locations=IN shows the internet penetration rate for India in 2017 as 36.02%.\n3. Therefore, the answer is D.",
+            "correct": false
+        }
+    ]
+}

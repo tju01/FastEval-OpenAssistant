@@ -1,0 +1,75 @@
+{
+    "score": 0.1,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "The correct answer to this question is (C). Dun & Bradstreet, Inc. is a well-known credit rating agency that provides information on the financial health of businesses, including retail businesses. It collects and analyzes financial data from businesses and provides credit scores and other risk assessment tools to lenders, suppliers, and other businesses that need to make informed decisions about creditworthiness. The option (C) is correct.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "This instructional strategy is (C) Self-Regulated Strategy Development. Through this method, students are given a structured process to identify the defining characteristics of the genre and apply that knowledge to their own writing. This approach fosters self-regulation and metacognition as students reflect on their own learning process.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "Temperature of combustion varies depending on the material being burned.  For example, comprpied wood burns at a temperature of 2739 \u00b0F while a lighter fluid with a given same volume burns at a temperature of 2425 \u00b0F .\nThe question asked what temperature in Fahrenheit, which is specific to material called paper.\nFollowing is the process I took to find out the answer:\n\n1) Paper burns at a temperature of 451 \u00b0F.  This is because paper is made out of cellulose which burns at 451 \u00b0F.   The paper may be covered with some sort of binding agent which if burns at a diferent temp(see step 2).\n\n2) If the paper is a type of printer paper, the temperature of paper ignition may go up to 600 \u00b0F .\n\nSince the answer given was not one of the possible temperature values, I must rule out that paper is not bound with some unknown material.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "The correct answer is **D**: Grape. The iMac computer is available in a variety of colors, but Grape is not one of them.\n\nThe other colors that are available are:\n\n- Tangerine (Orange)\n- Strawberry (Red)\n- Kiwi (Green)\n\nSo, the answer is Grape.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "The answer to the question is (B) Meriwether and William.\n\nExplaination:\nLewis and Clark were the famous American explorers who led the Lewis and Clark Expedition from 1804 to 1806 to explore the lands west of the Mississippi River. Their first names were Meriwether Lewis and William Clark.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "Sure, I'd be happy to explain the answer to your question and then provide the final answer.\n\nThe reading approach described is guided reading.\n\nIn guided reading, the teacher provides support for small, flexible groups of beginning readers as they read a text or book that is unfamiliar to them. The teacher works with the students to teach them how to use a variety of reading strategies, including prediction, questioning, summarizing, and connecting to prior knowledge.\n\nDirect instruction is a teaching method that involves explicit, systematic teaching of a particular skill or concept. It is typically used in a whole-class setting and is often accompanied by lecture and demonstration.\n\nLiterature circle is a group discussion approach in which students work together to read and discuss a piece of literature. Each student takes on a specific role, such as leader, questioner, or summarizer, and is responsible for leading discussions and taking notes.\n\nGuided reading is different from literature circle in that it is a small-group reading approach that focuses on developing reading skills rather than discussing a piece of literature.\n\nTherefore, the answer is \"Guided reading.\"",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "First, I will note that these options are not mutually exclusive -- which option is correct could be determined by more than one step.\n\nSince we are treating each of these options as potential hypotheses, we should evaluate each one in turn:\n\nA: \"Fancy pasta\" does not make sense as an answer to this question. No pasta, historical or modern, is called \"varicella\".  1 false.\nB: \"Type of opera\" does not fit with the question. There is no such thing as a \"type of opera\", not in the same way a \"type of fruit\" or \"type of animal\" would exist. There are many operas, but they are not grouped together as a type.  1 false.\nC: The chicken pox virus makes sense as an answer, because the question mentions \"the chicken pox virus\". This is our most promising hypothesis so far. It is still worth looking into other options to confirm this one. 0 false.\nD: I cannot find any record of \"ancient Roman poetry\" being called \"varicella\". 1 false.\n\nTherefore, based on our evaluation so far, our best conclusion so far is that the answer is \"The chicken pox virus\".",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "The material that has a resistance least affected by temperature changes is Silicon.\n\nThe electrical conductivity of materials depends fundamentally on their band structure. Consider a single electron in a material, it is free to move in the 3-dimensional space of the material as long as it stays within one of the allowed energy bands of the material. In this approximation, the resistance of the material equals the product of the number of available them and the bandgap.\n\n- When the temperature rises, some bands of the material become bound due to thermal energy, but the electrons in those bands are still not allowed to move freely, and thus the material's resistance doesn't change much.\n- In Germanium and Carbon, the number of free electrons in the valence band is relatively small compared to the number of conductive bands in the forbidden band gap, meaning that a temperature rise results in a significant change in the material's resistance.\n\n- Regarding the allowed energy bands of different materials, the electronic band structure of Germanium is similar to that of Silicon. However, the number of conductive bands in the forbidden band gap of Germanium is significantly larger compared to the number of free electrons in its valence band. This means that there are not too many free electrons in Germanium to move very freely, and thus its resistance increases very little when the temperature rises.\n- Silicon is used in many electronic devices because of its bandgap which is wide enough to qualify it to be a semiconductor. In fact, the bandgap of Silicon is 1.12 eV, and the number of free electrons in its valence band is considerable. This means that the movement of the conductive bands in the forbidden band gap still relatively affects the movement of the free electrons in the valence band, and thus when the temperature rises, the movement of the free electrons doesn't change much, and Silicon's resistance doesn't change either.\n\nTherefore, Silicon is the material with a resistance least affected by temperature changes.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "In terms of numbering of years, B is correct. If we have a reference of a freshman year as the first year of college, then the junior year is the third year, and so on for the sophomore year.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "The correct answer is Matt Damon.",
+            "correct": false
+        }
+    ]
+}
