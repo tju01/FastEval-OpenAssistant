@@ -1,0 +1,291 @@
+{
+  "results": {
+    "arc_challenge": {
+      "acc,none": 0.46245733788395904,
+      "acc_stderr,none": 0.014570144495075581,
+      "acc_norm,none": 0.4854948805460751,
+      "acc_norm_stderr,none": 0.014605241081370053
+    },
+    "arc_easy": {
+      "acc,none": 0.7781986531986532,
+      "acc_stderr,none": 0.008525022225214481,
+      "acc_norm,none": 0.7327441077441077,
+      "acc_norm_stderr,none": 0.009080463246017469
+    },
+    "boolq": {
+      "acc,none": 0.8388379204892966,
+      "acc_stderr,none": 0.006430770316534763
+    },
+    "hellaswag": {
+      "acc,none": 0.574586735710018,
+      "acc_stderr,none": 0.004933950953380901,
+      "acc_norm,none": 0.7564230233021311,
+      "acc_norm_stderr,none": 0.004283630516444494
+    },
+    "openbookqa": {
+      "acc,none": 0.348,
+      "acc_stderr,none": 0.0213237286328075,
+      "acc_norm,none": 0.442,
+      "acc_norm_stderr,none": 0.022231970696321122
+    },
+    "piqa": {
+      "acc,none": 0.7812840043525572,
+      "acc_stderr,none": 0.009644731932667561,
+      "acc_norm,none": 0.7823721436343852,
+      "acc_norm_stderr,none": 0.00962740747484087
+    },
+    "winogrande": {
+      "acc,none": 0.7150749802683505,
+      "acc_stderr,none": 0.012685986125141224
+    }
+  },
+  "configs": {
+    "arc_challenge": {
+      "task": "arc_challenge",
+      "group": [
+        "ai2_arc",
+        "multiple_choice"
+      ],
+      "dataset_path": "ai2_arc",
+      "dataset_name": "ARC-Challenge",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "Question: {{question}}\nAnswer:",
+      "doc_to_target": "{{choices.label.index(answerKey)}}",
+      "doc_to_choice": "{{choices.text}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "Question: {{question}}\nAnswer:"
+    },
+    "arc_easy": {
+      "task": "arc_easy",
+      "group": [
+        "ai2_arc",
+        "multiple_choice"
+      ],
+      "dataset_path": "ai2_arc",
+      "dataset_name": "ARC-Easy",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "Question: {{question}}\nAnswer:",
+      "doc_to_target": "{{choices.label.index(answerKey)}}",
+      "doc_to_choice": "{{choices.text}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "Question: {{question}}\nAnswer:"
+    },
+    "boolq": {
+      "task": "boolq",
+      "group": [
+        "super-glue-lm-eval-v1"
+      ],
+      "dataset_path": "super_glue",
+      "dataset_name": "boolq",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "{{passage}}\nQuestion: {{question}}?\nAnswer:",
+      "doc_to_target": "label",
+      "doc_to_choice": [
+        "no",
+        "yes"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc"
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "passage"
+    },
+    "hellaswag": {
+      "task": "hellaswag",
+      "group": [
+        "multiple_choice"
+      ],
+      "dataset_path": "hellaswag",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "{% set text = activity_label ~ ': ' ~ ctx_a ~ ' ' ~ ctx_b.capitalize() %}{{text|trim|replace(' [title]', '. ')|regex_replace('\\[.*?\\]', '')|replace('  ', ' ')}}",
+      "doc_to_target": "{{label}}",
+      "doc_to_choice": "{{endings|map('trim')|map('replace', ' [title]', '. ')|map('regex_replace', '\\[.*?\\]', '')|map('replace', '  ', ' ')|list}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "openbookqa": {
+      "task": "openbookqa",
+      "group": [
+        "multiple_choice"
+      ],
+      "dataset_path": "openbookqa",
+      "dataset_name": "main",
+      "training_split": "train",
+      "validation_split": "validation",
+      "test_split": "test",
+      "doc_to_text": "question_stem",
+      "doc_to_target": "{{choices.label.index(answerKey.lstrip())}}",
+      "doc_to_choice": "{{choices.text}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "question_stem"
+    },
+    "piqa": {
+      "task": "piqa",
+      "group": [
+        "multiple_choice"
+      ],
+      "dataset_path": "piqa",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "Question: {{goal}}\nAnswer:",
+      "doc_to_target": "label",
+      "doc_to_choice": "{{[sol1, sol2]}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "goal"
+    },
+    "winogrande": {
+      "task": "winogrande",
+      "dataset_path": "winogrande",
+      "dataset_name": "winogrande_xl",
+      "training_split": "train",
+      "validation_split": "validation",
+      "doc_to_text": "<function doc_to_text at 0x7f684fcf2c20>",
+      "doc_to_target": "<function doc_to_target at 0x7f684fcf2e60>",
+      "doc_to_choice": "<function doc_to_choice at 0x7f684fcf30a0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": true,
+      "doc_to_decontamination_query": "sentence"
+    }
+  },
+  "versions": {
+    "arc_challenge": "Yaml",
+    "arc_easy": "Yaml",
+    "boolq": "Yaml",
+    "hellaswag": "Yaml",
+    "openbookqa": "Yaml",
+    "piqa": "Yaml",
+    "winogrande": "Yaml"
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=andreaskoepf/llama2-7b-megacode2_min100,dtype=bfloat16,trust_remote_code=True,parallelize=False",
+    "batch_size": "auto:5",
+    "batch_sizes": [
+      16,
+      64,
+      64,
+      64,
+      64
+    ],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000
+  },
+  "git_hash": "4a8d75bd"
+}

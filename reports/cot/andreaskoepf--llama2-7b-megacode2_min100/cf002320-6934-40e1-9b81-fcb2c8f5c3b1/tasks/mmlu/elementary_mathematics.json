@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "We are given the equation 24 = 2p, with the goal to find the value of p. Let's follow the steps below to analyze the equation and determine the correct answer.\n\nStep 1: Identify the problem\nThe given equation is 24 = 2p, where we should find the value of p.\n\nStep 2: Subtract 18 from both sides of the equation\nTo isolate p, we start by subtracting 18 from both sides of the equation to solve for p.\n\n(24 - 18) = 2p\n6 = 2p\n\nStep 3: Divide by 2\nNow that we have isolated the term with p, we can divide both sides of the equation by 2 to get the value of p.\n\n6 / 2 = (2p) / 2\n3 = p\n\nStep 4: Check for performance\nWe checked the answer by re-entering the value of p (3) into the original equation, 24 = 2 * 3, to confirm that both sides of the equation are equal.\n\n24 = 6\n\nStep 5: Match the answer with the options\nOur calculated value of p (3) is not in the list of available options. Therefore, we didn't find a matching value for p. In this case, there seems to be an error in the provided options or the problem is missing some details.\n\nFinal output: (None)",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "To find out how many miles Ms. Perez drove each day, we will divide the total distance she drove (40 miles) by the number of days (5 days) she drove.\n\nMiles per day = Total miles / Number of days = 40 miles / 5 days = 8 miles per day\n\nSo, Ms. Perez drove 8 miles each day. The correct answer is (C) 8.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of -40 divided by -8, we must first consider the operation of division. Division is a fundamental operation of mathematics that produces a quotient and a remainder.\n\n-40 divided by -8 can be simplified as follows:\n\n-8 has a remainder of 4 when divided by -40\n\nNow we can find the quotient directly:\n\n(-8 \u00f7 -40) = 1 with a remainder of 4\nSo the quotient is 1 and the remainder is 4.\n\nNow, to transform the partial sum of 1 and 4 into the final answer, we need to convert it into the decimal equivalent. We multiply the final numerator (1) by 5 and the final denominator (-8) by its reciprocal (-1).\n\n1 * 5 = 5 (numerator)\n5 * (-1) = -5 (denominator)\n\nAs a result, we get the final quotient as:\n\n(A) 1 over 5",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Divide the total amount by the cost of a single soccer ball to find out how many soccer balls the team can buy.\n$90 \u00f7 $15.60 = 5.656\n\nStep 2: Round up the result to the nearest whole number, which is 6 soccer balls.\nSince the answer is obtainable as a whole number, only options (C) and (D) remain.\n\nStep 3: Compare the number of soccer balls the team can buy with both options (C) and (D).\n\n(C) 6 soccer balls can be bought.\n(D) 7 soccer balls can be bought.\n\nThe team can buy 7 soccer balls.\n\nAnswer: (D) 7",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "The destination in this task is to find the price of a single ticket (t) to a concert. To solve for t, we need to write and solve an equation relating the quantity (4t) to the total cost ($112) for the four tickets.\n\nCurrently we are given two options (A) 4t = $448 and (B) 4t = $28; these options imply different prices, so we need to choose one. \n\nOption (B) 4t = $28 has a smaller value, so we will leverage that option to solve for t. To completely understand the reason, we should break the information down to algebraic form. We have a balance that can be represented by the equation 4t = ___ (where the blank is substituted with 112).\n\nFirstly, subtract 4t from both sides of the equation to achieve both sides equaling zero:\n     0 = 4t - 4t\n  Now it can be simplified:\n     0 = 0t\n\nAlthough there is a 0 multiplied by any number, this example is useful because it only involves the dollar sign. In this case, 0 * t (0t) = 0.\n  \nNow the original equation will look like this:\n     0 = 0t\n     0t = 0\n\nThis equation clearly states that the cost of one ticket is 0, which means there is no cost for one ticket if given on equal footing (4 equal groups of 0). But this can't be possible since a ticket typically carries a cost. So, we can be certain that this option (B) isn't correct.\n\nWe must then consider option (A) 4t = $448, since this is the only option left which states the cost of one ticket (t) is $448. To find the cost of one ticket (t), we will divide both sides of the equation by 4 to isolate the cost of one ticket:\n\n(4t / 4) = (448 / 4)\nt = 112\n\nSo, our answer is that the cost of one ticket (t) is $112, which is one of the given options (A). This correct response satisfies the constraints of the problem and produces the desired result. Thus, we can conclude that option (A) is indeed correct and the cost of one ticket (t) is $112.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "To solve this expression, let's break it down step-by-step:\n\n1. First, we have the parentheses which will be unfenced: 3 \u00d7 (2 \u00d7 6 \u2013 5) + (8 \u00f7 4) - 1\n2. Next, we can simplify the inside of the parentheses by subtracting 5 from 2 \u00d7 6: 3 \u00d7 (4 \u2013 5) + (8 \u00f7 4) - 1\n3. Now we can perform the multiplication and division inside the parentheses: (3 \u00d7 4) - 1 = (12 - 1) = 11, and (8 \u00f7 4) = 2\n4. Next, we simplify the operation inside the parentheses: 11 + 2 = 13\n5. Finally, subtract 1 from the result: 13 - 1 = 12\n\nNow that we have simplified the expression, we can directly obtain the value of the expression:\n\n12",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "To find the whole or mixed number representation of 1 and 1 over 11, we need to simplify the fraction.\n\nStep 1: Divide 11 into 1 and 1.\n11 divided by 1 is 1.\n11 divided by 11 equals 1.\n\nStep 2: Combine the whole numbers.\n1 and 1 made in to 1 whole number.\n\nTherefore, we have 1 as a whole number when divided by 11. So the correct answer is:\n\n(A) 1.0 (which is in simplest form)",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Understand the problem, which is to find the quotient of two numbers when one of them is divided by zero.\n\nStep 2: Recall the formula for the quotient of two numbers when one is divided by zero: Zero divided by any number is zero.\n\nStep 3: Since in this case we have 2.16 divided by 0.06, when 2.16 is zero divided by 0.06, it results in 0.\n\nStep 4: Since the result of the division is 0, the quotient is the same as the number that is being divided by zero.\n\nStep 5: Write the answer as a single letter with parenthesis.\n\nThe quotient of 2.16 \u00f7 0.06 is 0.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "To find the difference between 142.76 and 16.5, follow these steps:\n\n1. Subtract 16.5 from 142.76: \n   Answer: 142.76 - 16.5 = 126.26\n\nAnd so the correct answer is (D) 126.26. However, since the question asks for the difference without including any extra information like the symbol \">\", the final answer should only be the single letter \"12\", with parenthesis.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of 5.04/0.7, follow these steps:\n\n1. First, perform the division operation.\n2. The division of 5.04 by 0.7 can be approximated as 7 (rounded to the nearest integer).\n3. The quotient of 7 and 0.7 is 10.\n4. Multiply the approximation of 5.04 by its quotient.\n5. Multiply the rounded quotient (10) by the cancelled divisor (0.7).\n\nSo the final line should contain the answer as a single letter with parenthesis without anything else.\n\nSince the answer is calculated above, we can now output it:\n\n(D) 7.2",
+            "correct": true
+        }
+    ]
+}
