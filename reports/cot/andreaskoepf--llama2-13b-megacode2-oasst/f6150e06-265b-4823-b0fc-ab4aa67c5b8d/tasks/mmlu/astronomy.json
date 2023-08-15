@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is true for a type-Ia (\"type one-a\") supernova?\n\n(A) This type occurs in binary systems.\n(B) This type occurs in young galaxies.\n(C) This type produces gamma-ray bursts.\n(D) This type produces high amounts of X-rays.",
+            "correct_answer": 0,
+            "model_answer": "A) This type occurs in binary systems.\n\nType Ia supernovae are explosions of white dwarf stars in binary systems. This is the most common type of supernova and its high reliability as a standard candle makes it an important tool for measuring cosmic distances.\n\n(B) This type occurs in young galaxies.\n(C) This type produces gamma-ray bursts.\n(D) This type produces high amounts of X-rays.\n\nThese statements are false. Type Ia supernovae do not occur exclusively in young galaxies, and they do not produce gamma-ray bursts or high amounts of X-rays.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:\n\n(A) Its speed relative to you\n(B) Its composition\n(C) Its size\n(D) Its distance from you",
+            "correct_answer": 3,
+            "model_answer": "Sure, let's break it down and analyze each option:\n\n(A) Apparent brightness is related to distance from the observer. But we do not have any information about the object's velocity/speed, so we cannot estimate the speed relative to you.\n\n(B) Composition isn't directly related to apparent brightness. We would require more specific information about the object to estimate its composition.\n\n(C) Appearance could partially refer to size in some cases (e.g., the apparent size of a star/planet would depend on its distance from Earth). Still, size is not the only factor affecting apparent brightness, and we don't have enough information to estimate size accurately.\n\n(D) Apparent brightness is directly proportional to the inverse square of the distance from the observer (inverse square law). If you know the actual brightness of an object and its apparent brightness from your location, then you can use this information to estimate the distance from you.\n\nBased on this analysis, the correct answer is:\n\n(D) Distance from you",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Why is the sky blue?\n\n(A) Because the molecules that compose the Earth's atmosphere have a blue-ish color.\n(B) Because the sky reflects the color of the Earth's oceans.\n(C) Because the atmosphere preferentially scatters short wavelengths.\n(D) Because the Earth's atmosphere preferentially absorbs all other colors.",
+            "correct_answer": 2,
+            "model_answer": "(C) The sky appears blue because the Earth's atmosphere preferentially scatters short wavelengths of light, such as blue light, in all directions. This process is called Rayleigh scattering. Longer wavelengths of light, like red and orange, are scattered less and can travel straight through the atmosphere. Therefore, the sky appears blue to us on Earth.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "You\u2019ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?\n\n(A) The first time you drop a bowling ball and it falls to the ground proving your hypothesis.\n(B) After you\u2019ve repeated your experiment many times.\n(C) You can never prove your theory to be correct only \u201cyet to be proven wrong\u201d.\n(D) When you and many others have tested the hypothesis.",
+            "correct_answer": 2,
+            "model_answer": "I will go through the options one by one.\n\n(A) While dropping a bowling ball and observing it fall to the ground might provide some evidence for the existence of an attractive force between objects, it is not sufficient to establish the theory as a proven scientific fact. A single experiment is not enough to establish a general theory that applies to all objects.\n\n(B) Repeating an experiment many times is an important step in the scientific method. Replicating results and obtaining consistent results increases the confidence in the theory. However, just repeating the experiment many times is not enough to prove the theory to be correct.\n\n(C) Scientific theories are not proven correct, but rather they are \"yet to be proven wrong\". It means that the current evidence supports the theory and there is no evidence contradicting the theory, so it is considered to be the best currently accepted explanation. However, this does not mean it is proven correct, as new evidence could always emerge that contradicts the theory.\n\n(D) Obtaining widespread agreement among scientists or conducting many experiments is important for establishing a scientific theory. However, it is not sufficient to prove the theory to be correct. A theory must be supported by evidence and be able to accurately explain and predict phenomena.\n\nBased on the analysis of each option, the answer is:\n(C) You can never prove your theory to be correct only \u201cyet to be proven wrong\u201d.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is/are true?\n\n(A) Titan is the only outer solar system moon with a thick atmosphere\n(B) Titan is the only outer solar system moon with evidence for recent geologic activity\n(C) Titan's atmosphere is composed mostly of hydrocarbons\n(D) A and D",
+            "correct_answer": 3,
+            "model_answer": "None of the statements is completely true. From the listed options, only statement (C) is true.\n\nTitan is indeed the only moon to have a thick atmosphere, and that atmosphere is primarily composed of nitrogen. However, Titan does not have a thick hydrocarbon atmosphere; its thick atmosphere is composed mostly of nitrogen, with trace amounts of methane and other compounds. While Titan does have a significant amount of hydrocarbons (mostly methane) in its atmosphere, the hydrocarbons only make up a small fraction of the atmosphere, as opposed to a majority as stated in the question.\n\nStatement (B) is also inaccurate. While Titan has shown signs of recent geological activity, it is not the only outer solar system moon with evidence of geologic activity. Other moons, such as Io, Europa, and Ganymede, have evidence of glacial movements, tectonic activity, and cryovolcanism.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?\n\n(A) m*v\n(B) 0.5*m/(R^3)\n(C) 0.5*m*(2GM/R)\n(D) 0.6*G(M^2)/R",
+            "correct_answer": 2,
+            "model_answer": "Sure, let's go step-by-step:\n\n1. We know at the minimum impact speed, the kinetic energy of the comet will be sufficient to completely destroy the comet.\n2. So, the total energy released (E) in the impact would be equal to the kinetic energy of the comet (KE).\n3. KE is given by:\nKE = 0.5 * m * v^2\n\n4. As the comet impacts the Earth, we need to convert m (mass of comet) to kg. This will give us the kinetic energy in Joules.\n5. Since the mass of the Earth (M) and its radius (R) are constant, we can use them in our expression for E.\n6. Now, substitute KE from step 3 and m in the form of kg from step 4 into the expression for E.\n\nAnswer: (A) m*v",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Some of Mars'water is frozen in the soil and the ice caps and some was lost due to solar wind stripping but much of the original water is thought to have been lost through another mechanism. What happened to this \"lost\"water?\n\n(A) it was stripped away by the magnetic field when it rapidly decreased in strength\n(B) it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape\n(C) it was consumed by a civilization of thirsty Martians\n(D) it was vaporized during a period of intense volcanism and was lost to space through thermal escape",
+            "correct_answer": 1,
+            "model_answer": "(B) it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Most rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is:\n\n(A) Lunar rocks are composed of fragments pulverized by many impacts.\n(B) Radioactive dating of lunar samples shows that they are older.\n(C) The Moon's surface is more heavily eroded than the Earth's surface.\n(D) The Moon's surface has more impact craters than the Earth's surface.",
+            "correct_answer": 1,
+            "model_answer": "(B) Radioactive dating of lunar samples shows that they are older.\n\nMost rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is radioactive dating of lunar samples that show they are older. This means that the Moon's surface has been around longer and has had more time for erosion and impacts to occur.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "What is the second most common element in the solar system?\n\n(A) Iron\n(B) Hydrogen\n(C) Methane\n(D) Helium",
+            "correct_answer": 3,
+            "model_answer": "Sure.\n\n(A) Iron: Iron is a heavy metal found in small quantities in the Sun and other planets. Although it is abundant on Earth, its overall abundance in the solar system is low.\n\n(B) Hydrogen: Hydrogen is the most abundant element in the solar system, accounting for about 73% of the total elemental mass. It is the primary constituent of stars like the Sun and is abundant in all planets and moons.\n\n(C) Methane: Methane, a hydrocarbon, is found in trace amounts in some of the giant planets like Jupiter and Saturn. While it is an important component of their atmospheres, its total abundance in the solar system is low.\n\n(D) Helium: Helium is the second most abundant element in the solar system after hydrogen, accounting for about 24% of the total elemental mass. It is the primary component of the Sun's core and is also found in the atmospheres of Neptune and Uranus.\n\nTherefore, the correct answer is (D) Helium, as it is the second most common element in the solar system.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "What is the source of the material that causes meteor showers?\n\n(A) Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower.\n(B) Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.\n(C) The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky.\n(D) The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower.",
+            "correct_answer": 3,
+            "model_answer": "The source of the material that causes meteor showers is the disintegration of the nuclei of comets. As they enter Earth's atmosphere, their nuclei break apart and produce hundreds of bright meteors that appear to radiate from a central location in the sky.",
+            "correct": false
+        }
+    ]
+}

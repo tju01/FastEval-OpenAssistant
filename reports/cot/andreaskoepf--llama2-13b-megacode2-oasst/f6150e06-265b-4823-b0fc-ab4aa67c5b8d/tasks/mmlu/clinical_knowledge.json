@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?\n\n(A) 18 gauge.\n(B) 20 gauge.\n(C) 22 gauge.\n(D) 24 gauge.",
+            "correct_answer": 0,
+            "model_answer": "(B) 20 gauge.\n\nBased on current medical knowledge, a 20-gauge cannula would typically be the size used for rapid blood transfusion, as it is a common size with a diameter of approximately 0.42 mm, which is large enough to allow for efficient blood flow but small enough to minimize risks of complications. Smaller cannulas like 18 or 22 gauge may have difficulty providing sufficient blood flow, while larger ones like 24 gauge may be more risky due to potential vein damage.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The key attribute in successful marathon running is:\n\n(A) strength.\n(B) power.\n(C) stride length.\n(D) stamina.",
+            "correct_answer": 3,
+            "model_answer": "(D) stamina.\n\nStamina is the key attribute in successful marathon running because running a marathon requires a high level of endurance and the ability to maintain a consistent pace for an extended period of time. While strength, power, and stride length can certainly contribute to an individual's performance in a marathon, stamina is the overall capacity to sustain physical effort for an extended period of time, which is crucial for finishing a marathon.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is the commonest cause of dementia in the UK?\n\n(A) Alzheimer's disease.\n(B) Cerebrovascular (stroke) disease.\n(C) Lewy body dementia.\n(D) HIV infection.",
+            "correct_answer": 0,
+            "model_answer": "I am unable to provide the most up-to-date statistics or research on the causes of dementia, as this can change over time. However, based on general knowledge, Alzheimer's disease is the most common cause of dementia in the UK.  \n\nTherefore, the correct answer is:\n(A) Alzheimer's disease.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is NOT a symptom of anaphylaxis?\n\n(A) Stridor.\n(B) Bradycardia.\n(C) Severe wheeze.\n(D) Rash.",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Review and understand the question.\nThe question asks which of the following symptoms is NOT a symptom of anaphylaxis.\n\nStep 2: Research the symptoms of anaphylaxis.\nAnaphylaxis is a severe and potentially life-threatening allergic reaction that can occur rapidly. Common symptoms of anaphylaxis include:\n\n- Difficulty breathing\n- Swelling of the face, mouth, tongue, or throat\n- Hives or itching\n- Fast heartbeat\n- Feeling of impending doom or anxiety\n- Nausea, vomiting, or abdominal pain\n- Diarrhea\n- Confusion\n\nStep 3: Compare the given symptoms to the common symptoms of anaphylaxis.\n(A) Stridor is a symptom of breathing difficulty, which is a common symptom of anaphylaxis.\n(B) Bradycardia is a symptom of a slow heartbeat, which is not common in anaphylaxis.\n(C) Severe wheeze is a symptom of difficulty breathing, which is a common symptom of anaphylaxis.\n(D) Rash is a symptom of hives, which is a common symptom of anaphylaxis.\n\nStep 4: Determine the answer based on the comparison.\nSince bradycardia (slow heartbeat) is not a common symptom of anaphylaxis, the answer is:\n\n(B) Bradycardia",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "In what situation are closed pouches applied?\n\n(A) The patient has a semi-formed or liquid output.\n(B) The patient has a colostomy.\n(C) In the immediate post-operative period.\n(D) The patient has a urostomy.",
+            "correct_answer": 1,
+            "model_answer": "Let's analyze each option:\n\n(A) Closed pouches can be used in situations where the patient has a semi-formed or liquid output. This is because closed pouches are designed to collect and hold body waste in a contained manner, regardless of its consistency.\n\n(B) Closed pouches can also be used for patients with a colostomy, as they can be attached to the stoma and collect output. However, not all closed pouches are designed to be used with a colostomy, so this option is not necessarily true for all closed pouches.\n\n(C) Closed pouches are commonly used in the immediate postoperative period, as they help keep the wound clean and protected while allowing the patient to move around without having to worry about leaks or spills from a bag.\n\n(D) Closed pouches can be used for patients with a urostomy as well, though they are not as common as they are for colostomy patients.\n\nSo based on this analysis, the answer is:\n(A)",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "With an increasing number of sprints the:\n\n(A) anaerobic contribution progressively increases.\n(B) pH of the muscle falls below 6.0.\n(C) blood glucose concentration falls below 3 mmol/L.\n(D) relative contribution of aerobic metabolism increases.",
+            "correct_answer": 3,
+            "model_answer": "Sure, I'd be happy to help you understand this concept!\n\nWhen it comes to sprinting, the type of energy system that predominantly supplies energy to the muscles depends on the duration and intensity of the sprint. In general, shorter and more intense sprints rely more heavily on anaerobic metabolism, while longer and less intense sprints rely more heavily on aerobic metabolism.\n\nWith an increasing number of sprints, the anaerobic contribution progressively increases (Option A) because anaerobic metabolism is the primary energy system used during short, intense bursts of activity, such as sprints. During anaerobic metabolism, energy is produced through the rapid breakdown of glucose without the involvement of oxygen, which allows muscles to produce a high amount of power for short periods of time. However, this energy system is limited in its ability to provide sustained energy production, as it produces lactic acid as a byproduct, which can lead to muscle fatigue and soreness.\n\nAs the number of sprints increases, the oxygen demand in the muscles also increases, which can lead to a decrease in pH (Option B). This decrease in pH is due to the accumulation of hydrogen ions produced as a byproduct of anaerobic metabolism. A pH value below 6.0 is indicative of acidic conditions, which can impair muscle function and contribute to fatigue.\n\nWhile an increase in the number of sprints can lead to a decrease in blood glucose concentration (Option C), this effect is not directly related to the energy systems used during sprinting. Blood glucose concentration can decrease during intense exercise because the body uses glucose as a primary fuel source, and the increase in blood flow to the working muscles during sprinting may result in decreased blood glucose concentrations in non-working muscles. Additionally, glycogen stores in the liver and muscles can also be depleted during intense exercise, leading to a decrease in blood glucose concentration.\n\nFinally, with an increasing number of sprints, the relative contribution of aerobic metabolism increases (Option D) because the body attempts to recover from the accumulation of lactic acid produced during anaerobic metabolism. During aerobic metabolism, energy is produced through the breakdown of fats and proteins in the presence of oxygen, which is a more efficient energy production system compared to anaerobic metabolism. As the body attempts to restore glucose levels and remove lactic acid from the muscles, aerobic metabolism becomes more reliant on providing energy to the muscles during longer recovery periods between sprints.\n\nSo, to summarize, with an increasing number of sprints, the anaerobic contribution progressively increases (Option A), the pH of the muscle falls below 6.0 (Option B), blood glucose concentration falls below 3 mmol/L (Option C), and the relative contribution of aerobic metabolism increases (Option D).",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is true in diplopia?\n\n(A) Diplopia can never occur if one eye is covered\n(B) The outer image is always the false image\n(C) A fourth nerve palsy occurs when the patient looks upwards\n(D) A sixth nerve palsy causes a divergent squint",
+            "correct_answer": 1,
+            "model_answer": "I will break down this question into parts, address them and then provide the correct answer.\n\n(A) If one eye is covered, diplopia may still occur in some situations, most commonly with conditions such as strabismus (squint) or vertical heterophoria. However, if the condition is \"simple\" diplopia, blocking one eye will usually eliminate the double image.\n\n(B) In diplopia, the outer image is not always the false image. This can depend on a person's visual field and the position of the double image. For some people, the outer image could be the true image, while for others, it may be the false image.\n\n(C) A fourth nerve palsy (also known as trochlear nerve palsy) does sometimes occur when the patient looks upwards. However, it is not a universal symptom of diplopia and can also have other causes.\n\n(D) A sixth nerve palsy (also known as abducens nerve palsy) can cause a divergent squint, but it does not directly cause diplopia. Diplopia can result from a sixth nerve palsy due to the inability to properly align the eyes, but this is not the direct effect of the palsy itself.\n\nTherefore, the statement that is true about diplopia is: \n\n**(A) Diplopia can never occur if one eye is covered**\n\nThis assumes the condition causing the diplopia isn't bad enough to cause diplopia when only one eye is open (e.g. uncorrected myopia).",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Sodium bicarbonate ingestion improves middle distance running performance by:\n\n(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(B) reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(C) elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.\n(D) elevating the pre-exercise muscle pH.",
+            "correct_answer": 0,
+            "model_answer": "(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Codons are composed of:\n\n(A) triplet sequences of nucleotide bases in mRNA or DNA .\n(B) quadruplet sequences of nucleotide bases in mRNA or DNA.\n(C) triplet sequences of amino acids in polypeptide chains.\n(D) triplet sequences of deoxyribose sugars in DNA.",
+            "correct_answer": 0,
+            "model_answer": "Codons are sequences of nucleotide bases in nucleic acids that encode information for the synthesis of amino acids. So, we can eliminate options B and D, which refer to quadruplet and deoxyribose sequences, respectively.\n\nNow between options A and C, we need to determine the correct composition of a codon. The composition of a codon is important, as it determines which amino acid will be added during translation.\n\nThe answer is (A). Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA. This means that each codon consists of three nucleotide bases, which corresponds to the three letters in a codon. These nucleotide bases code for specific amino acids, so that the sequence of codons in a protein's gene determines the amino acid sequence of that protein.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Fatty acids are transported into the mitochondria bound to:\n\n(A) thiokinase.\n(B) coenzyme A (CoA).\n(C) acetyl-CoA.\n(D) carnitine.",
+            "correct_answer": 3,
+            "model_answer": "Fatty acids are transported into the mitochondria bound to:\n(D) carnitine",
+            "correct": true
+        }
+    ]
+}

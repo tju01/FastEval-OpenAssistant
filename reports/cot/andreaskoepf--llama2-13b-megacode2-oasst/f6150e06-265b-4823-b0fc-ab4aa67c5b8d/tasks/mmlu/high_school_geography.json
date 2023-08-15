@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "The main factor preventing subsistence economies from advancing economically is the lack of\n\n(A) a currency.\n(B) a well-connected transportation infrastructure.\n(C) government activity.\n(D) a banking service.",
+            "correct_answer": 1,
+            "model_answer": "First of all let me clarify that there is no single answer to this question that would be applicable to all subsistence economies. These economies vary greatly in their nature and geographical location, beso each of them could have a different set of limiting factors.\n\nHaving this in mind I would like to analyze each of the given options and see if they fit with any real-world facts on this topic.\n\n(A) A currency:\nSubsistence economies have currencies. Even the most basic economy will need a medium of exchange in order to function properly. \n\n(B) A well-connected transportation infrastructure:\nA well-connected transportation infrastructure can be a real help to subsistence economies. Such economies often are focused on agriculture and the trade of goods requires transportation. Not having a good transportation infrastructure can lead to very high costs for merchants and make it very difficult to get goods to market. So this is a factor that can have limiting effects on subsistence economies.\n\n(C) Government activity:\nThe role of government in subsistence economies varies greatly. There are societies that have a strong central government and others with a very weak or non-existing one. While a strong government can support an economy in many ways, in some cases having to much government intervention could indeed be limiting. The same applies to concrete activities of the government. Some activities could support a subsistence economy while others could have negative impacts. Therefore it\u2019s not possible to say that the lack of government activity is the main factor preventing subsistence economies from advancing economically.\n\n(D) A banking service:\nBanks play a significant role in modern economies. Banks provide financial services that help businesses to operate more efficiently, such as credit, loans, and deposit accounts. While banks can be useful for subsistence economies, they are not a requirement. \nIn the past many subsistence economies did not have banks and still managed to exist and function. Therefore it is not accurate to say that the lack of a banking service is the main factor preventing subsistence economies from advancing economically.\n\nIn conclusion we can say that\n\n(B) A well-connected transportation infrastructure\n\nis often a factor that can have limiting effects on subsistence economies.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called\n\n(A) zero population growth.\n(B) rapid growth rate.\n(C) homeostatic plateau.\n(D) demographic momentum.",
+            "correct_answer": 3,
+            "model_answer": "Let's analyze each option one by one and check which one matches the description given in the question:\n\n(A) Zero Population Growth (ZPG): ZPG refers to a stable population size where the birth and death rates are equal. It occurs when a population has reached replacement fertility, meaning it is producing enough offspring to replace itself. It doesn't describe a tendency for a population to continue to grow long after replacement fertility has been achieved. So, this is not the correct answer.\n\n(B) Rapid Growth Rate: A rapid growth rate refers to when a population grows at a high rate. This could happen when a population is below replacement fertility or when a population has not yet reached replacement fertility. However, it does not describe a tendency for a population to continue to grow long after replacement fertility has been achieved. Thus, this is not the correct answer either.\n\n(C) Homeostatic Plateau: A homeostatic plateau, also known as a demographic transition, refers to a situation when a population reaches a stable, non-growing state. This occurs after birth rates fall below death rates. It doesn't describe a tendency for a population to continue to grow long after replacement fertility has been achieved. Therefore, this is not the correct answer.\n\n(D) Demographic Momentum: Demographic momentum, also known as the \"population momentum\", refers to the tendency for a population to continue to grow for some time even after fertility rates have declined to a point where the population size is not expected to increase. It is caused by the fact that people who were born at a higher fertility rate continue to have children for several generations. Thus, this is the correct answer!",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "The tendency for migration to decrease with distance is called\n\n(A) push factors.\n(B) pull factors.\n(C) distance decay.\n(D) migration selectivity.",
+            "correct_answer": 2,
+            "model_answer": "First, let's briefly define each term:\n\nA. Push factors refer to negative aspects of a person's current location that motivate them to move to a new place.\nB. Pull factors refer to positive aspects of a destination that attract migrants.\nC. Distance decay refers to the concept that the strength of interaction between two points decreases as the distance between them increases.\nD. Migration selectivity refers to the preference of migrants to move to places that offer better opportunities.\n\nNow, let's analyze which of these terms best refers to the tendency for migration to decrease with distance:\n\nA. Push factors are negative aspects that motivate migration, not a tendency related to distance.\nB. Pull factors are positive aspects that attract migration, not a tendency related to distance.\nC. Distance decay does describe a tendency related to distance, but it refers specifically to interaction strength and not migration.\nD. Migration selectivity refers to opportunities, which can be influenced by distance, but it doesn't solely describe a tendency with distance.\n\nAfter analyzing each term, we can conclude that:\n\n(B) pull factors is the best answer.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?\n\n(A) First\n(B) Second\n(C) Third\n(D) Fourth",
+            "correct_answer": 0,
+            "model_answer": "Burgess's concentric zone model describes a city as having five concentric rings, each corresponding to a different zone. The First Zone (inner ring) typically includes the central business district, where commercial activity is concentrated. The Second Zone generally consists of high-income residential areas, such as upscale apartments and single-family homes. The Third Zone includes middle-income residential neighborhoods, such as suburbs and bungalows. The Fourth Zone consists oflight commercial and industrial areas, along with working-class residential neighborhoods. The Fifth Zone (outer ring) is typically undeveloped land, such as farmland or parks.\n\nBased on this model, the zone that contains low-income slums, ethnic ghettos, and general deterioration would be the Fourth Zone, as it includes working-class residential neighborhoods that are more prone to neglect and disinvestment. Therefore, the answer is (D) Fourth.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following statements is TRUE concerning women in the labor force?\n\n(A) Most women work in agriculture\n(B) The percentage of women economically active in the labor force declined worldwide\n(C) The percentage of women in the total labor force declined\n(D) Women spend more hours per day working than men in all regions except Anglo America and Australia",
+            "correct_answer": 3,
+            "model_answer": "Let's analyze each statement to determine which one is true:\n\n(A) Most women work in agriculture: According to the International Labour Organization (ILO) in 2019, women made up only 28% of the agricultural labor force worldwide. This suggests that statement (A) is not true.\n\n(B) The percentage of women economically active in the labor force declined worldwide: According to the World Bank, between 1990 and 2015, the global labor force participation rate for women increased from 51.6% to 54.7%. This suggests that statement (B) is false.\n\n(C) The percentage of women in the total labor force declined: As previously mentioned, the global labor force participation rate for women increased between 1990 and 2015. Therefore, statement (C) is false.\n\n(D) Women spend more hours per day working than men in all regions except Anglo America and Australia: This statement seems to be true. According to the ILO, in 2019, worldwide, women worked on average 34.3 hours per week compared to 47.0 hours for men, which means women worked about 8 hours per day compared to men's 11.7 hours.\n\nTherefore, after analyzing each statement, the answer is:\n(D) Women spend more hours per day working than men in all regions except Anglo America and Australia.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "All the following factors can be considered pull factors of migration EXCEPT\n\n(A) safety.\n(B) better climate.\n(C) better schools.\n(D) overcrowding.",
+            "correct_answer": 3,
+            "model_answer": "I will break down the task and the question to understand it better:\n\nThe given question is \"All the following factors can be considered pull factors of migration EXCEPT\"\n\n And the possible answers are (A) safety , (B) better climate , (C) better schools, (D) overcrowding.\n\nNow first we should understand what are 'Pull Factors' of migration. Pull factors refer to aspects of a host country that attract migrants. These are things that make a country seem like a more desirable place to live.\n\nFrom the given choices, it is clear that all options are positive reasons why someone might want to move to a new place. There's no option that would explain why someone would want to move away from a place. \n\nSo none of these options can be the answer. None of these are 'pull factors' as none are reasons to move to a new place. All of the mentioned factors are things that attract people to a place, not things that push them away.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following countries does NOT have a well-known example of a relict boundary?\n\n(A) Vietnam\n(B) United Kingdom\n(C) Germany\n(D) Bolivia",
+            "correct_answer": 3,
+            "model_answer": "To determine which of these countries does not have a well-known example of a relict boundary, we need to look into each individually and see whether or not they have a notable relict boundary.\n\nA) Vietnam - Vietnam does not have a well-known example of a relict boundary.\n\nB) United Kingdom - The United Kingdom has several well-known examples of relict boundaries. One notable example is Offa's Dyke, a linear earthwork that served as a boundary between the kingdoms of Mercia and Wessex during the 8th century.\n\nC) Germany - Germany is home to several relict boundaries, including the Odenwald Loop, which is a feature of the Rhenish Slate Mountain Range, and the East Germanicus Limes, which was a Roman border structure that served to protect the Roman Empire from the German tribes.\n\nD) Bolivia - Bolivia does not have a well-known example of a relict boundary.\n\nBased on this information, the correct answer is:\n\n(A) Vietnam",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which form of migration below are farm workers from another country most likely to be practicing during the year?\n\n(A) Chain migration\n(B) Cluster migration\n(C) Circular migration\n(D) International migration",
+            "correct_answer": 2,
+            "model_answer": "A. Chain migration\n\nChain migration is when people from one country move to another country and bring family and friends with them. This is very common among farm workers from other countries because they often have ties to their home country and want to bring loved ones with them.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is a centrifugal force in a country?\n\n(A) Religious differences\n(B) A national holiday\n(C) An attack by another country\n(D) A charismatic national leader",
+            "correct_answer": 0,
+            "model_answer": "(C) An attack by another country",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?\n\n(A) Mediterranean climate\n(B) Limited forest cover\n(C) Growth of manufacturing\n(D) Access to trade routes",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Analyzing the question, we can identify that early settlements and high population density are the main factors being considered.\n\nStep 2: Reviewing the answer choices, we can eliminate options (B) Limited forest cover and (C) Growth of manufacturing, as they are not directly related to the factors mentioned in the question.\n\nStep 3: We are left with options (A) Mediterranean climate and (D) Access to trade routes. Considering the context of coastlines and rivers, we can deduce that access to trade routes is more likely to be the reason for early settlements and high population density.\n\nThus, the answer is: (D) Access to trade routes.",
+            "correct": true
+        }
+    ]
+}

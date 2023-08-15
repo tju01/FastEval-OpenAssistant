@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\n\n(A) Cryptocurrencies, Expensive, Secure, Financial Crime\n(B) Traditional currency, Cheap, Unsecure, Charitable giving\n(C) Cryptocurrencies, Cheap, Secure, Financial crime\n(D) Traditional currency, Expensive, Unsecure, Charitable giving",
+            "correct_answer": 2,
+            "model_answer": "(A) Cryptocurrencies, Expensive, Secure, Financial Crime",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.\n\n(A) Unsafe practices, Wants, Fear, Trivial\n(B) Unsafe practices, Distress, Fear, Serious\n(C) Safe practices, Wants, Jealousy, Trivial\n(D) Safe practices, Distress, Jealousy, Serious",
+            "correct_answer": 1,
+            "model_answer": "I will go through each option one at a time:\n\n(A) Unsafe practices, Wants, Fear, Trivial\n- Encourage unsafe practices: Positive\n- Cause unnecessary wants: Positive\n- Cause fear: Negative\n- Cause trivial offence: Negative\n\n(B) Unsafe practices, Distress, Fear, Serious\n- Encourage unsafe practices: Positive\n- Cause unnecessary distress: Negative\n- Cause fear: Negative\n- Cause serious offence: Negative\n\n(C) Safe practices, Wants, Jealousy, Trivial\n- Encourage safe practices: Negative\n- Cause unnecessary wants: Positive\n- Cause jealousy: Negative\n- Cause trivial offence: Negative\n\n(D) Safe practices, Distress, Jealousy, Serious\n- Encourage safe practices: Negative\n- Cause unnecessary distress: Negative\n- Cause jealousy: Negative\n- Cause serious offence: Negative\n\nBetween options A and B, option (B) has a more balanced mix of positive and negative conditions, while option (A) has more negatives.\n\nBetween options C and D, option (D) has a more balanced mix of positive and negative conditions, while option (C) has more negatives.\n\nBetween options B and D, B is broader, and D is more specific. \n\nTherefore, the correct answer is:\n(B) Unsafe practices, Distress, Fear, Serious",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.\n\n(A) Employee rights\n(B) Employee rights\n(C) Employer duties\n(D) Employee duties",
+            "correct_answer": 3,
+            "model_answer": "The obligations of workers towards their employer are:\n\n(D) Employee duties",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": " ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.\n\n(A) Presenteeism\n(B) Absenteeism\n(C) Work-play balance\n(D) Work-life balance",
+            "correct_answer": 3,
+            "model_answer": "The answer is (C) Work-play balance",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": " _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.\n\n(A) Industrial supply loops\n(B) Industrial ecosystems\n(C) Ecological ecosystems\n(D) Corporate ecosystems",
+            "correct_answer": 1,
+            "model_answer": "The description given here seems to be referring to a system where companies, industries, and their environments are interconnected, with various resources and wastes flowing among them. This idea is often associated with the concept of sustainability and how companies can work together to minimize their impact on the environment. Based on this information, the best answer appears to be:\n\n(B) Industrial ecosystems",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.\n\n(A) Power imbalance, Benefits, Hoodwinked\n(B) Power imbalance, Resources, Co-opted\n(C) Informational asymmetries, Benefits, Hoodwinked\n(D) Informational asymmetries, Resources, Co-opted",
+            "correct_answer": 1,
+            "model_answer": "To solve this multiple-choice question, let's analyze the given information and options:\n\nInitial sentence: _________, where for example one party possess more resources, unfair distribution... where one party gains more from the relationship, and CSOs being _________, are all limitations and risks of business-CSO collaborations.\n\nThe subject of the sentence are the limitations and risks of business-CSO collaborations.\n\nThe sentence talks about three limitations:\n\n1. Unfair distribution of resources.\n2. One party gains more from the relationship.\n3. CSOs being...\n\nNow let's examine the options:\n\n(A) Power imbalance, Benefits, Hoodwinked\n(B) Power imbalance, Resources, Co-opted\n(C) Informational asymmetries, Benefits, Hoodwinked\n(D) Informational asymmetries, Resources, Co-opted\n\nOption A talks about power imbalance, benefits, and hoodwinked. However, \"hoodwinked\" doesn't fit the context of limitations and risks. Option B talks about power imbalance, resources, and co-opted, which could be a potential answer. Option C talks about informational asymmetries, benefits, and hoodwinked, but still \"hoodwinked\" doesn't fit the context. Option D talks about informational asymmetries, resources, and co-opted, which could also be a potential answer.\n\nNow we need to identify which of the two potential answers (B or D) is more suitable for the context.\n\nThe first limitation mentioned is unfair distribution of resources. This indicates an imbalance in power or resources, which can lead to one party gaining more from the relationship. Among the options, the second part of both options B and D mentions resources. Therefore, both options can potentially fit the first limitation.\n\nHowever, the third limitation mentioned is CSOs being... This part of the sentence suggests that CSOs become something negative as a result of the business-CSO collaboration, which leads to one party gaining more benefits. This aligns better with option B, which mentions benefits being \"co-opted\" (taken over or hijacked for another purpose). Option D mentions benefits as well, but doesn't provide a specific explanation for why CSOs become something negative.\n\nTherefore, among the two potential answers, option (B) Power imbalance, Resources, Co-opted is the most suitable answer.\n\nAnswer: B",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?\n\n(A) hedonistic utilitarianism\n(B) preference utilitarianism\n(C) The Categorical Imperative\n(D) ethics of care",
+            "correct_answer": 1,
+            "model_answer": "(A) Hedonistic utilitarianism.\n\nThe most similar normative theory to corporate profit maximization is hedonistic utilitarianism because both focus on increasing the overall pleasure (or utility) and decreasing the overall pain of individuals involved. Hedonistic utilitarianism is a form of consequentialism, which evaluates actions based on their consequences. In the context of corporate profit maximization, the goal is to maximize profits for shareholders, which often involves increasing the pleasure of customers and reducing the pain of employees and other stakeholders. This aligns with the goal of maximizing overall pleasure (or utility) in hedonistic utilitarianism.\n\n(B) Preference utilitarianism is not as similar, as it focuses on maximizing the preferences of individuals, rather than their overall pleasure or utility. Although profit maximization may increase the preferences of shareholders, it does not necessarily maximize the overall preferences of all stakeholders.\n(C) The Categorical Imperative is not similar, as it is a deontological theory that focuses on following universal moral rules, rather than maximizing consequences.\n(D) Ethics of care is also not similar, as it emphasizes empathy and relationships, rather than maximizing outcomes.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What does Milton Friedman believe to be the sole responsibility of business?\n\n(A) The only social responsibility of business is to its shareholders\n(B) Managers should act in ways that balance the interest of society and shareholders\n(C) The primary responsibility organizations have is to its employees\n(D) The primary responsibility organizations have is to its stakeholders",
+            "correct_answer": 0,
+            "model_answer": "First, let's identify who Milton Friedman is. Milton Friedman was an American economist, professor, and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences.\n\nNow, let's examine his views on the social responsibility of business. Friedman believed that the only social responsibility of a business is to make a profit. He argued that businesses exist to serve their shareholders, not society as a whole.\n\nSo, based on this information, the correct answer is:\n\n(A) The only social responsibility of business is to its shareholders.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.\n\n(A) Legal, Interactions, Mechanics\n(B) Civil, Relations, Outcomes\n(C) Political, Interactions, Outcomes\n(D) Environmental, Relations, Mechanics",
+            "correct_answer": 1,
+            "model_answer": "The question claims that the regulation concerns three aspects of the interactions between CSO (Civil Society Organizations) and businesses. The words \"further than\" indicate that we are looking for a word that can be paired with three other words to form a parallel structure. Comparying each option to this criterion, we can see that the answer is:\n(B) Civil, Relations, Outcomes",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\n\n(A) Dynamic\n(B) Fluid\n(C) Flexible\n(D) Modern",
+            "correct_answer": 2,
+            "model_answer": "vaswani:\n\n_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\n\n(A) Dynamic\n(B) Fluid\n(C) Flexible\n(D) Modern\n\nAnswer: (B) Fluid",
+            "correct": false
+        }
+    ]
+}

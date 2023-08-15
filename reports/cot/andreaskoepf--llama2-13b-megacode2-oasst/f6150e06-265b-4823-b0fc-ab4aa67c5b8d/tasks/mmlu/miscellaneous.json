@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "For this question we need to find the most reliable source of information on the credit rating of retail businesses. We will go through each option one at a time.\n\n(A) the Retail Merchants Association: This is an organization of retail businesses, not a source of credit rating information.\n\n(B) the local chamber of commerce: This is an organization of local businesses that supports and promotes the interests of its members, but it is not specifically focused on credit rating information.\n\n(C) Dun & Bradstreet, Inc.: This is a well-known company that provides credit ratings and other financial information on businesses. Many financial institutions and lenders use Dun & Bradstreet ratings to assess the creditworthiness of businesses.\n\n(D) the United States Retail Credit Association: This is an organization of retail credit professionals, but it is not a source of credit rating information.\n\nBased on this analysis, the most appropriate answer is:\n\n(C) Dun & Bradstreet, Inc.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "(A) Conferencing\nConferencing is an instructional strategy where the teacher gives students individual feedback, assesses their understanding, and provides guidance to help them improve their work. In this scenario, the teacher would be working with students one-on-one to help them identify the defining characteristics of short stories.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "The combustion temperature of paper is approximately 451\u00b0F (233\u00b0C). This temperature is commonly known as the flashpoint or ignition temperature of paper. Why is this important? Fires start at various temperatures and materials differ in their ignition properties. For instance: \n- A flame will start to ignite linen at 646\u00b0F (341\u00b0C). \n- Cotton will start burning at 418\u00b0F (215\u00b0C). \n- However, wood will already burn at 374\u00b0F (191\u00b0C).",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "To solve this multiple-choice question about the available colors for the Apple iMac computer, I will consider each option and determine if it's a valid color choice for iMacs:\n\n(A) Tangerine: Tangerine is a color that is orange in hue, and it has been used for iMacs in the past, specifically in the early 2000s when the iMac G3 was released. Therefore, this could be a valid option.\n\n(B) Strawberry: Strawberry is typically a light pink color, and Apple has not released iMacs in this color. It is not a valid option.\n\n(C) Kiwi: Kiwi is a green color, and while Apple has not released iMacs in a pure green color, they have released iMacs in a color similar to Kiwi, which is called \"Jade Green.\" Therefore, this could be a valid option.\n\n(D) Grape: Grape is a dark purple color, and Apple has never released iMacs in this color. It is not a valid option.\n\nBased on the available information, the answer is:\n\n(B) Strawberry",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "Let me give you some hints to solve this question. The two American explorers you are referring to form part of a well-known exploration expedition in the early 19th century which is often cited in American history.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "This question describes an instructional approach known as Guided Reading. Here's the reasoning:\n\n(A) Direct Instruction: Direct instruction is a teaching approach that emphasizes explicit teaching of skills and rote learning. It's a one-size-fits-all approach, where students receive the same instruction regardless of their level or ability. In guided reading, each group receives instruction customized to their needs.\n(B) Literature Circle: Literature circles are student-centered activities, typically used in the context of a whole-class novel study. Students read independently, then come together in a circle to discuss the text and complete tasks related to it. Guided reading involves teacher-led instruction with small groups.\n(C) Guided Reading: Guided reading is a teacher-led instructional approach used to support struggling readers. As described in the question, students read text or books they are unfamiliar with, while the teacher teaches them reading strategies. Groups are small and flexible, with instruction personalized to meet the students' needs.\n(D) Read-aloud: Read-aloud is an activity where the teacher reads aloud to the entire class. Students listen and follow along, typically either in their own books or on a projector. It's a whole-class activity that doesn't involve small-group instruction personalized to individual students' needs.\n\nTherefore, the approach described in the question is **(C) Guided Reading**",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "I will consider each option and eliminate the ones that don't make sense:\n\n    A) I don't know of a fancy pasta called varicella, so this option is eliminated.\n    \n    B) I don't know of an opera called varicella, so this option is eliminated.\n    \n    C) Varicella zoster virus is the virus that causes chickenpox, and in adults it can cause shingles. This option seems correct.\n    \n    D) I don't know of any ancient Roman poetry called varicella, so this option is eliminated.\n\nSo, the answer to your question is:\n(C) the chicken pox virus",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "Germanium is a relatively non-linear semiconductor, which means that its electrical resistance can vary a great deal with even small changes in temperature. Therefore, it is the material that is most affected by temperature changes.\nOut of the given alternatives Carbon and Silicon are both elements, which means they belong to the metals that generally have a coefficient of thermal expansion that is more thermally stable than that of germanium. Therefore, they are less affected by temperature changes.\nLastly Copper is a popular metallic wire used in electrical grids because of its high conductivity and because it has such a low thermal coefficient of resistance. Since the thermal coefficient of resistance is an indirect measure of how much a material will change its resistance with a change in temperature, it is the material that is least affected by temperature changes",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "Sure, I can answer this question step by step.\n\n- A \"second-year college student\" indicates that they have completed their first year of college.\n\n- For college students, years are typically referred to as \"freshman,\" \"sophomore,\" \"junior,\" and \"senior\" years, with each designation corresponding to a specific number of completed years.\n\n- Based on this, a \"second-year college student\" would have completed one year of college, corresponding to the \"freshman\" designation.\n\nSo, the answer is:\n\n(C) freshman",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "(B) Matt Damon",
+            "correct": true
+        }
+    ]
+}

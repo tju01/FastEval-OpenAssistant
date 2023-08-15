@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Statement 1| Linear regression estimator has the smallest variance among all unbiased estimators. Statement 2| The coefficients \u03b1 assigned to the classifiers assembled by AdaBoost are always non-negative.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 3,
+            "model_answer": "Statement 1:\nThe claim states that the linear regression estimator has the smallest variance among all unbiased estimators. Unbiased estimators are those that have a mean equal to the population parameter being estimated. However, this claim is not universally true and depends on the specific problem and underlying probability distribution. There are other estimators that have smaller variances for certain problems and distributions.\n\nStatement 2:\nThe claim states that the coefficients \u03b1 assigned to the classifiers assembled by AdaBoost are always non-negative. AdaBoost is a machine learning algorithm that combines multiple weak classifiers to form a strong classifier. The coefficients \u03b1 are weighted votes used to determine the final class label. However, it is possible for some of these coefficients to be negative due to the weighted voting mechanism.\n\nAnswer: (C) True, False",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Statement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 2,
+            "model_answer": "Statement 1 is True. RoBERTa is indeed pretrained on a corpus that is approximately 10x larger than the corpus BERT was pretrained on.\nStatement 2 is False. ResNeXts in 2018 typically used ReLU activation functions, not tanh activation functions.\n\nTherefore the answer is:\n(B) False, False",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Statement 1| Support vector machines, like logistic regression models, give a probability distribution over the possible labels given an input example. Statement 2| We would expect the support vectors to remain the same in general as we move from a linear kernel to higher order polynomial kernels.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "Statement 1: Support vector machines, like logistic regression models, give a probability distribution over the possible labels given an input example.\n\nReasoning: This statement is true. Support vector machines (SVMs) are machine learning models that establish a hyperplane in a high-dimensional feature space, such that examples closer to the hyperplane have a higher probability of belonging to a particular class. This is equivalent to providing a probability distribution over the possible labels, where instances closer to the hyperplane have a higher probability of belonging to the predicted class.\n\nStatement 2: We would expect the support vectors to remain the same in general as we move from a linear kernel to higher order polynomial kernels.\n\nReasoning: This statement is false. The support vectors for an SVM model depend heavily on the choice of kernel function. A linear kernel simply transforms each pair of instances into a dot product, while higher order polynomial kernels use more complex transformation functions that may require more parameters to fit and consequently move the support vectors around. Therefore, we do not expect the support vectors to remain the same when moving from a linear kernel to higher order polynomial kernels.\n\nAnswer: (C) True, False",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A machine learning problem involves four attributes plus a class. The attributes have 3, 2, 2, and 2 possible values each. The class has 3 possible values. How many maximum possible different examples are there?\n\n(A) 12\n(B) 24\n(C) 48\n(D) 72",
+            "correct_answer": 3,
+            "model_answer": "To determine the maximum number of different examples in this machine learning problem, we need to determine the total number of possible combinations of values for the four attributes and the class.\n\nSince each attribute has a different number of possible values:\n\nAttribute 1: 3 possible values\nAttribute 2: 2 possible values\nAttribute 3: 2 possible values\nAttribute 4: 2 possible values\n\nFirst, we can calculate the number of possible combinations of values for each attribute:\n\n- For Attribute 1: 3 choices x 3 choices x 3 choices x 3 choices = 27 * 27 * 27 * 27 = 21,253,976 possible combinations.\n- For Attribute 2: 2 choices x 2 choices = 4 possible combinations.\n- For Attribute 3: 2 choices x 2 choices = 4 possible combinations.\n- For Attribute 4: 2 choices x 2 choices = 4 possible combinations.\n\nNext, we should note that we need to account for the class as well, which has 3 possible values. Therefore, we should multiply the number of combinations for each attribute by 3:\n\n- For Attribute 1: 21,253,976 * 3 = 63,761,928 possible combinations.\n- For Attribute 2: 4 * 3 = 12 possible combinations.\n- For Attribute 3: 4 * 3 = 12 possible combinations.\n- For Attribute 4: 4 * 3 = 12 possible combinations.\n\nFinally, we can add up all the possible combinations to get the maximum number of different examples:\n\n63,761,928 (Attribute 1) + 12 (Attribute 2) + 12 (Attribute 3) + 12 (Attribute 4) + 3 (Class) = 63,779,073\n\nHowever, none of the answer choices provided match this result:\n\n(A) 12\n(B) 24\n(C) 48\n(D) 72",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "As of 2020, which architecture is best for classifying high-resolution images?\n\n(A) convolutional networks\n(B) graph networks\n(C) fully connected networks\n(D) RBF networks",
+            "correct_answer": 0,
+            "model_answer": "(A) convolutional networks\n\nConvolutional networks (CNNs) are commonly used for image classification tasks due to their ability to automatically extract features from images. They use a series of convolutional layers, pooling layers, and fully connected layers to learn to represent images using a hierarchy of increasingly abstract features.\n\nOther architectures, such as fully connected networks (C) and RBF networks (D), may not be suitable for high-resolution image classification due to their lack of ability to automatically extract features or their computational complexity. Graph networks (B) may be useful for certain types of image analysis, but are not as commonly used for image classification as CNNs.\n\nTherefore, as of 2020, convolutional networks (A) are the best architecture for classifying high-resolution images.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Statement 1| The log-likelihood of the data will always increase through successive iterations of the expectation maximation algorithm. Statement 2| One disadvantage of Q-learning is that it can only be used when the learner has prior knowledge of how its actions affect its environment.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "Let me first clarify the task. You want me to analyze two statements, determine whether both of them are true or false, and select the correct answer from the given options (A, B, C, D). I should explain my reasoning step-by-step and then output the final answer in the format \"letter letter\" inside parentheses.\n\nNow, let's analyze the statements:\n\nStatement 1: The log-likelihood of the data will always increase through successive iterations of the expectation maximization algorithm.\n\nExplanation: The expectation maximization (EM) algorithm is an iterative algorithm used forparameter estimation in statistical models. The statement suggests that the log-likelihood (the logarithm of the probability of observing the data given the model parameters) will always increase through successive iterations of the EM algorithm.\n\nHowever, this is not always true. In some cases, the log-likelihood may reach a maximum and plateau, or even decrease, before converging to a final value.\n\nStatement 2: One disadvantage of Q-learning is that it can only be used when the learner has prior knowledge of how its actions affect its environment.\n\nExplanation: Q-learning is a reinforcement learning algorithm used to learn an optimal policy for taking actions in an environment. The statement says that Q-learning can only be used when the learner knows how its actions affect the environment before learning begins.\n\nThis statement is somewhat misleading. Q-learning does require some initial knowledge or assumptions about the environment, but it can still be used to learn an optimal policy even when that initial knowledge is incomplete or imperfect. Q-learning can learn from experience by adjusting its estimates over time.\n\nBased on the explanations above, we can see that:\n\n- Statement 1 is False.\n- Statement 2 is False.\n\nNow let's output the final answer: \n\n(B) False, False",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Let us say that we have computed the gradient of our cost function and stored it in a vector g. What is the cost of one gradient descent update given the gradient?\n\n(A) O(D)\n(B) O(N)\n(C) O(ND)\n(D) O(ND^2)",
+            "correct_answer": 0,
+            "model_answer": "In a single gradient descent update, we need to subtract the gradient multiplied by a step size alpha from the current parameter.\n\nLet's assume our cost function and gradient are stored in variables f and g respectively.\n\nCost of one gradient descent update = Step size * Gradient\n\n(alpha * g)\n\nThe number of operations in this step is equal to the size of our parameter vector, which we can assume is N (in matrix notation, alpha * g).\n\nSo, the cost of one gradient descent update is:\n\nO(N)",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Statement 1| For a continuous random variable x and its probability distribution function p(x), it holds that 0 \u2264 p(x) \u2264 1 for all x. Statement 2| Decision tree is learned by minimizing information gain.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 1,
+            "model_answer": "Let's analyze each statement one by one.\n\nStatement 1: This statement describes the property of a probability distribution function for a continuous random variable. It states that the function p(x) must be a non-negative function and its range must be between 0 and 1.\n\nStatement 2: This statement describes how a decision tree is learned, specifically that it is learned by minimizing information gain.\n\nNow let's estimate. Are these statements true or false?\n\nIt's clear that statement 1 is true, as it is a fundamental property of a probability distribution function. Statement 2 is also true, as decision trees are often learned using information gain as a criterion.\n\nAnswer: (A) True, True",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Consider the Bayesian network given below. How many independent parameters are needed for this Bayesian Network H -> U <- P <- W?\n\n(A) 2\n(B) 4\n(C) 8\n(D) 16",
+            "correct_answer": 2,
+            "model_answer": "To determine the number of independent parameters needed for this Bayesian network, let's analyze the structure of the network and identify any dependencies between the variables.\n\nWe have four variables in the network: H, U, P, and W. The arrows in the network indicate that H causes U, and U causes P, which in turn causes W.\n\nTo solve this problem, we can use the chain rule of conditional probability:\n\nP(W = w | H = h) = P(P = p | U = u, H = h)P(U = u | H = h)\n\nHowever, in this case, we can notice that P(U = u | H = h) is not independent of P(P = p | U = u, H = h), since P(P = p | U = u, H = h) depends on the value of U and H, which are determined by the previous variables in the network.\n\nTherefore, the number of independent parameters needed for this Bayesian network is:\n\n(B) 4",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "As the number of training examples goes to infinity, your model trained on that data will have:\n\n(A) Lower variance\n(B) Higher variance\n(C) Same variance\n(D) None of the above",
+            "correct_answer": 0,
+            "model_answer": "When the number of training examples goes to infinity, the model will approach the \"Cardinalization principle\" or \" loi limit theorem\", which state that the ML model's generalization error goes to zero as the number of samples goes to infinity. By this property, given a fixed hypothesis class, the model will converge to an\u00fccke best hypothesis in the hypothesis class, which has the minimum generalization error and maximum variance.\n\nTherefore, the answer is (A) Lower variance.",
+            "correct": true
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the structure of the United Nations Security Council?\n\n(A) 5 permanent members with veto power, 10 rotating members with no veto power\n(B) 5 permanent members and 10 rotating members, all with veto power\n(C) 10 permanent members with veto power, and 5 rotating members without veto power\n(D) 15 permanent members with veto power",
+            "correct_answer": 0,
+            "model_answer": "The United Nations Security Council has the structure:\n(A) 5 permanent members with veto power, 10 rotating members with no veto power.\n\nTo answer this question, we need to know that the UN Security Council has a total of 15 seats, with 5 of them being permanent and 10 being rotating. We also need to know that the 5 permanent members have veto powers.\n\nBased on this information, we can eliminate options B, C, and D as they either give veto power to all members or allocate seats in a different way than the actual structure of the UN Security Council.\n\nTherefore, the correct answer is (A).",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "What was the significance of the Gulf of Tonkin resolution?\n\n(A) It allowed the US to intensify its involvement in Vietnam\n(B) It illustrated the influence of public opinion on US foreign policy\n(C) It enhanced Congressional control over the Vietnam War\n(D) It curtailed US involvement in Vietnam",
+            "correct_answer": 0,
+            "model_answer": "The Gulf of Tonkin resolution was a joint resolution of the U.S. Congress passed in 1964. It was a response to two incidents in the Gulf of Tonkin, where American destroyers were allegedly attacked by North Vietnamese gunboats.\n\nThe significance of the resolution is that it gave President Lyndon B. Johnson broad authority to use military force in Vietnam without seeking explicit congressional approval for each action. This effectively allowed the U.S. to intensify its involvement in the Vietnam War without the need for additional legislation.\n\nHence, the correct answer is (A) It allowed the US to intensify its involvement in Vietnam.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which is not a nonstate actor that poses a threat to the United States?\n\n(A) Terrorists\n(B) Organized crime\n(C) Drug traffickers\n(D) China",
+            "correct_answer": 3,
+            "model_answer": "The question asks which of the four options listed is not a non-state actor that poses a threat to the United States. Non-state actors refer to entities that are not governments, such as individuals, organizations, or groups that operate independently of a state.\n\n(A) Terrorists: Terrorists are typically classified as non-state actors, as they are individuals or groups that use violence and fear to further their political, religious, or ideological goals, and they do not represent a recognized government.\n\n(B) Organized crime: Organized crime refers to criminal groups that operate for economic gain and often engage in activities such as drug trafficking, extortion, and money laundering. Since they operate outside of the legal system, they are considered non-state actors.\n\n(C) Drug traffickers: Drug traffickers are individuals or groups that engage in the production, distribution, and sale of illicit drugs. They typically operate outside of the legal system and can pose a significant threat to society and national security. Therefore, drug traffickers can also be considered non-state actors.\n\n(D) China: China is a sovereign state, and as such, it is not considered a non-state actor. The United States and China are both countries with recognized governments, and they have relationships with each other on the international stage, including economic, political, and diplomatic interactions.\n\nGiven this reasoning, the answer is (D) China, as it is the only option that represents a country and not a non-state actor that poses a threat to the United States.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Who was the first American president to visit communist China?\n\n(A) Richard Nixon\n(B) George H. W. Bush\n(C) Jimmy Carter\n(D) Ronald Reagan",
+            "correct_answer": 0,
+            "model_answer": "(A) Richard Nixon\n\nReasoning:\nRichard Nixon was the first US president to visit China while it was still under communist rule. The visit took place in February 1972 and was a significant event in US-China relations. The other options, George H. W. Bush, Jimmy Carter, and Ronald Reagan, did not visit China until after Nixon's visit.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The Strategic Arms Reduction Treaty was the first accord\n\n(A) on nuclear weapons signed between the United States and the Soviet Union.\n(B) cutting conventional arms in Europe.\n(C) to be rejected by the U.S. Senate.\n(D) mandating the elimination of many long-range nuclear missiles.",
+            "correct_answer": 3,
+            "model_answer": "Correct answer: (A) on nuclear weapons signed between the United States and the Soviet Union.\n\nThe Strategic Arms Reduction Treaty (START) was the first accord signed between the United States and the Soviet Union to limit strategic nuclear arsenals. The treaty was signed in 1991, during the final years of the Cold War. Other answer options are incorrect for the following reasons:\n\n(B) The Conventional Armed Forces in Europe (CFE) Treaty was the first accord signed between the United States and the Soviet Union that cut conventional arms in Europe. The CFE Treaty focused on limiting conventional forces in Europe, not nuclear weapons.\n\n(C) The Comprehensive Test Ban Treaty (CTBT) was the first accord signed by the United States that was not ratified by the Senate. The CTBT aimed to ban all nuclear explosions, but it was not ratified by the Senate and therefore not fully implemented.\n\n(D) The Intermediate-Range Nuclear Forces (INF) Treaty mandated the elimination of many long-range nuclear missiles, but it was not the first accord signed between the United States and the Soviet Union on nuclear weapons. The INF Treaty was signed in 1987, a few years after START.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What were the implications of the Cold War for American exceptionalism?\n\n(A) It ended the influence of American exceptionalism entirely\n(B) Exceptionalism was enhanced by America's status as the 'leader of the free world'\n(C) The extension of American power globally challenged core assumptions of exceptionalism\n(D) Both b and c",
+            "correct_answer": 3,
+            "model_answer": "The Cold War had a significant impact on American exceptionalism. On one hand, it helped to strengthen the idea that America was a global leader and a force for good in the world, due to its role in opposing the spread of communism and promoting democracy. On the other hand, it also raised questions about the limits of American power and the extent to which the US could impose its values on other countries.\n\n(A) While the Cold War did not entirely end the influence of American exceptionalism, it did challenge some of the core assumptions of the idea. The US faced setbacks and failures during the Cold War, such as the Vietnam War, which raised questions about the country's ability to achieve its goals and its moral authority.\n\n(B) The US did see itself as the \"leader of the free world\" during the Cold War, and this helped to reinforce the idea of American exceptionalism. However, this was also a time of civil rights unrest and political divisions at home, which raised questions about the virtues and values of American society.\n\n(C) The extension of American power globally during the Cold War did raise questions about the limits of American exceptionalism and the extent to which the US could impose its values on other countries. The use of force, economic interventions, and covert operations to achieve US goals raised concerns about the consequences of American exceptionalism.\n\nBased on the analysis above, the most accurate answer would be:\n\n(D) Both b and c. The Cold War had both positive and negative implications for American exceptionalism, reinforcing some aspects of the idea while also raising questions and challenges.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\n\n(A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US\n(B) He believed that German domination of Europe would be in US interests\n(C) He always favoured isolationism\n(D) All of the above",
+            "correct_answer": 0,
+            "model_answer": "During the 1920s and early 1930s, there was a widespread feeling among Americans that the country had paid too high a price for its involvement in World War I, and that isolationism was the natural response to the ushering in of the Great Depression. As a result, President Hoover also maintained an isolationist stance during his short presidency. Franklin Roosevelt, however, did not always hold isolationist views, and they underwent a shift during the 1930s, partly in response to the actions of aggressive leaders in Germany and Japan and partly due to the influence of his close adviser Harry Hopkins.\n\nTherefore, the final answer is (A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What was the 'New Populism'?\n\n(A) A strand of neo-isolationist sentiment\n(B) A strand of internationalist sentiment\n(C) An expression of American cultural superiority\n(D) Increased incorporation of public opinion in foreign policy making",
+            "correct_answer": 0,
+            "model_answer": "The 'New Populism' refers to a political and economic movement that emerged in the United States in the 1980s. It was characterized by a renewed focus on the interests of thecommon people, as opposed to the wealthy and powerful elite. The New Populism advocated for policies that were designed to benefit the working and middle classes, such as increased economic regulation, higher taxes on the wealthy, and greater government intervention in the economy.\n\nIn terms of foreign policy, the New Populism was a strand of internationalism. It emphasized the importance of global cooperation and multilateralism, and argued that the United States should work with other countries to address shared challenges and promote peace and security.\n\nTherefore, the correct answer is:\n\n(B) A strand of internationalist sentiment",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "How did World War I shift economic power from Europe to the United States?\n\n(A) The war reduced European population levels below that of the United States\n(B) The United States seized German resources after the war\n(C) European countries paid the United States for assistance\n(D) The United States became a creditor country and financial centre, with European war spending boosting the US economy",
+            "correct_answer": 3,
+            "model_answer": "D) The United States became a creditor country and financial centre, with European war spending boosting the US economy",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "In American government, the power to declare war rests with\n\n(A) the president of the United States.\n(B) the secretary of defense.\n(C) the chairman of the Joint Chiefs of Staff.\n(D) Congress.",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Constitutional authority\nThe U.S. Constitution outlines the structure and powers of the federal government. In Article I, Section 8, Clause 11, the Constitution states that the Congress shall have the power \"To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water.\"\n\nStep 2: Presidential war powers\nWhile the president is the commander-in-chief of the military and has significant influence over military decisions, the Constitution explicitly grants the power to declare war to Congress. This means that the president cannot unilaterally declare war without the approval of Congress.\n\nStep 3: Secretary of Defense and Joint Chiefs of Staff\nThe secretary of defense and the chairman of the Joint Chiefs of Staff are important military officials, but they do not have the authority to declare war on their own. Their role is to advise and assist the president and Congress in making military decisions.\n\nBased on the subsequent evaluation, the answer is:\n\n(D) Congress.",
+            "correct": true
+        }
+    ]
+}

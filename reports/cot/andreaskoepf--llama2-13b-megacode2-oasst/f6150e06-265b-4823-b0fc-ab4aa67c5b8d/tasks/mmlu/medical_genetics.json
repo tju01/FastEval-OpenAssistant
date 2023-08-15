@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "In Robertsonian translocation, fusion occurs between two non-sister chromatids at a point of homologous recombination. This fusion happens between the two homologous chromosomes' breakpoints and is independent of any specific chromosomal region such as telomeres, centromeres, histones, or the ends of the long arms. Therefore, the correct answer is:\n\n(E) none of the above.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "We can get this question down to two answers quite easily:\n\n(A) types of DNA-binding proteins\n(D) part of the hemoglobin in blood cells\n\nZinc finger proteins and helix-turn-helix proteins are DNA-binding proteins, meaning that they specifically bind to the DNA and regulate gene expression. \n\nIsn't that A?",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to use the principles of genetics and inheritance to determine the expected frequency of affected females.\n\nExplanation:\nX-linked recessive conditions are inherited when an individual inherits two copies of the mutated allele, one from each parent. Since males only have one X chromosome, if they inherit two copies of the mutated allele, they will be affected. Females, on the other hand, have two X chromosomes, and if they inherit two copies of the mutated allele, one of the X chromosomes should \"mask\" the other, so that they will not be affected. However, if a female inherits one copy of the mutated allele from one parent and a normal allele from the other parent, she will be a carrier of the condition.\n\nSince the frequency of males affected with the X-linked recessive condition is 10%, this means that 10% of the male population is heterozygous for the condition (i.e., they carry one copy of the mutated allele and one normal allele). All other males and females in the population are homozygous for the normal allele.\n\nNow, let's calculate the expected frequency of carrier females. Since females must inherit a copy of the mutated allele from one parent, 50% of females are expected to inherit a copy of the mutated allele from their father. However, only half of these females will be carriers, because they must also inherit a copy of the normal allele from their mother. Therefore, the expected frequency of affected females is simply twice the frequency of carrier females:\n\nExpected frequency of affected females = 2 * frequency of carrier females\nExpected frequency of affected females = 2 * 0.05\nExpected frequency of affected females = 0.10\n\nSo the answer is:\n(A) 0.01",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "Adenine pairs with guanine in DNA through three hydrogen bonds. Therefore, the correct answer is (B) guanine.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "Let us first understand what Malignant Hyperthermia (Hyperpyrexia) is. Malignant Hyperthermia (MH) is a rare and potentially life-threatening condition that is characterized by major motor muscle rigidity, fever, and hypermetabolism. It is caused by a genetic mutation which causes excessive release of calcium from the sarcoplasmic reticulum in muscle cells, leading to muscle rigidity and hypermetabolism.\n\nNow let's look at the possible patterns of inheritance:\n\n1. Autosomal dominant gene: Each parent donates one copy of the gene. If the person inherits two copies of the gene, one from each parent, then the person will have the disorder. An individual with one copy of the gene is called a carrier and will have no symptoms, but can pass the gene onto offspring. An example of an autosomal dominant gene is sickle cell anemia. In this condition, a person only needs to inherit one copy of the gene from one parent to have the disease.\n\n2. Autosomal recessive gene: Each parent donates one copy of the gene, but in order for the child to have the disorder, they must inherit two copies of the gene \u2013 one from each parent. An example of an autosomal recessive gene is cystic fibrosis. An individual with just one copy of the gene is a carrier, and their children have a 25% chance of inheriting two copies and having CF, while their siblings have a 50% chance of being carriers.\n\n3. X-linked dominant gene: This is a rare pattern, and it occurs when a gene is located on the X chromosome and inherited from a father. In this case, the father must be affected for his son to be affected, while daughters can be carriers but generally won't have the condition. There are no examples of X-linked dominant genes in human diseases, as all X-linked genes are typically recessive.\n\n4. X-linked recessive gene: This occurs when a gene responsible for a genetic disease is located on the X chromosome, and a female must inherit two copies of the gene \u2013 one from each parent \u2013 in order to have the disease. Males only need one copy of the gene to have the disorder, as they have only one X chromosome. Examples of X-linked recessive genes include hemophilia and red-green color blindness.\n\nBased on the above information, we can eliminate options (B) and (D), as they are not consistent with what we know about the inheritance of MH. Judging from the available information, MH seems to exhibit autosomal dominant inheritance, which is consistent with option (A). Therefore, the answer is:\n\n(A) autosomal dominant.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "Let's analyze each option one by one.\n\n(A) This option suggests that mapping of human chromosomes has been restricted to sex chromosomes due to small family sizes. This is not accurate since the mapping of chromosomes includes all the chromosomes and it is not restricted to sex chromosomes only. So, this option can be ruled out.\n\n(B) Mapping of human chromosomes has been successful due to large numbers of DNA markers becoming available. This statement makes sense as DNA markers are essential in mapping chromosomes. Therefore, this option seems to be correct. \n\n(C) Mapping of human chromosomes has determined that the number of linkage groups is about twice the number of chromosomes. This statement is not accurate because linkage groups are not directly proportional to the number of chromosomes. So this option can be ruled out.\n\n(D) Mapping of human chromosomes has demonstrated that almost all of the DNA is involved in coding for genes. This statement is not accurate because only a small percentage of the DNA is involved in coding for genes. The majority of the genome is non-coding DNA so this option can be ruled out.\n\nBased on our analysis, the correct answer is (B) as it accurately describes the success of mapping human chromosomes due to the availability of large numbers of DNA markers.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "Intergenerational transmission to offspring can occur as a result of parental exposures to (D) all of these. \n\nIt's important to note that each of these factors can have significant and long-lasting effects on a child's development and well-being. War and natural disasters can cause trauma, displacement, and poverty, while hunger and malnutrition can lead to poor physical and cognitive development. These factors can all impact a parent's ability to provide for and care for their child, and can also directly impact a child's health and development.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "Proteins are encoded by DNA, which has a \"reduced alphabet\" of four bases - A, T, C, and G. Three of these letters code for amino acids (A and T code for lysine and arginine, respectively; C and G code for serine and stop codon, respectively). The fourth base, A, codes for asparagine.\n\nAsp235Phe in a molecular report indicates that the asparagine at position 235 has been replaced by phenylalanine.\n\nTherefore the answer is:\n\n(A) asparagine has been replaced by phenylalanine.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "My previous answer was incorrect, my apologies.\n\nUntreated phenylketonuria (PKU) can cause severe intellectual disability and neurological problems in infants and children. The body cannot properly break down the amino acid phenylalanine, which can build up to dangerous levels in the bloodstream without proper treatment.\n\nThe risk of a baby being born with PKU if the mother is untreated is around 1 in 4,000 to 1 in 10,000.  PKU can be detected during pregnancy through blood and urine tests. If PKU is detected early in pregnancy, the mother can follow a low-phenylalanine diet to prevent birth defects.\n\nSo the correct answer is (E) 0.025%",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "First, let's understand what exon skipping means. Exon skipping is a type of gene therapy that involves altering the normal splicing of pre-mRNA to include exons that are normally skipped over during mRNA processing. This can result in the production of a functional protein even when there is a mutation in the coding region of a gene.\n\nNow let's analyze each of the answer choices:\n\n(A) Nonsense mutations occur when there is a stop codon introduced in the coding region of a gene, resulting in a truncated protein that is often nonfunctional. Exon skipping can help bypass the stop codon and allow for the production of a functional protein.\n\n(B) Regulatory mutations occur in the control regions of a gene, such as promoters or enhancers, and can affect gene expression. These mutations are not directly related to exon skipping.\n\n(C) RNA processing mutations occur in the regions of pre-mRNA that are involved in splicing. These mutations can result in abnormal splicing and the inclusion or exclusion of exons, which is the basis of exon skipping therapy.\n\n(D) Silent mutations occur in non-coding regions of the DNA and do not alter the sequence of the protein being produced. These mutations are not directly related to exon skipping.\n\nBased on this analysis, the correct answer is:\n\n(C) RNA processing mutations.",
+            "correct": true
+        }
+    ]
+}

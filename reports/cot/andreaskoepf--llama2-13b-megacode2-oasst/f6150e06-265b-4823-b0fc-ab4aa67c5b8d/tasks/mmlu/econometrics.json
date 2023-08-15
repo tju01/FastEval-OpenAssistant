@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which one of the following is the most appropriate definition of a 99% confidence interval?\n\n(A) 99% of the time in repeated samples, the interval would contain the true value of the parameter\n(B) 99% of the time in repeated samples, the interval would contain the estimated value of the parameter\n(C) 99% of the time in repeated samples, the null hypothesis will be rejected\n(D) 99% of the time in repeated samples, the null hypothesis will not be rejected when it was false",
+            "correct_answer": 0,
+            "model_answer": "The most appropriate definition of a 99% confidence interval is:\n\n(B) 99% of the time in repeated samples, the interval would contain the estimated value of the parameter\n\nExplanation:\n\nA confidence interval is a range of values, along with the interval, which is likely to contain the true values of a parameter being estimated. It provides a measure of the uncertainty around the estimate based on the available data. The confidence level indicates the probability that the interval will contain the true value of the parameter when the experiment is repeated multiple times.\n\nIn this case, a 99% confidence interval means that if the experiment were to be repeated multiple times, the interval would contain the true value of the parameter 99% of the time.\n\nOption (A) is incorrect because it refers to the interval containing the \"true\" value of the parameter, not the \"estimated\" value of the parameter, which is the focus of a confidence interval.\n\nOption (C) is incorrect because the confidence interval does not aim to reject or accept the null hypothesis. Instead, it provides a measure of the uncertainty around an estimate.\n\nOption (D) is incorrect because the confidence interval is designed to provide a range that likely includes the true value of the parameter, not to specifically avoid rejecting the null hypothesis.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing?\n\n(A) ADF is a single equation approach to unit root testing while PP is a systems approach\n(B) PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test\n(C) The PP test incorporates an automatic correction for autocorrelated residuals in the test regression\n(D) PP tests have good power in small samples whereas DF tests do not.",
+            "correct_answer": 2,
+            "model_answer": "(B) PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test. The PP test still uses the ADF statistic but reverses the null and alternative hypotheses. This means that the null hypothesis of the PP test is that the time series is stationary, not non-stationary, and the alternate hypothesis is that the time series is I(1), not non-stationary.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?\n\n(A) It would rise more quickly for negative disturbances than for positive ones of the same magnitude\n(B) It would be symmetrical about zero\n(C) It would rise less quickly for negative disturbances than for positive ones of the same magnitude\n(D) It would be zero for all positive disturbances",
+            "correct_answer": 0,
+            "model_answer": "The shape of the news impact curve would depend on various factors, such as the specific model, the definition of leverage, and the type of disturbances being considered. However, based on the given options, we can consider the following scenarios:\n\n(A) If the leverage effect refers to the amplification of negative disturbances due to the presence of a short position, then a model that accounts for this leverage would indeed show a news impact curve that rises more quickly for negative disturbances than for positive ones of the same magnitude. This is because the negative impact of a news event would be multiplied by the short position, leading to a greater fall in price than would be expected from the news alone.\n\n(B) A symmetrical news impact curve suggests that the impact of positive and negative news events is the same, regardless of the sign. This would imply that there is no leverage effect in the model, as the impact of a short position would not be amplified or attenuated by the news.\n\n(C) If the leverage effect refers to the amplification of positive disturbances due to the presence of a long position, then a model that accounts for this leverage would show a news impact curve that rises less quickly for negative disturbances than for positive ones of the same magnitude. This is because the positive impact of a news event would be multiplied by the long position, leading to a greater rise in price than would be expected from the news alone.\n\n(D) A news impact curve that is zero for all positive disturbances would imply that there is no leverage effect in the model, as the impact of a long position would not be amplified or attenuated by the news.\n\nBased on these scenarios, the shape of the news impact curve for a model that accounted for a leverage effect would depend on the specific nature of the leverage and the type of disturbances being considered.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Which of the following statements is false concerning the linear probability model?\n\n(A) There is nothing in the model to ensure that the estimated probabilities lie between zero and one\n(B) Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one\n(C) The error terms will be heteroscedastic and not normally distributed\n(D) The model is much harder to estimate than a standard regression model with a continuous dependent variable",
+            "correct_answer": 3,
+            "model_answer": "(A) and (C) are false statements concerning the linear probability model.\n\n(A) The linear probability model assumes that the dependent variable takes on only two values: zero and one. By dividing the observed frequency of each category by the total population size, we can create a probability value for each category that ranges between zero and one.\n\n(C) The error terms in the linear probability model are assumed to be normally distributed with constant variance, which means that they are homoscedastic. This means that the error terms are not heteroscedastic.\n\n(B) is true. Since the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one.\n\n(D) is also false. The linear probability model is a special case of a logistic regression model, which is a type of generalized linear model (GLM). GLMs are easier to estimate than standard regression models with a continuous dependent variable because they have a simpler links function that allows for a wider range of errors.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following statements concerning the regression population and sample is FALSE?\n\n(A) The population is the total collection of all items of interest\n(B) The population can be infinite\n(C) In theory, the sample could be larger than the population\n(D) A random sample is one where each individual item from the population is equally likely to be drawn.",
+            "correct_answer": 2,
+            "model_answer": "Now let's systematically analyze each statement:\n\n(A) is true, for example, in a survey where all people of a certain age group are asked if they like pizza, the entire age group is the population.\n\n(B) is technically true as it's impossible to know the exact number of items in a infinite population, but that doesn't mean that a population in theory can't be infinite.\n\n(C) is false because the sample must be smaller than or equal to the population, otherwise it wouldn't be a random sample.\n\n(D) is true, to form a random sample one has to list the items in the population and randomly pick from that list, by doing that each item has an equal chance to be picked.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statistics for linear dependence in time series?\n\n(A) Asymptotically, the values of the two test statistics will be equal\n(B) The Q test has better small-sample properties than the Q*\n(C) The Q test is sometimes over-sized for small samples\n(D) As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.",
+            "correct_answer": 1,
+            "model_answer": "(C) The Q test is sometimes over-sized for small samples",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "A parsimonious model is one that\n\n(A) Includes too many variables\n(B) Includes as few variables as possible to explain the data\n(C) Is a well-specified model\n(D) Is a mis-specified model",
+            "correct_answer": 0,
+            "model_answer": "A parsimonious model is one that:\n\n(B) Includes as few variables as possible to explain the data\n\nReasoning:\n\nParsimoniousness is a term used in statistics and machine learning to describe a model that has a high level of simplicity while still being effective in explaining the data. This means that a parsimonious model includes as few independent variables as possible while still being able to explain the dependent variable. The goal is to avoid overfitting the model to the data, which can lead to poor performance on unseen data. By including only the most important variables, a parsimonious model can better generalize to new data and make accurate predictions.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?\n\n(A) They can be interpreted as continuously compounded changes in the prices\n(B) They can be added over time to give returns for longer time periods\n(C) They can be added across a portfolio of assets to give portfolio returns\n(D) They are usually fat-tailed",
+            "correct_answer": 2,
+            "model_answer": "Of the options provided, (D) is NOT a feature of continuously compounded returns.\n\nExplanation:\n(A) Continuously compounded returns represent the continuously compounded changes in the prices, so this statement is true.\n(B) Continuously compounded returns can indeed be added over time to give returns for longer time periods, as they represent the cumulative effect of continuous growth. Therefore, this statement is true.\n(C) Continuously compounded returns can be added across a portfolio of assets to give portfolio returns, as they represent the cumulative effect of returns on individual assets. Therefore, this statement is also true.\n(D) Continuously compounded returns are normally distributed, which means they are not fat-tailed. Fat-tailed distributions have heavier tails than normal distributions, meaning that they have a higher probability of extreme outcomes. Since continuously compounded returns are normally distributed, they cannot be described as fat-tailed. Therefore, this statement is false.\n\nTherefore, the answer is (D).",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns\n\n(A) (ii) and (iv) only\n(B) (i) and (iii) only\n(C) (i), (ii), and (iii) only\n(D) (i), (ii), (iii), and (iv)",
+            "correct_answer": 1,
+            "model_answer": "The GARCH(1,1) model is a type of autoregressive moving average model that is used to model and forecast volatility in financial time series. It has two components: the GARCH(1) model, which estimates the conditional variance of the returns, and the ARMA(1,1) model, which estimates the conditional mean of the returns.\n\nThe GARCH(1,1) model can capture the following features of financial asset return time-series:\n\ni) Fat tails in the return distribution: The GARCH(1,1) model can capture leptokurtosis, which is the excess kurtosis of the distribution. This means that the model can account for the fact that the returns are more heavy-tailed than a normal distribution.\n\nii) Leverage effects: The GARCH(1,1) model can capture the phenomenon of leverage effects, which is the sensitivity of the returns to new information. This means that the model can account for the fact that the returns are more sensitive to new information when the volatility is high.\n\niv) Volatility affecting returns: The GARCH(1,1) model can capture the phenomenon of volatility feedback, which is the feedback loop between the returns and the volatility. This means that the model can account for the fact that the returns are affected by the volatility in the past.\n\nTherefore, the correct answer is (D) (i), (ii), (iii), and (iv).",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Consider the estimation of a GARCH-M model. If the data employed were a time-series of daily corporate bond percentage returns, which of the following would you expect the value of the GARCH-in-mean parameter estimate to be?\n\n(A) Less than -1\n(B) Between -1 and 0\n(C) Between 0 and 1\n(D) Bigger than 1",
+            "correct_answer": 2,
+            "model_answer": "**The value of the GARCH-in-mean parameter estimate depends on the specific characteristics of the data and the modeling assumptions.** Therefore, it is difficult to provide a definitive answer based on limited information.\n\nHowever, **in general, the GARCH-in-mean parameter estimate is expected to be positive**, meaning that the volatility of the returns has a tendency to persist over time. This suggests that the value of the GARCH-in-mean parameter estimate is more likely to be:\n\n(C) Between 0 and 1",
+            "correct": true
+        }
+    ]
+}

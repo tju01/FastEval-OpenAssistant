@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\n\n(A) Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater.\n(B) Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.\n(C) Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.\n(D) State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed.",
+            "correct_answer": 3,
+            "model_answer": "Let me analyze the given options:\n\n(A) The first amendment guarantees freedom of speech, but it does not include an exception for yelling \"fire\" in a crowded theater. This statement is false.\n\n(B) The tax-exempt status of religious organizations can be revoked by the Internal Revenue Service if the organization engages in prohibited political activity or other actions contravening its tax-exempt status. This statement is false.\n\n(C) Administrative agencies are authorized under the conditions laid by Congress in the United States Code, and these can be amended through the same process. Hence, this statement is false.\n\n(D) The Supreme Court has established the principle of \"categorical exclusion\" of religious speech from public schools, which means that religious activity cannot be sponsored by the state. However, students' religious speech and expression are protected under the First Amendment, as long as it does not disrupt the educational function of the school. Hence, this part of the statement is false.\n\nThe most accurate among the given options is (D)",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?\n\n(A) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\n(B) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\n(C) Registered voters are more likely to vote in general elections than they are in primary elections.\n(D) More women than men have voted in every presidential election since 1980.",
+            "correct_answer": 1,
+            "model_answer": "Let's evaluate each statement one by one:\n\n(A) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.\nThis statement is likely true given that older voters tend to have more voting experience and are more likely to vote consistently.\n\n(B) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\nThis statement is false. Both GED holders and high school dropouts have similar voter turnout rates.\n\n(C) Registered voters are more likely to vote in general elections than they are in primary elections.\nThis statement is likely true given that primary elections often have lower voter turnout due to their timing and the fact that they are typically only accessible to registered party members.\n\n(D) More women than men have voted in every presidential election since 1980.\nThis statement is false. While women usually outvote men in national elections, it is not true that this has been the case in every presidential election since 1980.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following plays the most significant role in forming a child's political views?\n\n(A) The geographical area in which the child grows up\n(B) The child's family\n(C) The media to which the child is exposed\n(D) The child's religion",
+            "correct_answer": 1,
+            "model_answer": "(B) The child's family",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?\n\n(A) Coining money\n(B) Authorizing constitutional amendments\n(C) Having representation in Congress\n(D) Appealing to the president to adjudicate disputes",
+            "correct_answer": 0,
+            "model_answer": "We can eliminate option (B) since the constitution imposed the power to approve treaties and amendments to congress, and eliminating option (C) because electing representatives to congress is one of the crucial powers of the federal government given in the Constitution. This leaves us with options A and D. Answering this question requires determining the power to coin money and the power to have states appeal to the president to adjudicate disputes was granted to the states under the Articles of Confederation.\n\nTherefore\n\n(A)",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "The primary function of political action committees (PACs) is to\n\n(A) contribute money to candidates for election\n(B) coordinate local get-out-the-vote campaigns\n(C) promote the defeat of incumbents in the federal and state legislatures\n(D) organize protest demonstrations and other acts of civil disobedience",
+            "correct_answer": 0,
+            "model_answer": "I'll go through the options one by one and explain the reasoning behind my selection.\n\n(A) PACs can contribute money to political candidates, which can help them in their elections. So this is a possible answer.\n(B) PACs can support local get-out-the-vote campaigns, but their main function is not coordination. So this is not the best answer.\n(C) PACs can work to defeat incumbents, but this is not their primary function. So this is not the best answer.\n(D) PACs can organize protests and acts of civil disobedience, but this is not their primary function. So this is not the best answer.\n\nAfter evaluating all the options, I believe that the best answer is:\n\n(A) contribute money to candidates for election",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Federal judges are subject to which of the following disciplinary actions?\n\n(A) Impeachment, conviction, and removal from office by Congress\n(B) Removal from office by the appointing president\n(C) Removal from office by the president-elect\n(D) Recall elections by citizens residing in the district over which the judge has jurisdiction",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we'll need to identify which disciplinary actions are applicable to federal judges. \n\nHere are the options provided:\n\n(A) Impeachment, conviction, and removal from office by Congress\n(B) Removal from office by the appointing president\n(C) Removal from office by the president-elect\n(D) Recall elections by citizens residing in the district over which the judge has jurisdiction",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the\n\n(A) vice president\n(B) president's chief of staff\n(C) national security advisor\n(D) chair of the Federal Reserve Board",
+            "correct_answer": 1,
+            "model_answer": "The question asks about the amount of access cabinet secretaries have to the president. Among the options provided, let's consider the roles of each and their relationship with the president.\n\n(A) Vice President: The vice president is the president's second in command and has some level of access to the president. However, the vice president does not directly manage the cabinet.\n\n(B) President's Chief of Staff: The president's chief of staff is responsible for managing the president's schedule, overseeing communications with the White House staff and cabinet secretaries, and acting as the president's liaison to various groups. This position would likely have significant influence over cabinet secretary access to the president.\n\n(C) National Security Advisor: The national security advisor is responsible for advising the president on national security matters and coordinating the activities of the National Security Council. While they may have significant influence in their area of expertise, they do not generally control access to the president for all cabinet secretaries.\n\n(D) Chair of the Federal Reserve Board: The chair of the Federal Reserve Board is the head of the Federal Reserve System, which is an independent body responsible for monetary policy in the United States. This position does not have direct control over cabinet secretary access to the president.\n\nBased on this analysis, the most likely person to control the amount of access cabinet secretaries have to the president is the\n\n(B) president's chief of staff",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following defines the salience of a political issue?\n\n(A) The amount of coverage the issue receives in the major news media\n(B) The degree to which public opinion on the issue is likely to shift quickly\n(C) The number of people affected by the issue\n(D) The importance of the issue to a particular individual or group",
+            "correct_answer": 3,
+            "model_answer": "Salience is a concept used in political science to describe how important or salient an issue is to a given group of people. Specifically, salience refers to the degree to which an issue is present in people's minds and affects their attitudes and behavior. Therefore, the most appropriate answer is:\n\n(A) The amount of coverage the issue receives in the major news media",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of\n\n(A) which special interest groups have endorsed which candidates\n(B) the relative strength of each candidate's support, as indicated by public opinion polls\n(C) candidates' positions on international issues\n(D) candidates' positions on domestic issues",
+            "correct_answer": 1,
+            "model_answer": "Question: Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of:\n\nA) which special interest groups have endorsed which candidates\nB) the relative strength of each candidate's support, as indicated by public opinion polls\nC) candidates' positions on international issues\nD) candidates' positions on domestic issues\n\nAnswer: (D) candidates' positions on domestic issues",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?\n\n(A) One man, one vote\n(B) Separate but equal\n(C) Judicial review\n(D) Right to privacy",
+            "correct_answer": 2,
+            "model_answer": "In Marbury v. Madison, the Supreme Court established the principle of Judicial Review. This principle allows the Supreme Court to determine the constitutionality of laws passed by Congress and actions taken by the executive branch. The decision in Marbury v. Madison established that the Supreme Court has the power to review and invalidate actions or laws that it believes to be unconstitutional.",
+            "correct": false
+        }
+    ]
+}

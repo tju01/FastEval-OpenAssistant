@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following statements expresses a relationship between aging and sexual functioning\n\n(A) Aging is related to an increase in vaginal lubrication\n(B) Aging is associated with an increase in the frequency and number of orgasmic contractions in both sexes\n(C) There is no significant relationship between aging and sexual responses in either sex\n(D) Aging is related to some loss of erectile rigidity in the male",
+            "correct_answer": 3,
+            "model_answer": "(D) Aging is related to some loss of erectile rigidity in the male\n\nThe other options are incorrect based on the available research.\n\n(A) There is no consistent relationship between aging and vaginal lubrication.\n(B) There is no evidence to suggest that the frequency and number of orgasmic contractions increase with aging in both sexes.\n(C) While some studies suggest that sexual functioning may not decline significantly with aging, there is generally a decline in physiological responses such as erectile function in men and vaginal lubrication and elasticity in women.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "According to Piaget, children are ___________.\n\n(A) \u201cBlank slates\u201d\n(B) Less intelligent than adults\n(C) \u201cLittle scientists\u201d\n(D) Shaped by culture",
+            "correct_answer": 2,
+            "model_answer": "According to Piaget's theory of cognitive development, children are (C) \"little scientists.\" This means that Piaget believed that children are actively exploring and learning about the world around them, using their own hypotheses-testing approach. This process involves experimentation, observation, and adaptation.\n\nPiaget hypothesized that children's cognitive development proceeds through four stages: the sensorimotor stage, preoperational stage, concrete operational stage, and formal operational stage. In each stage, children develop new cognitive abilities that allow them to better understand and interact with the world.\n\nTherefore, the answer is (C) \"little scientists.\"",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "If a test has a standard error of measurement of 15 points, itis correct to conclude that\n\n(A) about 68% of the observed scores for the test population lie within 15 points of the mean score\n(B) about 68% of the individuals with a given cure score will have observed scores within 15 points of the true score\n(C) about 15% of the scores are in error (i.e., they are not measuring the trait reliably)\n(D) differences of up to 30 points represent the same true score",
+            "correct_answer": 1,
+            "model_answer": "Question at hand is about the interpretation of standard error of measurement (SEM) in the context of a test.\n\nThe correct interpretation is (A) about 68% of the observed scores for the test population lie within 15 points of the mean score.\n\nExplanation:\nThe standard error of measurement is a measure of the uncertainty or variability in test scores. It represents the typical difference between an individual's score on a test and the true score, given repeat testing. A small standard error of measurement indicates higher reliability (consistency) of a test.\n\nAccording to the process of standardization.\nTest scores and their SDs are translated to a common unit of measurement by dividing by the SEM. \n\nFor example if the SEM is 15 the error band around each score of a test would be +- 15 around the mean score.\n\nTherefore when the test has a SEM of 15 points, 68% of the scores would be within 15 points of the mean score\n\nHence option (A) is the correct answer.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Any substance that can have a negative impact on fetal development is ___________.\n\n(A) An Apgar\n(B) A teratogen\n(C) Only a problem in the first 6 weeks\n(D) A controlled substance",
+            "correct_answer": 1,
+            "model_answer": "(B) A teratogen\n\nA teratogen is a substance that can cause birth defects or harm to the developing fetus. Examples of teratogens include alcohol, drugs (both legal and illicit), certain medications, chemicals, radiation, and infections.\n\n(A) An Apgar score is a tool used to measure the health of a newborn baby at birth. It is not a substance and does not impact fetal development.\n(C) The impact of a substance on fetal development can occur at any stage of pregnancy, and not just in the first 6 weeks.\n(D) While a controlled substance may be a teratogen, not all controlled substances are teratogens.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "If you were hired by a large company to develop a new training program, your first step would probably be to conduct a:\n\n(A) needs analysis.\n(B) job evaluation.\n(C) summative evaluation.\n(D) formative evaluation.",
+            "correct_answer": 0,
+            "model_answer": "You are correct. The first step in developing a new training program for a large company would likely be a needs analysis. This is because a needs analysis helps to determine the specific skills and knowledge that employees require to perform their jobs effectively, which will then inform the design and content of the training program.\n\nStep-by-step reasoning:\n\n1. The goal is to develop a new training program for a large company.\n2. The purpose of a training program is to improve employees' skills and knowledge so that they can perform their jobs more effectively.\n3. In order to design a training program that effectively meets employees' needs, it is necessary to first identify those needs.\n4. A needs analysis is a method of collecting and analyzing data on employees' current skills and knowledge, their job requirements, and their performance, in order to identify gaps and opportunities for training.\n5. By conducting a needs analysis, training program developers can ensure that the training program is targeted and effective, and will result in improved employee performance and job satisfaction.\n\nAnswer: (A) needs analysis.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Practitioners of Gestalt psychotherapy consider a client\u2019s desire to talk about his/her past as:\n\n(A) a useful strategy for helping the client understand the present.\n(B) a way for the client to avoid coming to terms with the present.\n(C) \"the \"\"second layer\"\" of therapy.\"\n(D) \"a way for achieving \"\"closure\"\" near the end of therapy.\"",
+            "correct_answer": 1,
+            "model_answer": "The answer is: (B) a way for the client to avoid coming to terms with the present.\n\nIn Gestalt psychotherapy, the focus is on the client's present experience and the current relationship between the client and therapist. Therapists believe that engaging with the present, rather than dwelling on the past, is necessary for growth and healing. Therefore discussing the past is considered a way for the client to avoid dealing with their current feelings and experiences.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "In regard to memory, aging is most closely associated with a decline in\n\n(A) the efficiency of controlled memory processes\n(B) metamemory skills, or knowledge about memory\n(C) recognition memory\n(D) the amount of factual memory knowledge available",
+            "correct_answer": 0,
+            "model_answer": "In regard to memory, aging is most closely associated with a decline in:\n\n(D) the amount of factual memory knowledge available",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "A 66-year-old client who is depressed, has rhythmic hand movements, and has a flattened affect is probably suffering from\n\n(A) Parkinson's disease\n(B) Vascular Dementia\n(C) a right frontal lobe tumor\n(D) Alzheimer's disease",
+            "correct_answer": 0,
+            "model_answer": "Sure! I'd be happy to help you out with this question.\n\nFirst, let's consider the clues we've been given:\n\n1) The client is 66 years old, which seems a bit younger than the typical onset age for most neurological conditions.\n2) The client is depressed.\n3) The client has rhythmic hand movements, which could be a sign of Parkinson's disease, but it's not specific to that condition.\n4) The client has a flattened affect, which can be a sign of various neurological conditions, including some dementias and certain brain tumors.\n\nNow let's take a look at the answer choices:\n\n(A) Parkinson's disease - Although the rhythmic hand movements could be a possibility, the other symptoms like depression and flattened affect are not strong markers for Parkinson's disease. Additionally, the age is somewhat younger than typical onset age.\n(B) Vascular Dementia - Depression and a flattened affect are potential symptoms, but the hand movements are not consistent with this condition.\n(C) A right frontal lobe tumor - Depression and a flattened affect can be possible symptoms, but the hand movements aren't typical of a brain tumor.\n(D) Alzheimer's disease - Depression and a flattened affect are both possible symptoms, and although hand movements aren't a strong indicator, they aren't specifically contrary to Alzheimer's disease. Additionally, the age is within the typical range for onset.\n\nBased on the information provided and the answer choices available, I would conclude that the most likely condition is:\n\n(D) Alzheimer's disease",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "One Friday afternoon, just before leaving on a weekend tip, a psychologist receives a call from a therapy client who claims to have taken an overdose of pills in a suicide attempt. The psychologist: tells the client to call a physician immediately and to come in at 9:00 A.M. on Monday for a session. The psychologist makes no other attempt to intervene, and the client dies later that evening without making any other calls for assistance. In this situation, the psychologist's behavior was clearly\n\n(A) unethical, because the client's needs were not addressed more directly\n(B) unethical, because the psychologist should have delayed the trip and given the client an appointment for that afternoon\n(C) unethical, because the psychologist should have called a physician directly\n(D) ethical, because it was not possible to determine whether or not the client was being manipulative",
+            "correct_answer": 0,
+            "model_answer": "(A)\n\nThe psychologist's behavior was clearly unethical because the client's needs were not addressed more directly. The psychologist did not take sufficient action to intervene in the client's immediate crisis and did not make any effort to connect the client with emergency medical assistance. The client died as a result of the overdose, which could have been prevented with more prompt and direct action on the part of the psychologist. The other choices are not correct because:\n(B) There is no indication that the psychologist's trip could have been delayed or that delaying it would have made a difference in the client's situation. The psychologist still had ample time to make an appointment that afternoon or to provide other assistance.\n(C) While it may have been better for the psychologist to call a physician directly, the psychologist's primary duty was to the client's mental health and well-being, and therefore directing the client to call a physician without delay was a reasonable initial response.\n(D) It is not clear that the psychologist did not take sufficient action to determine whether the client was being manipulative, as the information provided does not give enough detail to make that determination. However, even if the client was being manipulative, the psychologist still had an ethical duty to take appropriate action to address the client's dangerous behavior and immediate need for medical attention.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "A family therapist using the structural approach of Salvador Minuchin would most likely:\n\n(A) clarify boundaries between family members in order to reduce enmeshment.\n(B) work initially with the most differentiated family member.\n(C) \"use a multiple-therapist team to prevent any one therapist from becoming \"\"triangulated\"\" into the family system.\"\n(D) \"issue specific \"\"directives\"\" designed to counteract dysfunctional processes.\"",
+            "correct_answer": 0,
+            "model_answer": "A family therapist using the structural approach of Salvador Minuchin would most likely:\n\n(A) clarify boundaries between family members in order to reduce enmeshment.",
+            "correct": true
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following methods of detecting breast cancer involves exposure to radiation?\n\n(A) Needle aspiration\n(B) Mammography\n(C) Mastectomy\n(D) Lumpectomy",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's look at each method and consider whether it involves exposure to radiation:\n\n(A) Needle aspiration: It's a procedure that uses a needle to remove a sample of tissue or fluid from the breast. It does not involve radiation exposure.\n\n(B) Mammography: It's an X-ray imaging technique used to detect breast cancer. It involves exposure to radiation.\n\n(C) Mastectomy: It's a surgical procedure to remove all or part of the breast. It does not involve radiation exposure.\n\n(D) Lumpectomy: It's a surgical procedure to remove a lump or portion of the breast. It does not involve radiation exposure.\n\nBased on this analysis, only option B, Mammography, involves exposure to radiation.\n\nSo, the answer is 'B'.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "The regions of the body that, when touched, are sexually exciting:\n\n(A) vary from person to person\n(B) vary for women depending on the phases of the menstrual cycle\n(C) are mainly on the lower portion of the body\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "(A) vary from person to person\nThis is the correct answer. Different people have different erogenous zones, and what's erogenous for one person may not be for another. People's preferences can also change over time.\n\n(B) vary for women depending on the phases of the menstrual cycle - This is not correct. While it's true that some women may experience changes in their arousal during different phases of their menstrual cycle, this is not true for all women.\n\n(C) are mainly on the lower portion of the body - This is not correct. Erogenous zones can be found all over the body for both men and women, though some areas may be more sensitive or stimulating for certain people. It's also important to note that what's erogenous for one person may not be for another.\n\n(D) all of the above - This is not correct. Only answer (A) is correct, as the other three answers contain inaccuracies or overgeneralizations.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is/are true of gonorrhea?\n\n(A) can be treated with antibiotics\n(B) has a high risk of infection with a single exposure\n(C) is asymptomatic (without symptoms) in only a small percentage of those infected\n(D) infections are limited to genital areas",
+            "correct_answer": 0,
+            "model_answer": "(A) and (C) are true of gonorrhea: \n\nGonorrhea is a common sexually transmitted infection caused by the bacterium Neisseria gonorrhoeae. It can affect both men and women and is typically transmitted through sexual contact, including vaginal, anal and oral sex. Here's a breakdown of each statement:\n\n(A): Gonorrhea can generally be treated with antibiotics, but antibiotic resistance has become a growing concern. The Centers for Disease Control and Prevention (CDC) recommends treating gonorrhea with a single dose of antibiotics, either ceftriaxone or azithromycin, or a combination of both. Doctors should check for resistance before prescribing treatment, as the recommended treatments might not work for all cases.\n\n(B): Gonorrhea has a high risk of infection with a single exposure, especially without proper protection, such as condoms or other barrier methods.\n\n(C): Approximately 20-40% of gonorrhea infections are asymptomatic, meaning individuals can have the infection without experiencing any symptoms. However, symptoms can occur within 2-14 days after exposure and may include painful urination, increased urinary frequency, abnormal vaginal discharge, and genital sores. It's important to note that asymptomatic individuals can still transmit the infection to others.\n\n(D): While gonorrhea infections mainly occur in the genital areas, such as the cervix, urethra, and rectum, they can also spread to other parts of the body, causing conditions such as pelvic inflammatory disease (PID) in women and epididymitis in men, which can have severe health implications if left untreated.\n\nIt's essential to be aware of the potential risk for gonorrhea and engage in safe sex practices. If you suspect you may have been exposed or are experiencing symptoms, it's crucial to seek medical attention for proper diagnosis and treatment.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?\n\n(A) the id\n(B) the ego\n(C) the superego\n(D) the Oedipus complex",
+            "correct_answer": 0,
+            "model_answer": "In Freudian psychology, the id is driven by instinctual and biological urges, while the superego represents a person's moral compass and sense of right and wrong. The ego plays a role in mediating between the id and the superego, trying to balance individual desires with societal expectations.\n\nIn this scenario, you were tempted by lusty, swarthy Jacques and your initial inclination was to join him at the local dairy bar. This suggests that your id (instinctual desires) was dominant at the time.\n\nSo the answer is (A) the id",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Sociobiologists believe that there are more males than females with paraphilias because:\n\n(A) paraphilias guarantee survival of the species\n(B) evolutionary selection has favored the development of males who respond to novel sexual stimuli\n(C) of left brain/right brain differences between the genders\n(D) male brains are better developed than are female brains",
+            "correct_answer": 1,
+            "model_answer": "First, let's clarify that paraphilias are abnormal sexual behaviors that cause significant distress or harm to oneself or others. They are not a normal part of human sexuality.\n\nNow let's examine each of the provided options:\n\n(A) Paraphilias do not guarantee survival of the species; in fact, they can be harmful and destructive.\n\n(B) Evolutionary selection has not favored development of males who respond to novel sexual stimuli. In humans and many other mammals, sexual behaviors are highly regulated by social and cultural norms, not just biological instinct.\n\n(C) Left brain/right brain differences between genders have been debunked as a scientific explanation for any behavior. The brain is not strictly divided into left and right halves, and there are no meaningful differences in general cognitive functions between men and women.\n\n(D) Male brains are not better developed than female brains; both sexes have brains that are highly specialized for their needs and functions.\n\nBased on this analysis, none of the given options provide a valid scientific explanation for why sociobiologists believe that there are more males than females with paraphilias. The underlying cause for the gender disparity in paraphilias is complex and multifaceted, involving a combination of biological, social, and psychological factors.\n\nAnswer: (D)",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\n\n(A) felt glad\n(B) felt fear\n(C) experienced guilt\n(D) experienced regret",
+            "correct_answer": 2,
+            "model_answer": "In this question, we need to find the option that accurately reflects the study's findings regarding women's emotions after their first act of intercourse. The study in question is \"Sexual scripts: Young people's accounts of sex and love\" by Sprecher, Barbee, and Schwartz (1995).\n\nA brief summary of the study's findings is that young men and women have different scripted expectations for their first sexual encounter, with men typically expecting sex to be an expression of love, while women tend to associate sex with love. The study found that women were more likely than men to report having mixed feelings after their first sexual encounter, and were more likely to report experiencing negative emotions such as regret.\n\nBased on this information, we can eliminate options (A), (B), and (D) as they do not accurately reflect the study's findings. Option (C) experienced guilt is the only answer that matches the emotions experienced by women in the study.\n\nTherefore, the answer is: (C) experienced guilt.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is cocaine abuse during pregnancy related to?\n\n(A) an increased risk of low birth weight babies\n(B) poorer growth and lower intelligence\n(C) smaller head circumference\n(D) all of the above",
+            "correct_answer": 3,
+            "model_answer": "To answer the question, we need to consider the potential effects of cocaine abuse during pregnancy on the baby. Let's examine each option:\n\n(A) An increased risk of low birth weight babies: Cocaine use during pregnancy is linked to premature labor, restricted fetal growth, and low birth weight, which puts the baby at risk for various health problems.\n\n(B) Poorer growth and lower intelligence: Cocaine use during pregnancy is associated with problems in cognitive development and motor skills, as well as smaller head circumference in infants.\n\n(C) Smaller head circumference: This is a potential effect of cocaine use during pregnancy, as it can lead to restricted fetal growth and smaller head circumference.\n\n(D) All of the above: Based on the information above, all three options (A, B, and C) are related to cocaine abuse during pregnancy.\n\nThus, the correct answer is (D) all of the above.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:\n\n(A) a secure lover\n(B) an avoidant lover\n(C) an anxious-ambivalent lover\n(D) a passionate lover",
+            "correct_answer": 2,
+            "model_answer": "According to attachment theory, a person's attachment style is characterized by how they relate to others in close relationships. There are four main attachment styles: secure, avoidant, anxious-ambivalent, and disorganized.\n\n(A) A secure lover typically feels confident in their relationships, feels comfortable expressing their emotions, and is open to intimacy. They are often able to balance their own needs with the needs of their partner and are able to handle conflict in a healthy way.\n\n(B) An avoidant lover tends to avoid intimacy and closeness, often due to feelings of anxiety and fear of being too close to someone. They may try to distance themselves from their partner or avoid expressing their emotions.\n\n(C) An anxious-ambivalent lover has a mix of anxiety and ambivalence in relationships. They desire closeness and intimacy but also feel anxious about it. This often leads to premature anger or pulling away from the partner.\n\n(D) A disorganized lover has an unstable and confusing attachment style. This can be due to trauma or negative early relationships, leading to confusion and difficulty in forming healthy, stable relationships.\n\nLooking at the information provided about Joe's relationships, we can see that his desperate advances and Helen's apparent discomfort suggest an anxious-ambivalent style. His difficulty forming close relationships with women and feeling put off by their desire for intimacy further supports this diagnosis. Therefore, based on these factors, Joe would best be described as:\n\n(C) an anxious-ambivalent lover",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?\n\n(A) Bruce likely participated in more female-typical play than Chuck.\n(B) Bruce likely participated in more male-typical play than Chuck.\n(C) Bruce and Chuck likely participated in more male-typical play than female-typical play.\n(D) Bruce's father was more likely to have homosexual tendencies than Chuck's father.",
+            "correct_answer": 0,
+            "model_answer": "This question is asking about gender roles in a heterosexual and homosexual scenario. If a child shows male-typical play, it's usually seen as a sign they may be gay. So, while boys of both orientations may play male-typical, it's suspect if a gay boy does. Moreover, lesbian behavior in girls makes people suspicious of homosexuality.\n\nSo:\n(A) Is unlikely, since Bruce was playing female roles. However, it is not impossible.\n(B) Is probable given the enfant terrible trope. However, again, it's not the only possibility. \n(C) Is likely, given it's common for both boys to play male-typical.\nBut remember, correlation is not causation. These behaviors are both from environmental and genetic factors, and it would be unethical to study gender orientation of children.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Judaism regards sexuality as\n\n(A) inherently evil\n(B) God's afterthought and has become an aberration\n(C) a gift from God\n(D) primarily a biological function",
+            "correct_answer": 2,
+            "model_answer": "Judaism views sexuality as a sacred and important aspect of life, as a gift from God. According to Jewish tradition, marital relations between a husband and wife are considered a mitzvah (a commandment) and are meant to be a means of expressing love and affection, as well as procreation.\n\nJewish law (Halacha) sets forth specific guidelines regarding sexual activity, such as prohibiting sexual relations outside of marriage and requiring consent from both partners. These guidelines are designed to encourage healthy sexual relationships within the context of marriage and to protect the sanctity of sexuality.\n\nIn the Jewish tradition, sexuality is seen as part of the human experience that should be enjoyed responsibly and within the boundaries of marriage. So, the answer to your question is:\n\n(C) a gift from God",
+            "correct": true
+        }
+    ]
+}

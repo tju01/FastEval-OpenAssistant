@@ -1,0 +1,75 @@
+{
+    "score": 0.8,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?\n\n(A) Generational\n(B) Blackbox\n(C) Whitebox\n(D) Mutation-based",
+            "correct_answer": 2,
+            "model_answer": "(D) Mutation-based",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don\u2019t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replaying bytes that a client sent earlier.\n2. An attacker impersonating the server.\n\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True",
+            "correct_answer": 0,
+            "model_answer": "1. An attacker replaying bytes that a client sent earlier:\n\nTLS provides protection against replays attack by including a sequence number in the TLS record layer. The sequence number is incremented for each data packet sent, and the server verifies that the sequence number in the incoming packets matches the expected sequence number. If the server receives a packet with a sequence number that is out-of-order or has already been received, it will drop the packet and alert the client. This prevents an attacker from replaying packets that were sent earlier.\n\n2. An attacker impersonating the server:\n\nTLS provides protection against server impersonation by using digital certificates. The client verifies the digital certificate presented by the server to ensure that it is valid and issued by a trusted certificate authority (CA). The digital certificate contains the server's public key, which the client uses to securely communicate with the server. If the certificate is not valid or has been tampered with, the client will not establish the TLS connection and alert the user. This prevents an attacker from impersonating the server and intercepting the communication.\n\nBased on the analysis of the given attacks and the protections provided by TLS, the correct answer is:\n\n(A) True, True",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "MIT\u2019s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?\n\n(A) The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.\n(B) When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket\u2019s maximum lifetime.\n(C) When a client connects to a server, the server compares the ticket\u2019s expiration time to the server\u2019s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.\n(D) When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC\u2019s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.",
+            "correct_answer": 2,
+            "model_answer": "(C) When a client connects to a server, the server compares the ticket\u2019s expiration time to the server\u2019s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In Message Condentiality, the transmitted message must make sense to only intended\n\n(A) Receiver\n(B) Sender\n(C) Modulor\n(D) Translator",
+            "correct_answer": 0,
+            "model_answer": "In Message Confidentiality, the transmitted message must make sense to only the intended recipient. The aim of confidentiality is to protect the privacy of information and prevent unauthorized access, use, disclosure, dissemination, modification, or destruction of information.\n\nThe answer is (A) Receiver.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is a remote Trojan?\n\n(A) Troya\n(B) DaCryptic\n(C) BankerA\n(D) Game-Troj",
+            "correct_answer": 0,
+            "model_answer": "We need to figure out which of the following four options is a remote Trojan.\n\n(A) Troya - This trojan was found in 2004 and was able to allow an attacker to remotely control a victims machine. This is a remote Trojan. \n\n(B) DaCryptic - I can find no records of this trojan anywhere. \n\n(C) BankerA - I can find no records of this trojan anywhere. \n\n(D) Game-Troj - These are various trojans which use the tag \"Game-Troj\". \n\nTherefore the correct answer is:\n(A)",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "______________ is a widespread app\u2019s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.\n\n(A) Memory leakage\n(B) Buffer-overrun\n(C) Less processing power\n(D) Inefficient programming",
+            "correct_answer": 1,
+            "model_answer": "(B) Buffer-overrun",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.\n\n(A) all instructions that modify segment state\n(B) all loads or stores to addresses that are not 0 mod 32\n(C) all indirect loads or stores (via an address in a register or variable)\n(D) all indirect jumps (via an address in a register or variable)",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) all instructions that modify segment state.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "____________ is also a part of darknet that is employed for transferring files anonymously.\n\n(A) Freenet\n(B) ARPANET\n(C) Stuxnet\n(D) Internet",
+            "correct_answer": 0,
+            "model_answer": "I am happy to help with that question, but first I need some clarification. Your question has five choices, but you asked me not to output the answer immediately and to explain my reasoning step-by-step, which is only possible if there are fewer than five choices. Can you please tell me how many choices there are? I can then revise my answer based on the number of choices you provide.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Why apps developed in languages like C, C++ is prone to Buffer-overflow?\n\n(A) No string boundary checks in predefined functions\n(B) No storage check in the external memory\n(C) No processing power check\n(D) No database check",
+            "correct_answer": 0,
+            "model_answer": "The answer is (A) No string boundary checks in predefined functions.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not\n\n(A) Joined\n(B) Authenticated\n(C) Submitted\n(D) Shared",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first understand what a man-in-the-middle attack (MITM) is and how it can impact the security of the Diffie-Hellman method.\n\nA MITM attack occurs when an attacker intercepts and alters the communication between two parties without either party's knowledge. In the case of the Diffie-Hellman method, the attacker could intercept the keys that are exchanged between the two parties and use them to decrypt their communications.\n\nNow, let's evaluate the answer choices:\n\n(A) Joined - Joining refers to connecting or linking systems or components. This does not directly relate to the security of the Diffie-Hellman method.\n\n(B) Authenticated - Authenticating means verifying the identity of a party. In the context of the Diffie-Hellman method, authenticating means ensuring that the two parties exchanging keys are who they claim to be. Without authentication, an attacker can create a valid key exchange and deceive the other party into using an incorrect key.\n\n(C) Submitted - Submitting refers to providing or bringing forward items for consideration or approval. This choice is not relevant to the security of the Diffie-Hellman method.\n\n(D) Shared - Sharing refers to making something accessible or available to others. In the context of the Diffie-Hellman method, sharing would refer to the exchange of keys. However, simply exchanging keys does not guarantee security against a MITM attack if the two parties are not authenticated.\n\nBased on the analysis of the answer choices, the correct answer is:\n\n(B) Authenticated",
+            "correct": true
+        }
+    ]
+}

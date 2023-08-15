@@ -1,0 +1,215 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Find a movie similar to Batman, The Mask, The Fugitive, Pretty Woman:\nOptions:\n(A) The Front Page\n(B) Maelstrom\n(C) The Lion King\n(D) Lamerica",
+            "correct_answer": "(C)",
+            "model_answer": "To find a movie that is similar to Batman, The Mask, The Fugitive, and Pretty Woman, we can start by looking at the genres of the movies:\n\nBatman: Action, Adventure, Crime\nThe Mask: Action, Adventure, Fantasy\nThe Fugitive: Action, Thriller\nPretty Woman: Comedy, Romance\n\nLooking at the genres, we can see that these movies have a mix of action, adventure, crime, and romance elements.\n\nOut of the given options, only one movie matches this description:\n\n(A) The Front Page\nThis movie is characterized as a historical drama comedy movie.\n\nThus, comparing the genres of the options with the genres of the mentioned movies, it seems that none of them match the general characteristics of the mentioned movies.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Find a movie similar to The Sixth Sense, The Matrix, Forrest Gump, The Shawshank Redemption:\nOptions:\n(A) Street Fighter II The Animated Movie\n(B) The Sheltering Sky\n(C) The Boy Who Could Fly\n(D) Terminator 2 Judgment Day",
+            "correct_answer": "(D)",
+            "model_answer": "(A) Street Fighter II The Animated Movie",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Find a movie similar to Schindler's List, Braveheart, The Silence of the Lambs, Tombstone:\nOptions:\n(A) Orlando\n(B) Guilty of Romance\n(C) Forrest Gump\n(D) All the Real Girls",
+            "correct_answer": "(C)",
+            "model_answer": "(A) Orlando\n\nHere is how I arrived at the answer. \n\n1. First, we should note that each of the four movies mentioned is a very different type of cinema. Schindler's List is a Holocaust drama, Braveheart is an historical epic, The Silence of the Lambs is a psychological thriller, and finally Tombstone is a Western. \n\n2. Therefore, when attempting to find a movie that is similar to all four of these, rather than simply finding movies from the same genre, we should be looking for movies that share common thematic elements. \n\n3. One of the most common themes amongst historical and epic story telling is the exploration of identity and transformation. \n\n4. Orlando, as soon as you mentioned it to me, I recognized immediately as a movie that explores this theme in a powerful way.\n\n5. Set in England during the rise of the Enlightenment, Orlando is a biographical fantasy film about a man who is transformed into a woman for three centuries, who proceeds to live through significant historical events as a woman. \n\n6. Therefore, out of the four provided options, Orlando is the film that is most similar to the four listed in content. \n\n7. Even if it was not, in theme it is adjacent to all four, as they all explore societal and internal transformation. Therefore, even apart from its similarities in plot, Orlando is closer to the four listed than the other answers in thematic similarity. \n\nTherefore the answer is (A) Orlando.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Find a movie similar to Terminator 2 Judgment Day, The Fugitive, The Shawshank Redemption, Dead Man Walking:\nOptions:\n(A) Walk\n(B) Don't Run\n(C) Shaun the Sheep Movie\n(D) Rocky IV\n(E) Braveheart",
+            "correct_answer": "(E)",
+            "model_answer": "I am going to attempt to answer your question by looking at the genres of the movies you listed and then comparing them to the listed options.\n\nTerminator 2 Judgment Day: Science Fiction/Action\nThe Fugitive: Action/Thriller\nThe Shawshank Redemption: Drama\nDead Man Walking: Drama\n\nNow, let's look at the options:\n(A) Walk: Comedy\n(B) Don't Run: Comedy\n(C) Shaun the Sheep Movie: Animation/Comedy\n(D) Rocky IV: Action/Drama\n(E) Braveheart: Drama/History\n\nBy comparing the genres of the movies you listed to the genres of the listed options, it seems that (D) Rocky IV is the option that is the most similar to the genres of the movies you listed.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Find a movie similar to Braveheart, The Mask, The Fugitive, Batman:\nOptions:\n(A) Club Dread\n(B) George Washington\n(C) Schindler's List\n(D) Once Upon a Time in America",
+            "correct_answer": "(C)",
+            "model_answer": "Here's the reasoning behind my answer:\n\nA: Club Dread - Action-Comedy about a island resort owner who becomes the target of a killer. Not similar to Braveheart, The Mask, The Fugitive, Batman.\nB: George Washington - Historical drama, detailing events in George Washington's life. Not similar to Braveheart, The Mask, The Fugitive, Batman.\nC: Schindler's List - Historical drama, chronicling the events leading up to and during the Holocaust. Not similar to Braveheart, The Mask, The Fugitive, Batman.\nD: Once Upon a Time in America - Epic crime drama. About a group of friends growing up in New York City's Jewish ghetto and the shifts in friendship and loyalty. Similar to Braveheart, The Mask, The Fugitive, Batman.\n\nYour final answer is (D) Once Upon a Time in America.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Find a movie similar to Heat, The Fugitive, Forrest Gump, The Silence of the Lambs:\nOptions:\n(A) Death Race 2\n(B) Cannonball Run II\n(C) Independence Day\n(D) Slumber Party Massacre II",
+            "correct_answer": "(C)",
+            "model_answer": "2. First, let's eliminate options that are clearly unrelated genres:\n\n3. (C) Independence Day is a science fiction film and does not fit the genre of the question.\n\n1. Next, we can consider the remaining options and their plot summaries to find similarities and differences:\n\n2. (A) Death Race 2 is a sequel to Death Race (2008), which features a mix of action, suspense, and drama.\n\n3. (B) Cannonball Run II is an action-comedy film that focuses on an unsanctioned cross-country race.\n\n4. (D) Slumber Party Massacre II is a slasher film that focuses on a group of teenage girls being stalked and killed by a masked killer.\n\n1. Death Race 2 and The Fugitive are both action-thrillers that follow a fugitive on the run. The Fugitive also features a dash of drama, while Death Race 2 leans more towards action.\n\n2. Cannonball Run II and Forrest Gump are both comedies that follow the adventures of a likable protagonist. Forrest Gump is more of a drama with a touch of comedy, while Cannonball Run II is pure comedy.\n\n3. Slumber Party Massacre II and The Silence of the Lambs are both horror films that follow a serial killer. The Silence of the Lambs also features a dash of drama, while Slumber Party Massacre II is pure horror.\n\n1. Based on the similarities and differences identified above, it seems that the best match for the question would be the action-thriller, Death Race 2.\n\nThe answer is:\n(A)",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Find a movie similar to Raiders of the Lost Ark, The Shawshank Redemption, Inception, Pulp Fiction:\nOptions:\n(A) Beyond the Poseidon Adventure\n(B) The Chorus\n(C) Forrest Gump\n(D) Scouts Guide to the Zombie Apocalypse",
+            "correct_answer": "(C)",
+            "model_answer": "To find a movie similar to both Raiders of the Lost Ark, The Shawshank Redemption, Inception, and Pulp Fiction, we can first look for commonalities among the four movies.\n\nAll four movies are known for their action, special effects, and unique storytelling. Inception and Pulp Fiction are known for their nonlinear storytelling, while The Shawshank Redemption and Raiders of the Lost Ark are known for their powerful character arcs and emotional depth.\n\nBased on these similarities, we can eliminate (C) Forrest Gump, as it is more of a dramedy with a strong character arc but does not have the same action and special effects as the other four movies. Therefore, the remaining options are (A) Beyond the Poseidon Adventure, (B) The Chorus, and (D) Scouts Guide to the Zombie Apocalypse.\n\nNext, we can look into each of the remaining options to determine their similarity to the four movies we are looking for.\n\n(A) Beyond the Poseidon Adventure is a disaster film that has some similarities to Raiders of the Lost Ark in terms of action and adventure, but it lacks the nonlinear storytelling and emotional depth of the other three movies.\n\n(B) The Chorus is a French musical drama film that does not have any similarities to either Raiders of the Lost Ark, The Shawshank Redemption, Inception, or Pulp Fiction in terms of genre, storytelling style, or themes.\n\n(D) Scouts Guide to the Zombie Apocalypse is a comedy horror film that has elements of action, special effects, and nonlinear storytelling similar to Inception and Pulp Fiction but does not have the emotional depth or character arcs of The Shawshank Redemption or Raiders of the Lost Ark.\n\nBased on this analysis, the movie that is the closest match to all four movies we are looking for is:\n\n(D) Scouts Guide to the Zombie Apocalypse",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find a movie similar to Schindler's List, Pulp Fiction, Braveheart, The Usual Suspects:\nOptions:\n(A) 12 Angry Men\n(B) Mo' Better Blues\n(C) Mindhunters\n(D) The Shawshank Redemption",
+            "correct_answer": "(D)",
+            "model_answer": "(D) The Shawshank Redemption",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Find a movie similar to Jurassic Park, The Silence of the Lambs, Schindler's List, Braveheart:\nOptions:\n(A) A Hard Day's Night\n(B) Showtime\n(C) Forrest Gump\n(D) Eddie the Eagle",
+            "correct_answer": "(C)",
+            "model_answer": "We can start by eliminating the options that are clearly unrelated to the given movies:\n(A) A Hard Day's Night - This is a musical comedy, so it's unlikely to be similar to the dramatic, action-packed movies listed.\n(D) Eddie the Eagle - This is a sports comedy and doesn't seem to fit the theme of the other movies.\n\nWe are now left with:\n(B) Showtime\n(C) Forrest Gump\n\nThe remaining options are both dramas, but they have different themes and styles. Schindler's List and Braveheart are historical dramas that deal with serious subject matter such as the Holocaust and Scottish independence, respectively. On the other hand, Forrest Gump is a comedy-drama that tells the life story of a simple man navigating various historical events in a more lighthearted way.\n\nGiven the serious subjects and dramatic tones of the first four movies, Showtime seems to be the better match as it is also a drama that deals with a serious subject (the aftermath of the wrongful conviction of five men for a notorious rape case). Therefore, the answer is:\n(B) Showtime.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Find a movie similar to The Lord of the Rings The Two Towers, The Lord of the Rings The Fellowship of the Ring, Star Wars Episode IV - A New Hope, The Matrix:\nOptions:\n(A) The Return\n(B) The Hidden Fortress\n(C) Schindler's List\n(D) The End of the Affair",
+            "correct_answer": "(C)",
+            "model_answer": "To come up with a similar movie, we can look at the commonalities in the themes and genres of the given movies.\n\nThe Lord of the Rings: The Two Towers, The Lord of the Rings: The Fellowship of the Ring, Star Wars Episode IV - A New Hope, and The Matrix are all fantasy and/or science fiction movies. They are also all epic in scope and have adventure, action, and quest elements.\n\nFrom the given options, (A) The Return is also a science fiction movie, so it shares the genre of the other movies.\n\nHowever, (A) The Return is not as well-known or critically acclaimed as the other options. So, we need to compare the other options to see if they share the same themes and elements as the given movies.\n\n(B) The Hidden Fortress is an action-adventure film, but it is not a science fiction or fantasy movie. It is also not as epic in scope as the given movies.\n\n(C) Schindler's List is a historical drama based on a true story. It is not a science fiction or fantasy movie and is not an action-adventure film.\n\n(D) The End of the Affair is a drama based on a novel. It is not a science fiction or fantasy movie and is not an action-adventure film.\n\nAfter comparing the options, the most similar movie to The Lord of the Rings: The Two Towers, The Lord of the Rings: The Fellowship of the Ring, Star Wars Episode IV - A New Hope, and The Matrix is (A) The Return, as it is a science fiction movie with epic scope and action-adventure elements.",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "question": "Find a movie similar to Forrest Gump, Pulp Fiction, The Fugitive, Dances with Wolves:\nOptions:\n(A) Dragonheart 3 The Sorcerer's Curse\n(B) Chi-Raq\n(C) Stargate\n(D) Tae Guk Gi The Brotherhood of War",
+            "correct_answer": "(C)",
+            "model_answer": "(A) Dragonheart 3 The Sorcerer's Curse",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "question": "Find a movie similar to Forrest Gump, The Fugitive, The Shawshank Redemption, Pulp Fiction:\nOptions:\n(A) Anchors Aweigh\n(B) Looney Tunes Back in Action\n(C) Porky's Revenge\n(D) Dances with Wolves",
+            "correct_answer": "(D)",
+            "model_answer": "For Forrest Gump:\nMovie Title: Saving Private Ryan\nReason: The movie deals with the backdrop of the Second World War with strong elements of drama and a story focused on relationships between characters.\n\nFor The Fugitive:\nMovie Title: Prisoners\nReason: The movie has a central character who is trying to solve a crime while trying to clear their name and fighting for justice.\n\nFor The Shawshank Redemption:\nMovie Title: The Green Mile\nReason: The movie is also set in the backdrop of prison life and tells a story of friendship and redemption.\n\nFor Pulp Fiction:\nMovie Title: Kill Bill\nReason: The movie features a nonlinear narrative with interconnected storylines, action-packed sequences, and a blend of various film genres.\n\nNone of the available options is similar to all four movies, therefore the answer is:\n\n(C) Porky's Revenge",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Find a movie similar to Forrest Gump, The Silence of the Lambs, Mission Impossible, Jurassic Park:\nOptions:\n(A) Joe Somebody\n(B) Dogfight\n(C) Independence Day\n(D) Twin Peaks Fire Walk with Me",
+            "correct_answer": "(C)",
+            "model_answer": "To find a movie similar to Forrest Gump, The Silence of the Lambs, Mission Impossible, Jurassic Park, we need to analyze the similarities and differences among these movies.\n\nFirst, let's look at the main genres of these movies:\n- Forrest Gump: Drama, Comedy\n- The Silence of the Lambs: Crime, Thriller\n- Mission Impossible: Action, Thriller\n- Jurassic Park: Adventure, Science Fiction\n\nWe can observe that all movies except Joe Somebody belong to one or even more of the genres listed above. \n\nSecond, let's analyze the movie ratings. All movies have high ratings on IMDb (>/=7.5) and Rotten Tomatoes (>/=65%). \n\nThird, let's look at the box office numbers. All movies have grossed at least $100 million worldwide. \n\nBased on the genre overlap, high ratings and successful box office performance, our best option is:\n(D) Twin Peaks Fire Walk with Me",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "question": "Find a movie similar to The Shawshank Redemption, The Usual Suspects, Pulp Fiction, Fargo:\nOptions:\n(A) Damage\n(B) Pie in the Sky\n(C) The Fugitive\n(D) A Plasticine Crow",
+            "correct_answer": "(C)",
+            "model_answer": "Let's consider each movie and its similarities:\n\n\"The Shawshank Redemption\" is characterized by its themes of hope, friendship, and perseverance in the face of adversity. It is also a drama with elements of crime and redemption.\n\"The Usual Suspects\" is a crime thriller with a twist ending, where a group of criminals are united by a mysterious figure. It's characterized by its tight plotting, complex characters, and surprise ending.\n\"Pulp Fiction\" is a crime drama with elements of dark humor. It's characterized by its nonlinear storytelling, distinctive characters, and its exploration of violence and morality.\n\"Fargo\" is a crime drama with a quirky, Coen brothers-style sense of humor. It's characterized by its strong central characters, its depiction of rural life, and its exploration of crime and the law.\n\nUpon analyzing these similarities and differences, the most similar option to these four movies is:\n\n(A) Damage",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "question": "Find a movie similar to The Fugitive, Pulp Fiction, The Usual Suspects, Terminator 2 Judgment Day:\nOptions:\n(A) The Amazing Panda Adventure\n(B) Sweeney Todd\n(C) Welcome to Sarajevo\n(D) Seven",
+            "correct_answer": "(D)",
+            "model_answer": "To find a movie similar to The Fugitive, Pulp Fiction, The Usual Suspects, and Terminator 2: Judgment Day, let's analyze the plot elements that made them successful:\n\n- The Fugitive: Action, suspense, chase, crime\n- Pulp Fiction: Non-linear storytelling, crime, violence, humor\n- The Usual Suspects: Mystery, crime, twist ending\n- Terminator 2: Action, science fiction, time travel\n\nBased on these characteristics, the most similar option to all four movies is:\n\n(D) Seven",
+            "correct": true
+        },
+        {
+            "id": 15,
+            "question": "Find a movie similar to Forrest Gump, The Silence of the Lambs, Seven, Fargo:\nOptions:\n(A) Gandhi\n(B) Schindler's List\n(C) Dogfight\n(D) Repo Man",
+            "correct_answer": "(B)",
+            "model_answer": "(A) Gandhi",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "question": "Find a movie similar to Pulp Fiction, Braveheart, The Shawshank Redemption, Crimson Tide:\nOptions:\n(A) Goon Last of the Enforcers\n(B) A Very Harold & Kumar 3D Christmas\n(C) The Fugitive\n(D) A Separation",
+            "correct_answer": "(C)",
+            "model_answer": "The few criteria which the answer should meet are:\n- Being a movie\n- Not being Pulp Fiction, Braveheart, The Shawshank Redemption, Crimson Tide\n- Starring John Cusack\n\nThis means we only have to look at option (A) Goon Last of the Enforcers.\n\nIs that the movie you are looking for?",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "question": "Find a movie similar to The Lion King, The Fugitive, Schindler's List, The Shawshank Redemption:\nOptions:\n(A) The Art of the Steal\n(B) Pulp Fiction\n(C) Battlestar Galactica The Plan\n(D) Breakin' All the Rules",
+            "correct_answer": "(B)",
+            "model_answer": "The movies you have listed are from a variety of genres.\n- The Lion King is an animated movie.\n- The Fugitive is an action thriller.\n- Schindler's List is a historical drama.\n- The Shawshank Redemption is a drama.\n\nTo find a movie similar to these you should consider what ties them together.  Schindler's List, The Shawshank Redemption, and The Fugitive are all dramas. Therefore you can rule (A) The Art of the Steal, and (C) Battlestar Galactica The Plan as they are not dramas. This leaves us with two options:\n(B) Pulp Fiction, which would have been a strong contender if The Fugitive was not a drama. However The Fugitive is a drama, so (B) Pulp Fiction is not the best answer.\nThis leaves us with option (D) Breakin' All the Rules.\n\nAnswer: (D) Breakin' All the Rules",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "question": "Find a movie similar to Pulp Fiction, The Shawshank Redemption, Schindler's List, Dances with Wolves:\nOptions:\n(A) Easter Parade\n(B) Captain America The First Avenger\n(C) Braveheart\n(D) Manic",
+            "correct_answer": "(C)",
+            "model_answer": "(C) Braveheart\n\nExplanation:\nWe can eliminate options A and B immediately as neither of these movies were released in the 90s like the other three movies were, and they do not fall under the same genres such as crime drama, drama, or western. Now, the only two options remaining are C and D. \n\nOption D, Manic, was released in 2021, which is not within the same era as the other three movies, which were all released in the 90s. Therefore, Manic cannot be the correct answer.\n\nThe final option remaining is Braveheart, which falls under a similar genre to the other three movies. Braveheart was released in 1995 and is a drama film directed by and starring Mel Gibson. Like the other three movies, Braveheart has a strong narrative and features memorable performances. Therefore, Braveheart is the most appropriate answer.",
+            "correct": false
+        },
+        {
+            "id": 19,
+            "question": "Find a movie similar to Beauty and the Beast, Independence Day, Forrest Gump, Jurassic Park:\nOptions:\n(A) The Bag Man\n(B) The Silence of the Lambs\n(C) Extreme Measures\n(D) Kicking Off",
+            "correct_answer": "(B)",
+            "model_answer": "A - The Bag Man",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "question": "Find a movie similar to The Shawshank Redemption, Forrest Gump, Dances with Wolves, Mr Holland's Opus:\nOptions:\n(A) PK\n(B) The Great Gatsby\n(C) Philadelphia\n(D) Casper Meets Wendy",
+            "correct_answer": "(C)",
+            "model_answer": "(A) PK",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "question": "Find a movie similar to Inception, Pulp Fiction, Forrest Gump, Raiders of the Lost Ark:\nOptions:\n(A) Who's Afraid of Virginia Woolf\n(B) Fantastic Mr Fox\n(C) Clash of the Titans\n(D) Independence Day",
+            "correct_answer": "(D)",
+            "model_answer": "To find a movie that is similar to Inception, Pulp Fiction, Forrest Gump, and Raiders of the Lost Ark, we need to analyze the commonalities of these movies. All four films share the following qualities:\n1. They are multi-layered, complex stories that require the viewer to pay attention to detail.\n2. They have iconic, memorable scenes and moments.\n3. They contain elements of action and adventure.\n\nNow let's examine the given options and eliminate the ones that don't match these qualities:\n(A) Who's Afraid of Virginia Woolf - This film is a drama that focuses on the emotional and psychological conflicts of a married couple, and it does not feature action or adventure elements.\n(B) Fantastic Mr. Fox - This film is an animated adventure story, but it doesn't have the complexity or multi-layered storytelling of the other movies on the list.\n(C) Clash of the Titans - This film is an action-adventure movie based on Greek mythology, but it doesn't have the same complex storytelling as the other movies on the list.\n(D) Independence Day - This film is an action-adventure movie that features epic battles and special effects, but it doesn't have the same depth of storytelling as the other movies on the list.\n\nAfter analyzing the options, none of them perfectly match the qualities of the four movies being compared. The closest option is:\n\n(A) Who's Afraid of Virginia Woolf",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "question": "Find a movie similar to Star Wars Episode VII - The Force Awakens, Inside Out, Pulp Fiction, Raiders of the Lost Ark:\nOptions:\n(A) Ernest Rides Again\n(B) Forrest Gump\n(C) The Proposal\n(D) Everything You Always Wanted to Know About Sex  But Were Afraid to Ask",
+            "correct_answer": "(B)",
+            "model_answer": "Based on the criteria given, Slashfilm has a list of 15 similar movies to Pulp Fiction. https://www.slashfilm.com/movies-like-pulp-fiction/ \n\nAfter checking the list, I can determine that Crouching Tiger, Hidden Dragon is similar to all three movies: Star Wars Episode VII - The Force Awakens, Inside Out, Pulp Fiction, as well as Raiders of the Lost Ark.",
+            "correct": false
+        },
+        {
+            "id": 23,
+            "question": "Find a movie similar to Spider-Man, Spider-Man 2, The Matrix, Independence Day:\nOptions:\n(A) Jurassic World Fallen Kingdom\n(B) The Fifth Element\n(C) Across the Universe\n(D) Insomnia",
+            "correct_answer": "(B)",
+            "model_answer": "To find a movie similar to all four of the given options, we can look at the common themes and genres among them:\n\nSpider-Man, Spider-Man 2, and The Matrix are all science fiction movies with action and superhero elements.\nIndependence Day is a science fiction movie with action, disaster, and alien invasion themes.\n\nBased on these commonalities, we can rule out (A) Jurassic World Fallen Kingdom, as it is a science fiction movie with action and adventure, but it does not have superhero elements.\n\nWe can also rule out (C) Across the Universe, as it is a musical drama movie set during the Vietnam War era, and it does not share the science fiction, action, or superhero themes of the other options.\n\nThis leaves us with (B) The Fifth Element, a science fiction action movie with a mix of comedy and adventure. It also features a superhero-type character and is similar in tone and style to the other options.\n\nTherefore, the answer is:\n(B) The Fifth Element",
+            "correct": true
+        },
+        {
+            "id": 24,
+            "question": "Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Groundhog Day, Mission Impossible, Star Wars Episode IV - A New Hope:\nOptions:\n(A) View from the Top\n(B) The Doors\n(C) Raiders of the Lost Ark\n(D) Quick Change",
+            "correct_answer": "(C)",
+            "model_answer": "I will analyze each option one by one to determine which movie is most similar to the given movies.\n\n(A) View from the Top: This movie is a 2003 comedy film about a woman who works her way up in the world of professional wrestling. It does not seem to be similar to the action/adventure, sci-fi or romantic comedy genres of the other four movies.\n\n(B) The Doors: This movie is a 1991 biographical film about the famous rock band The Doors. It is not similar to the action, adventure, and sci-fi genres of the other four movies.\n\n(C) Raiders of the Lost Ark: This movie is a 1981 action-adventure film about an archaeologist who must recover the Ark of the Covenant before a group of Nazis can use its power for evil. It is similar to the action/adventure and sci-fi genres of Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, and Groundhog Day.\n\n(D) Quick Change: This movie is a 1990 comedy film about three bank robbers who disguise themselves as women to evade the authorities. It is not similar to Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, Groundhog Day.\n\nAfter analyzing each option, I can conclude that movie (C) Raiders of the Lost Ark is the most similar to all four of the given movies in terms of genre.\n\nAnswer: (C)",
+            "correct": true
+        },
+        {
+            "id": 25,
+            "question": "Find a movie similar to Army of Darkness, Go, The Sixth Sense, Alien:\nOptions:\n(A) Cool Hand Luke\n(B) Children of the Corn III\n(C) Ice Guardians\n(D) Cinema Paradiso",
+            "correct_answer": "(A)",
+            "model_answer": "(A) Cool Hand Luke\n\nWhile all the movies listed are quite different from Army of Darkness, Go, The Sixth Sense, and Alien, Cool Hand Luke is the only option that fits the criteria. It's a 1967 American drama film directed by Stuart Rosenberg and starring Paul Newman and George Kennedy. The film was taken from a novel of the same name by Donn Pearce and tells the story of Luke Jackson (Newman), a nonconformist imprisoned for two years in a Florida prison camp. There, he clashes with the prison warden (Kennedy) and tries to win the respect of his fellow prisoners. The film is characterized by its strong emotion and its examination of the American prison system. It received six Academy Award nominations, including Best Picture. It earned Newman an Oscar for Best Actor in a Leading Role.",
+            "correct": false
+        },
+        {
+            "id": 26,
+            "question": "Find a movie similar to Apollo 13, Jurassic Park, Die Hard With a Vengeance, Forrest Gump:\nOptions:\n(A) Killer Movie\n(B) Stealth\n(C) The Last Man on Earth\n(D) True Lies",
+            "correct_answer": "(D)",
+            "model_answer": "Based on the information provided, you are interested in highly regarded films with captivating stories. This leaves us with two options, let's examine each of them.\n\nOption (A): Killer Movie\nThis is not a high-profile film, and reviews have it rated around 2.1/5 on Rotten Tomatoes which tends to favor negative reviews. Therefore, based on the information provided, it's possible to eliminate this option.\n\nOption (B): Stealth\nThis film received mixed-to-negative reviews, with a rating of 36% on Rotten Tomatoes. Therefore, based on the information provided, it's possible to eliminate this option.\n\nBased on our analysis, the only remaining option is:\n(D) True Lies.",
+            "correct": true
+        },
+        {
+            "id": 27,
+            "question": "Find a movie similar to Pulp Fiction, The Usual Suspects, Schindler's List, Fargo:\nOptions:\n(A) Stoked The Rise and Fall of Gator\n(B) Surviving the Game\n(C) Look Who's Talking\n(D) The Shawshank Redemption",
+            "correct_answer": "(D)",
+            "model_answer": "To find a movie similar to Pulp Fiction, The Usual Suspects, Schindler's List, and Fargo, we need to look for a movie that has elements of crime, drama, and suspense. Let's analyze each option:\n\n(A) Stoked: The Rise and Fall of Gator - This movie is about the rise and fall of a notorious surfer who becomes involved in crime. Although it has crime elements, it is not similar to the other four movies in terms of suspense and drama.\n\n(B) Surviving the Game - This movie is about a group of people who are hunted by rich men for sport. It has suspense and drama, but it is not similar to the other four movies in terms of crime and storytelling style.\n\n(C) Look Who's Talking - This movie is a romantic comedy about a single mother who is expecting a child. It is not similar to the other four movies in terms of crime, drama, or suspense.\n\n(D) The Shawshank Redemption - This movie is about a banker who is wrongly convicted of murder and sent to prison. It is a drama with suspense, crime, and elements of hope and redemption. It is similar to the other four movies in terms of storytelling style and themes.\n\nBased on our analysis, the best option for a movie similar to Pulp Fiction, The Usual Suspects, Schindler's List, and Fargo is (D) The Shawshank Redemption.",
+            "correct": true
+        },
+        {
+            "id": 28,
+            "question": "Find a movie similar to Toy Story, The Mask, Batman, The Lion King:\nOptions:\n(A) Exit Wounds\n(B) Punch-Drunk Love\n(C) Seeking Justice\n(D) Pretty Woman",
+            "correct_answer": "(D)",
+            "model_answer": "Sure, here is a step-by-step analysis:\n\nOut of the given options, the movie **Punch-Drunk Love** (Option B) best resembles a mix of genres similar to the mentioned movies.\n\nLet's analyze each option step by step to understand why we have chosen 'Punch-Drunk Love':\n\n(A) Exit Wounds:\n- Action/Comedy: It is primarily an Action movie with some Comedy elements. Toy Story and The Mask have Comedy but are not focused on action.\n- Superhero: It has a protagonist with superhuman abilities (an ex-convict with extensive fighting skills), similar to Batman, but not a Superhero movie. \n- Animated: Exit Wounds is not animated. \n\nSo, Exit Wounds partially aligns with three characteristics (Action/Comedy, Superhero), but not all four.\n\n(B) Punch-Drunk Love:\n- Action/Comedy: Involves action (violence, fighting) but has a comedic tone. Toy Story and The Mask have Comedy but are not primarily focused on action.\n- Superhero: It has a protagonist with superhuman abilities (an unassuming man suddenly acquires fighting skills), similar to Batman, but not exactly a Superhero movie.\n- Animated: It is not animated.\n\nPunch-Drunk Love aligns with three of the four characteristics (Action/Comedy, Superhero), just like Toy Story, The Mask, and Batman.\n\n(C) Seeking Justice:\n- Action/Comedy: There are action scenes, but the movie leans more towards the action genre than comedy. Toy Story and The Mask have Comedy but are not primarily focused on action.\n- Superhero: It has a protagonist with superhuman abilities (a vigilante), similar to Batman, but not exactly a Superhero movie. \n- Animated: It is not animated.\n\nSeeking Justice aligns only marginally with two of the four characteristics (Action, Superhero).\n\n(D) Pretty Woman:\n- Action/Comedy: The movie is a romantic comedy, not focused on action. Toy Story and The Mask have Comedy but are not primarily focused on action.\n- Superhero: It has no superhuman abilities or action elements similar to Batman.\n- Animated: It is not animated.\n\nPretty Woman aligns with none of the four characteristics.\n\nTherefore, based on the analysis it can be deduced that **Punch-Drunk Love** (Option B) works best as a combination of genres similar to the mentioned movies.",
+            "correct": false
+        },
+        {
+            "id": 29,
+            "question": "Find a movie similar to The Shawshank Redemption, Pulp Fiction, Schindler's List, Braveheart:\nOptions:\n(A) The Bank Job\n(B) Robot Carnival\n(C) Dances with Wolves\n(D) The Family Stone",
+            "correct_answer": "(C)",
+            "model_answer": "I will first try to eliminate options that are not similar to The Shawshank Redemption, Pulp Fiction, Schindler's List, Braveheart by analyzing the common features. After analyzing the features we will select the best matching movie or if none of them are there, output \"No common options available.\"\n\nThe Shawshank Redemption, Pulp Fiction, Schindler's List, and Braveheart are all listed as drama movies. Therefore, removing option (B) Robot Carnival as it is an animated movie.\n\nThe remaining movies are:\n(A) The Bank Job\n(C) Dances with Wolves\n(D) The Family Stone\n\nThe Bank Job and The Family Stone have a rating of 67% and 45% on Rotten Tomatoes, which is lower than the other two movies (79% and 96%). Therefore, removing options (A) The Bank Job and (D) The Family Stone since they do not share the same positive critical reception.\n\nThe remaining movie is:\n\n(C) Dances with Wolves\n\nTherefore, our final response is:\n\nC",
+            "correct": false
+        }
+    ]
+}

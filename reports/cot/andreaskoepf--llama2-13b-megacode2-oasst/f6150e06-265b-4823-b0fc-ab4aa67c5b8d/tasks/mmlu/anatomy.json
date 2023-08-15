@@ -1,0 +1,75 @@
+{
+    "score": 0.3,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "The facial nerve is responsible for motor and sensory functions of the face, as well as taste sensation. \n\nCompression of the facial nerve at the stylomastoid foramen will cause damage to both the sensory and motor branches of the nerve. \n\nAs such, compression of the facial nerve at the stylomastoid foramen will cause ipsilateral:\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste. \n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's consider each option and its relation to a \"dished face\" profile:\n\n(A) A protruding mandible is a common cause of a dished face, but reactivation of the condylar cartilage by acromegaly is not a typical cause of this condition. Acromegaly primarily causes an increase in height and body mass, not a change in the skull or facial bones.\n\n(B) A recessive maxilla can contribute to a dished face profile, as a recessed maxilla can lead to a flattened upper profile of the face. This could result from failure of elongation of the cranial base.\n\n(C) An enlarged frontal bone due to hydrocephaly can cause a dished face profile, as the increased pressure on the skull can lead to flattening of the forehead and frontal region.\n\n(D) Defective development of the maxillary air sinus is unlikely to be a significant cause of a dished face profile, as the maxillary air sinuses are relatively small and mainly serve functional respiratory purposes rather than contributing significantly to the shape of the face.\n\nBased on this analysis, the answer is:\n\n(B) a recessive maxilla due to failure of elongation of the cranial base.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "The best description for the structure that collects urine in the body is the **bladder** (Option A). \n\nThe urinary system has four main components: two kidneys, two ureters, a bladder, and a urethra. The kidneys are organs that are responsible for filtering waste products from the blood and producing urine. The urine then travels through the ureters, which are tubes that transport the urine from the kidneys to the bladder. The bladder stores the urine until it's full and then sends a signal for the urine to be expelled from the body through the urethra. \n\nTherefore, the correct answer is the **bladder** (Option A).",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "(B) Skeletal muscles\nLet me explain my reasoning step-by-step:\n\n1. The question asks us to identify which of the following structures is derived from ectomesenchyme. Ectomesenchyme is a embryonic connective tissue that gives rise to a variety of structures.\n2. We need to eliminate the options that are not derived from ectomesenchyme.\n\n   (A) Motor neurons are derived from the ventral neural tube, not ectomesenchyme.\n   (C) Melanocytes are derived from the neural crest, not ectomesenchyme.\n   (D) Sweat glands are derived from the epidermis, not ectomesenchyme.\n\n3. Only one option remains: (B) Skeletal muscles. Skeletal muscles are derived from a population of mesenchymal cells called myoblasts, which can be traced back to ectomesenchyme in the developing embryo.\n\nTherefore, the answer is (B) Skeletal muscles.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "We are being asked to determine which of four options describes a specific kind of cluster of blood capillaries located in nephrons in the kidney. Before we can answer, let\u2019s briefly revisit what nephrons are and their key components.\n\nNephrons are the functional units of the kidney that filter and clean blood. They contain a network of small tubules called the tubular component, a glomerulus, and a Afferent and efferent arteriole.\n\nThe glomerulus is a capillary network at the beginning of the nephron, and it is where blood is filtered. The afferent arteriole receives filtered blood from the glomerulus and leads to the renal tubule, while the efferent arteriole carries fluid from the renal tubule and empties into the renal pelvis. The renal pelvis receives urine from the nephrons and channels it toward the ureters for transport to the urinary bladder.\n\nNow that we understand the key components, we can see that the glomerulus is the capillary network mentioned in the question. So the answer is:\n\nB: Glomerulus.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "A spinal cord injury at the level of the sixth cervical vertebra can cause damage to the respiratory system as well. The cervical vertebrae contain nerves that control the muscles and reflexes involved in breathing. Damage to these nerves can impair the ability to breathe properly.\n\nOption A states that the patient will be unable to breathe without life support, which is a possible outcome of a severe spinal cord injury affecting the respiratory system.\n\nOption B states that the patient will only be able to breathe quietly. This option is less likely as breathing difficulties are more common than silent breathing after a spinal cord injury.\n\nOption C states that it is impossible to predict an effect on breathing. While spinal cord injuries can have a wide range of effects, it is possible to make an informed prediction based on the location and severity of the injury.\n\nOption D states that breathing will be unaffected. This option is unlikely as any damage to the spinal cord, especially at the cervical level, can cause breathing problems.\n\nSo, based on the information provided and the possible outcomes, the most likely answer is:\n\n(A) They will be unable to breathe without life support.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "The answer is (D) Lumbar.\n\nThe reason is that the lumbar region of the abdomen lies just distal to the sternum. The sternum is the bone in the center of the chest, and the lumbar region is located below it in the lower back.\n\n(A) Epigastric - This region is located above the umbilicus (navel) and is not directly below the sternum.\n(B) Hypochondriac - This region is located on either side of the sternum and is not distal to it.\n(C) Hypogastric - This region is located below the umbilicus and is not directly distal to the sternum.\n\nTherefore, the correct answer is (D) Lumbar.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "The human body has developed various defense mechanisms against environmental bacteria. We are given four options and we need to find the most accurate one. Let's analyze each option:\n\n(A) Hair in the nose - While hair in the nose can help trap some bacteria, it is not a comprehensive defense mechanism against environmental bacteria.\n\n(B) Mucous membranes - Mucous membranes produce mucus, which helps trap bacteria and other pathogens before they can enter the body. This is an important defense mechanism against environmental bacteria.\n\n(C) Osteoblasts - Osteoblasts are cells that produce bone. While they play a role in bone health, they are not involved in defending against bacteria.\n\n(D) Saliva - Saliva contains enzymes that can break down bacteria, but it is not the strongest defense mechanism against environmental bacteria.\n\nBased on this analysis,Option (B) Mucous membranes best describes the human body's defense mechanism against environmental bacteria. So the answer is: (B)",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "I'm afraid I'm unable to answer the question. There are no \"palatine processes\" to my knowledge.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "(D) contraction of contralateral limb musculature.\n\nExplanation:\n- The primary motor cortex (M1) is located in the prefrontal cortex of the brain and is responsible for controlling voluntary movements.\n- When the primary motor cortex is activated, it sends signals to the muscles via the pyramidal tract in the spinal cord.\n- The lateral part of the pyramidal tract projects to the contralateral side of the spinal cord, which controls the opposite (contralateral) side of the body.\n- Therefore, when the primary motor cortex is activated, it results in the contraction of the contralateral limb musculature.",
+            "correct": false
+        }
+    ]
+}

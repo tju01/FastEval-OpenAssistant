@@ -1,0 +1,75 @@
+{
+    "score": 0.6,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "The term for a sub-optimal but acceptable outcome of negotiations between parties is **Bargaining**. Bargaining is the process of getting what you can from the other party while giving up as little as possible. It's a form of negotiation where both parties try to reach a mutually acceptable agreement. While it may not result in the best possible outcome for either party, it does help to avoid a stalemate and ensure that some progress is made.\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "(D) Heuristics",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "A normative perspective is:\n\n(C) The way things should be.\n\nA normative perspective is a way of looking at something that is based on a set of values, beliefs, or goals, and it seeks to prescribe what is considered to be good, right, or proper. In other words, it offers guidance on how things should be done based on a specific moral, ethical, or aesthetic framework.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "(D) The level of rivalry\n\nThe Five Forces Model, which was developed by Michael Porter, is a framework for understanding the competitive landscape of an industry. It identifies five primary sources of competitive pressure that can influence the profitability of firms in an industry:\n\n(A) The potential for entry into the industry - This force refers to the ease with which new firms can enter the industry and compete against existing firms.\n\n(B) The threat of substitute products - This force refers to the degree to which products or services used by a firm's customers can be replaced by other products or services.\n\n(C) The power of customers - This force refers to the ability of customers to demand better terms from suppliers, such as price discounts or more favorable contract terms.\n\n(D) The level of rivalry - This force refers to the degree of competition among existing firms in an industry. It includes factors such as the number of competitors, the intensity of competition, and the level of differentiation among products or services.\n\nThe question asks about the type of competitive activity that exists between organizations, which is a specific component of the level of rivalry force. Therefore, the correct answer is (D) The level of rivalry.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "Let's evaluate each leader's impact step-by-step:\n\n(A) Margaret Thatcher: served as the Prime Minister of the United Kingdom from 1979 to 1990. She implemented policies that transformed the UK's economy, reducing government spending and taxes, and privatizing state-owned industries. Her leadership policies led to significant social and economic changes in the UK, resulting in a lasting impact. Therefore, she can be considered a transformational leader.\n(B) Mikhail Gorbachev: served as the leader of the Soviet Union from 1985 to 1991. He implemented policies of glasnost (transparency) and perestroika (restructuring), which led to significant political and economic reforms and ultimately the dissolution of the Soviet Union. His leadership changed the course of history and led to a new era of freedom and democracy for millions of people. Therefore, he can be considered a transformational leader.\n(C) Nelson Mandela: served as the President of South Africa from 1994 to 1999. He played a key role in ending apartheid, the system of racial segregation and discrimination in South Africa, and promoting reconciliation and democracy. His leadership inspired millions of people and led to lasting political and social change in the country. Therefore, he can be considered a transformational leader.\n(D) Bill Clinton: served as the 42nd President of the United States from 1993 to 2001. He implemented policies aimed at reducing income inequality, increasing access to healthcare, and promoting economic growth. While his leadership did lead to some progress on these goals, it also faced significant opposition and did not lead to as significant and lasting changes as the other leaders listed. Therefore, he can be considered a transformational leader, but not as transformative as the other three options.\n\nBased on this analysis, the answer is: (D) Bill Clinton",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "A Gantt chart is a type of project management tool that uses horizontal bars to represent tasks and their duration on a timeline. It is a visual representation of tasks and their dependencies, helping to illustrate the progress of a project and identify potential bottlenecks or delays. Gantt charts are commonly used to plan, schedule, and monitor work in various industries, such as engineering, construction, and software development.\n\nTo answer your question, a Gantt chart is a type of:\n\n(B) Work schedule design",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "(B) Workers view physical and mental effort as a natural part of work.\n\nAccording to McGregor's Theory X, workers are assumed to have a negative attitude towards work and dislike responsibility, which means that option (A) is incorrect. Option (C) is also incorrect because workers are assumed to dislike taking initiative in Theory X. Finally, option (D) is also incorrect because workers are assumed to be lazy and incompetent in Theory X, so they prefer to be directed rather than take responsibility for their work. Therefore, the correct answer is option (B), which reflects the view that workers view physical and mental effort as a natural part of work.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "The term for power derived from status or position in an organisation is (A) Referent power.\n\nReferent power is a form of social influence that arises from a person's status or position within an organization. It occurs when individuals look up to and follow the lead of someone who holds a high-ranking position or has a strong reputation. People with referent power are seen as credible and trustworthy, and their opinions and actions often carry significant weight within the organization.\n\nIn contrast, the other options do not describe power derived from status or position:\n\n(B) Expert power is derived from knowledge and skills, rather than status or position.\n(C) Reward power is derived from the ability to offer tangible rewards, such as promotions, raises, or other incentives.\n(D) Legitimate power is derived from formal authority, such as a top-level manager's power to make decisions and give orders.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first look at the different writers and their work:\n\nA) Henry Fayol: He was a French industrialist and management theorist who developed the principles of management in the early 20th century. While his work did include elements of bureaucracy, he was not exclusively focused on it.\n\nB) Max Weber: He was a German sociologist and political economist who is considered one of the founding figures of sociology and social theory. He is best known for his work on bureaucracy and the ways in which it influences society and organizations.\n\nC) Adam Smith: He was a Scottish economist who is considered one of the founding fathers of modern economics. While he did write about the importance of specialization and the division of labor, his work is not specifically focused on bureaucratic structures.\n\nD) Mary Parker Follett: She was an American social worker and management theorist who emphasized the importance of collaboration and participative decision-making in organizations. While she did criticize bureaucracy, her work was not primarily focused on it.\n\nBased on this information, the writer most associated with bureaucratic structures is:\n\n(B) Max Weber",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, I will go through the next steps:\n\n1. Explain who each person is and briefly describe their contributions to industrial work and philanthropy.\n\n2. Determine which of these figures is considered to be primarily an industrial philanthropist.\n\n3. Output the answer as a single letter with parentheses.\n\n\n**1. Explain who each person is and briefly describe their contributions to industrial work and philanthropy.**\n\n(A) Frederick Taylor: Frederick Taylor was an American mechanical engineer who is considered the \"father of scientific management.\" He developed methods for increasing productivity in industrial settings, including time-and-motion studies, standardization of work processes, and staffing based on ability. While Taylor was influential in industrial work, there is no indication that he was primarily a philanthropist.\n\n(B) Seebohm Rowntree: Seebohm Rowntree was a British sociologist and Quaker who conducted pioneering research on poverty and living standards. He founded the Rowntree Memorial Trust in 1919 to support research in industrial and social questions and made significant contributions to the study of poverty in the United Kingdom. Rowntree was primarily a social reformer rather than an industrial philanthropist.\n\n(C) Henry Ford: Henry Ford was an American industrialist and founder of the Ford Motor Company. He is best known for developing the assembly line production method, which greatly increased the efficiency of automobile manufacturing. Ford was also a philanthropist, donating significant amounts of money to various causes, including education, healthcare, and social services. Although Ford's philanthropy was primarily focused on his employees (with the establishment of the Ford Hospital, the development of a health care system for employees, and the Fordson tractor for farmers), his philanthropic activities still make him a likely candidate for the label of \"industrial philanthropist.\"\n\n(D) Max Weber: Max Weber was a German sociologist, political economist, and lawyer who is considered one of the founders of modern sociology and social theory. He did not have a direct role in industrial work or philanthropy and did not primarily focus on these areas in his research.\n\n\n**2. Determine which of these figures is considered to be primarily an industrial philanthropist.**\n\nBased on the information above, it is clear that (C) Henry Ford most closely aligns with the description of an industrial philanthropist, as his significant contributions to industrial work (the development of the assembly line production method) were accompanied by his philanthropic activities aimed at improving the lives of his employees and their families.\n\n\n**3. Output the answer as a single letter with parentheses.**\n\n(C)",
+            "correct": false
+        }
+    ]
+}
