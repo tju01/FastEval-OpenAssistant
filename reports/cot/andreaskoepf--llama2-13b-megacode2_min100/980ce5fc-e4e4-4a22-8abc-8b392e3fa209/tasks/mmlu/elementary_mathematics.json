@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "To determine the value of p in the equation 24 = 2p, follow these steps:\n\nStep 1: Isolate the term with the variable (p)\nIn order to find the value of p, we need to isolate it on one side of the equation. To do this, we'll divide both sides of the equation by 2.\n\n24 = 2p\n(24) / (2) = (2p) / (2)\n\nStep 2: Perform the division\nNow, we'll perform the division:\n\n12 = p\n\nStep 3: Match the answer with the given options\nOur calculated value of p is 12. Match this value with the given options:\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24\n\nStep 4: Provide the final answer\nThe correct answer is:\n\n(C) p = 12",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "To find the number of miles Ms. Perez drove each day, let's first convert the total miles she drove in 5 days into a single value.\n\nStep 1: Convert total miles driven in 5 days into a single value.\nMs. Perez drove 40 miles in 5 days.\n\nStep 2: Calculate the daily miles.\n40 miles (total) \u00f7 5 days = 8 miles/day\n\nMs. Perez drove 8 miles each day. Therefore, the correct answer is (C) 8.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "Sure, I can explain the reasoning step by step.\n\nTo find the quotient of two numbers, we simply divide the first number by the second number and write the result as a fraction. \n\nIn this case, we are given two numbers:\n- First number: -40\n- Second number: -8\n\nWhen dividing two negative numbers, the result is also negative and the sign of the first number becomes positive, so we need to make the first number positive:\n\n(-40) / (-8) = 40/8\n\nNow, we can simplify the fraction by dividing both the numerator and the denominator by their greatest common divisor (GCD) which in this case is 2:\n\n(40/2) / (8/2) = 40/4 = 10/2\n\nSo, -40 \u00f7 (-8) can be simplified to 10/2:\n\n(C) -1 over 5\n\nThe answer is the correct choice (C).",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "To find the greatest number of soccer balls the team can buy, we will use the concept of divisibility. We want to find the largest number n such that n times the cost of one soccer ball is equal to $90.00. \n\nLet's start by expressing the problem in equality form:\n\n90.00 = 15.60 * n\n\nNext, we can rearrange the equation to solve for n:\n\nn = 90.00 / 15.60\n\nUsing a calculator, we find that n = 5.77. However, since we need an integer solution, we can round 5.77 to the nearest whole number:\n\nn = 6\n\nThus, the greatest number of soccer balls the team can buy is 6.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "To find the cost of one ticket, we will use the equation 4t = 112, and then we will solve for t.\n\nStep 1: Write the equation\n4t = 112\n\nStep 2: Solve for t\nTo solve for t, divide both sides of the equation by 4:\nt = 112 / 4\n\nStep 3: Calculate the answer\nt = 28\n\nThe cost of one ticket is $28. So the correct answer is:\n\n(B) 4t = 112; $28",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "Alright, let's break down the expression and calculate it step by step. Remember, our goal is to only output the answer letter as a single letter with parenthesis.\n\n1. First, simplify the expression within the parentheses:\n3 \u00d7 [ (2 \u00d7 6 - 5) + (8 \u00f7 4) ]\n3 \u00d7 [ (2 \u00d7 6 - 5 + 2) + (8 \u00f7 4)]\n3 \u00d7 [ (10 - 5 + 2) + 2 ]\n3 \u00d7 [ (5 + 2) + 2 ]\n3 \u00d7 [ 7 + 2 ]\n3 \u00d7 9\n27\n\n2. Now, write the answer letter that corresponds to the value of 27. Since it's a single letter, there won't be any parenthesis:\nA\n\nSo the answer is A.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "Let's first find the whole and the fraction parts in the expression \"1 1/11\".\n\n1. First, divide 1 by 1 as it results in a whole number.\n   Whole number: 1\n\n2. Now, divide 1 by 11. Since 11 is a whole number, the answer will be 0. This means the fraction part is 0/11.\n   Fraction part: 0/11\n\nNow let's determine the simplest form of the whole or mixed number.\n\n3. To simplify the whole number to the simplest form, we only have to identify it as a whole number (1).\n   Simplified: 1\n\n4. Since the fraction part (0/11) cannot be simplified further, we leave it as is.\n   Simplified: 1 (0/11)\n\nThus, the expression \"1 1/11\" in its simplest form is \"1 (0/11)\".\n\nAnswer: (A) 1.1 over 11",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "To find the quotient of 2.16 \u00f7 0.06, we need to perform the division operation step-by-step. \n\n1. Identify the divisor and the dividend: \n   - Divisor: 0.06\n   - Dividend: 2.16\n\n2. Now, we need to divide 2.16 by 0.06. Since both numbers are given in decimal form, we will divide them while keeping the same place value.\n\n3. First, we need to move the decimal point in the dividend to the right by 3 places (to match the number of decimal places in both divisor and dividend):\n   2.16 (dividend) -> 21.6 (dividend)\n   0.06 (divisor) -> 0.06 (divisor) \n\n4. Now, divide the two numbers:\n   21.6 (dividend) \u00f7 0.06 (divisor) = 353.33\n\n5. Simplify the result by dividing without the decimal point:\n   353.33 \u2192 353\n\n6. Convert the result to a whole number:\n   353 \u2192 354 (discarded the decimal point)\n\n7. Multiply the whole number by 10 to express it as a decimal:\n   354 * 10 = 3540\n\n8. Finally, divide 3540 by 100 to convert it to a percentage:\n   3540 \u00f7 100 = 35.4\n\nThe quotient of 2.16 \u00f7 0.06 is 3.54 as a percentage. Therefore, the correct answer is:\n\n(D) 3.54",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "Let's break down the task:\n\n1. Identify the numbers given: 142.76 and 16.5\n2. Determine the subtraction of the two numbers (difference)\n3. From the given options, find which answer is the result of this subtraction\n\nNow let's perform the subtraction:\n\n142.76 - 16.5 = 126.26\n\nBased on our findings, the answer is:\n\n(D) 126.26",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of the given numbers, follow these steps:\n\n1. Write down the two given numbers: 5.04 and 0.7.\n2. Line up the decimal points: 5.04 (5.04) 0.7 (0.7).\n3. Start with the second number since it is smaller, which is 0.7. Multiply by 10 to move the decimal one place to the left: 0.7 * 10 = 7.0.\n4. Now, multiply the first number (5.04) by the result obtained from step 3 (7.0): 5.04 * 7.0.\n5. Calculate the product from step 4: 35.28 (the result is rounded to 5 decimal places).\n6. Take the product obtained in step 5 and divide it by the smaller number (0.7): 35.28 \u00f7 0.7.\n7. Calculate the division in step 6: 50.428571 (this is the exact result with 11 decimal places).\n8. Round the result to the nearest thousandth: 50.43 (rounded down from 50.428571).\n\nThe correct answer is (A) 0.72.",
+            "correct": false
+        }
+    ]
+}
