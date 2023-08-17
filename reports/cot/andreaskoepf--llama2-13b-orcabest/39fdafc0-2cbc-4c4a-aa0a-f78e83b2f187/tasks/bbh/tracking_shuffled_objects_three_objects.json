@@ -1,0 +1,215 @@
+{
+    "score": 0.23333333333333334,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Frankenstein, and Claire gets Lolita.\nAs the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Bob and Alice swap books. Finally, Claire and Bob swap books. At the end of the semester, Bob has\nOptions:\n(A) Ulysses\n(B) Frankenstein\n(C) Lolita",
+            "correct_answer": "(B)",
+            "model_answer": "Let's analyze the book trades step-by-step:\n\n1. Claire and Bob swap books.\nInitially, Claire has Lolita and Bob has Frankenstein. After the swap, Bob has Lolita and Claire has Frankenstein.\n\n2. Bob and Alice swap books.\nNow, Bob has Lolita and Alice has Frankenstein.\n\n3. Claire and Bob swap books again.\nAfter this swap, Bob has Lolita again and Claire has Frankenstein.\n\nSo, at the end of the semester, Bob has Lolita.\nThe answer is:\n(C) Lolita",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets The Odyssey, and Claire gets Catch-22.\nAs the semester proceeds, they start trading around the new books. First, Claire and Alice swap books. Then, Bob and Claire swap books. Finally, Alice and Bob swap books. At the end of the semester, Alice has\nOptions:\n(A) Hound of the Baskervilles\n(B) The Odyssey\n(C) Catch-22",
+            "correct_answer": "(A)",
+            "model_answer": "Step 1: Alice starts with Hound of the Baskervilles.\nStep 2: Claire and Alice swap books. Alice now has Catch-22, and Claire has Hound of the Baskervilles.\nStep 3: Bob and Claire swap books. Bob now has Hound of the Baskervilles, and Claire has The Odyssey.\nStep 4: Alice and Bob swap books. Alice now has The Odyssey, and Bob has Catch-22.\n\nAt the end of the semester, Alice has:\nThe Odyssey (B)",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets Catch-22, and Claire gets Ulysses.\nAs the semester proceeds, they start trading around the new books. First, Bob and Alice swap books. Then, Alice and Claire swap books. Finally, Claire and Bob swap books. At the end of the semester, Alice has\nOptions:\n(A) Frankenstein\n(B) Catch-22\n(C) Ulysses",
+            "correct_answer": "(C)",
+            "model_answer": "Let's break down the trading process step by step:\n\n1. Bob and Alice swap books: Bob gave Alice \"Catch-22\" and took \"Frankenstein.\"\n2. Alice and Claire swap books: Alice gave \"Frankenstein\"to Claire and received \"Ulysses.\"\n3. Claire and Bob swap books: Claire gave \"Ulysses\" to Bob and received \"Catch-22.\"\n\nNow let's analyze the situation at the end of the semester:\nAlice started with \"Frankenstein.\" After the three trades, she received \"Ulysses\" from Claire and gave \"Ulysses\" to Claire, so she doesn't have \"Ulysses\" anymore.\n\nUltimately, Alice has:\n(A) Frankenstein",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Lola, and Claire is dancing with Ophelia.\nThroughout the song, the dancers often trade partners. First, Alice and Bob switch partners. Then, Bob and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with\nOptions:\n(A) Helga\n(B) Lola\n(C) Ophelia",
+            "correct_answer": "(C)",
+            "model_answer": "Step 1: Identify the original partners. Alice is with Helga, Bob is with Lola, and Claire is with Ophelia.\n\nStep 2: Alice and Bob switch partners. Bob is now with Helga and Alice is with Lola.\n\nStep 3: Bob and Claire switch partners. Bob is with Ophelia and Claire is with Lola.\n\nStep 4: Alice and Bob switch partners again. Bob is back with Helga and Alice is with Ophelia.\n\nStep 5: Determine Alice's final partner by analyzing the last switch: Alice is dancing with Ophelia.\n\nAnswer: (C) Ophelia",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Odyssey, and Claire gets Lolita.\nAs the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Bob and Alice swap books. Finally, Claire and Bob swap books. At the end of the semester, Bob has\nOptions:\n(A) Frankenstein\n(B) The Odyssey\n(C) Lolita",
+            "correct_answer": "(A)",
+            "model_answer": "Step 1: Alice and Claire swap books. Alice's book, Frankenstein, goes to Claire and Claire's book, Lolita, goes to Alice.\nStep 2: Bob and Alice swap books. Bob's book, The Odyssey, goes to Alice, and Alice's book, Frankenstein, goes to Bob.\nStep 3: Claire and Bob swap books. Claire's book, Lolita, goes to Bob and Bob's book, The Odyssey, goes to Claire.\n\nThe final outcome after the book swap is:\nAlice: Frankenstein\nBob: Lolita\nClaire: The Odyssey\n\nAt the end of the semester, Bob has The Odyssey, which is option (B). So, the answer is (B) The Odyssey.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Moby Dick, and Claire gets The Great Gatsby.\nAs the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Claire and Alice swap books. Finally, Bob and Claire swap books. At the end of the semester, Alice has\nOptions:\n(A) Catch-22\n(B) Moby Dick\n(C) The Great Gatsby",
+            "correct_answer": "(B)",
+            "model_answer": "Step 1: Identify the initial book ownership.\nAlice: Catch-22\nBob: Moby Dick\nClaire: The Great Gatsby\n\nStep 2: Determine the changes due to book swaps.\nClaire and Bob swap books: Claire gets Moby Dick and Bob gets The Great Gatsby.\nAlice gets The Great Gatsby from Claire.\nBob and Claire swap books: Bob gets The Great Gatsby and Claire gets Moby Dick.\n\nStep 3: Identify the final book ownership.\nAlice: The Great Gatsby\nBob: Moby Dick\nClaire: Catch-22\n\nSo, at the end of the semester, Alice has The Great Gatsby.\n\nThe answer is:\n(C) The Great Gatsby",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Izzi, Bob is dancing with Melissa, and Claire is dancing with Lola.\nThroughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Bob and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with\nOptions:\n(A) Izzi\n(B) Melissa\n(C) Lola",
+            "correct_answer": "(A)",
+            "model_answer": "To determine who Alice is dancing with at the end of the dance, we need to follow the partner swaps step-by-step and see how the partnerships change:\n\n1. Start: Alice is dancing with Izzi, Bob is dancing with Melissa, and Claire is dancing with Lola.\n2. Claire and Alice switch: Claire dances with Izzi, and Alice dances with Claire's previous partner, Lola.\n3. Bob and Claire switch: Bob dances with Lola, and Claire dances with Bob's previous partner, Melissa.\n4. Alice and Bob switch: Bob dances with Izzi, and Alice dances with Bob's previous partner, Melissa.\n\nAt the end of the dance, Alice is dancing with Melissa because she switched partners with Bob and ended up with Melissa as her dance partner.\n\nAnswer: (B) Melissa",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Odyssey, and Claire gets Lolita.\nAs the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Alice and Claire swap books. Finally, Bob and Claire swap books. At the end of the semester, Claire has\nOptions:\n(A) The Great Gatsby\n(B) The Odyssey\n(C) Lolita",
+            "correct_answer": "(A)",
+            "model_answer": "Let's break down the book trades step-by-step:\n\n1. Alice and Bob swap books. Alice initially has The Great Gatsby, and Bob has The Odyssey. So after swapping, Alice has The Odyssey and Bob has The Great Gatsby.\n2. Alice and Claire swap books. Alice now has The Odyssey, and Claire has Lolita.\n3. Bob and Claire swap books. Bob has The Odyssey, and Claire has The Great Gatsby.\n\nAt the end of the semester, Claire has The Great Gatsby. So, the answer is:\n\n(C) Lolita",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a red ball, and Claire has a white ball.\nAs the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Alice swap balls. At the end of the game, Bob has the\nOptions:\n(A) brown ball\n(B) red ball\n(C) white ball",
+            "correct_answer": "(A)",
+            "model_answer": "First, let's analyze the trades:\n1. Claire and Bob swap balls: Claire gets Bob's red ball, and Bob gets Claire's white ball.\n2. Bob and Alice swap balls: Bob gets Alice's brown ball, and Alice gets Bob's red ball.\n3. Claire and Alice swap balls: Claire gets Alice's brown ball, and Alice gets Claire's white ball.\n\nNow let's assign the balls to the players at the end of the game:\nAlice: (brown ball)\nBob: (red ball)\nClaire: (white ball)\n\nAs a result, Bob has the red ball.\n\nAnswer: (B) red ball",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a brown ball, and Claire has a green ball.\nAs the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Bob and Alice swap balls. Finally, Bob and Claire swap balls. At the end of the game, Alice has the\nOptions:\n(A) yellow ball\n(B) brown ball\n(C) green ball",
+            "correct_answer": "(C)",
+            "model_answer": "To determine the final ball Alice will have, let's examine the sequence of swaps between all the players:\n\n1. Bob and Claire swap balls.\n   (This does not affect Alice's ball)\n\n2. Bob and Alice swap balls.\n   - This causes Alice to swap her yellow ball with Bob's brown ball.\n\n3. Bob and Claire swap balls again.\n   - This does not affect Alice's ball (she already has Bob's brown ball from the second swap).\n\nSince the second swap between Bob and Alice made Alice trade her yellow ball for Bob's brown ball, at the end of the game:\n\nAlice has the (B) brown ball.",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "question": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a orange ball, and Claire has a white ball.\nAs the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Bob and Alice swap balls. Finally, Bob and Claire swap balls. At the end of the game, Bob has the\nOptions:\n(A) yellow ball\n(B) orange ball\n(C) white ball",
+            "correct_answer": "(A)",
+            "model_answer": "To determine the final state of each player's ball color, let's analyze the swaps made in the game step-by-step:\n\n1. Claire and Alice swap balls - Initially, Alice has a yellow ball and Claire has a white ball. After swapping, Claire gets the yellow ball and Alice gets the white ball.\n2. Bob and Alice swap balls - Initially, Bob has an orange ball and Alice has a white ball. After swapping, Bob gets the white ball and Alice gets the orange ball.\n3. Bob and Claire swap balls - Initially, Bob has a white ball and Claire has an orange ball. After swapping, Bob gets the orange ball and Claire gets the white ball.\n\nAt the end of the game, Bob has the orange ball. Therefore, the answer is:\n\n(B) orange ball",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Rodrigo, and Claire is dancing with Helga.\nThroughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with\nOptions:\n(A) Karl\n(B) Rodrigo\n(C) Helga",
+            "correct_answer": "(A)",
+            "model_answer": "Let's go step-by-step through the dances to find out who Alice is dancing with at the end.\n\n1. Initial partners: Alice (with Karl), Bob (with Rodrigo), Claire (with Helga)\n2. First trade: Bob and Alice switch partners. This means Bob now dances with Karl and Alice with Rodrigo.\n3. Second trade: Alice and Claire switch partners. This means Alice dances with Helga and Claire with Rodrigo.\n4. Third trade: Alice and Bob switch partners. However, since Alice is already dancing with Helga (from trade 2), this means Bob will be dancing with Helga.\n\nAt the end of the dance, Alice is dancing with Helga.\n\nAnswer: (C) Helga",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a black ball, and Claire has a white present.\nAs the event progresses, pairs of people swap gifts. First, Bob and Alice swap their gifts. Then, Claire and Bob swap their gifts. Finally, Alice and Claire swap their gifts. At the end of the event, Bob has the\nOptions:\n(A) red present\n(B) black ball\n(C) white present",
+            "correct_answer": "(C)",
+            "model_answer": "We are first going to analyze the gift swaps step-by-step:\n1. Alice and Bob swap their gifts. Alice, who started with the red present, is now holding the black ball (Bob's previous gift). Bob receives the red present.\n2. Claire and Bob swap their gifts. Claire had the white present, so now she has the black ball. Bob, who just received the red present, gives that to Claire, and in turn receives the white present.\n3. Alice and Claire swap their gifts. Alice is now holding the white present, and Claire has the black ball.\n\nAs the event concludes, the only person who swapped their gift in the last round was Bob. Since Bob initially had the black ball but received the white present from Alice, his final gift is the white present that he received in the previous round.\n\nThe answer is (C) white present.",
+            "correct": true
+        },
+        {
+            "id": 13,
+            "question": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a orange ball, Bob has a purple present, and Claire has a red present.\nAs the event progresses, pairs of people swap gifts. First, Claire and Bob swap their gifts. Then, Alice and Bob swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Claire has the\nOptions:\n(A) orange ball\n(B) purple present\n(C) red present",
+            "correct_answer": "(C)",
+            "model_answer": "To determine which present Claire has at the end of the event, we must analyze the gift exchange order and the associated color of the presents.\n\n1. Claire and Bob swap gifts.\n- Before: Claire has a red present, Bob has a purple present.\n- After: Bob has a red present, Claire has a purple present.\n\n2. Alice and Bob swap gifts.\n- Before: Bob has a red present, Alice has an orange ball.\n- After: Alice has a red present, Bob has an orange ball.\n\n3. Claire and Alice swap gifts.\n- Before: Claire has a purple present, Alice has an orange ball.\n- After: Alice has a purple present, Claire has an orange ball.\n\nAt the end of the event, Alice has a purple present, Bob has an orange ball, and Claire has an orange ball. So, the correct answer is (A) orange ball.",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "question": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a red ball, and Claire has a yellow ball.\nAs the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Claire and Alice swap balls. Finally, Bob and Claire swap balls. At the end of the game, Claire has the\nOptions:\n(A) blue ball\n(B) red ball\n(C) yellow ball",
+            "correct_answer": "(C)",
+            "model_answer": "To determine which ball Claire has at the end of the game, let's analyze the trades step-by-step:\n\n1. Claire and Bob swap balls: Claire now has Bob's red ball, and Bob has Claire's yellow ball.\n2. Claire and Alice swap balls: This means Alice now has the red ball, and Claire has the yellow ball.\n3. Bob and Claire swap balls: After this, Bob has the red ball, and Claire has the yellow ball.\n\nSo, at the end of the game, Claire has the yellow ball.\n\nThe answer is:\n(C) yellow ball",
+            "correct": true
+        },
+        {
+            "id": 15,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Jamie, and Claire is dancing with Rodrigo.\nThroughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Alice and Bob switch partners. Finally, Bob and Claire switch partners. At the end of the dance, Bob is dancing with\nOptions:\n(A) Ophelia\n(B) Jamie\n(C) Rodrigo",
+            "correct_answer": "(B)",
+            "model_answer": "Step 1: Alice and Bob switch partners.\nAt the start, Alice is dancing with Ophelia, and Bob is dancing with Jamie. After the switch, Alice will be dancing with Jamie, and Bob will be dancing with Ophelia.\n\nStep 2: Bob and Claire switch partners.\nNow, Bob is dancing with Ophelia. After the switch, Bob will be dancing with Rodrigo, and Claire will be dancing with Ophelia.\n\nStep 3: Bob and Claire switch partners.\nAgain, Bob is dancing with Rodrigo. After the switch, Bob will be dancing with Ophelia, and Claire will be dancing with Rodrigo.\n\nAnswer: (A) Ophelia",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets Moby Dick, and Claire gets The Fellowship of the Ring.\nAs the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Alice swap books. Finally, Bob and Claire swap books. At the end of the semester, Bob has\nOptions:\n(A) Frankenstein\n(B) Moby Dick\n(C) The Fellowship of the Ring",
+            "correct_answer": "(B)",
+            "model_answer": "Step-by-step reasoning:\n\n1. Start with the books each friend has:\n   Alice: Frankenstein\n   Bob: Moby Dick\n   Claire: The Fellowship of the Ring\n\n2. They begin by swapping, so Alice and Bob trade books:\n   Alice: ___\n   Bob: Frankenstein\n   Frankenstein: Alice\n\n3. Then, Claire and Alice trade books:\n   Claire: Frankenstein\n   Alice: ___\n   Frankenstein: Claire\n\n4. Finally, Bob and Claire trade books:\n   Bob: ___\n   Claire: Moby Dick\n   Moby Dick: Bob\n\n5. At the end of the semester, Bob has:\n   (B) Moby Dick",
+            "correct": true
+        },
+        {
+            "id": 17,
+            "question": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing left winger, and Claire is playing center midfielder.\nAs the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Alice and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Alice is playing\nOptions:\n(A) goalkeeper\n(B) left winger\n(C) center midfielder",
+            "correct_answer": "(B)",
+            "model_answer": "Let's break down the position swaps step-by-step:\n\n1. Claire and Bob trade positions: Claire is now playing left winger and Bob is playing center midfielder.\n2. Alice and Bob trade positions: Alice is now playing left winger and Bob is playing goalkeeper.\n3. Claire and Alice trade positions: Claire is now playing left winger and Alice is playing center midfielder.\n\nAt the end of the match, Alice is playing center midfielder. \n\nFinal answer: (C) center midfielder",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "question": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing right winger, and Claire is playing benchwarmer.\nAs the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Bob and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Alice is playing\nOptions:\n(A) cheerleader\n(B) right winger\n(C) benchwarmer",
+            "correct_answer": "(A)",
+            "model_answer": "Let's consider the position changes step by step:\n\n1. Alice and Claire trade positions.\nAlice was a cheerleader, and Claire was a benchwarmer. Now, Alice becomes the benchwarmer, and Claire becomes the cheerleader.\n\n2. Bob and Claire trade positions.\nBob was a right winger, and Claire was a benchwarmer. Now, Bob becomes the benchwarmer, and Claire becomes the right winger.\n\n3. Alice and Bob trade positions.\nAlice was a benchwarmer, and Bob was a right winger. Now, Alice becomes the right winger, and Bob becomes the benchwarmer.\n\nAt the end of the match, Alice is playing the position of:\n\nAnswer: (B) right winger",
+            "correct": false
+        },
+        {
+            "id": 19,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, and Claire gets Ulysses.\nAs the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Bob and Claire swap books. Finally, Claire and Alice swap books. At the end of the semester, Alice has\nOptions:\n(A) The Great Gatsby\n(B) Frankenstein\n(C) Ulysses",
+            "correct_answer": "(B)",
+            "model_answer": "To find the answer, let's analyze the book swaps step by step:\n\n1. Alice and Claire swap books. Initially, Alice has The Great Gatsby, and Claire has Ulysses. After the swap, Alice has Ulysses, and Claire has The Great Gatsby.\n2. Bob and Claire swap books. Initially, Bob has Frankenstein, and Claire has Ulysses. After the swap, Bob has Ulysses, and Claire has Frankenstein.\n3. Claire and Alice swap books. Initially, Claire has Frankenstein, and Alice has Ulysses. After the swap, Claire has Ulysses, and Alice has Frankenstein.\n\nAt the end of the semester, Alice has either The Great Gatsby (her original book) or Frankenstein (which she got from Claire in the last swap).\n\nGiven that we want to find the book that Alice has at the end of the whole process, we analyze the exchange which ends with Alice having either The Great Gatsby or Frankenstein. After the first and second swap, it does not matter which of these books Alice has; they will be switched to the other after the final swap.\n\nSince Frankenstein and The Great Gatsby were swapped twice before Alice got it, the book that Alice has at the end is The Great Gatsby.\n\nTherefore, the answer is:\n(A) The Great Gatsby",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Lola, and Claire is dancing with Izzi.\nThroughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Claire and Alice switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with\nOptions:\n(A) Ophelia\n(B) Lola\n(C) Izzi",
+            "correct_answer": "(C)",
+            "model_answer": "Let's analyze the partner changes step by step:\n\n1. At the start, Alice has Ophelia, Bob has Lola, and Claire has Izzi as partners.\n2. Bob and Claire switch partners, so now Alice has Lola, Bob has Ophelia, and Claire has Izzi as partners.\n3. Claire and Alice switch partners, so Alice now has Izzi as a partner, Bob has Lola, and Claire has Ophelia as partners.\n4. Alice and Bob switch partners, so Alice now has Ophelia as a partner, Bob has Izzi, and Claire has Lola as partners.\n\nAt the end of the dance, Alice is dancing with Ophelia since (A) Ophelia is her partner after the fourth switch. So, the answer is:\n\n(A) Ophelia",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "question": "Alice, Bob, and Claire are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing center midfielder, and Claire is playing striker.\nAs the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Alice and Claire trade positions. Finally, Bob and Claire trade positions. At the end of the match, Claire is playing\nOptions:\n(A) right midfielder\n(B) center midfielder\n(C) striker",
+            "correct_answer": "(A)",
+            "model_answer": "Step 1: Alice and Bob trade positions.\nInitial positions: Alice (right midfielder), Bob (center midfielder), Claire (striker)\nNew positions: Alice (center midfielder), Bob (right midfielder), Claire (striker)\n\nStep 2: Alice and Claire trade positions.\nInitial positions: Alice (center midfielder), Bob (right midfielder), Claire (striker)\nNew positions: Alice (striker), Bob (center midfielder), Claire (right midfielder)\n\nStep 3: Bob and Claire trade positions.\nInitial positions: Alice (striker), Bob (center midfielder), Claire (right midfielder)\nNew positions: Alice (right midfielder), Bob (striker), Claire (center midfielder)\n\nAnswer: At the end of the match, Claire is playing (C) striker.",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Patrick, and Claire is dancing with Sam.\nThroughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Claire and Bob switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with\nOptions:\n(A) Helga\n(B) Patrick\n(C) Sam",
+            "correct_answer": "(A)",
+            "model_answer": "Let's break down the swaps step-by-step:\n\n1. Start: Alice (A) is dancing with Helga (H), Bob (B) is dancing with Patrick (P), and Claire (C) is dancing with Sam (S).\n2. Swap 1: Claire (C) swaps partners with Alice (A), so now Claire (C) is dancing with Helga (H) and Alice (A) is dancing with Sam (S).\n3. Swap 2: Claire (C) swaps partners with Bob (B), so now Claire (C) is dancing with Patrick (P) and Bob (B) is dancing with Sam (S).\n4. Swap 3: Alice (A) swaps partners with Bob (B), so now Alice (A) is dancing with Patrick (P) and Bob (B) is dancing with Helga (H).\n\nNow we need to determine which of the given options is the dancer Alice is dancing with at the end of the dance.\n\nStart:\n(A) Helga\n(B) Patrick\n(C) Sam\n\nAfter swaps:\n(A) Patrick\n(B) Helga\n(C) Sam\n\nSo at the end of the dance, Alice is dancing with Patrick (Option B).",
+            "correct": false
+        },
+        {
+            "id": 23,
+            "question": "Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a purple ball, Bob has a yellow ball, and Claire has a orange ball.\nAs the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Claire and Bob swap balls. At the end of the game, Claire has the\nOptions:\n(A) purple ball\n(B) yellow ball\n(C) orange ball",
+            "correct_answer": "(A)",
+            "model_answer": "Let's analyze the ball exchanges step-by-step:\n\n1. Claire and Bob swap balls: Since Claire had the orange ball and Bob had the yellow ball, after this swap, Claire has the yellow ball and Bob has the orange ball.\n\n2. Bob and Alice swap balls: After this swap, Bob now has the purple ball and Alice has the yellow ball.\n\n3. Claire and Bob swap balls (again): In this step, Claire gets the ball that Bob had after the second swap (the purple ball) and Bob gets the ball that Claire had after the second swap (the yellow ball).\n\nSo at the end of the game, Claire has the purple ball. The answer is:\n\n(A) purple ball",
+            "correct": true
+        },
+        {
+            "id": 24,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Great Gatsby, and Claire gets Ulysses.\nAs the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Bob swap books. Finally, Bob and Alice swap books. At the end of the semester, Alice has\nOptions:\n(A) Frankenstein\n(B) The Great Gatsby\n(C) Ulysses",
+            "correct_answer": "(C)",
+            "model_answer": "Let's analyze the book trade order step by step.\n\n1. Alice and Bob swap books: Alice has Frankenstein and Bob has The Great Gatsby.\n2. Claire and Bob swap books: Now, Bob has Ulysses and Claire has The Great Gatsby.\n3. Bob and Alice swap books: Bob has Frankenstein and Alice has Ulysses.\n\nAt the end of the semester, Alice has:\n\n(C) Ulysses",
+            "correct": true
+        },
+        {
+            "id": 25,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Pearl, and Claire gets The Fellowship of the Ring.\nAs the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Bob and Alice swap books. Finally, Claire and Alice swap books. At the end of the semester, Bob has\nOptions:\n(A) Frankenstein\n(B) The Pearl\n(C) The Fellowship of the Ring",
+            "correct_answer": "(A)",
+            "model_answer": "Step 1: Alice, Bob, and Claire start with the following books:\nAlice: Frankenstein\nBob: The Pearl\nClaire: The Fellowship of the Ring\n\nStep 2: Bob and Claire swap books:\nBob gets The Fellowship of the Ring from Claire.\nClaire gets The Pearl from Bob.\n\nStep 3: Bob and Alice swap books:\nBob gets Frankenstein from Alice.\nAlice gets The Pearl from Bob.\n\nStep 4: Claire and Alice swap books:\nClaire gets Frankenstein from Alice.\nAlice gets The Fellowship of the Ring from Claire.\n\nStep 5: Determine the book Bob has at the end of the semester:\n\nTo recap, Bob has traded The Pearl to Claire, and neither Bob nor Claire has The Pearl at this point. So, Bob ends up with one of the other two books he doesn't originally have. Frankenstein was traded to both Alice and Claire, so it can't be the book Bob gets.\n\nSo at the end of the semester, Bob has:\n\n(B) The Pearl.",
+            "correct": false
+        },
+        {
+            "id": 26,
+            "question": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a orange ball, and Claire has a white present.\nAs the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Bob has the\nOptions:\n(A) pink ball\n(B) orange ball\n(C) white present",
+            "correct_answer": "(A)",
+            "model_answer": "Step-by-step reasoning:\n\n1. Initially, Bob has the orange ball, Alice has the pink ball, and Claire has the white present.\n2. Bob and Claire swap gifts. Bob gets Claire's white present, and Claire gets Bob's orange ball.\n3. Alice and Claire swap gifts. Alice gets Claire's white present, and Claire gets Alice's pink ball.\n4. Bob and Claire swap gifts again. Bob gets Claire's pink ball, and Claire gets Bob's new white present.\n\nAt the end of the event, after the last swap, Bob has the:\n\n(B) orange ball",
+            "correct": false
+        },
+        {
+            "id": 27,
+            "question": "Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a white present, and Claire has a blue present.\nAs the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Claire and Alice swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Alice has the\nOptions:\n(A) pink ball\n(B) white present\n(C) blue present",
+            "correct_answer": "(B)",
+            "model_answer": "Step 1: Analyze the order of the swaps\nBob and Claire swap their gifts first, then Claire and Alice swap their gifts, and finally Claire and Bob swap their gifts.\n\nStep 2: Determine the initial gift possession\nInitially, Alice has a pink ball, Bob has a white present, and Claire has a blue present.\n\nStep 3: Track the gifts through each swap\nSwap 1: Bob (white) swaps with Claire (blue) -> Bob gets blue, Claire gets white.\nSwap 2: Claire (white) swaps with Alice (pink) -> Claire gets pink, Alice gets white.\nSwap 3: Claire (pink) swaps with Bob (white) -> Claire gets white, Bob gets pink.\n\nStep 4: Determine Alice's gift after the final swap\nAlice starts with the white present and swaps it with Claire's pink ball.\n\nAnswer: (A) pink ball",
+            "correct": false
+        },
+        {
+            "id": 28,
+            "question": "Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Great Gatsby, and Claire gets Ulysses.\nAs the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Claire and Bob swap books. Finally, Bob and Alice swap books. At the end of the semester, Claire has\nOptions:\n(A) Frankenstein\n(B) The Great Gatsby\n(C) Ulysses",
+            "correct_answer": "(A)",
+            "model_answer": "Let's analyze the trades step-by-step:\n\n1. Alice and Bob swap books: Alice has Frankenstein and Bob has The Great Gatsby.\n2. Claire and Bob swap books: Bob has Ulysses and Claire has The Great Gatsby.\n3. Bob and Alice swap books: Bob has Frankenstein and Alice has The Great Gatsby.\n\nNow, let's determine what book Claire has after these trades.\n\nFirst, Alice and Bob swap books, so Alice has The Great Gatsby and Bob has Frankenstein.\n\nNext, Claire and Bob swap books, so Claire has The Great Gatsby and Bob has Ulysses.\n\nFinally, Bob and Alice swap books, so Bob has Frankenstein and Alice has The Great Gatsby.\n\nAfter the three trades, Claire is left with The Great Gatsby. Therefore, at the end of the semester, Claire has:\n\n(B) The Great Gatsby",
+            "correct": false
+        },
+        {
+            "id": 29,
+            "question": "Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Rodrigo, and Claire is dancing with Patrick.\nThroughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Bob and Alice switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Claire is dancing with\nOptions:\n(A) Karl\n(B) Rodrigo\n(C) Patrick",
+            "correct_answer": "(B)",
+            "model_answer": "Let's break it down step by step:\n\nInitial positions:\nAlice - with Karl\nBob - with Rodrigo\nClaire - with Patrick\n\nStep 1: Alice and Claire switch partners\nAlice - with Patrick\nClaire - with Karl\n\nStep 2: Bob and Alice switch partners\nBob - with Patrick\nAlice - with Rodrigo\n\nStep 3: Alice and Claire switch partners again\nAlice - with Karl\nClaire - with Rodrigo\n\nNow, let's see who Claire is dancing with at the end of the dance:\nClaire - with Rodrigo\n\nSo, the answer is (B) Rodrigo.",
+            "correct": true
+        }
+    ]
+}

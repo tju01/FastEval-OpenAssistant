@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral:\n\n(A) paralysis of the facial muscles.\n\nExplanation:\nThe facial nerve controls the movement of facial muscles, and it also contains some taste and lacrimation (tears) fibers. Since the nerve is compressed at the stylomastoid foramen, it can cause the ipsilateral facial muscles to become paralyzed. The loss of taste and lacrimation are not results of the compression specifically, so option (B) is not entirely correct. Option (C) might seem correct as it includes paralysis of the facial muscles and loss of taste. However, it includes lacrimation (tears), which is not directly related to the facial nerve compression, so it is incorrect. Option (D) includes more symptoms (decreased salivation) that are not directly linked to the stylomastoid compression, so it is incorrect as well.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "To arrive at the correct answer, let's analyze each option step by step:\n\n(A) A protruding mandible due to reactivation of the condylar cartilage by acromegaly isn't necessarily associated with a dished face profile. Acromegaly would lead to prominent mandible but not necessarily creating a dished face profile.\n\n(B) A recessive maxilla due to failure of elongation of the cranial base could result in a dished face profile, as it would create a more prominent nasal tip, lowering the center of the face.\n\n(C) An enlarged frontal bone due to hydrocephaly would lead to a raised forehead caused by the increased pressure in the skull, not a dished face profile.\n\n(D) Defective development of the maxillary air sinus could cause other facial issues but not specifically a dished face profile.\n\nBased on this analysis, the correct answer is:\n\n(B) a recessive maxilla due to failure of elongation of the cranial base. \nThis option results in a more prominent nasal tip and a lowered center of the face, which is characteristic of a dished face profile.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "To determine the structure that collects urine in the body, we need to examine each option:\n\n(A) Bladder: The bladder is a hollow muscular organ that collects and holds urine produced by the body before it is excreted.\n(B) Kidney: The kidneys are internal organs that filter blood and remove waste to produce urine. They are not directly responsible for collecting urine.\n(C) Ureter: The ureters are tubes that transport urine from the kidneys to the bladder for storage. They do not collect urine in the body.\n(D) Urethra: The urethra is a tube that connects the bladder to the external genitalia, responsible for carrying urine from the bladder to be expelled from the body.\n\nFrom the explanations above, the structure that collects urine in the body is (A) Bladder.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "To determine the correct answer, let's briefly summarize the endomesenchyme-ectomesenchyme distinction.\n\nEndomesenchyme is a mesenchymal cell type found in the gastrointestinal tract and other luminal organs. It arises due to the invagination of external mesoderm, producing a sheet of mesenchyme cells inside the boundary of an endoderm-lined cavity. This process forms the mesenchyme of the gastrointestinal tract.\n\nEctomesenchyme is the outer layer of mesoderm cells located between the endoderm and outer ectoderm cells during embryonic development, which will differentiate into different cell types like skeletal muscle and neurons.\n\nNow, let's analyze each option:\n(A) Motor neurons: Motor neurons are derived from the ectoderm and belong to the nervous system, not mesenchyme cells.\n(B) Skeletal muscles: Skeletal muscles are composed of muscle fibers derived from myoblasts, which originate from somatic mesoderm and not mesenchyme cells.\n(C) Melanocytes: Melanocytes are derived from the neural crest and are not mesenchyme cells.\n(D) Sweat glands: Eccrine sweat glands are derived from ectomesenchyme or embryonic connective tissue cells.\n\nCorrect answer: (D) Sweat glands, as they are derived from ectomesenchyme or embryonic connective tissue cells.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "First, let's understand the structure of the nephron. A nephron is the functional unit of the kidney responsible for filtering the blood and producing urine.\n\nNow, let's identify the components of the nephron:\n\n1. The glomerulus is a network of tiny blood vessels, nourished by the renal artery, which function to filter the blood.\n2. The afferent arteriole is an artery that carries blood into the glomerulus for filtration.\n3. The renal pelvis is a funnel-shaped structure that receives and collects urine from the renal pyramids.\n4. The loop of Henle is a part of the nephron located between the glomerulus and the renal pelvis where reabsorption and secretion of substances occur.\n\nWe are asked to identify the cluster of blood capillaries found in each nephron in the kidney. Based on the information above, the correct answer is:\n\n(B) Glomerulus",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Understand the question\nWe have to identify the probable effect of a broken neck and spinal cord damage at the level of the sixth cervical vertebra on a patient's ability to breathe.\n\nStep 2: Analyze the cervical vertebra location\nThe sixth cervical vertebra (C6) is located in the neck region. Injuries or damages in this area can affect various bodily functions, including respiratory muscles.\n\nStep 3: Consider the impact of a broken neck on breathing\nA broken neck can cause paralysis and damage to the spinal cord, leading to potential respiratory issues due to the potential impact on the diaphragm and other respiratory muscles.\n\nStep 4: Evaluate each option\n(A) They will be unable to breathe without life support. - Possible consequence of severe neck injury.\n(B) They will only be able to breathe quietly. - Implies minimal impact, not consistent with potential damage to the spinal cord.\n(C) It is impossible to predict an effect on breathing. - Incorrect, as the answer should describe one of the possible consequences.\n(D) Breathing will be unaffected. - Incorrect, as a broken neck with spinal cord damage is likely to impact breathing.\n\nStep 5: Select the appropriate answer\nBased on the analysis above,\n\nThe answer is (A) They will be unable to breathe without life support.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "To determine which anatomical region of the abdomen lies just distal to the sternum, let's examine each option step by step:\n\n(A) Epigastric: The epigastrium is located in the upper central part of the abdomen, surrounding the umbilicus. It is not the region distal to the sternum.\n\n(B) Hypochondriac: The hypochondria are the upper lateral regions of the abdomen, which are not distal to the sternum.\n\n(C) Hypogastric: The hypogastrium is located in the lower central part of the abdomen, below the umbilicus. It is not the region distal to the sternum.\n\n(D) Lumbar: The lumbar region lies caudal to the umbilicus and is involved in supporting the lower back and pelvis. This region is not distal to the sternum.\n\nBased on the analysis of each option, the correct answer for the anatomical region of the abdomen that lies just distal to the sternum is:\n\n(B) Hypochondriac",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "Let's analyze each option step-by-step:\n\n(A) Hair in the nose: The hair in the nostrils helps trap dust and bacteria, preventing them from entering the lungs. However, this is not a major defense mechanism against environmental bacteria.\n\n(B) Mucous membranes: These are specialized membranes that produce mucus to trap bacteria and other foreign particles and prevent them from entering the body. This is a primary defense mechanism against environmental bacteria.\n\n(C) Osteoblasts: These are cells that help in the formation of bones and have no function related to defending against bacteria.\n\n(D) Saliva: Saliva helps to moisten and break down food for digestion. Although it contains some antibacterial agents, its primary function is not as a defense mechanism against bacteria.\n\nBased on the analysis, the best description of the human body's defense mechanism against environmental bacteria is:\n\n(B) Mucous membranes",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "To determine the correct answer, we must consider the timeline from fertilization to palatine processes fusion.\n\nStep 1: Understand the timeline\u2014Fertilization to Palatine Processes\n- Fertilization occurs when the sperm and egg unite.\n- Several weeks pass during embryonic development.\n- Palatine processes are two bilateral shelf-like projections of the maxilla bone in the front of the palate.\n- These processes begin to fuse, eventually joining together to form the hard palate.\n\nStep 2: Compare answers and their relevance\n- (A) Six weeks post-fertilization: Typically, organ development begins around 6 weeks post-fertilization, but palatine processes fusion would likely occur later.\n- (B) Eight weeks post-fertilization: This option starts to approach the period in which embryonic development proceeds. \n- (C) Ten weeks post-fertilization: At this stage, major structures of the developing skull have begun to form.\n- (D) Twelve weeks post-fertilization: This is around the time when palate formation begins.\n\nConsidering these factors, the fusion of the palatine processes occurs around 10 weeks post-fertilization.\n\nAnswer: (C) ten weeks post-fertilization.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, let's break it down step-by-step.\n\n1. The primary motor cortex is a part of the brain that is responsible for generating motor commands for the body.\n\n2. When the primary motor cortex is activated, it sends signals to the muscles that need to be contracted.\n\n3. The activation of the primary motor cortex results in the contraction of specific muscles, depending on the specific purpose of the motor conduction: maintaining posture, moving a limb, etc.\n\nGiven the above information, now we can identify which of the provided options accurately reflects what the primary motor cortex does:\n\n(A) Bilateral contraction of antigravity limb muscles: (incorrect) the primary motor cortex doesn't directly control \"antigravity limb muscles\"; instead, it sends signals to specific muscles to produce a coordinated response.\n\n(B) Bilateral contraction of limb musculature: (incorrect) although the primary motor cortex can activate muscles on both sides of the body, it doesn't always cause bilateral contractions of limb musculature.\n\n(C) Contraction of ipsilateral limb musculature: (incorrect) \"ipsilateral\" refers to the same side as the motor cortex sending information. When the primary motor cortex is activated, it usually generates motor commands for muscles contralateral (opposite) to it, not ipsilateral.\n\n(D) Contraction of contralateral limb musculature: (correct) when the primary motor cortex is activated, it controls the contralateral musculature; muscles on the opposite side of the body from the primary motor cortex.\n\nSo, the final answer is (D): Contraction of contralateral limb musculature.",
+            "correct": true
+        }
+    ]
+}

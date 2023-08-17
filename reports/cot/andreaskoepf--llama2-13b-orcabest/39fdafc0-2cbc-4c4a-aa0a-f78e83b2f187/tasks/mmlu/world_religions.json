@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": " What can murtis be translated as?\n\n(A) Offerings\n(B) Prayers\n(C) Apparitions\n(D) Idols",
+            "correct_answer": 3,
+            "model_answer": "To determine the correct translation for \"murtis,\" let's analyze the given options:\n\n(A) Offerings: This option suggests that murtis could be something that is offered or dedicated to God.\n\n(B) Prayers: This option implies that murtis may be the act of praying or communication with God.\n\n(C) Apparitions: This option indicates that murtis might be visions or supernatural appearances of holy figures or beings.\n\n(D) Idols: This option proposes that murtis refer to physical objects or images that represent divine figures.\n\nNow, let's research and gather information about the word \"murtis\" to identify its correct translation.\n\nAfter research, we can deduce that \"murtis\" is a Sanskrit term which primarily refers to idols or images representing deities. In Hinduism, murtis can be small, medium, or large and often used as aids to focus the mind during prayer or meditation. They can also be worshipped in homes or temples.\n\nBased on this information, the correct translation for \"murtis\" is:\n\n(D) Idols",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?\n\n(A) Daoism\n(B) Yin-Yang School\n(C) Mengzi\n(D) Humanistic Buddhism",
+            "correct_answer": 1,
+            "model_answer": "We are looking for a philosophy that is associated with naturalists who focused on natural elements and processes.\n\n(A) Daoism is a philosophy that emphasizes harmony with the Dao (\u9053) or the \"Way\" of the universe. Daoists often have a deep understanding of nature and its processes, so this could be a potential answer.\n\n(B) The Yin-Yang School is associated with the philosophy of balance between opposing forces in the natural world, including yin (\u9670) and yang (\u967d). This philosophy also focuses on the processes within nature.\n\n(C) Mengzi is a famous philosopher in the Confucian tradition, which is more focused on human relationships, morality, and social order, rather than natural elements and processes. So, this would not be the best answer.\n\n(D) Humanistic Buddhism is a form of Buddhism that puts emphasis on the study of human nature and emotions. While it might have some connections to natural elements, it does not focus primarily on them.\n\nAfter examining the options, the most suitable association for naturalists who concentrated on natural elements and processes are:\n\n(B) Yin-Yang School",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": " When was the first Buddhist temple constructed in Japan?\n\n(A) 325 CE\n(B) 119 CE\n(C) 451 CE\n(D) 596 CE",
+            "correct_answer": 3,
+            "model_answer": "To determine the correct answer, we need to research the history of Buddhism in Japan and find the earliest temple's construction date. Specifically, we need to find the date when Buddhism was first introduced to Japan and the establishment of the first Buddhist temple.\n\nAncient Buddhism was introduced to Japan through the interaction between the Baekje kingdom of Korea and the Kofun period in Japan (around 3rd century CE). One of the earliest Buddhist temples in Japan, Yakushi-ji, was founded in the 4th or 5th century CE.\n\nConsidering the available choices (A) 325 CE, (B) 119 CE, (C) 451 CE, and (D) 596 CE, the one that aligns best with the historical data is (A) 325 CE. This is based on an approximate time frame for when Buddhism was first introduced to Japan and around which the first Buddhist temple could have been constructed.",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?\n\n(A) Akitu\n(B) Wag and Thoth\n(C) Bast\n(D) Nehebkau",
+            "correct_answer": 0,
+            "model_answer": "To find the answer, we need to evaluate each option and see which one is related to the ten-day New Year festival in Babylon that celebrates their culture.\n\n(A) Akitu: This is the name of the ten-day New Year festival celebrated in Babylon, which also marks the start of the agricultural year and the spring equinox. It is a festival dedicated to the gods Marduk and Ishtar, showcasing the rich cultural aspects of Babylon.\n\n(B) Wag and Thoth: These are Egyptian gods (Wag is an ancient Greek name for the god Thoth) and not associated with Babylon's culture.\n\n(C) Bast: This is an ancient Egyptian goddess and also not associated with Babylon's culture.\n\n(D) Nehebkau: This is an ancient Egyptian god and also not associated with Babylon's culture.\n\nBased on this evaluation, the answer is:\n\n(A) Akitu",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following terms denote the Japanese art of flower arranging?\n\n(A) Zazen\n(B) Tariki\n(C) Kami\n(D) Ikebana",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Analyze the given terms.\n\nWe have four terms: (A) Zazen, (B) Tariki, (C) Kami, and (D) Ikebana.\n\nStep 2: Relate the terms to Japanese culture.\n\nZazen, Tariki, and Kami are Japanese terms, but they do not directly relate to Japanese art or crafts.\n\nStep 3: Identify the term linked to Japanese art of flower arranging.\n\nIkebana is the relation to Japanese art and flower arranging.\n\nStep 4: Confirm the answer.\n\n(D) Ikebana is the Japanese art of flower arranging.\n\nAnswer: (D) Ikebana",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?\n\n(A) Harmony and balance\n(B) Devotion and piety\n(C) Love and passion\n(D) Goodwill and love",
+            "correct_answer": 0,
+            "model_answer": "The question asks about the purpose behind the use of specific Sikh Ragas as instructed by Guru Nanak and his successors. Let's analyze each option to find the correct answer:\n\n(A) Harmony and balance - Ragas could contribute to promoting harmony, but Sikhism is more focused on devotion and piety.\n(B) Devotion and piety - Sikhism is known for emphasizing devotion and piety, making this answer a strong candidate.\n(C) Love and passion - While Sikhism may encourage love, the focus is more on devotion and piety.\n(D) Goodwill and love - Guru Nanak advocated compassion and love for everyone, but the primary focus is on devotion and piety.\n\nUpon analyzing each option, the wisest choice appears to be (B) Devotion and piety, as it aligns best with the core values of Sikhism. Therefore, Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote devotion and piety.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?\n\n(A) Shabad\n(B) Khalse\n(C) Nam\n(D) Guru",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let us first explain why each option is considered.\n\n(A) Shabad: Shabad means the \"divine word\" in the context of Guru Granth Sahib, the holy scripture of Sikhism. This term refers to the hymns or words of wisdom that Guru Nanak Dev, the founder of Sikhism, and subsequent Sikh gurus share as divine revelations.\n\n(B) Khalse: Khalse is a term not directly associated with Guru Nanak or Sikhism. The word means a \"bridge\" in Persian, which suggests that it may not be the correct term for denoting the divine word in context.\n\n(C) Nam: Nam is a term used in the context of initiation or profession of the Sikh faith. It refers to the consecration ceremony where a person becomes a disciple of the guru. While it signifies the Sikh identity, it is not the term for \"divine word\" as part of divine revelation.\n\n(D) Guru: This term refers to the spiritual teacher or leader in Sikhism. While Guru Nanak is the first Sikh guru, the term Guru does not specifically denote the \"divine word\" in the context of revelation.\n\nBased on the provided information, the term that Guru Nanak used to denote the \"divine word\" as part of divine revelation is:\n\n(A) Shabad",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the mi'raj?\n\n(A) Muhammad's miraculous ascent to heaven\n(B) Muhammad's migration to Mecca\n(C) Muhammad's first community in Mecca\n(D) Muhammad's revelations of the Qur'an",
+            "correct_answer": 0,
+            "model_answer": "The mi'raj is:\n\n(A) Muhammad's miraculous ascent to heaven\n\nReasoning:\n\nThe mi'raj refers to a significant event in the Islamic tradition during which Prophet Muhammad (peace be upon him) is said to have ascended to heaven. While other options pertain to different aspects of his life such as his migration to Mecca (hijra), the formation of his first community in Mecca (jamaa), or the revelation of the Qur'an, the mi'raj is unique as it specifically denotes his miraculous ascension.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?\n\n(A) Laws of Dharma\n(B) Laws of Karma\n(C) Laws of Vishnu\n(D) Laws of Manu",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Identify the key information in the question.\nThe question is asking about the most famous dharmashastras, which likely dates from around the first century.\n\nStep 2: Evaluate the answer choices based on the key information.\n(A) Laws of Dharma - not correct, as it doesn't directly specify a dharmashastra\n(B) Laws of Karma - not correct, as it refers to the consequences of actions, not a specific dharmashastra\n(C) Laws of Vishnu - not correct, as Vishnu is a Hindu god, not a dharmashastra\n(D) Laws of Manu - correct, as it is a dharmashastra that likely dates back to around the first century and is highly influential\n\nStep 3: Output the final answer.\nThe correct answer is (D) Laws of Manu",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "What does the term \"Qur'an\" literally mean?\n\n(A) The Holy Book\n(B) The Narrative\n(C) The Recitation\n(D) The Pillars",
+            "correct_answer": 2,
+            "model_answer": "To find the correct answer to the question \"What does the term \"Qur'an\" literally mean?\", we need to examine the meaning of the term itself.\n\nStep 1: Understand the term \"Qur'an\"\nThe Qur'an is the holy book of Islam, believed to be the literal word of God as revealed to the Prophet Muhammad.\n\nStep 2: Examine each option provided\n(A) The Holy Book - This is a good description of the Qur'an as a whole, but doesn't reveal its literal meaning.\n(B) The Narrative - This is a broader term that could potentially encompass the concept of the Qur'an, but it doesn't directly relate to its literal meaning.\n(C) The Recitation - \"Qur'an\" comes from the Arabic word \"Qara'a,\" which means to recite. The term \"Qur'an\" is the act of reciting this holy book, so this option seems to match its literal meaning.\n(D) The Pillars - This term refers to the main principles of Islam, not the literal meaning of the word \"Qur'an.\"\n\nGiven the above reasoning, the correct answer is:\n\n(C) The Recitation",
+            "correct": true
+        }
+    ]
+}

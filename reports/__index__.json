@@ -1,4 +1,5 @@
 [
+    {"id": "39fdafc0-2cbc-4c4a-aa0a-f78e83b2f187", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-orcabest", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},
     {"id": "f6150e06-265b-4823-b0fc-ab4aa67c5b8d", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-megacode2-oasst", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},
     {"id": "980ce5fc-e4e4-4a22-8abc-8b392e3fa209", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-megacode2_min100", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},
     {"id": "cf002320-6934-40e1-9b81-fcb2c8f5c3b1", "model_type": "chatml", "model_name": "andreaskoepf/llama2-7b-megacode2_min100", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},

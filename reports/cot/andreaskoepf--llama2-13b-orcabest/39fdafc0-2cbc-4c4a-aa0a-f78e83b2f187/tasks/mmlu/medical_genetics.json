@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "In a Robertsonian translocation fusion occurs at the:\n\n(A) telomeres.\n(B) centromeres.\n(C) histones.\n(D) ends of the long arms.",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Understand the terms involved\nBefore answering the question, let us understand the relevant terms:\n- Robertsonian translocation: A type of chromosomal abnormality that involves the fusion of two non-sister chromatids and always results in the formation of a ring chromosome.\n- Fusion: The process of joining two or moremoieties.\n\nStep 2: Determine the location of fusion in Robertsonian translocation\nNow that we understand the terms, let's look at where the fusion occurs in Robertsonian translocation. As mentioned, this type of translocation involves the fusion of two non-sister chromatids. The non-sister chromatids have a common centromere; therefore, the fusion will occur between the non-sister chromatids near the centromeres.\n\nStep 3: Choose the correct option\nBased on the information above, the fusion in a Robertsonian translocation occurs at the:\n\n(B) centromeres.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Zinc finger proteins and helix-turn-helix proteins are\n\n(A) types of DNA-binding proteins\n(B) involved in the control of translation\n(C) components of ribosomes\n(D) part of the hemoglobin in blood cells",
+            "correct_answer": 0,
+            "model_answer": "To determine the answer, let's first look at each option and understand what zinc finger proteins and helix-turn-helix proteins are.\n\nZinc finger proteins:\nZinc finger proteins are a family of proteins that contain specific structures called zinc fingers, which enable them to bind to DNA. These proteins are primarily involved in the regulation of gene expression.\n\nHelix-turn-helix proteins:\nHelix-turn-helix proteins are a group of transcription factors that can bind to specific DNA sequences, forming a helix-turn-helix structure. This binding helps to regulate the transcription of certain genes.\n\nNow, let's analyze each option:\n\n(A) types of DNA-binding proteins:\nZinc finger proteins and helix-turn-helix proteins both bind to DNA, so this is a possible answer.\n\n(B) involved in the control of translation:\nTranslation is the process of converting mRNA sequences into proteins. Although zinc finger proteins and helix-turn-helix proteins play a role in gene regulation, they are not directly involved in the control of translation.\n\n(C) components of ribosomes:\nRibosomes are the cellular structures responsible for translating mRNA sequences into proteins. Zinc finger proteins and helix-turn-helix proteins are not components of ribosomes.\n\n(D) part of the hemoglobin in blood cells:\nHemoglobin is a protein found in red blood cells, responsible for carrying oxygen throughout the body. Zinc finger proteins and helix-turn-helix proteins have no direct role in hemoglobin or red blood cell function.\n\nBased on the analysis above, the answer is (A) types of DNA-binding proteins.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n\n(A) 0.01\n(B) 0.001\n(C) 0.02\n(D) 0.0001",
+            "correct_answer": 0,
+            "model_answer": "Step 1: Understand the concept of X-linked recessive condition\nX-linked recessive conditions are genetic disorders that arise from a mutation in one of the genes located on the X chromosome. Since males inherit only one X chromosome, they will show the condition if they inherit the mutated X chromosome. Females, on the other hand, have two X chromosomes and usually have a healthy copy of the gene that can mask the mutation.\n\nStep 2: Focus on affected female population\nWe need to find the expected frequency of affected females in a human population with an X-linked recessive condition in which 10% of males are affected.\n\nStep 3: Use the concept of genetic segregation\nWhen a female inherits one normal X chromosome and one X chromosome with the mutation, she will be affected. This is because females have a second X chromosome that can mask the affected one. Males do not have this advantage, so they will be affected if they inherit the mutation.\n\nStep 4: Calculate the expected frequency\nWe know the frequency of affected males (0.10) and that males inherit only one X chromosome. Therefore, the frequency of females carrying at least one X chromosome with mutation (affected females) can be calculated using the idea of genetic segregation.\n\nWe can write this as:\n\n- 10% of males = 0.10\n- 50% of males are NOT affected (having only a normal X chromosome), meaning 50% are affected (having at least one X chromosome with mutation)\n\nSo, the frequency of females carrying at least one X chromosome with mutation is:\n\n0.10 * 0.50 = 0.05\n\nStep 5: Match the calculated frequency with the given options\nThe calculated frequency of affected females is 5%. None of the given options matches this value.\n\nTherefore, the most suitable answer to the question is:\n\n(E) 0.05",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In DNA adenine normally pairs with:\n\n(A) cytosine.\n(B) guanine.\n(C) thymine.\n(D) uracil.",
+            "correct_answer": 2,
+            "model_answer": "The question is related to understanding the structure of DNA and its base pairing.\n\nDNA (Deoxyribonucleic acid) has four basic building blocks or nitrogenous bases which are adenine (A), guanine (G), cytosine (C), and thymine (T). These bases form the genetic code. \n\nWhen adenine pairs with another base, it pairs with thymine (T). This pair is known as an A-T pair. So, in DNA, adenine normally pairs with thymine.\n\nBased on this rationale, adenine pairs with:\n\n(C) thymine. \n\nSo, the correct answer is C.",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n\n(A) autosomal dominant.\n(B) autosomal recessive.\n(C) X-linked dominant.\n(D) X-linked recessive.",
+            "correct_answer": 0,
+            "model_answer": "To answer this multiple-choice question, we need to understand the pattern of inheritance for malignant hyperthermia (hyperpyrexia).\n\nMalignant hyperthermia is caused by a mutation in the ryanodine receptor 1 (RYR1) gene, which is located on chromosome 19.\n\nStep 1: Identify where the gene responsible for the condition is located:\nThe RYR1 gene is located on chromosome 19, which means it is autosomal (rather than X-linked or Y-linked).\n\nStep 2: Determine if the condition follows a dominant or recessive pattern of inheritance:\nMalignant hyperthermia is known to be an autosomal dominant condition. This means that when an individual inherits one mutated copy of the RYR1 gene from a parent, they have a high likelihood (50%) of passing the condition on to their children (also known as expressing the phenotype or trait).\n\nTherefore, based on the information above, the correct answer is:\n\n(A) autosomal dominant.",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Mapping of human chromosomes:\n\n(A) has been restricted to the sex chromosomes because of small family sizes\n(B) proceeded much more successfully as large numbers of DNA markers became available.\n(C) has determined that the number of linkage groups is about twice the number of chromosomes\n(D) has demonstrated that almost all of the DNA is involved in coding for genes",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's analyze each option step-by-step:\n\n(A) This option explains that human chromosome mapping has been restricted only to the sex chromosomes due to small family sizes. While this may be true to some extent, it doesn't account for the overall progress and advancements in the field, so it is not a comprehensive answer.\n\n(B) This option indicates that mapping has proceeded more successfully as more DNA markers became available. The development of new tools and technologies has indeed allowed for the advancement of genetic mapping, so this is a strong contender for the correct answer.\n\n(C) This option states that mapping has determined there to be roughly twice the number of linkage groups as there are chromosomes. However, linkage groups and chromosomes are not direct equivalents, and this statement may not address the main aspects of human chromosome mapping.\n\n(D) This option claims that mapping has demonstrated that almost all DNA is involved in coding for genes. While it is true that the majority of DNA does code for genes, this statement is too specific and not a comprehensive answer to the question.\n\nAfter analyzing each option, the most accurate and broad answer is option (B): Human chromosome mapping has proceeded much more successfully as large numbers of DNA markers became available.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n\n(A) war\n(B) natural disasters\n(C) hunger\n(D) all of these",
+            "correct_answer": 3,
+            "model_answer": "We can examine each option and explain the potential transmission to offspring:\n\n(A) War: Prolonged exposure to war may lead to witnessed trauma, poverty, and loss, which can directly or indirectly affect an offspring's well-being and mental health.\n\n(B) Natural disasters: A parent's exposure to natural disasters can lead to PTSD, anxiety, and behavioral changes, which can be transmitted to offspring.\n\n(C) Hunger: A parent's experience with chronic hunger may cause stress and malnutrition, which can be inherited by their offspring in the form of poor health and cognitive impairment.\n\nEach of these options represents potential ways in which parental exposure can lead to so-called \"intergenerational transmission to offspring.\" (D) all of these seems to be the correct response considering the reasoning above.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Asp235Phe in a molecular report indicates that:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.",
+            "correct_answer": 2,
+            "model_answer": "First, let us examine the question:\n\n\"Asp235Phe in a molecular report indicates that:\"\n\nWe have three possible answer choices, which involve asparagine, phenylalanine, and aspartic acid:\n\n(A) asparagine has been replaced by phenylalanine.\n(B) phenylalanine has been replaced by asparagine.\n(C) aspartic acid has been replaced by phenylalanine.\n(D) phenylalanine has been replaced by aspartic acid.\n\nTo determine the correct answer, we will analyze the code \"Asp235Phe.\" \n\n\"Asp\" refers to the amino acid aspartic acid, and \"Phe\" refers to the amino acid phenylalanine. In the code, the position of the amino acid is indicated by the number (in this case, 235).\n\nSince \"Asp\" means aspartic acid and \"Phe\" means phenylalanine, the code \"Asp235Phe\" tells us that the amino acid at position 235 has been replaced from an aspartic acid to a phenylalanine.\n\nSo, the correct answer is:\n\n(C) aspartic acid has been replaced by phenylalanine.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n\n(A) 1%\n(B) 10%\n(C) 25%\n(D) Almost 100%",
+            "correct_answer": 3,
+            "model_answer": "Step 1: Understand phenylketonuria and its effect on the child\nPhenylketonuria (PKU) is a genetic disorder that prevents the body from breaking down phenylalanine, an amino acid found in protein-rich foods. This leads to an excessive buildup of phenylalanine in the body, which can cause severe intellectual disability and other health problems if left untreated.\n\nStep 2: Understand the question\nThe question is asking about the risk of abnormalities in a child born to a mother with untreated PKU. PKU can be managed with a strict diet or medical treatment, but if left untreated, it leads to severe consequences for the child.\n\nStep 3: Analyze the options\n(A) 1% - This option is too low, as the risk of abnormalities is much higher if a mother with untreated PKU has a child.\n\n(B) 10% - This option seems reasonable, as the risk of abnormalities in the child increases due to the mother's untreated PKU.\n\n(C) 25% - This option is high and might not be accurate; it could be a possibility, but we'll evaluate the remaining options first.\n\n(D) Almost 100% - This option is too high, as some children with mothers diagnosed with PKU and treated before conception might be unaffected. \n\nStep 4: Choose the most reasonable answer\nBased on the analysis, option (B) 10% seems to be the most reasonable answer, as the risk of abnormalities in a child with a mother with untreated PKU is higher than in the general population but not as high as option (D) suggests.\n\nThe answer is (B) 10%.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Exon skipping is associated with:\n\n(A) nonsense mutations.\n(B) regulatory mutations.\n(C) RNA processing mutations.\n(D) silent mutations.",
+            "correct_answer": 2,
+            "model_answer": "Exon skipping is associated with:\n\n(C) RNA processing mutations.\n\nExplanation:\nExon skipping occurs when a processed RNA molecule, which contains a series of exons, is abnormally spliced, causing some exons to be skipped over during the process. This can result in an altered or misspelled protein product due to missing or misplaced exons. RNA processing mutations, which are changes in the RNA molecule's sequence or structure, can cause exon skipping and, as a result, have a direct association with this phenomena.",
+            "correct": false
+        }
+    ]
+}
