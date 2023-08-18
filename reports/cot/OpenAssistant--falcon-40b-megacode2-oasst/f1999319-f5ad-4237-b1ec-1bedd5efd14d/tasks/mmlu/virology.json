@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "How many human polyomaviruses are known at present?\n\n(A) 100\n(B) 1\n(C) 10\n(D) unknown",
+            "correct_answer": 0,
+            "model_answer": "The human polyomaviruses (HPyVs) are a group of small DNA viruses that can cause a variety of diseases in humans, including skin warts, respiratory infections, and cancers. To answer this question, let us go through the following steps:\n\n- Determine the definition of human polyomaviruses: Human polyomaviruses are small DNA viruses that infect humans and can cause various diseases.\n\n- Research the current number of known human polyomaviruses: According to the Centers for Disease Control and Prevention (CDC) and other sources, there are currently nine recognized human polyomaviruses (HPyVs). These are:\n\n  - Merkel cell polyomavirus (MCPyV)\n  - Human BK virus (HBKV)\n  - Human JC virus (JCV)\n  - Simian virus 40 (SV40)\n  - KI virus (KIV)\n  - WU virus (WUV)\n  - Malawi polyomavirus (MWPV)\n  - Tauranga Harbour virus (THV)\n  - Lymphotropic papovavirus (LPV)\n\n- Match the number of known human polyomaviruses to the given options: Since there are nine recognized human polyomaviruses, the correct answer is (C) 10.\nAfter going through these steps, the answer is:\n(C) 10",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "AIDS activism in the U.S. resulted in:\n\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above",
+            "correct_answer": 3,
+            "model_answer": "AIDS activism in the U.S. led to significant changes in the way the disease was addressed. These changes included:\n\n(A) Food and Drug Administration (FDA) reforms: The activism pressured the FDA to expedite the drug approval process, allowing people with AIDS to access potentially life-saving treatments more quickly.\n\n(B) Easier access to investigational drugs: AIDS activists advocated for greater access to unapproved drugs that showed promise in treating the disease, leading to changes in clinical trial requirements and expanded access programs.\n\n(C) Changes in the way medicine was practiced in the U.S.: The activism raised awareness about the need for compassionate and patient-centered care, leading to improvements in medical education and treatment protocols for HIV/AIDS.\n\nBased on these changes, the correct answer is:\n\n(D) All of the above",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Globally, the most deaths are caused by:\n\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis",
+            "correct_answer": 1,
+            "model_answer": "According to the World Health Organization (WHO), the leading causes of death worldwide are:\n\n(A) Respiratory infections - This includes diseases like pneumonia, influenza, and COVID-19. Respiratory infections are a major cause of death, particularly among elderly people and those with underlying health conditions.\n\n(B) Ischemic heart disease - This is a condition where the blood flow to the heart is blocked, usually by a blood clot. It can lead to chest pain, heart attack, and other complications.\n\n(C) Stroke - This is a medical emergency where the blood supply to the brain is interrupted or reduced. It can cause paralysis, speech problems, and other serious disabilities.\n\n(D) Alzheimer's disease and other dementias - This is a progressive neurodegenerative disease that affects memory, thinking, and behavior. It is the most common form of dementia and is a leading cause of disability and death among older adults.\n\nTherefore, the correct answer is:\n\n(A) Respiratory infections",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "What happens during the 'incubation period'?\n\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours",
+            "correct_answer": 1,
+            "model_answer": "During the incubation period, the virus is replicating at an intracellular level. This is the time it takes for a virus to infect a cell and replicate its genetic material before causing symptoms.\n\n(A) is incorrect because the immune system typically has not developed a response to the virus during the incubation period and cannot clear it.\n(B) is correct because this is the primary event that occurs during the incubation period.\n(C) is incorrect because the incubation period can last anywhere from a few days to several weeks, depending on the virus and the individual.\n(D) is incorrect because the incubation period can last anywhere from a few days to several weeks, depending on the virus and the individual, and not just a few hours.\n\nTherefore, the answer is (B).",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:\n\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months",
+            "correct_answer": 1,
+            "model_answer": "To determine the best answer option, we need to consider the factors mentioned in the question: limited access to safe water and low levels of education. We can eliminate answer (A) immediately because formula requires safe water for preparation, which is not guaranteed in countries with limited access to safe water. So, we are left with options (B), (C), and (D).\n\nFor infants in countries with limited access to safe water, it is important to minimize the risk of waterborne diseases. Breast milk is a natural and safe form of hydration and nutrition for infants, and it does not require the use of safe water for preparation. Therefore, answer (B) (exclusively breast fed for six months) would be a reasonable choice in this scenario, as it reduces the risk of waterborne diseases and does not depend on access to safe water for preparation.\n\nHowever, answer (C) (should receive both breast milk and other foods as tolerated in the first 6) is also a reasonable choice because it allows the infant to receive additional nutrients from other foods, which may be necessary in cases where the mother's breast milk is not sufficient or available.\n\nAnswer (D) (exclusively formula fed for six months) is not a suitable option because it requires the use of safe water for preparation, which is not guaranteed in countries with limited access to safe water.\n\n(B) Exclusively breast fed for six months",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?\n\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's consider the process of how new ideas or changes are adopted by a society:\n\n1. There is a small group of people who are the first to adopt a new idea or change - these are the innovators.\n2. A larger group of people then adopts the new idea or change - these are the early adopters.\n3. The majority of the society then adopts the new idea or change - these are the late adopters.\n\nConsidering this process, it's clear that effective change in a community is usually dependent on the innovators and early adopters, as they are the ones who help to spread the new idea or change throughout the society.\n\nTherefore, the answer is:\n\n(B) Early adapters",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "\u201cContingency management\u201d is\u201d:\n\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms",
+            "correct_answer": 1,
+            "model_answer": "A. A strategy of last resort for reducing high-risk behaviors\n\nB. Paying drug users for negative urine specimens\n\nC. Paying sex workers to use condoms\n\nD. Paying drug users to use condoms\n\n(D) Paying drug users to use condoms",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Typical clinical symptoms following infection with astroviruses include which of the following?\n\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to first identify what astroviruses primarily cause.\n\nAstroviruses are a group of small, non-enveloped, single-stranded RNA viruses that commonly cause gastroenteritis in children.\n\nSo, among the given options:\n\n(A) Acute pneumonia - Although astroviruses can sometimes cause respiratory infections, they are not primarily responsible for acute pneumonia.\n\n(B) Gastroenteritis in children - This is a correct clinical symptom following infection with astroviruses.\n\n(C) Hepatitis - Astroviruses are not primarily responsible for hepatitis.\n\n(D) rashes - Astroviruses can sometimes cause skin rashes, but they are not primarily responsible for them.\n\nBased on this information, the answer is:\n\n(B) Gastroenteritis in children",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the most special characteristic of the adaptive immune system?\n\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells",
+            "correct_answer": 3,
+            "model_answer": "The most special characteristic of the adaptive immune system is (D) Clonal expansion of pre-existing antibodies and/or T cells. I will explain my reasoning step-by-step:\n\n- Antibodies (A) are important for the adaptive immune system as they can recognize and neutralize pathogens. However, they are not unique to the adaptive immune system, as some invertebrates have similar molecules that serve a similar function.\n- T cells (B) are also important for the adaptive immune system, as they can recognize and destroy infected cells or help other immune cells. However, they are not the most special characteristic of the adaptive immune system because they are also found in some invertebrates.\n- Memory T cells (C) are a type of T cell that can remember previous infections and mount a faster and stronger response if the same pathogen is encountered again. While this is an important feature of the adaptive immune system, it is not the most special characteristic because it is not unique to the adaptive immune system.\n- Clonal expansion of pre-existing antibodies and/or T cells (D) is a unique feature of the adaptive immune system. During an infection, some B cells or T cells recognize and bind to a specific antigen on the pathogen. These cells then undergo clonal expansion, where many copies of the same cell are produced, all recognizing the same antigen. This allows the adaptive immune system to produce a large number of cells that are specifically targeted against the pathogen, making the immune response much more precise and effective. This feature is not found in invertebrates or other types of immune systems, making it the most special characteristic of the adaptive immune system.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone",
+            "correct_answer": 1,
+            "model_answer": "Chemotherapy is a type of cancer treatment that uses strong chemicals to kill cancer cells. It is typically used in combination with other treatments such as surgery and radiation therapy. Chemotherapy drugs work by interfering with the cancer cell's ability to grow and divide.\n\nSo the answer is (A) Interferon and ribavirin.",
+            "correct": false
+        }
+    ]
+}

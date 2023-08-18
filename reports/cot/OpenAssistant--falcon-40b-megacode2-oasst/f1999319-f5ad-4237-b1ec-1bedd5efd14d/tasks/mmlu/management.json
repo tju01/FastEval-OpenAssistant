@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n\n(A) Bargaining\n(B) Satisficing\n(C) Accepting\n(D) Compromising",
+            "correct_answer": 1,
+            "model_answer": "To find the answer, let's go through the options one by one:\n\n(A) Bargaining: Bargaining refers to the process of negotiation, which involves discussing and agreeing on a mutually acceptable outcome. However, it does not specifically describe a sub-optimal but acceptable outcome.\n\n(B) Satisficing: Satisficing refers to the concept of settling for an outcome that meets minimum acceptable criteria, rather than striving for the best possible outcome. This could describe a sub-optimal but acceptable outcome of negotiations.\n\n(C) Accepting: Accepting refers to the act of agreeing to or acknowledging something. While this may be involved in reaching a sub-optimal but acceptable outcome, it doesn't specifically describe the outcome itself.\n\n(D) Compromising: Compromising refers to the act of finding a middle ground between two or more conflicting positions, often involving some degree of give and take. This may result in a sub-optimal but acceptable outcome, but it doesn't specifically describe the outcome itself.\n\nBased on this analysis, the term that best describes a sub-optimal but acceptable outcome of negotiations between parties is:\n\n(D) Compromising",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "What is the term for the 'rule of thumb' type of bias in decision making?\n\n(A) Framing bias\n(B) Hindsight bias\n(C) Over-confidence bias\n(D) Heuristics",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, let's go through each option and evaluate if it fits the description of the 'rule of thumb' type of bias in decision making.\n\n(A) Framing bias: This refers to the tendency to make different decisions depending on how a problem or choice is presented. This could potentially be a 'rule of thumb' type of bias, so let's keep this option.\n\n(B) Hindsight bias: This refers to the tendency to see past events as more predictable than they actually were. While this can influence decision making, it does not specifically refer to a 'rule of thumb' type of bias, so we can rule this one out.\n\n(C) Over-confidence bias: This refers to the tendency to be more confident in our judgments and abilities than is warranted. Although this can impact decision making, it does not specifically refer to a 'rule of thumb' type of bias, so we can rule this one out as well.\n\n(D) Heuristics: This refers to mental shortcuts or rules of thumb that people use to make decisions, judgments, and solve problems. This option directly fits the description of the 'rule of thumb' type of bias in decision making.\n\nBased on this analysis, the correct answer is (D) Heuristics.",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "What is a normative perspective?\n\n(A) The way things are.\n(B) The way things are going to be.\n(C) The way things should be.\n(D) The way things were.",
+            "correct_answer": 2,
+            "model_answer": "A normative perspective refers to an evaluative viewpoint that judges or assesses things based on how they should be rather than how they actually are. It concerns values, standards, and ideals, and it seeks to establish criteria for what is good, right, or desirable.\n\nNow let's examine the answer choices:\n\n(A) The way things are. - This describes a descriptive or positive perspective, which does not focus on norms or ideals.\n\n(B) The way things are going to be. - This describes a predictive or positive perspective, which looks forward to future outcomes rather than normative standards.\n\n(C) The way things should be. - This describes a normative perspective, as it focuses on ideals, values, and standards rather than actual states of affairs.\n\n(D) The way things were. - This describes a historical or negative perspective, which looks back at past states of affairs rather than normative standards.\n\nBased on this analysis, the correct answer is:\n\n(C) The way things should be.",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?\n\n(A) The potential for entry into the industry\n(B) The threat of substitute products\n(C) The power of customers\n(D) The level of rivalry",
+            "correct_answer": 3,
+            "model_answer": "In the Five Forces Model, the type of competitive activity that exists between organizations is characterized by the level of rivalry among existing competitors in an industry.\n\n(D) The level of rivalry",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which one of the following political leaders could not be termed a 'transformational' leader?\n\n(A) Margaret Thatcher\n(B) Mikhail Gorbachov\n(C) Nelson Mandela\n(D) Bill Clinton",
+            "correct_answer": 3,
+            "model_answer": "We need to first understand what a transformational leader is. Transformational leadership is defined as a leadership style that causes a change in the individual and social system of followers. The leader inspires followers to transcend their self-interest for the good of the group or organization.\n\nNow, let's consider each of the leaders:\n\n(A) Margaret Thatcher: As the first female Prime Minister of the United Kingdom, she shattered the glass ceiling for women in politics. She implemented significant economic reforms, transforming the UK's economy. \n\n(B) Mikhail Gorbachov: As the last leader of the Soviet Union, he oversaw the dismantling of the USSR and the end of the Cold War. He introduced political and economic reforms in the USSR, leading to significant changes. \n\n(C) Nelson Mandela: He served as the President of South Africa from 1994 to 1999. He was a leader in the anti-apartheid movement, serving 27 years in prison for his political beliefs. After his release, he worked to promote national unity and reconciliation in South Africa. \n\n(D) Bill Clinton: As the 42nd President of the United States, he pushed for economic and healthcare reforms. He was the first Democratic president since FDR to win a second term.\n\nBased on the definition of a transformational leader and the actions of each of the leaders, all four of these political leaders could be termed as transformational leaders.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "What is a Gantt chart a type of?\n\n(A) Work flow design\n(B) Work schedule design\n(C) Work rate design\n(D) Work output design",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first define what a Gantt chart is.\n\nA Gantt chart is a graphical representation of a project schedule, showing the start and end dates of tasks, as well as their duration and progress over time. It helps to visualize and track the progress of a project, as well as to identify any bottlenecks or delays.\n\nNow, let's examine each of the answer choices:\n\n(A) Work flow design - A workflow design refers to the flow of work or tasks within a project or process. While a Gantt chart does show the flow of tasks, it does not solely focus on the design of the workflow itself.\n\n(B) Work schedule design - A work schedule design refers to the arrangement of work or tasks over a specific period of time. This definition aligns with the purpose of a Gantt chart, which is to show the start and end dates of tasks, as well as their progress over time.\n\n(C) Work rate design - Work rate design refers to the speed or efficiency at which work is completed. While a Gantt chart can provide insights into the progress of work, it does not directly focus on the design of work rates.\n\n(D) Work output design - Work output design refers to the design of the final product or deliverable of a project. Although a Gantt chart can help to track the progress of a project, it does not solely focus on the design of the project output.\n\nBased on this analysis, the correct answer is:\n(B) Work schedule design.",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Which one of the following is a feature of McGregor's Theory X?\n\n(A) Workers enjoy responsibility.\n(B) Workers view physical and mental effort as a natural part of work.\n(C) Workers like to show initiative.\n(D) Workers like to be directed.",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, let's first understand McGregor's Theory X and Y. McGregor proposed two theories about how managers perceive their workers:\n\n1. Theory X: Workers dislike work, are lazy, and will avoid responsibility if possible.\n2. Theory Y: Workers enjoy work, are self-directed, and seek responsibility.\n\nNow let's analyze each of the given statements in relation to Theory X:\n\n(A) Workers enjoy responsibility. - This statement contradicts Theory X, which suggests that workers dislike responsibility.\n\n(B) Workers view physical and mental effort as a natural part of work. - This statement aligns with Theory X, which assumes that workers are lazy and avoid work.\n\n(C) Workers like to show initiative. - This statement also contradicts Theory X.\n\n(D) Workers like to be directed. - This statement aligns with Theory X, as it suggests that workers prefer to be told what to do rather than taking responsibility themselves.\n\nBased on this analysis, the only statement that is a feature of McGregor's Theory X is:\n\n(D) Workers like to be directed.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the term for power derived from status or position in an organisation?\n\n(A) Referent\n(B) Expert\n(C) Reward\n(D) Legitimate",
+            "correct_answer": 3,
+            "model_answer": "The term for power derived from status or position in an organisation is:\n\n(D) Legitimate",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Which writer is most associated with bureaucratic structures?\n\n(A) Henry Fayol\n(B) Max Weber\n(C) Adam Smith\n(D) Mary Parker Follett",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to understand what bureaucratic structures are and then identify which of the given writers is most associated with them.\n\nBureaucratic structures refer to a type of organizational structure characterized by hierarchy, formal rules and procedures, and a division of labor. The term is often used to describe government agencies and large corporations.\n\nNow let's examine the given writers and their works:\n\n(A) Henry Fayol - He is most known for his theory of administrative management, which emphasized the importance of hierarchy, division of labor, and rules in organizations.\n\n(B) Max Weber - He is a prominent sociologist and economist who wrote extensively about bureaucracy. He defined bureaucracy as a rational, efficient form of organization based on rules and hierarchy, and he studied its effects on society.\n\n(C) Adam Smith - He was an economist who wrote about the free market and the division of labor. He is not primarily associated with bureaucratic structures.\n\n(D) Mary Parker Follett - She was a management consultant and writer who advocated for a more democratic and participative approach to management. She is not primarily associated with bureaucratic structures.\n\nBased on this analysis, the most appropriate answer is:\n\n(B) Max Weber",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Who of the following is the industrial philanthropist?\n\n(A) Frederick Taylor\n(B) Seebohm Rowntree\n(C) Henry Ford\n(D) Max Weber",
+            "correct_answer": 1,
+            "model_answer": "(C) Henry Ford",
+            "correct": false
+        }
+    ]
+}

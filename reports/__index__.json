@@ -1,4 +1,6 @@
 [
+    {"id": "badf0ca3-2baf-4c3d-968d-74de497a0d31", "model_type": "chatml", "model_name": "andreaskoepf/falcon-40b-megacode2", "benchmarks": ["mt-bench", "human-eval-plus", "cot"], "model_args": {}},
+    {"id": "f1999319-f5ad-4237-b1ec-1bedd5efd14d", "model_type": "chatml", "model_name": "OpenAssistant/falcon-40b-megacode2-oasst", "benchmarks": ["mt-bench", "human-eval-plus", "cot"], "model_args": {}},
     {"id": "39fdafc0-2cbc-4c4a-aa0a-f78e83b2f187", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-orcabest", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},
     {"id": "f6150e06-265b-4823-b0fc-ab4aa67c5b8d", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-megacode2-oasst", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},
     {"id": "980ce5fc-e4e4-4a22-8abc-8b392e3fa209", "model_type": "chatml", "model_name": "andreaskoepf/llama2-13b-megacode2_min100", "benchmarks": ["mt-bench", "cot", "human-eval-plus", "lm-evaluation-harness"], "model_args": {}},

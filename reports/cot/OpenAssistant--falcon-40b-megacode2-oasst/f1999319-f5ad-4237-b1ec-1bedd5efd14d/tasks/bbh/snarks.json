@@ -1,0 +1,215 @@
+{
+    "score": 0.6666666666666666,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) He's a generous person, trying to promote a charity stream that has raised millions to help kids in need\n(B) He's a terrible person, trying to promote a charity stream that has raised millions to help kids in need",
+            "correct_answer": "(B)",
+            "model_answer": "We'll analyze the statements by examining each one to see if it contains sarcasm.\n\nStatement (A) says, \"He's a generous person, trying to promote a charity stream that has raised millions to help kids in need.\" This statement is generally positive, praising someone as generous and highlighting a charitable act.\n\nStatement (B) says, \"He's a terrible person, trying to promote a charity stream that has raised millions to help kids in need.\" This statement is also positive in its assessment of the charity stream's success. However, it contradicts itself by calling the person terrible and then praising their charitable efforts.\n\nBased on the contradiction in statement (B), it contains sarcasm. Therefore, the answer is:\n\nB",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Hey just be happy then you won't be depressed anymore\n(B) Hey just be happy that you won't be depressed anymore",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze the two options given:\n\n(A) Hey just be happy then you won't be depressed anymore - This statement implies that being happy is a simple choice and that the person can easily stop being depressed by just choosing to be happy. This statement seems to minimize the complexity of depression and can be considered sarcastic.\n\n(B) Hey just be happy that you won't be depressed anymore - This statement does not imply that being happy is a simple choice or that the person can easily stop being depressed. Instead, it acknowledges that the person won't be depressed anymore, which can be seen as a positive thing. This statement does not seem to be sarcastic.\n\nSo the answer is:\n(A) Hey just be happy then you won't be depressed anymore",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Just memeing about being racist, that's what keeps it okay\n(B) Just memeing about being racist, that's what keeps it toxic",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each option step-by-step:\n\n(A) Just memeing about being racist, that's what keeps it okay\n1. The statement is about being racist.\n2. It says that memeing about it makes it okay.\n3. This implies that the speaker acknowledges racism is not okay, but uses humor to downplay the seriousness of the issue. \n\nConclusion for statement A: Sarcastic\n\n(B) Just memeing about being racist, that's what keeps it toxic\n1. The statement is about being racist.\n2. It says that memeing about it makes it toxic.\n3. This implies that the speaker acknowledges racism is not okay, and that using humor to downplay the seriousness of the issue actually contributes to a toxic environment.\n\nConclusion for statement B: Not sarcastic\n\nSince both statements acknowledge that racism is not okay, the difference lies in how they view using humor to address the issue. Statement A uses sarcasm by downplaying the seriousness, while statement B does not use sarcasm as it emphasizes the negative impact of humor in this context.\n\nFinal answer: (A)",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) You are mistaken when you say that he should have just let them get away for assaulting him\n(B) You are right when you say that he should have just let them get away for assaulting him",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each statement.\n\n(A) You are mistaken when you say that he should have just let them get away for assaulting him: This statement implies that the speaker disagrees with someone's opinion and believes that the person being assaulted should not have let them get away with it. This statement does not seem sarcastic.\n\n(B) You are right when you say that he should have just let them get away for assaulting him: This statement implies that the speaker agrees with someone's opinion that the person being assaulted should have let them get away with it. This statement is likely sarcastic, as it contradicts what someone would typically believe in such a situation.\n\nThe answer is (B).",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) He didn't threaten, he only urged; totally different\n(B) He didn't threaten, he only pleaded; totally different",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each option step by step:\n\nOption (A): \"He didn't threaten, he only urged; totally different\"\n\n1. The statement starts by negating the action of threatening.\n2. It then suggests that instead of threatening, the person only urged.\n3. Finally, the statement adds \"totally different,\" which implies a sarcastic tone, suggesting that urging and threatening are actually similar.\n\nOption (B): \"He didn't threaten, he only pleaded; totally different\"\n\n1. Similar to Option (A), the statement negates the action of threatening and suggests that the person only pleaded.\n2. It also adds \"totally different,\" implying a sarcastic tone and suggesting that pleading and threatening are not very different.\n\nBased on the analysis, both options have a similar structure and use the same sarcastic phrase \"totally different.\" However, Option (A) contains the word \"urged,\" which has a more negative connotation than \"pleaded.\" This creates a stronger contrast between the two actions, making Option (A) appear more sarcastic.\n\nTherefore, the answer is:\n\n(A) He didn't threaten, he only urged; totally different",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Wow thats crazy, I've never had a takeout meal that used hardwood containers before!\n(B) Wow thats crazy, I've never had a takeout meal that used plastic containers before!",
+            "correct_answer": "(B)",
+            "model_answer": "I will analyze both statements to determine which one is sarcastic.\n\nStatement (A): \"Wow thats crazy, I've never had a takeout meal that used hardwood containers before!\"\nIn this statement, the speaker is expressing surprise about never having a takeout meal in a hardwood container, which is an unusual and uncommon type of container. It is unlikely that the speaker has actually never had a takeout meal in a hardwood container. Therefore, this statement appears to be sarcastic.\n\nStatement (B): \"Wow thats crazy, I've never had a takeout meal that used plastic containers before!\"\nThis statement is similar to the first one, but it mentions a common and usual type of container (plastic). Since it is not unlikely for someone to have never had a takeout meal in a plastic container, this statement does not appear to be sarcastic.\n\nBased on this analysis, the answer is:\n(A)",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Have you tried not being poor? It is much easier\n(B) Have you tried not being rude? It is much easier",
+            "correct_answer": "(A)",
+            "model_answer": "So to determine which statement is sarcastic, let's analyze each one individually.\n\nStatement (A): \"Have you tried not being poor? It is much easier.\"\nThis statement suggests that being poor is a choice and implies that it's easy to stop being poor. This is a false and insensitive statement, which is often used to criticize and belittle people experiencing poverty. Such a statement is likely to be sarcastic, as it presents an absurd and unrealistic idea while criticizing others. Therefore, the answer is (A).\n\nStatement (B): \"Have you tried not being rude? It is much easier.\"\nThis statement suggests that being rude is a choice and implies that it's easy to stop being rude. This is also a false and insensitive statement as it oversimplifies the reasons behind rudeness and can be used to criticize and belittle people. However, this statement presents a more realistic and achievable idea compared to statement (A). It is still likely to be sarcastic, as it presents an oversimplified idea while criticizing others. Therefore, the answer is (A).\n\nSo, the correct answer is (A).",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Yeah. Let's get rid of the trams and build carriages instead\n(B) Yeah. Let's get rid of the trams and build lightrail instead",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze both options step by step:\n\n(A) Yeah. Let's get rid of the trams and build carriages instead.\n1. Eliminate sarcasm detection: \"Yeah. Let's get rid of the trams and build carriages instead.\" - This statement is a suggestion to replace trams with carriages, which is a viable option but could be seen as sarcastic due to the word \"Yeah.\"\n2. Check for context: Unfortunately, there is no context provided. The sarcasm may lie in the tone of voice or the speaker's attitude rather than the words themselves.\n\n(B) Yeah. Let's get rid of the trams and build lightrail instead.\n1. Eliminate sarcasm detection: \"Yeah. Let's get rid of the trams and build lightrail instead.\" - This statement is also a suggestion, but it suggests replacing trams with lightrail, which is another viable option. There is no clear indication of sarcasm in this statement.\n2. Check for context: Again, no context is provided. It is impossible to determine if either statement is sarcastic without more information.\n\nBased on the analysis, it is impossible to determine which statement is sarcastic without additional context.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Yeah, I've noticed he's been drinking every day recently, what a great transformation\n(B) Yeah, I've noticed he's been exercising every day recently, what a great transformation",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, we need to analyze the tone and meaning of each statement.\n\nStatement (A): \"Yeah, I've noticed he's been drinking every day recently, what a great transformation.\"\nIn this statement, the speaker is saying that they've noticed the person has been drinking every day recently and is calling it a \"great transformation.\" The use of the word \"great\" in this context is sarcastic, as it implies that the transformation is not actually great, but rather negative.\n\nStatement (B): \"Yeah, I've noticed he's been exercising every day recently, what a great transformation.\"\nIn this statement, the speaker is saying that they've noticed the person has been exercising every day recently and is calling it a \"great transformation.\" The use of the word \"great\" in this context is not sarcastic, as it implies that the transformation is positive and commendable.\n\nBased on the analysis of each statement, we can conclude that:\n\nThe sarcastic statement is (A).",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) He's over six feet, so he must be tall\n(B) He's over six feet, so he must be wonderful",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, we need to analyze the relationship between the two parts of each statement.\n\nIn statement (A), the height is being mentioned, and then a conclusion is being made based on that height. However, being over six feet tall is not necessarily an indicator of being tall, as it is already established that the person is over six feet tall. The conclusion made is not very strong, and the statement is not likely to be sarcastic.\n\nIn statement (B), the height is again mentioned, and a conclusion is made. However, in this case, being called \"wonderful\" is a positive adjective that is not directly related to the height. The statement is weaker than statement (A), but it is still possible that it is sarcastic, as the conclusion is not strongly supported by the given information.\n\nBased on the analysis, statement (B) is more likely to be sarcastic than statement (A) because the conclusion made in statement (B) is not strongly supported by the information provided.\n\nThe answer is: (B)",
+            "correct": true
+        },
+        {
+            "id": 10,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Working at a restaurant has made me an amazing chef\n(B) Working at a McDonald's has made me an amazing chef",
+            "correct_answer": "(B)",
+            "model_answer": "(B) Working at a McDonald's has made me an amazing chef\n\nExplanation:\nOption (A) implies that working at a restaurant has improved the person's cooking skills, which is a reasonable assumption.\nOption (B) implies that working at a fast food restaurant, specifically McDonald's, has made the person an amazing chef, which is unlikely since fast food restaurants are known for their simple and standardized recipes. Therefore, the statement is likely sarcastic.",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Yes, the game is over after the second half\n(B) Yes, the game is over after the first half",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, we need to analyze the meaning behind each statement.\n\n(A) Yes, the game is over after the second half - This statement implies that the game is over after the second half, which would be incorrect because there is usually a halftime break in the middle of the game, and the game continues after that break.\n\n(B) Yes, the game is over after the first half - This statement implies that the game is over after the first half, which would be incorrect because the game continues after the first half.\n\nGiven the context, (A) is the sarcastic statement since it implies that the game is over after the second half, which would be incorrect.",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Yeah, anarchism is taught as a prime example of a governing system\n(B) Yeah, democracy is taught as a prime example of a governing system",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each statement:\n\n(A) \"Yeah, anarchism is taught as a prime example of a governing system.\" Anarchism is a political philosophy that advocates for the abolition of all government and authority. It is not a typical example of a governing system. Therefore, this statement could be sarcastic because it suggests that anarchism is taught as a prime example of a governing system, which is not the case.\n\n(B) \"Yeah, democracy is taught as a prime example of a governing system.\" Democracy is a political system in which all citizens have an equal say in the government. It is a common and well-established example of a governing system. Therefore, this statement is not sarcastic, as it is a true and reasonable statement.\n\nBased on this analysis, the answer is:\n\n(A)",
+            "correct": true
+        },
+        {
+            "id": 13,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Everyone knows salt is the highlight of gourmet sophistication\n(B) Everyone knows caviar is the highlight of gourmet sophistication",
+            "correct_answer": "(A)",
+            "model_answer": "Let's examine both options step-by-step:\n\n(A) Everyone knows salt is the highlight of gourmet sophistication\n\nSalt is a common and inexpensive ingredient that is used in many dishes. It is not typically associated with gourmet sophistication. Therefore, it is likely that the statement is sarcastic.\n\n(B) Everyone knows caviar is the highlight of gourmet sophistication\n\nCaviar is a luxury food item that is often associated with gourmet sophistication. It is expensive and considered a delicacy by many people. This statement appears to be serious and not sarcastic.\n\nAfter analyzing both options, it seems that option (A) is the sarcastic statement. So the answer is:\n(A) Everyone knows salt is the highlight of gourmet sophistication",
+            "correct": true
+        },
+        {
+            "id": 14,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) One of the worst things to do working in retail was pushing a trolley of returns around the store putting them back\n(B) One of the enjoyable things to do working in retail was pushing a trolley of returns around the store putting them back",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, we will analyze the meanings of each statement and look for any signs of irony or sarcasm.\n\n(A) One of the worst things to do working in retail was pushing a trolley of returns around the store putting them back\n- In this statement, the person is saying that pushing a trolley of returns around the store is one of the worst things to do while working in retail. This implies that the person finds this task to be unpleasant or frustrating.\n\n(B) One of the enjoyable things to do working in retail was pushing a trolley of returns around the store putting them back\n- In this statement, the person is saying that pushing a trolley of returns around the store is one of the enjoyable things to do while working in retail. This implies that the person finds this task to be pleasant or satisfying.\n\nBased on the analysis, Statement (B) is sarcastic because it says that pushing a trolley of returns is an enjoyable task, which is the opposite of what is typically expected or believed.",
+            "correct": true
+        },
+        {
+            "id": 15,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) The best way to defeat a stronger/larger and better regimented force is by fighting on their terms\n(B) The best way to defeat a stronger/larger and better regimented force is by fighting on your terms",
+            "correct_answer": "(A)",
+            "model_answer": "Let's analyze the options step by step.\n\nOption (A) states that the best way to defeat a stronger/larger and better regimented force is by fighting on their terms. This statement could be interpreted as suggesting that it is better to adopt the strategies and tactics of a more powerful opponent, which may not be the most effective approach. However, it is possible that this statement could be made sarcastically to emphasize the opposite point of view.\n\nOption (B) states that the best way to defeat a stronger/larger and better regimented force is by fighting on your terms. This statement suggests that it is better to use one's own strengths and strategies, rather than adopting those of the opponent, which is a more conventional approach to conflict.\n\nBased on the analysis, Option (A) could potentially be sarcastic, while Option (B) is more likely to be a serious statement.\n\nThe answer is: (A)",
+            "correct": true
+        },
+        {
+            "id": 16,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) He's such terrible relationship material when he's drunk\n(B) He's such great relationship material when he's drunk",
+            "correct_answer": "(B)",
+            "model_answer": "Let's analyze each statement.\n\n1) \"He's such terrible relationship material when he's drunk\":\n- saying someone is terrible relationship material is a negative statement\n- but the sarcasm lies in saying that being drunk makes them worse, when in reality, alcohol often lowers one's inhibitions and makes one act more like their \"true self\"\n\n2) \"He's such great relationship material when he's drunk\":\n- saying someone is great relationship material is a positive statement\n- sarcasm lies in saying that being drunk makes them better, when in reality, alcohol often lowers one's inhibitions and makes one act more like their \"true self\"\n\nConclusion: Both statements contain sarcasm, but option (A) is the one that is stating a contradictory opinion while option (B) is not.\n\nAnswer: (A)",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to return it\n(B) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to dumpster it",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze both options:\n\n(A) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to return it\nIn this statement, the person is expressing dissatisfaction with their phone's battery life, but they also mention that they will have to return the phone. This implies that they have an option to get a refund or exchange the phone, which is not necessarily a sarcastic statement.\n\n(B) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to dumpster it\nIn this statement, the person is expressing dissatisfaction with their phone's battery life, but they also say they'll have to dumpster the phone. This implies that they have no other option but to throw the phone away, which is an exaggerated and unlikely response to a phone with bad battery life. This statement is more likely to be sarcastic, as it suggests an extreme and unrealistic reaction to the situation.\n\nTherefore, the answer is (B) Welp, my $1000 dollar phone has bad battery life, guess I'll just have to dumpster it",
+            "correct": true
+        },
+        {
+            "id": 18,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) This website is well known to post falsehoods and spread false rumors. Rock-solid source if you ask me\n(B) This website is well known to post falsehoods and spread false rumors. Suspicious source if you ask me",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each option:\n\n(A) This website is well known to post falsehoods and spread false rumors. Rock-solid source if you ask me\n- The phrase \"Rock-solid source\" is commonly used in a sarcastic tone to emphasize the opposite of what it means.\n\n(B) This website is well known to post falsehoods and spread false rumors. Suspicious source if you ask me\n- The phrase \"Suspicious source\" is not typically used in a sarcastic tone.\n\nBased on our analysis, option (A) is the sarcastic statement.",
+            "correct": true
+        },
+        {
+            "id": 19,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Violence is a perfect way to unleash your frustrations\n(B) Exercise is a perfect way to unleash your frustrations",
+            "correct_answer": "(A)",
+            "model_answer": "A good way to determine which statement is sarcastic is to examine the sentiment.\n\n\"Violence is a perfect way to unleash your frustrations\" - This statement is encouraging violence to express anger.\n\nVs\n\n\"Exercise is a perfect way to unleash your frustrations\" - This statement is encouraging exercise to express anger, which is a positive sentiment.\n\nAs the first statement advocates for violence and the second statement advocates against it, we can conclude that option (A) is sarcastic and option (B) is not.",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Working the printer is too complex for me\n(B) Working the microprocessor is too complex for me",
+            "correct_answer": "(A)",
+            "model_answer": "(B) Working the microprocessor is too complex for me\n\nExplanation: The sarcasm in this statement is apparent because it is highly unlikely that working with a microprocessor is too complex for someone (as microprocessors are fairly simple components), but it is likely that working with a printer could be too complex for some people due to the various parts and troubleshooting that can be involved. Thus, the statement (A) Working the printer is too complex for me would not be considered sarcastic.",
+            "correct": true
+        },
+        {
+            "id": 21,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Because no world needs more kids with trust issues and psychological problems than we already have!\n(B) Because this world needs more kids with trust issues and psychological problems than we already have!",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, we need to analyze the meaning of each statement.\n\n(A) Because no world needs more kids with trust issues and psychological problems than we already have!\nThis statement implies that the world already has too many kids with trust issues and psychological problems, and it's not a good idea to add more to the count.\n\n(B) Because this world needs more kids with trust issues and psychological problems than we already have!\nThis statement implies the opposite of statement (A). It suggests that the world needs more kids with trust issues and psychological problems.\n\nBased on the analysis, statement (B) is sarcastic as it implies the opposite of what is generally considered to be true or desirable.\n\nFinal answer: (B)",
+            "correct": true
+        },
+        {
+            "id": 22,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) You mean Knuth up arrow notation isn't unfamiliar for you?\n(B) You mean Knuth up arrow notation isn't normal for you?",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which of the two statements is sarcastic, we need to analyze the meaning and tone of each statement.\n\n(A) You mean Knuth up arrow notation isn't unfamiliar for you?\n\n\"Unfamiliar\" means not known or not well-known, while \"isn't\" is a contraction of \"is not.\" So, this statement is expressing that the speaker expects the listener to be familiar with Knuth up-arrow notation. The use of \"isn't\" adds a slight negative connotation, suggesting that it's surprising or unexpected for the listener to be unfamiliar with it. However, this statement does not convey a strongly negative or disapproving tone.\n\n(B) You mean Knuth up arrow notation isn't normal for you?\n\n\"Normal\" means conforming to a standard or typical. The statement is essentially asking if the listener finds Knuth-up arrow notation to be outside of the standard or typical. By using the word \"isn't,\" the statement implies that it is surprising or unexpected for the listener to consider the notation as not normal. This statement has a slightly disapproving tone, as it implies that the listener should find the notation to be normal.\n\nBased on this analysis, statement (B) \"You mean Knuth up arrow notation isn't normal for you?\" is more likely to be sarcastic because of its slightly disapproving tone.",
+            "correct": true
+        },
+        {
+            "id": 23,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) You're right, it's the first week of winter! It will definitely get warmer in a couple weeks for our first playoff game\n(B) You're right, it's the last week of winter! It will definitely get warmer in a couple weeks for our first playoff game",
+            "correct_answer": "(A)",
+            "model_answer": "Let's analyze both options one by one:\n\n(A): \"You're right, it's the first week of winter! It will definitely get warmer in a couple weeks for our first playoff game\"\nAlthough the first part sounds like agreement (\"You're right\"), the speaker implies it's not the first week of winter and in fact it's the last week. The further sarcasm lies in the prediction that the weather will get warmer just when a playoff game happens.\n\n(B): \"You're right, it's the last week of winter! It will definitely get warmer in a couple weeks for our first playoff game\"\nIn this option sarcasm is in the first part (\"You're right\") but not in the second one (\"it's the last week of winter\") as it states an enviable fact which is not unlikely. There's no further sarcastic twist as in option (A).\n\nFinal answer: (A)",
+            "correct": true
+        },
+        {
+            "id": 24,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Sneaking out of a government facility with dangerous contraband isn't going to be easy\n(B) Sneaking out of a government facility with dangerous contraband isn't going to be illegal",
+            "correct_answer": "(B)",
+            "model_answer": "Let's analyze both statements:\n\n(A) Sneaking out of a government facility with dangerous contraband isn't going to be easy\n- This statement implies that sneaking out of a government facility with dangerous contraband is going to be difficult. This can be considered as a sarcastic statement, since it is stating the opposite of what is expected.\n\n(B) Sneaking out of a government facility with dangerous contraband isn't going to be illegal\n- This statement implies that sneaking out of a government facility with dangerous contraband is going to be legal. This is not a sarcastic statement, as it is simply stating a fact that is not expected to be true.\n\nBased on the analysis, the answer is:\n\n(A) Sneaking out of a government facility with dangerous contraband isn't going to be easy",
+            "correct": false
+        },
+        {
+            "id": 25,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Good thing things aren't more expensive now than they were eight years ago\n(B) Good thing things aren't more expensive now than they were eight days ago",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze the statements:\n\n(A) Good thing things aren't more expensive now than they were eight years ago\nThis statement could be seen as sarcastic because it implies that things are actually more expensive now, despite the statement saying the opposite.\n\n(B) Good thing things aren't more expensive now than they were eight days ago\nThis statement seems more straightforward, as it is simply expressing relief that things aren't more expensive than they were a short period of time ago.\n\nBased on this analysis, I would say that statement (A) is the sarcastic one.",
+            "correct": true
+        },
+        {
+            "id": 26,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) You're welcome my dear friend. Always glad to feed the elephants, that woefully endangered species\n(B) You're welcome my dear friend. Always glad to feed the trolls, that woefully endangered species",
+            "correct_answer": "(B)",
+            "model_answer": "To answer this question, I will evaluate each option to determine whether the statement is expressing a sentiment opposite to what is actually being conveyed.\n\nOption A: \"You're welcome my dear friend. Always glad to feed the elephants, that woefully endangered species.\"\n\n- The speaker is saying they are \"glad to feed the elephants,\" which is a positive statement. However, they use the word \"woefully\" before \"endangered species,\" suggesting that they actually feel sad or disappointed about the situation. This creates a contrast between the positive statement and the underlying sentiment, making it potentially sarcastic.\n\nOption B: \"You're welcome my dear friend. Always glad to feed the trolls, that woefully endangered species.\"\n\n- Similar to Option A, the speaker is saying they are \"glad to feed the trolls.\" But the use of \"woefully\" before \"endangered species\" once again suggests that the speaker actually feels negative about the situation. This creates a contrast between the positive statement and the underlying sentiment, making it potentially sarcastic.\n\nBased on this analysis, both Option A and Option B are potentially sarcastic. However, since the question asks for a single-letter answer, I will choose one of the options.\n\nFinal answer: (A)",
+            "correct": false
+        },
+        {
+            "id": 27,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) Without the river there's no water and no electricity. Blocking it is such a smart move!\n(B) Without the river there's no water and no electricity. Blocking it is such a terrible move!",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, we should examine the context and the intended meaning of each statement.\n\n(A) Without the river there's no water and no electricity. Blocking it is such a smart move!:\nThe statement implies that blocking the river is a bad idea because it would lead to a lack of water and electricity. The use of the word \"smart\" in this context is likely sarcastic, as it suggests that the action is actually foolish.\n\n(B) Without the river there's no water and no electricity. Blocking it is such a terrible move!:\nThe statement implies that blocking the river is a bad idea because it would lead to a lack of water and electricity. The use of the word \"terrible\" in this context is consistent with the intended meaning of the statement, as it suggests that the action is actually bad.\n\nBased on this analysis, the first statement (A) is sarcastic. The answer is:\n\n(A)",
+            "correct": true
+        },
+        {
+            "id": 28,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) What a poor guy, years of work and he only got a $50,000 scholarship\n(B) What a poor guy, years of work and he only got a $50 scholarship",
+            "correct_answer": "(A)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze each statement:\n\nStatement (A):\n\"What a poor guy, years of work and he only got a $50,000 scholarship\"\nThis statement seems to suggest that the person should be pitied because they worked hard and only received a large scholarship as a result.\n\nStatement (B):\n\"What a poor guy, years of work and he only got a $50 scholarship\"\nThis statement also seems to suggest that the person should be pitied, but in this case, the scholarship amount is much smaller, making the statement more likely to be sarcastic.\n\nBased on the analysis, statement (B) is more likely to be sarcastic.\n\nThe answer is: (B)",
+            "correct": false
+        },
+        {
+            "id": 29,
+            "question": "Which statement is sarcastic?\nOptions:\n(A) That's only about $0.15 per mile for a van, perfectly reasonable fuel costs\n(B) That's only about $10 per mile for a van, perfectly reasonable fuel costs",
+            "correct_answer": "(B)",
+            "model_answer": "To determine which statement is sarcastic, let's analyze them one by one:\n\n(A) That's only about $0.15 per mile for a van, perfectly reasonable fuel costs\nSarcasm often involves saying the opposite of what you mean or saying something that is obviously false. In this case, $0.15 per mile is not a typical or reasonable cost for fuel, especially for a van. So, the statement could be considered sarcastic because it's saying that an obviously high fuel cost is reasonable.\n\n(B) That's only about $10 per mile for a van, perfectly reasonable fuel costs\n$10 per mile is also not a typical or reasonable cost for fuel, but it's not as obviously false as $0.15 per mile. Because of this, the sarcasm is not as clear in this statement as it is in option (A).\n\nBased on this analysis, option (A) is the more sarcastic of the two statements. So the answer is:\n\n(A)",
+            "correct": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n\n(A) paralysis of the facial muscles.\n(B) paralysis of the facial muscles and loss of taste.\n(C) paralysis of the facial muscles, loss of taste and lacrimation.\n(D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.",
+            "correct_answer": 0,
+            "model_answer": "Here are the steps to answer the question:\n\nThe question is asking about the effects of a lesion that compresses the facial nerve at the stylomastoid foramen. The stylomastoid foramen is a canal in the temporal bone through which the facial nerve exits the cranium. Compression of the facial nerve at this location will affect the function of the facial nerve.\n\nFacial nerve fibers innervate the muscles of facial expression, taste, and the lacrimal and salivary glands. \n\nParalysis of the facial muscles (ipsilateral) would occur as the motor component of the facial nerve is affected.\n\nBased on the information provided, the correct answer is:\n\n(A) paralysis of the facial muscles.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "A \"dished face\" profile is often associated with\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\n(B) a recessive maxilla due to failure of elongation of the cranial base.\n(C) an enlarged frontal bone due to hydrocephaly.\n(D) defective development of the maxillary air sinus.",
+            "correct_answer": 1,
+            "model_answer": "I will analyze each option step-by-step and choose the most appropriate answer.\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\nAcromegaly is a condition that causes excessive growth of bones in the hands, feet, and face. It can result in a protruding jaw due to the reactivation of the condylar cartilage. This option appears to be a correct explanation for a \"dished face\" profile.\n\n(B) a recessive maxilla due to failure of elongation of the cranial base.\nA recessive maxilla is a condition in which the upper jaw is smaller than the lower jaw. While it can contribute to a \"dished face\" profile, it is not the primary cause. This option is not the best answer.\n\n(C) an enlarged frontal bone due to hydrocephaly.\nHydrocephaly is a condition in which there is an accumulation of cerebrospinal fluid in the brain. It can cause an enlarged forehead, but it is not directly associated with a \"dished face\" profile. This option is not the best answer.\n\n(D) defective development of the maxillary air sinus.\nThe maxillary air sinus is a cavity in the upper jaw that is filled with air. Its development is not directly related to a \"dished face\" profile. This option is not the best answer.\n\nAfter analyzing each option step-by-step, the best answer is:\n\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the structure that collects urine in the body?\n\n(A) Bladder\n(B) Kidney\n(C) Ureter\n(D) Urethra",
+            "correct_answer": 0,
+            "model_answer": "Let's evaluate each option step-by-step:\n\n(A) Bladder: The bladder is a muscular, expandable organ that stores urine in the body until it is excreted.\n\n(B) Kidney: The primary function of the kidneys is to filter waste and excess fluid from the blood to form urine, but they do not actually collect the urine.\n\n(C) Ureter: The ureters are tubes that transport urine from the kidneys to the bladder.\n\n(D) Urethra: The urethra is a tube that carries urine from the bladder out of the body.\n\nBased on this evaluation, the best answer is:\n\n(A) Bladder",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following structures is derived from ectomesenchyme?\n\n(A) Motor neurons\n(B) Skeletal muscles\n(C) Melanocytes\n(D) Sweat glands",
+            "correct_answer": 2,
+            "model_answer": "Ectomesenchyme is a type of embryonic connective tissue that gives rise to various cell types in the developing embryo, including neural crest cells. Neural crest cells are migratory cells that arise from the ectoderm and play a crucial role in the formation of various tissues and organs, such as the peripheral nervous system, melanocytes, and certain endocrine glands. Based on this information, we can reason out the answer as follows:\n\n(A) Motor neurons: These are derived from neuroectoderm, not ectomesenchyme, so they are not the correct answer.\n(B) Skeletal muscles: These are derived from myogenic mesoderm, not ectomesenchyme, so they are not the correct answer.\n(C) Melanocytes: These are derived from the neural crest, which arises from ectomesenchyme, so this is a possible answer.\n(D) Sweat glands: These are also derived from the neural crest, which arises from ectomesenchyme, so this is another possible answer.\n\nBoth melanocytes and sweat glands are derived from ectomesenchyme, so either (C) or (D) could be the correct answer.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n\n(A) Afferent arteriole\n(B) Glomerulus\n(C) Loop of Henle\n(D) Renal pelvis",
+            "correct_answer": 1,
+            "model_answer": "The function of the glomerulus is to filter the blood in the kidneys and form a fluid called filtrate. In order to do this, blood exits the renal artery and enters the glomerulus, which is a network of tiny blood capillaries.\n\n(B) Glomerulus",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n\n(A) They will be unable to breathe without life support.\n(B) They will only be able to breathe quietly.\n(C) It is impossible to predict an effect on breathing.\n(D) Breathing will be unaffected.",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to consider what the sixth cervical vertebra is responsible for and its relationship to breathing.\n\nThe sixth cervical vertebra, also known as C6, is located in the upper part of the spinal cord. It is responsible for controlling certain muscles in the neck and shoulders, as well as some of the muscles involved in breathing. Damage to this vertebra can result in paralysis of these muscles, which can affect a person's ability to breathe.\n\nLet's now evaluate each answer choice:\n\n(A) They will be unable to breathe without life support. - This answer is consistent with the fact that damage to the sixth cervical vertebra can impair a person's ability to breathe. Without assistance from a ventilator or other life support, they would be unable to breathe.\n\n(B) They will only be able to breathe quietly. - This answer is not consistent with the effects of damage to the spinal cord at the level of the sixth cervical vertebra. While it's possible that their breathing might be quieter than normal, their ability to breathe would still be impaired.\n\n(C) It is impossible to predict an effect on breathing. - This answer is not entirely accurate, as we know that damage to the sixth cervical vertebra can impair a person's ability to breathe. While the severity of the impairment may vary from person to person, it is not impossible to predict some level of effect on breathing.\n\n(D) Breathing will be unaffected. - This answer is inconsistent with the fact that damage to the sixth cervical vertebra can impair a person's ability to breathe.\n\nBased on this reasoning, the correct answer is:\n\n(A) They will be unable to breathe without life support.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar",
+            "correct_answer": 0,
+            "model_answer": "The task is to determine which of the given anatomical regions of the abdomen lies just distal to the sternum.\n\nSternum is a flat bone situated in the center of the anterior part of the trunk, to which the ribs are attached in front.\n\nNow, let's look at each of the options in turn to see which of them fits the criteria:\n\n(A) Epigastric: This term refers to the region of the abdomen just above the umbilical region. It is not immediately distal to the sternum.\n\n(B) Hypochondriac: This term refers to the lower part of the abdomen, on either side of the umbilical region. It is not immediately distal to the sternum.\n\n(C) Hypogastric: This term refers to the lower part of the abdomen, below the umbilical region. It is not immediately distal to the sternum.\n\n(D) Lumbar: This term refers to the region of the lower back, just above the gluteal region. It is not immediately distal to the sternum.\n\nThe region immediately distal to the sternum is the **Hypogastrium**. Therefore, the answer is (C) Hypogastric.",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?\n\n(A) Hair in the nose\n(B) Mucous membranes\n(C) Osteoblasts\n(D) Saliva",
+            "correct_answer": 1,
+            "model_answer": "Let's evaluate each answer choice:\n\n(A) Hair in the nose: Hair can help trap particles, but it's not specifically targeted at bacteria.\n\n(B) Mucous membranes: Mucous membranes line various cavities in the body and produce mucous, which helps trap bacteria and other pathogens. This is a strong candidate.\n\n(C) Osteoblasts: Osteoblasts are cells that help form bone, not directly involved in defense against bacteria.\n\n(D) Saliva: Saliva contains enzymes that can break down bacteria, but it's not the primary defense mechanism.\n\nBased on this evaluation, the best answer is:\n\n(B) Mucous membranes",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "The palatine processes begin to fuse at\n\n(A) six weeks post-fertilization.\n(B) eight weeks post-fertilization.\n(C) ten weeks post-fertilization.\n(D) twelve weeks post-fertilization.",
+            "correct_answer": 2,
+            "model_answer": "The palatine processes are two bony plates located on either side of the skull base in humans. They fuse together during the process of skull development, which is called craniosynostosis.\n\nMost of the bones in the skull are separate until a baby is born. They are connected by fibrous joints called sutures, which allow some movement and growth as the baby's head accommodates the rapid growth of the brain during the first year of life. Over time, these sutures close and the bones fuse together, resulting in a stable skull.\n\nIn general, the palatine processes start to fuse around 8-12 weeks after fertilization. However, the exact timing can vary from person to person.\n\nSo the answer to your question is:\n\n(B) eight weeks post-fertilization.",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Primary motor cortex activity results in\n\n(A) bilateral contraction of antigravity limb muscles.\n(B) bilateral contraction of limb musculature.\n(C) contraction of ipsilateral limb musculature.\n(D) contraction of contralateral limb musculature.",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to understand the function of the primary motor cortex and how it controls muscle contractions.\n\nThe primary motor cortex is located in the frontal lobe of the brain and is responsible for controlling voluntary movements. It contains motor neurons that innervate muscles throughout the body.\n\nWhen the primary motor cortex is stimulated, it sends signals to specific muscles or groups of muscles to contract. The direction of the muscle contraction depends on the location of the stimulating electrode relative to the primary motor cortex.\n\nIf an electrode is placed over the area of the primary motor cortex that controls a specific muscle on the right side of the body (the contralateral side), stimulating that area will result in a contraction of the muscle on the right side. Similarly, stimulating the area of the primary motor cortex that controls the same muscle on the left side of the body (the ipsilateral side) will result in a contraction of the muscle on the left side.\n\nBased on this information, the correct answer is:\n\n(D) contraction of contralateral limb musculature.",
+            "correct": true
+        }
+    ]
+}

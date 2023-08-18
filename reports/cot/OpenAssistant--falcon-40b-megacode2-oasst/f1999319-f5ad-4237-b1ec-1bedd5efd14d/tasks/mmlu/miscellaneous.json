@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "An important source of information on the credit rating of retail businesses is\n\n(A) the Retail Merchants Association\n(B) the local chamber of commerce\n(C) Dun & Bradstreet, Inc.\n(D) the United States Retail Credit Association",
+            "correct_answer": 2,
+            "model_answer": "Based on my current knowledge, (C) Dun & Bradstreet, Inc. is widely known as a provider of credit ratings and risk assessments on businesses, including retail businesses.\n\n(A) the Retail Merchants Association is primarily focused on advocating for the interests of retail businesses, rather than providing credit ratings or risk assessments.\n\n(B) the local chamber of commerce is typically a community organization focused on promoting local businesses, economic development, and networking opportunities, rather than providing credit ratings or risk assessments.\n\n(D) the United States Retail Credit Association may have some involvement with retail credit, but it is not as widely recognized as a provider of credit ratings or risk assessments on businesses.\n\nTherefore, based on this reasoning, the best answer is (C) Dun & Bradstreet, Inc.",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?\n\n(A) Conferencing\n(B) Discipline-based inquiry\n(C) Self-Regulated Strategy Development\n(D) Introduction-Body-Conclusion strategy",
+            "correct_answer": 1,
+            "model_answer": "To determine the best answer, let's analyze each option and see how it relates to the scenario provided:\n\n(A) Conferencing: This strategy involves one-on-one or small group discussions between a teacher and student(s) to provide feedback and guidance on their writing. While this could be a part of a writing unit, it doesn't fully capture the instructional strategy described in the scenario.\n\n(B) Discipline-based inquiry: This strategy involves students actively investigating and exploring content within a specific subject area. It doesn't specifically focus on short stories or writing, making it less relevant to the scenario.\n\n(C) Self-Regulated Strategy Development: This strategy involves teaching students techniques to independently monitor and regulate their thinking, behavior, and emotions during learning tasks. While it may be useful in a writing unit, it doesn't directly address the characteristics of short stories.\n\n(D) Introduction-Body-Conclusion strategy: This strategy involves teaching students to structure their writing by creating an introduction, body, and conclusion. While it could be part of a writing unit, it doesn't specifically focus on the defining characteristics of short stories.\n\nAfter analyzing each option, it seems that none of them fully capture the instructional strategy described in the scenario. However, out of the given choices, (B) Discipline-based inquiry comes the closest since it involves students actively investigating and exploring content within a specific subject area, which in this case is writing short stories. So, the answer is (B).",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Paper will burn at approximately what temperature in Fahrenheit?\n\n(A) 986 degrees\n(B) 2125 degrees\n(C) 3985 degrees\n(D) 451 degrees",
+            "correct_answer": 3,
+            "model_answer": "The temperature at which paper burns is approximately 451 degrees Fahrenheit. This is a well-known fact and is often used as a reference point in literature, such as in Ray Bradbury's novel \"Fahrenheit 451.\"\n\nTo convert Celsius to Fahrenheit, we can use the following formula:\nFahrenheit (\u00b0F) = (Celsius (\u00b0C) \u00d7 9/5) + 32\nSo we can plug in 2125 degrees Celsius into the formula:\n\nFahrenheit (\u00b0F) = (2125\u00b0C \u00d7 9/5) + 32\nFahrenheit (\u00b0F) = (4250/5) + 32\nFahrenheit (\u00b0F) = 850 + 32\nFahrenheit (\u00b0F) = 882 degrees\n\nHowever, this temperature is higher than any of the given answer choices, so it must be a mistake in the conversion or in the question itself. Therefore, we can eliminate answer choice (C).\n\nFor the other answer choices:\n\nFahrenheit (\u00b0F) = (3985\u00b0C \u00d7 9/5) + 32\nFahrenheit (\u00b0F) = (7960/5) + 32\nFahrenheit (\u00b0F) = 1584 + 32\nFahrenheit (\u00b0F) = 1626 degrees\n\n1626 is not one of the answer choices, so this must also be a mistake in the question. Therefore, we can eliminate answer choice (D).\n\nFor the remaining answer choices:\n\nFahrenheit (\u00b0F) = (486\u00b0C \u00d7 9/5) + 32\nFahrenheit (\u00b0F) = (972/5) + 32\nFahrenheit (\u00b0F) = 195.6 + 32\nFahrenheit (\u00b0F) = 228 degrees\n\n228 is not one of the answer choices, so this must also be a mistake in the question. Therefore, we can eliminate answer choice (B).\n\nWe are left with answer choice (A):\n\nFahrenheit (\u00b0F) = (986\u00b0C \u00d7 9/5) + 32\nFahrenheit (\u00b0F) = (1972 / 5) + 32\nFahrenheit (\u00b0F) = 392 + 32\nFahrenheit (\u00b0F) = 424 degrees\n\nThis temperature is close to the given answer choices and is within a reasonable margin of error, taking into account possible rounding errors. Therefore, we can conclude that the answer is:\n\n(A) 986 degrees",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "The Apple iMac computer is available in all of the following colors except which?\n\n(A) Tangerine\n(B) Strawberry\n(C) Kiwi\n(D) Grape",
+            "correct_answer": 2,
+            "model_answer": "The Apple iMac computer is available in a variety of colors.\n\n(A) Tangerine is a color option for the Apple iMac.\n\n(B) Strawberry is not a color option for the Apple iMac.\n\n(C) Kiwi is a color option for the Apple iMac.\n\n(D) Grape is not a color option for the Apple iMac.\n\nSo the answer is (D) Grape.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "What were the first names of the early American explorers Lewisand Clark?\n\n(A) Morgan and Mason\n(B) Meriwether and William\n(C) Cabot and Joseph\n(D) Meredith and George",
+            "correct_answer": 1,
+            "model_answer": "The explorers in question are Meriwether Lewis and William Clark.\n\n(B) Meriwether and William",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?\n\n(A) Direct instruction\n(B) Literature circle\n(C) Guided reading\n(D) Read-aloud",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, let's go through each option and see which one best fits the description:\n\n(A) Direct instruction: Direct instruction is a teaching method where the teacher provides clear and explicit information to students. While this method may be used in reading instruction, it does not specifically focus on teaching reading strategies for unfamiliar texts.\n\n(B) Literature circle: Literature circles are small groups of students who read the same book and discuss it together. While literature circles may involve reading, they do not specifically focus on teaching reading strategies for unfamiliar texts.\n\n(C) Guided reading: Guided reading is a teaching method where the teacher works with a small group of students to help them understand and apply reading strategies while reading an unfamiliar text. This method closely fits the description provided.\n\n(D) Read-aloud: Read-alouds are when the teacher reads a text aloud to students. While this method may be used in a reading classroom, it does not specifically focus on teaching reading strategies for unfamiliar texts.\n\nBased on the analysis of each option, the reading approach described is:\n\n(C) Guided reading",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "What is varicella?\n\n(A) a fancy pasta\n(B) a type of opera\n(C) the chicken pox virus\n(D) ancient Roman poetry",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, let's eliminate the options that are not related to viruses or illnesses.\n\n(A) a fancy pasta \u2192 This option is related to food, not viruses or illnesses. Eliminated.\n\n(B) a type of opera \u2192 This option is related to art and music, not viruses or illnesses. Eliminated.\n\n(C) the chicken pox virus \u2192 This option is related to a virus, which could cause an illness. This is a possible answer.\n\n(D) ancient Roman poetry \u2192 This option is related to literature, not viruses or illnesses. Eliminated.\n\nAfter eliminating the options that are not related to viruses or illnesses, we are left with:\n\n(C) the chicken pox virus \u2192 This option is related to a virus, which could cause an illness. This is the correct answer.\n\nAnswer: (C)",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?\n\n(A) Copper\n(B) Carbon\n(C) Germanium\n(D) Silicon",
+            "correct_answer": 0,
+            "model_answer": "(D) Silicon\n\nThe resistance of a material varies with temperature according to the temperature coefficient of resistance (TCR). The TCR is typically expressed as a percentage change in resistance per degree Celsius change in temperature. Materials with low TCRs are less affected by temperature changes.\n\nOf the given options:\n\n(A) Copper: Copper has a relatively high temperature coefficient of resistance (TCR) of about -4.2 ppm/\u00b0C, meaning its resistance increases significantly with temperature.\n\n(B) Carbon: Carbon has a TCR of about 5 ppm/\u00b0C, which is higher than silicon but lower than copper. Carbon's resistance is somewhat affected by temperature, but less than copper.\n\n(C) Germanium: Germanium has a moderate TCR of about -0.67%/\u00b0C, which means its resistance decreases with increasing temperature.\n\n(D) Silicon: Silicon has a very low TCR of about -0.2%/\u00b0C, meaning its resistance remains relatively constant with temperature changes.\n\nTherefore, silicon is the material with the least resistance affected by temperature changes among the given options.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "A second-year college student is usually called a what?\n\n(A) sophomore\n(B) senior\n(C) freshman\n(D) junior",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's analyze each answer choice:\n\n(A) sophomore - A second-year college student is typically in their second year of a 4-year degree program, so they would be called a sophomore.\n\n(B) senior - A senior is usually a fourth-year student, so this is not the correct answer.\n\n(C) freshman - A freshman is a first-year student, so this is not the correct answer.\n\n(D) junior - A junior is typically a third-year student, so this is not the correct answer.\n\nTherefore, the correct answer is:\n\n(A) sophomore",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?\n\n(A) Jude Law\n(B) Matt Damon\n(C) Dustin Hoffman\n(D) Ben Affleck",
+            "correct_answer": 1,
+            "model_answer": "The Talented Mr. Ripley is a 1999 film that was directed by Anthony Minghella and based on the novel of the same name by Patricia Highsmith. The film features the character of Tom Ripley, who is played by an actor. To answer your question, I will go through the following steps:\n\n1. Identify the film in question: 'The Talented Mr Ripley'\n2. Determine the character's name: Tom Ripley\n3. Research the actor who played Tom Ripley in the film.\n\nAfter conducting research, I found that the actor who played Tom Ripley in 'The Talented Mr. Ripley' is:\n\n(B) Matt Damon.",
+            "correct": true
+        }
+    ]
+}

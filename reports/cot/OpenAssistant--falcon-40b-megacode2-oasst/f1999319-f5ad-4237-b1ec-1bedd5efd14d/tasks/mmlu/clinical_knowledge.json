@@ -1,0 +1,75 @@
+{
+    "score": 0.5,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?\n\n(A) 18 gauge.\n(B) 20 gauge.\n(C) 22 gauge.\n(D) 24 gauge.",
+            "correct_answer": 0,
+            "model_answer": "To determine the appropriate size of cannula for a rapid blood transfusion, we need to consider the following factors:\n\n- The diameter of the cannula, which is inversely proportional to the gauge number. A lower gauge number indicates a larger diameter.\n- The volume of blood that needs to be transfused. A larger diameter cannula will allow for faster transfusion of blood.\n- The risk of complications, such as clotting or infection, which may be increased with a larger diameter cannula.\n\nBased on current medical knowledge (as of 2020), a 22 gauge cannula is commonly used for rapid blood transfusions. This size provides a good balance between the need for fast transfusion and the risk of complications.\n\nSo the answer is (C) 22 gauge.",
+            "correct": false
+        },
+        {
+            "id": 1,
+            "question": "The key attribute in successful marathon running is:\n\n(A) strength.\n(B) power.\n(C) stride length.\n(D) stamina.",
+            "correct_answer": 3,
+            "model_answer": "First, let's consider the requirements for successful marathon running:\n\n- Endurance: The ability to sustain a high level of physical exertion for an extended period.\n- Technique: The ability to run efficiently and avoid unnecessary energy expenditure.\n- Mental fortitude: The ability to endure mental fatigue and stay focused for a long period.\n\nNow let's evaluate each option:\n\n(A) Strength: While strength is important for overall fitness, it is not the key attribute in successful marathon running.\n\n(B) Power: Power is the rate at which work is done and is related to strength and speed. However, it is not the key attribute in successful marathon running.\n\n(C) Stride length: While a longer stride can result in increased speed, it is not the key attribute in successful marathon running, as it can also lead to inefficiency and increased energy expenditure.\n\n(D) Stamina: Stamina is the ability to endure prolonged physical exertion without fatigue. It is the most critical attribute for successful marathon running, as it enables a runner to maintain a consistent pace for the entire distance.\n\nTherefore, the key attribute in successful marathon running is:\n\n* (D) stamina",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is the commonest cause of dementia in the UK?\n\n(A) Alzheimer's disease.\n(B) Cerebrovascular (stroke) disease.\n(C) Lewy body dementia.\n(D) HIV infection.",
+            "correct_answer": 0,
+            "model_answer": "To find the answer, we can follow these steps:\n\nExclude the options that are not known to cause dementia:\nOption D, HIV infection, is a virus that attacks the immune system and is not primarily associated with dementia. We can exclude this option.\n\nRank the remaining options by prevalence:\nOption B, Cerebrovascular (stroke) disease, can contribute to dementia, but it's not the main cause. It is a risk factor for dementia but not a primary cause.\nOption C, Lewy body dementia, is a type of dementia, but it's not the most common cause.\nOption A, Alzheimer's disease, is the most common type of dementia and is the leading cause of dementia in the UK.\n\nBased on this analysis, the answer is:\n\n(A) Alzheimer's disease",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is NOT a symptom of anaphylaxis?\n\n(A) Stridor.\n(B) Bradycardia.\n(C) Severe wheeze.\n(D) Rash.",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, let's first understand what anaphylaxis is and then examine the given options.\n\nAnaphylaxis is a severe and potentially life-threatening allergic reaction. It is a medical emergency that requires immediate treatment with an injection of epinephrine (adrenaline).\n\nNow let's look at the options:\n\n(A) Stridor: This refers to a high-pitched, wheezing sound during breathing, which can be a symptom of anaphylaxis due to airway constriction.\n\n(B) Bradycardia: This refers to a slow heart rate, which can be a symptom of anaphylaxis as the body releases chemicals that can affect the heart rate.\n\n(C) Severe wheeze: This refers to difficulty breathing due to wheezing, which is a common symptom of anaphylaxis due to airway constriction.\n\n(D) Rash: This refers to a red, itchy rash, which can be a symptom of anaphylaxis in some cases, although it is more commonly associated with other allergic reactions.\n\nAfter examining the options, we can see that the answer is:\n\n(D) Rash\n\nThis is because rash is not a typical symptom of anaphylaxis, while the other options are more commonly associated with the condition.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "In what situation are closed pouches applied?\n\n(A) The patient has a semi-formed or liquid output.\n(B) The patient has a colostomy.\n(C) In the immediate post-operative period.\n(D) The patient has a urostomy.",
+            "correct_answer": 1,
+            "model_answer": "To determine which answer best fits the question, let's examine each option and its relation to closed pouches:\n\n(A) The patient has a semi-formed or liquid output: Closed pouches can be used to collect semi-formed or liquid output, making this a possible situation for their application.\n\n(B) The patient has a colostomy: Closed pouches can be used by individuals who have undergone a colostomy to collect waste matter. This makes this a valid situation for closed pouches.\n\n(C) In the immediate post-operative period: Closed pouches may be used during the initial recovery period following surgery. While not specific to a particular type of surgery, this situation is still valid for the use of closed pouches.\n\n(D) The patient has a urostomy: Closed pouches can be used by individuals who have had a urostomy to collect urine. This makes this a situation where closed pouches are applied.\n\nAfter analyzing each option, we can see that:\n\n- Options A, B, and D describe specific situations where closed pouches may be applied.\n- Option C is a more general situation, but it still includes some of the specific situations mentioned in options A, B, and D.\n\nTherefore, the answer is:\n\n(A), (B), (C), and (D).",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "With an increasing number of sprints the:\n\n(A) anaerobic contribution progressively increases.\n(B) pH of the muscle falls below 6.0.\n(C) blood glucose concentration falls below 3 mmol/L.\n(D) relative contribution of aerobic metabolism increases.",
+            "correct_answer": 3,
+            "model_answer": "Let's go through each option:\n\n(A) Anaerobic contribution progressively increases: Anaerobic metabolism contributes more to energy production during high-intensity exercises such as sprints.\n\n(B) pH of the muscle falls below 6.0: This is incorrect. The pH of muscle tissue does not fall below 6.0 during exercise.\n\n(C) Blood glucose concentration falls below 3 mmol/L: This is not true. Blood glucose levels usually remain relatively stable during exercise.\n\n(D) Relative contribution of aerobic metabolism increases: This is incorrect. Anaerobic metabolism contributes more to energy production during high-intensity exercises such as sprints.\n\nSo the correct answer is (A) anaerobic contribution progressively increases.",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is true in diplopia?\n\n(A) Diplopia can never occur if one eye is covered\n(B) The outer image is always the false image\n(C) A fourth nerve palsy occurs when the patient looks upwards\n(D) A sixth nerve palsy causes a divergent squint",
+            "correct_answer": 1,
+            "model_answer": "Let's go through each answer choice step-by-step:\n\n(A) Diplopia can never occur if one eye is covered:\nDiplopia is the perception of two images of the same object. If one eye is covered, the brain will only receive information from the uncovered eye, and no diplopia should occur. However, this is not always the case, as other factors like a misalignment of the eyes or a problem with the brain can still cause diplopia even if one eye is covered. Therefore, this statement is not always true.\n\n(B) The outer image is always the false image:\nIn diplopia, there are usually two images being perceived - an inner image and an outer image. The outer image is typically the one that is seen more peripherally, while the inner image is seen more centrally. However, this does not always mean that the outer image is the false image. It depends on the underlying cause of the diplopia. For example, if there is a misalignment of the eyes, the outer image may actually be the true image, while the inner image is distorted.\n\n(C) A fourth nerve palsy occurs when the patient looks upwards:\nA fourth nerve palsy is a condition where the fourth cranial nerve, which controls the movement of the eye, is affected. This can cause upward deviation of the eye (also known as hypertropia) when the patient looks upwards. However, it is not necessarily true that the palsy only occurs when the patient looks upwards. It can occur in other situations as well.\n\n(D) A sixth nerve palsy causes a divergent squint:\nA sixth nerve palsy is a condition where the sixth cranial nerve, which controls the movement of the eye, is affected. This can cause a divergent squint, where the affected eye turns outward. However, it is not the only cause of a divergent squint. Other conditions like a fourth nerve palsy or a third nerve palsy can also cause a divergent squint.\n\nBased on the above analysis, the correct answer is:\n\n(A) Diplopia can never occur if one eye is covered",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Sodium bicarbonate ingestion improves middle distance running performance by:\n\n(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(B) reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\n(C) elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.\n(D) elevating the pre-exercise muscle pH.",
+            "correct_answer": 0,
+            "model_answer": "In order to answer this question, let's first analyze each answer choice and evaluate whether it is consistent with the known effects of sodium bicarbonate ingestion on middle distance running performance.\n\nChoice (A): Elevating the pH and buffering capacity of the extracellular fluid allows a faster efflux of hydrogen ions from muscle. This is consistent with the known effects of sodium bicarbonate ingestion, as it helps to alkalize the blood and reduce acidity in the muscles.\n\nChoice (B): Reducing the pH and buffering capacity of the extracellular fluid allows a faster efflux of hydrogen ions from muscle. This is not consistent with the known effects of sodium bicarbonate ingestion, as it would actually cause a decrease in performance rather than an improvement.\n\nChoice (C): Elevating the pH and buffering capacity of the extracellular fluid allows a faster influx of hydrogen ions into muscle. This is not consistent with the known effects of sodium bicarbonate ingestion, as it would cause an increase in acidity and decrease performance.\n\nChoice (D): Elevating the pre-exercise muscle pH. While sodium bicarbonate ingestion does help to alkalize the blood and increase muscle pH, the primary mechanism is through the buffering of hydrogen ions, not by directly increasing muscle pH.\n\nBased on this analysis, the correct answer is:\n\n(A) Elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "Codons are composed of:\n\n(A) triplet sequences of nucleotide bases in mRNA or DNA .\n(B) quadruplet sequences of nucleotide bases in mRNA or DNA.\n(C) triplet sequences of amino acids in polypeptide chains.\n(D) triplet sequences of deoxyribose sugars in DNA.",
+            "correct_answer": 0,
+            "model_answer": "The question asks about codons. Codons are groups of three nucleotides (a triplet) that code for a specific amino acid in protein synthesis. These triplets are found in messenger RNA (mRNA) or DNA.\n\nAnalyzing the answer choices:\n\n(A) triplet sequences of nucleotide bases in mRNA or DNA) This answer directly refers to what codons are composed of.\n\n(B) quadruplet sequences of nucleotide bases in mRNA or DNA. This is incorrect because codons are triplets, not quadruplets.\n\n(C) triplet sequences of amino acids in polypeptide chains) This answer is incorrect because codons represent groups of three nucleotides, not amino acids)\n\n(D) triplet sequences of deoxyribose sugars in DNA This answer is incorrect because codons are found in both DNA and mRNA, not just DNA, and they represent groups of three nucleotides, not deoxyribose sugars)\n\nSo the answer is: (A) triplet sequences of nucleotide bases in mRNA or DNA.",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Fatty acids are transported into the mitochondria bound to:\n\n(A) thiokinase.\n(B) coenzyme A (CoA).\n(C) acetyl-CoA.\n(D) carnitine.",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to know how fatty acids are transported into the mitochondria for \u03b2-oxidation.\n\nFatty acids are activated by being converted into acyl-CoA molecules through the action of acyl-CoA synthase. This enzyme adds a coenzyme A molecule (CoA) to the fatty acid, creating a thioester bond. The activated fatty acid is then transported into the mitochondria via the carnitine shuttle. Carnitine acts as the carrier, binding to the activated fatty acid (acyl-CoA) and shuttling it across the mitochondrial membrane.\n\nOnce inside the mitochondria, the fatty acid is removed from carnitine by another enzyme, carnitine palmitoyltransferase I (CPT1), which transfers the fatty acid onto carnitine to form a fatty acylcarnitine. This fatty acylcarnitine can then enter the \u03b2-oxidation pathway to be broken down for energy production.\n\nSo, the correct answer is:\n\n(D) carnitine.",
+            "correct": true
+        }
+    ]
+}
