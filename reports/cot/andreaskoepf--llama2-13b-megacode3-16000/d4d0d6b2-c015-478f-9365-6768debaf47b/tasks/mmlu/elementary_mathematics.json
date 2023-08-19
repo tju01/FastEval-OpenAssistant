@@ -1,0 +1,75 @@
+{
+    "score": 0.4,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "What is the value of p in 24 = 2p?\n\n(A) p = 4\n(B) p = 8\n(C) p = 12\n(D) p = 24",
+            "correct_answer": 2,
+            "model_answer": "To determine the value of p in the equation 24 = 2p, we can simply follow these steps:\n\nStep 1: Write down the equation:\n24 = 2p\n\nStep 2: Solve for p by dividing both sides by 2:\n24 / 2 = 2p / 2\n\nStep 3: Calculate the value of p:\n12 = p\n\nStep 4: Output the answer.\np = 12 (C)",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?\n\n(A) 5\n(B) 7\n(C) 8\n(D) 9",
+            "correct_answer": 2,
+            "model_answer": "To find out how many miles Ms. Perez drove each day, we can follow these steps.\n\nStep 1: Calculating the total distance Ms. Perez drove in 5 days.\nMs. Perez drove a total of 40 miles in 5 days.\n\nStep 2: Dividing the total distance by the number of days to find the distance driven per day.\nTotal distance driven = 40 miles\nNumber of days = 5 days\n\nTotal distance driven per day = Total distance / Number of days\nTotal distance per day = 40 miles / 5 days = 8 miles per day\n\nThus, Ms. Perez drove 8 miles each day.\n\nFinal Answer: \n(C) 8",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "question": "Find the quotient of \u221240 \u00f7 (\u22128).\n\n(A) 1 over 5\n(B) \u22125\n(C) \u22121 over 5\n(D) 5",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of the division, we will follow these steps:\n\n1. Simplify the expression given in the problem: \"-40 divided by -8\".\n2. Both the numerator and the denominator of the division are negative numbers. When there are two negative numbers, the result is positive.\n3. The product of -40 and -8 is -320.\n4. The quotient of -320 divided by -8 is -40.\n5. Now, the resulting value is +40, which is not an option from the given list. This means there is a mistake in the problem, but let's continue with the analysis to ensure we didn't miss anything.\n\nIn conclusion, the correct quotient should be:\n\n(A) 1 over 5",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\n(A) 4\n(B) 5\n(C) 6\n(D) 7",
+            "correct_answer": 1,
+            "model_answer": "Step 1: Determine the total amount the team would have to pay for a single soccer ball.\nTo do this, simply multiply the cost of one soccer ball by the number of soccer balls they want to purchase.\n\n$15.60 (cost of one soccer ball) * X (number of soccer balls) = total cost\n\nThis expression will give us the total cost of purchasing those ball. For now, let's not worry about any potential leftover money and treat the amount as if it were $90.00.\n\nStep 2: Set up an equation to solve for X (the number of soccer balls).\nBased on the given information and the equation in step 1, we want to solve for X, the number of soccer balls, such that the total cost is equal to $90.00.\n\nX = 15.60\n\nStep 3: Now let's plug in our final answer from step 2 into this expression:\n\nX = 15.60\nStatement of the problem: \"If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\" In this statement, \"If\" is the same as \"Subject to the condition that\", and \"$15.60 (cost of one soccer ball)\" in the statement is an equivalent expression of the symbol \"X\".\n\nStep 4: Solve for X by dividing both sides of the equation by the cost of one soccer ball (which is $15.60).\n\nX = 15.60 / 15.60 = 1\n\nStep 5: This step provides the answer:\nX = 1\nHowever, this doesn't necessarily mean they can buy one soccer ball. Let's consider the original problem statement: \"What is the greatest number of soccer balls the team can buy?\" The team can only buy one soccer ball with $90.00 budget.\n\nStep 6: Evaluate the given answer choices and select the correct one based on the previous steps.\n\n(A) 4 - This is not the correct answer, since each soccer ball costs more than $15.60.\n(B) 5 - This is not the correct answer, since we can only buy one soccer ball with the provided budget.\n(C) 6 - This is not the correct answer, since each soccer ball costs more than $15.60.\n(D) 7 - This is the correct answer because the team can buy two soccer balls with the provided budget. Each ball costs $15.60, but together they cost $31.20, which is still less than the budget of $90.00.\n\nStep 7: Output the final answer:\n\n(D) 7",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "You and three friends go to a concert. The total cost for four tickets is $112. Write and solve an equation to find the cost of one ticket t.\n\n(A) 4t = 112; $448\n(B) 4t = 112; $28\n(C) t over 4 = 112; $448\n(D) t over 4 = 112; $28",
+            "correct_answer": 1,
+            "model_answer": "Let's first set up a linear equation to solve for the cost of one ticket. The total cost for four tickets is given as $112. So the equation will look like this:\n\nt + t + t + t = 112\n\nCombine the terms:\n\n4t = 112\n\nNow, to solve it, we will divide both sides of the equation by 4:\n\nt = $112 / 4\n\nt = $28\n\nSo, the answer is t = $28. Therefore, the correct choice is (D).",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\n\n(A) 9\n(B) 11\n(C) 26\n(D) 32",
+            "correct_answer": 2,
+            "model_answer": "Let's break down the expression step by step:\n\n1. First, we need to simplify the expression inside the first set of parenthesis: 2 \u00d7 6 - 5 = 12 - 5 = 7.\n\n2. Now we'll calculate the second set of parentheses: 8 \u00f7 4 = 2.\n\n3. Finally, we substitute these values back into the original expression and simplify again: 3 \u00d7 (7 + 2) - 1 = 3 \u00d7 9 - 1.\n\n4. Calculating the final result: 3 \u00d7 9 = 27.\n\n5. Finally, we subtract 1 from the result: 27 - 1 = 26.\n\nThe value of the expression is 26. \n\nTherefore, the correct answer is: (C) 26",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "question": "Write 1 and 1 over 11 as a whole or mixed number in simplest form.\n\n(A) 1.1 over 11\n(B) 11 over 11\n(C) 12 over 11\n(D) 11 over 12",
+            "correct_answer": 2,
+            "model_answer": "First, divide 1 by 11 (Combine the numerator and denominator)\n1 divided by 11 equals 0.09 (rounded to two decimal places)\n\nSince the result is less than 1, we lose the decimal and add the attached integer.\n0.09 becomes 0\n\nSo now we have 1 over 11 as a whole number\n\nTherefore, the answer is both 1 whole and 0 in the units place.\n\nThis means that 1 over 11 can be written as:\n\n(A) 1.1 over 11",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "question": "Find the quotient of 2.16 \u00f7 0.06.\n\n(A) 3.6\n(B) 36\n(C) 0.01272\n(D) 12.72",
+            "correct_answer": 1,
+            "model_answer": "To find the quotient of 2.16 \u00f7 0.06, we need to perform the division operation:\n\nStep 1: Write down the dividend:\n2.16\n\nStep 2: Write down the divisor:\n0.06\n\nStep 3: Begin dividing the dividend by the divisor until both numbers have reached zero. The ones' place after the decimal point will be the Quotient, multiply the answer by 10 if the ones' place is greater than 1.\n\nWhile dividing, we get:\n216 \u00f7 6\nOn the division, we have:\n35.333... = the decimal part should be cut off\n\nAfter division, we find that it is greater than 1:\n35.333... divides to 35.333, then 3. Due to 3 being greater than 1 (when multiplying by 10), we multiply 35.333\u202210 = 353.33\n\nStep 4: The Quotient is 353.33. Output the answer as a single letter with a parenthesis:\n(D) 36",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Find the difference of 142.76 \u2013 16.5.\n\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26",
+            "correct_answer": 3,
+            "model_answer": "To find the difference of 142.76 and 16.5, we follow these steps:\n\nStep 1: First, we subtract 16.5 from 142.76.\n\n142.76 - 16.5 = 126.26\n\nStep 2: Since the overall goal is to find the difference between the two numbers without any keyword, we round 126.26 down to the nearest whole number.\n\nRounding down, we get the final answer:\n\n126.26 rounded down is still 126.\n\nTherefore, the final answer is:\n\n(D) 126.26",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "Find the quotient of 5.04/0.7\n\n(A) 0.72\n(B) 0.702\n(C) 10.0571\n(D) 7.2",
+            "correct_answer": 3,
+            "model_answer": "To find the quotient of 5.04 and 0.7, we first need to make sure they have the same unit of measurement. \n\nStep 1: Convert 5.04 to a unit of measurement that is the same as .7:\n5.04 * 142.86 = 72.2324\n\nStep 2: Simplify the operation above:\n72.2324 \u2248 72.24\n\nStep 3: Calculate the quotient:\n5.04 / 0.7 = 7.2 (approximately)\n\nStep 4: We raise the above result to the nearest whole number:\n7.2 \u2248 7\n\nStep 5: Regularize the fraction form into a decimal form.\n7.2 \u2248 0.72\n\nSo the answer is:\n(A) 0.72",
+            "correct": false
+        }
+    ]
+}
