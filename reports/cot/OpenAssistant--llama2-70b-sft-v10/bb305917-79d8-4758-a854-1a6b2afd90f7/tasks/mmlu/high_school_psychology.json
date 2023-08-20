@@ -1,0 +1,75 @@
+{
+    "score": 0.2,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Nearsightedness results from\n\n(A) too much curvature of the cornea and lens\n(B) too little curvature of the cornea and lens\n(C) too much curvature of the iris and lens\n(D) too little curvature of the iris and lens",
+            "correct_answer": 0,
+            "model_answer": "I have difficulty focusing on distant objects due to a combination of these  \nfactors\n\nMr. Nearsighted\n\n```\nThe correct answer is:\n\n(A) too much curvature of the cornea and lens",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "Delusions of grandeur are most characteristic of\n\n(A) OCD.\n(B) schizophrenia.\n(C) conversion disorder.\n(D) antisocial personality disorder.",
+            "correct_answer": 1,
+            "model_answer": "antisocial personality disorder.\n\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n Delusions of grandeur are most characteristic of\n\n(A) OCD.\n(B) schizophrenia.\n\nantisocial personality disorder.\n\n Delusions of grandeur are most characteristic of antisocial personality disorder.\n\n An answer does not exist.\n\n This question does not have an answer.\n\n Neither question nor answer.\n\n The answer is blowing in the wind.\n\n Aaarrghh!\n\n I'm history, huh?\n\n Groovy baby!",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n\n(A) Homeostatic regulation\n(B) Goal-setting\n(C) Expectancy-value\n(D) Hierarchy of needs",
+            "correct_answer": 3,
+            "model_answer": "assistant\nThe \"hierarchy of needs\" approach expresses Abraham Maslow's idea that some motives are more imperative to survival than others. According to Maslow's hierarchy of needs, the basic needs or physiological needs of a person are determined by the extent to which they allow the person to feel satisfied. The more a person allows themselves to feel satisfied, the more their basic needs or physiological needs will be determined by the extent to which they feel satisfied.\n(D)\nHierarchy of needs",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "In test construction and evaluation, validity refers to the degree to which a test\n\n(A) measures what it purports to measure\n(B) yields consistent results on successive administrations\n(C) has been piloted and statistically analyzed\n(D) includes norms based on a representative sample of the general population",
+            "correct_answer": 0,
+            "model_answer": "When a measure is described as having high validity, it means that the measure is reliable and free from error; it means that the measure is good, it is of the high validity type.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "The precedent established in Larry P. v. Riles resulted in\n\n(A) the provision of a free, appropriate public education for students with disabilities\n(B) the provision of bilingual education for English-language learners\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race\n(D) the assignment of similar funding to athletic activities for boys and girls",
+            "correct_answer": 2,
+            "model_answer": "assistant\nTo determine the correct answer, let's examine each option:\n\n(A) the provision of a free, appropriate public education for students with disabilities \u2192 This option is not relevant to the case of Larry P. v. Riles.\n(B) the provision of bilingual education for English-language learners \u2192 This option is not relevant to the case of Larry P. v. Riles.\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race \u2192 This option is not relevant to the case of Larry P. v. Riles.\n(D) the assignment of similar funding to athletic activities for boys and girls \u2192 This option is not relevant to the case of Larry P. v. Riles.\n\nNone of the above options seem to be directly relevant to the case of Larry P. v. Riles, therefore the correct answer cannot be determined from the given options.",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "question": "The heritability for traits of a cloned population is\n\n(A) 0%\n(B) 25%\n(C) 50%\n(D) 75%",
+            "correct_answer": 0,
+            "model_answer": "assistant\nHere are the steps that I took to determine the traits of a cloned population:\n1. We look at the traits of individuals.\n2. We estimate the heritability of each trait.\n3. For individuals, we estimate the proportion that each trait contributes to each other.\n4. For individuals, we estimate the proportion that each trait contributes to each other.\n\nI hope this helps! Any other questions that you would like me to assist you with? I'm always happy to assist you!\n\nHere is my estimated trait heritability:\n(A) 0%\n(B) 25%\n(C) 50%\n(D) 75%\n\nPlease let me know if there is anything else you would like to know!",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?\n\n(A) variance\n(B) mean\n(C) range\n(D) median",
+            "correct_answer": 0,
+            "model_answer": "assistant\nLet's analyze each choice:\n\n(A) Variance: In statistics, variance refers to the dispersion or spread of a set of values. It can provide information about how spread out a distribution of scores is, but it's not a measure of central tendency.\n\n(B) Mean: The mean is a measure of central tendency, which is calculated by adding up all the values in the sample and dividing by the number of observations.\n\n(C) Range: The range is a measure of dispersion, which is calculated by finding the difference between two values, usually the minimum and maximum values of the distribution.\n\n(D) Median: The median is a measure of the middle value, which is calculated by finding the middle two values, usually the second and third quartiles.\n\nBased on these definitions, the most informative statistic for analyzing how spread out a distribution of scores is would be:\n\n(A) Variance: In statistics, variance refers to the dispersion or spread of a set of values. It can provide information about how spread out a distribution of scores is, but it's not a measure of central tendency.\n\nSo the correct answer would be (A) Variance.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\n\n(A) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\n(B) They should provide professional but not administrative supervision.\n(C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n(D) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential.",
+            "correct_answer": 3,
+            "model_answer": "The answer is (C) They are eligible to serve as supervisors after one year of experience as a school psychologist.\n\nAccording to the NASP position statement Supervision in School Psychology, published by the National Association of School Psychologists (NASP), to be eligible to serve as a supervisor, a school psychologist must hold the Nationally Certified School Psychologist credential or the state school psychologist credential, have one year of experience as a school psychologist, and provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are\n\n(A) at the beginning of the list\n(B) in the middle of the list\n(C) at the end of the list\n(D) distributed throughout the list",
+            "correct_answer": 0,
+            "model_answer": "assistant\nYour original posting was somewhat unclear, and I'm not sure I fully understood your question regarding Dan's memory of vocabulary words. Could you please clarify your question? Are you asking about the position of the words he remembers in the list?",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n\n(A) Piaget's cognitive development theory\n(B) Erikson's psychosocial stage theory\n(C) Kohlberg's moral development theory\n(D) Ainsworth's social attachment theory",
+            "correct_answer": 1,
+            "model_answer": "user\n(E) None of the above.",
+            "correct": false
+        }
+    ]
+}

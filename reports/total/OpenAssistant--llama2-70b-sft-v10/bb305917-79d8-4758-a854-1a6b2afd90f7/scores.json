@@ -1,0 +1,7 @@
+{
+    "benchmarks": {
+        "cot": 0.11758028630690912,
+        "human-eval-plus": 0.0,
+        "mt-bench": 2.95625
+    }
+}
