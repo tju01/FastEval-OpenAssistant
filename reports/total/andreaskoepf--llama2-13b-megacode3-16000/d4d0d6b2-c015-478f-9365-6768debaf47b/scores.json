@@ -2,6 +2,8 @@
     "benchmarks": {
         "cot": 0.3534813404378712,
         "human-eval-plus": 0.2398373983739837,
-        "lm-evaluation-harness": 69.86193844743786
-    }
+        "lm-evaluation-harness": 69.86193844743786,
+        "mt-bench": 5.99375
+    },
+    "total": 55.199868255874485
 }
