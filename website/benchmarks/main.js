@@ -102,8 +102,8 @@ function computeEvaluationRanks(evaluations, getScore, getTotalScore) {
             .map(([id, previousEvaluationRank], index) => [id, ids.length - index]))
     }
 
-    const initialPopulationSize = 500
-    const minPopulationSize = 100
+    const initialPopulationSize = 200
+    const minPopulationSize = 30
     let population = []
     for (let i = 0; i < initialPopulationSize; i++) {
         const rankings = renormalize(new Map(ids.map(id =>
