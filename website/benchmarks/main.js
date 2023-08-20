@@ -102,8 +102,8 @@ function computeEvaluationRanks(evaluations, getScore, getTotalScore) {
             .map(([id, previousEvaluationRank], index) => [id, ids.length - index]))
     }
 
-    const initialPopulationSize = 100
-    const minPopulationSize = 20
+    const initialPopulationSize = 500
+    const minPopulationSize = 100
     let population = []
     for (let i = 0; i < initialPopulationSize; i++) {
         const rankings = renormalize(new Map(ids.map(id =>
@@ -112,7 +112,7 @@ function computeEvaluationRanks(evaluations, getScore, getTotalScore) {
         population.push([rankings, loss])
     }
 
-    const numIterations = 10_000
+    const numIterations = 50_000
     for (let i = 0; i < numIterations; i++) {
         const currentItemIndex = Math.floor(Math.random() * population.length)
         const [currentRanking, currentLoss] = population[currentItemIndex]
