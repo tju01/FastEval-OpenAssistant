@@ -1,0 +1,215 @@
+{
+    "score": 0.4666666666666667,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 12/11/1937\n(B) 12/25/1937\n(C) 01/04/1938\n(D) 12/04/1937\n(E) 12/25/2006\n(F) 07/25/1937",
+            "correct_answer": "(B)",
+            "model_answer": "Reasoning:\n\n1. We know that today is Christmas Eve of 1937, which means that it's December 24, 1937.\n2. We are asked to find the date tomorrow.\n3. December 24th + 1 day = December 25th.\n4. We need to determine the year. Since we are given the date in the format MM/DD/YYYY and the year is already 1937, we can assume that the year should remain the same.\n5. Therefore, the date tomorrow is December 25, 1937.\n\nAnswer: (B) 12/25/1937",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a month ago in MM/DD/YYYY?\nOptions:\n(A) 12/02/1986\n(B) 12/01/1986\n(C) 03/02/1986\n(D) 12/02/2032\n(E) 12/02/2062\n(F) 02/06/1987",
+            "correct_answer": "(A)",
+            "model_answer": "To find the date a month ago from 02/01/1987 in the MM/DD/YYYY format, we need to subtract one month from the given date.\n\n1. Subtract 1 month from the given date:\n   02/01/1987 - 1 month = 01/01/1987 (1 month before 02/01/1987 is 01/01/1987)\n\n2. Since the date format requested is MM/DD/YYYY, we can rewrite the result from Step 1 as:\n   01/01/1987\n\nTherefore, the answer is: (B) 12/01/1986",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week from today in MM/DD/YYYY?\nOptions:\n(A) 01/16/1961\n(B) 01/09/1961\n(C) 01/09/1963\n(D) 03/09/1960\n(E) 07/09/1960\n(F) 02/28/1961",
+            "correct_answer": "(B)",
+            "model_answer": "Let's work through the problem step by step:\n\n1. Jane and John married on January 2, 1958.\n2. Today is their 5-year anniversary.\n3. So, today is January 2, 1963.\n4. We need to find the date one week from today.\n5. One week from today is January 9, 1963.\n6. So, the date one week from today in MM/DD/YYYY format is 01/09/1963.\n\nThe answer is: (C) 01/09/1963",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 07/09/1972\n(B) 12/01/1972\n(C) 07/01/2008\n(D) 05/13/1972\n(E) 07/01/1972\n(F) 08/12/1972",
+            "correct_answer": "(E)",
+            "model_answer": "Step 1: Identify the given date.\nThe given date is tomorrow, which is Tuesday, July 9, 1972.\n\nStep 2: Calculate the date one week ago from the given date.\nTo do this, we'll subtract one week (7 days) from the given date.\n\nStep 3: Subtract one week from the given date.\n July 9, 1972 - 7 days = July 2, 1972\n\nStep 4: Convert the calculated date to MM/DD/YYYY format.\nJuly 2, 1972 -> 07/02/1972\n\nStep 5: Match the calculated date with the available options.\nThe calculated date, 07/02/1972, is not among the available options.\n\nHowever, since the question asked for the date one week ago from today, and the given date was for tomorrow, it's possible that there is an error in the question or options provided. Assuming the intention was to find the date one week ago from tomorrow, we can recalculate:\n\nStep 6: Subtract one week from the given date (tomorrow).\n July 9, 1972 - 7 days = July 2, 1972\n\nStep 7: Convert the calculated date to MM/DD/YYYY format.\nJuly 2, 1972 -> 07/02/1972\n\nStep 8: Match the calculated date with the available options.\nThe calculated date, 07/02/1972, is still not among the available options. This implies that there might be an error in the options provided.",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?\nOptions:\n(A) 10/22/1944\n(B) 10/22/1924\n(C) 10/07/1924\n(D) 10/21/1924\n(E) 08/22/1925\n(F) 11/21/1924",
+            "correct_answer": "(B)",
+            "model_answer": "Step 1: Identify the given date\nWe are given the date \"10/16/1924\".\n\nStep 2: Add one week to the given date\nTo find the date one week from today, we need to add 7 days to the given date.\n\nStep 3: Calculate the new date\nAdding 7 days to 10/16/1924, we get 10/23/1924.\n\nStep 4: Check the options\nNow, we need to check which of the given options matches our calculated date.\n\n(A) 10/22/1944 - This is not the correct date.\n(B) 10/22/1924 - This is the correct date.\n(C) 10/07/1924 - This is not the correct date.\n(D) 10/21/1924 - This is not the correct date.\n(E) 08/22/1925 - This is not the correct date.\n(F) 11/21/1924 - This is not the correct date.\n\nAnswer: (B) 10/22/1924",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one year ago from today in MM/DD/YYYY?\nOptions:\n(A) 08/16/2009\n(B) 02/16/2009\n(C) 02/16/2004\n(D) 03/13/2009\n(E) 01/26/2009\n(F) 02/15/2009",
+            "correct_answer": "(B)",
+            "model_answer": "To solve this problem, let's go through it step-by-step:\n\n1. Jane visits the bookstore on the 16th of each month starting from October 2009.\n2. It is her 5th visit today. This means that her first visit was 5 months ago.\n3. Working backward from the 5th visit, we can calculate the date of Jane's first visit:\n    - First visit: 5 months ago\n    - Second visit: 4 months ago\n    - Third visit: 3 months ago\n    - Fourth visit: 2 months ago\n    - Fifth visit: 1 month ago\n4. So, Jane's first visit was 1 month ago from today.\n5. To find the date one year ago from today, we need to go back 12 months from today.\n6. Working backward 12 months from today, we get the date one year ago from today.\n\nNow that we have gone through the reasoning step-by-step, let's output the answer:\n(C) 02/16/2004",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?\nOptions:\n(A) 06/19/2017\n(B) 07/17/2017\n(C) 06/20/2017\n(D) 06/18/2017\n(E) 06/15/2017\n(F) 07/10/2017",
+            "correct_answer": "(A)",
+            "model_answer": "Let's work through this step by step:\n\n1. Jane bought 40 eggs on May 9th, 2017.\n2. She ate one egg per day.\n3. Therefore, Jane ate her last egg on June 18th, 2017 (May has 31 days, so 31 - 9 = 22 days in May, and then 22 + 19 = 41 days, but she only ate 40 eggs, so it must be June 18th).\n4. Today she ran out of eggs, so it must be June 18th, 2017.\n5. 24 hours later would be June 19th, 2017.\n\nThe answer is (A) 06/19/2017.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?\nOptions:\n(A) 11/10/2076\n(B) 11/10/2019\n(C) 09/10/2019\n(D) 11/06/2019\n(E) 11/11/2019\n(F) 11/17/2019",
+            "correct_answer": "(B)",
+            "model_answer": "To determine the correct answer to the question, we need to understand that the question is asking for the date of \"yesterday\" given that \"tomorrow\" is November 12th, 2019. Therefore, we must find the date for November 11th, 2019, since yesterday would have been the day immediately prior to November 12th, 2019. With this information in mind, we can compare the options given to see which one corresponds to November 11th, 2019. \nLooking at the options, we can see that the only option that matches this date is:\n(E) 11/11/2019\nTherefore, the correct answer is (E) 11/11/2019.",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date yesterday in MM/DD/YYYY?\nOptions:\n(A) 06/17/2063\n(B) 05/18/2019\n(C) 05/20/2019\n(D) 06/17/2019\n(E) 05/13/2019\n(F) 06/08/2019",
+            "correct_answer": "(D)",
+            "model_answer": "Step 1: Determine the correct date\nSince Jane is correct, and she thinks today is 6/18/2019, the correct date is 6/18/2019.\n\nStep 2: Find the date one day before the correct date\nTo find the date yesterday, we subtract 1 from the day. So, 18 becomes 17; the month and year remain the same.\n\nStep 3: Write the date in MM/DD/YYYY format\nThe date yesterday would be 6/17/2019.\n\nStep 4: Match the answer to the given options\nOur answer matches option (D) 06/17/2019.\n\n(D) 06/17/2019",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one year ago from today in MM/DD/YYYY?\nOptions:\n(A) 01/08/2018\n(B) 01/07/2018\n(C) 01/02/2018\n(D) 01/12/2018\n(E) 05/07/2017\n(F) 10/29/2017",
+            "correct_answer": "(B)",
+            "model_answer": "To find the date one year ago from today (first Monday of 2019) using the given details such as first day of 2019, we'll follow these steps:\n\n1. Since the first day of 2019 is a Tuesday, then we know it falls on January 1st, 2019, since Mondays are January 1st in 2018. So today I.e. first Monday of 2019 is January 7th, 2019.\n\n2. To find the date one year ago from today, we need to subtract one year from today's year i.e. 2019 - 1 = 2018. Then subtracting one month and seven days from today (January 7th, 2019) is the date we need.\n\n3. lead us to December 31st, 2018 - 7 = December 24th, 2018. Then subtracting one month, we get November 24th, 2018.\n\nAmong the options given, (A) 01/08/2018 and (B) 01/07/2018 are two dates before the November 24th.\n   If we consider only the dates given in the MM/DD/YYYY format, the correct answer is (B) 01/07/2018.\n\nSome assumptions are made here and it's important to note that the operations made such as subtracting one year might not always result in the correct answer for any given date in the future or past. For example:\nSubtracting one year and then 7 days from March 1st, 2023 would bring the date to February 21st 2022, not Valentine's day of that year. We cannot subtract 7 from February 21st 2022 as doing so would result in February 14th, 2021. Subtracting one year again would then result in Valentine's day 2020 (February 14th 2020). \n\nIt's also important to note that if today was January 6th 2019 the result of the calculations would be an invalid date (January 6th 2018), and if today was January 1st 2019, the result would return December 25th 2017.",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date today in MM/DD/YYYY?\nOptions:\n(A) 01/08/1930\n(B) 01/06/1930\n(C) 01/01/1930\n(D) 12/31/1929\n(E) 10/01/1930\n(F) 02/27/1930",
+            "correct_answer": "(C)",
+            "model_answer": "First, we need to rule out the options that are obviously incorrect:\n\nOption (D) is incorrect because it is the same as yesterday's date.\nOption (F) is not a valid date in December.\nOption (E) is not a valid date in December.\n\nNow we have three options left:\n\n(A) 01/08/1930\n(B) 01/06/1930\n(C) 01/01/1930\n\nYesterday was the last day of December, so today must be the first day of January, 1930. Only option (C) matches this criterion, so the correct answer is:\n(C) 01/01/1930",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 05/13/1985\n(B) 04/03/1985\n(C) 03/10/1986\n(D) 04/01/1985\n(E) 04/13/1985\n(F) 04/12/1986",
+            "correct_answer": "(B)",
+            "model_answer": "Let's break this down step by step:\n\n1. Today is Apr 10, 1985.\n2. Jane's appointment will be 3 days later. So, it will be on Apr 13, 1985.\n3. We need to find the date one week ago from Apr 13, 1985.\n\nTo find the date one week ago from a given date, we need to subtract 7 days from that date.\n\n4. Subtracting 7 days from Apr 13, 1985, we get Apr 6, 1985.\n\nHowever, none of the given options match this answer. It's possible that the options provided are incorrect or that there is an error in the question itself.",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?\nOptions:\n(A) 09/20/2019\n(B) 10/01/2019\n(C) 10/24/2019\n(D) 09/12/1970\n(E) 09/12/2019",
+            "correct_answer": "(E)",
+            "model_answer": "To answer the question, first we need to find today's date.\n\n1. Since 176 days have passed since Jane quit her job on March 20, 2020, we will add 176 days to March 20, 2020.\n2. March 20, 2020 + 176 days = September 6, 2020.\n\nNow we need to find the date one year ago from today.\n\n3. To find the date one year ago from September 6, 2020, we will subtract one year (365 days) from September 6, 2020.\n4. September 6, 2020 - 365 days = September 6, 2019.\n\nHowever, none of the options match the calculated date. Please double-check the options or the question itself.\n\nAnswer: (E) 09/12/2019",
+            "correct": true
+        },
+        {
+            "id": 13,
+            "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date a month ago in MM/DD/YYYY?\nOptions:\n(A) 01/01/2020\n(B) 01/02/2020\n(C) 10/02/2019\n(D) 11/05/2019\n(E) 01/02/1931\n(F) 01/03/2020",
+            "correct_answer": "(B)",
+            "model_answer": "Since today is February 2nd, 2020 (02/02/2020) and we need to find the date one month ago, we need to subtract one month from today's date.\n\nJanuary 2nd, 2020 can be written as 01/02/2020 in the MM/DD/YYYY format.\n\nThus, the answer is (B) 01/02/2020.",
+            "correct": true
+        },
+        {
+            "id": 14,
+            "question": "Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY?\nOptions:\n(A) 08/21/2019\n(B) 11/18/2019\n(C) 11/18/2025\n(D) 11/18/2011\n(E) 02/18/2020\n(F) 11/04/2019",
+            "correct_answer": "(B)",
+            "model_answer": "To find out the date one week from 11/12/2019, we have to add 7 days to the given date and then format the resultant date as MM/DD/YYYY.\n\nGiven date: 11/12/2019\nAdd 7 days: 11/19/2019\n\nNow we need to check if any of the given options match the resultant date:\n\n(A) 08/21/2019 -> No\n(B) 11/18/2019 -> No\n(C) 11/18/2025 -> No\n(D) 11/18/2011 -> No\n(E) 02/18/2020 -> No\n(F) 11/04/2019 -> No\n\nNone of the given options match the resultant date of 11/19/2019.\n\nAnswer: There is no matching option for the correct date, 11/19/2019.",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 07/09/1923\n(B) 08/05/1972\n(C) 09/01/1972\n(D) 07/09/1972\n(E) 07/09/2007\n(F) 09/04/1972",
+            "correct_answer": "(D)",
+            "model_answer": "Step 1: Identify the given date.\nThe given date is \"Mon, 7/9/1972\".\n\nStep 2: Determine tomorrow's date.\nSince tomorrow is one day after today, we need to add one day to the given date. Therefore, tomorrow's date should be \"Tue, 7/10/1972\".\n\nStep 3: Find the corresponding option.\nComparing tomorrow's date with the given options, we see that option (A) has the same date \"07/10/1972\".\n\nAnswer: (A)",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY?\nOptions:\n(A) 05/06/2095\n(B) 05/06/1935\n(C) 05/06/1912\n(D) 08/06/2002\n(E) 05/06/2002\n(F) 05/06/1964",
+            "correct_answer": "(E)",
+            "model_answer": "Let's work through this step by step.\n\n1. Jane says May 6, 1992 is like yesterday, meaning she believes it was one day ago.\n2. However, it is actually ten years ago from today's date.\n3. Therefore, if we add 10 years to May 6, 1992, we should get today's date.\n4. May 6, 1992 + 10 years = May 6, 2002\n5. So the correct date today in MM/DD/YYYY format should be (E) 05/06/2002.",
+            "correct": true
+        },
+        {
+            "id": 17,
+            "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?\nOptions:\n(A) 09/13/2020\n(B) 08/14/2020\n(C) 09/13/2057\n(D) 07/26/2020\n(E) 10/04/2020\n(F) 09/13/2084",
+            "correct_answer": "(A)",
+            "model_answer": "First, let's find the date 176 days after March 20, 2020.\n\nMarch has 31 days, so 176 days after March 20, 2020 would be:\n\nApril 19, 2020 (31 days from March 20) + May 20, 2020 (31 days from April 19) + June 20, 2020 (30 days from May 20) + 73 days\n\nNow, we need to calculate 73 days from June 20, 2020.\n\nJune has 30 days, so 73 days from June 20, 2020 would be:\n\nJuly 23, 2020 (30 days from June 20) + August 7, 2020 (14 days from July 23)\n\nNow, let's find the date tomorrow (August 8, 2020) from August 7, 2020.\n\nTomorrow is August 8, 2020\n\nSo the correct answer is:\n\n(D) 07/26/2020",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "question": "Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?\nOptions:\n(A) 08/29/1909\n(B) 08/30/1967\n(C) 08/30/1909\n(D) 08/30/1977\n(E) 08/02/1909\n(F) 08/16/1909",
+            "correct_answer": "(C)",
+            "model_answer": "Sure, I can do this:\n\n1. Today is Sep 9, 1909.\n2. Subtracting 10 days from Sep 9, 1909 gives us Aug 29, 1909.\n3. Dates are represented in the format MM/DD/YYYY.\n4. reformatting the date from DD/MM/YYYY to MM/DD/YYYY gives us 8/29/1909.\n\nSo the answer is (A) 08/29/1909.",
+            "correct": false
+        },
+        {
+            "id": 19,
+            "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one year ago from today in MM/DD/YYYY?\nOptions:\n(A) 06/14/2003\n(B) 05/03/2003\n(C) 12/04/2002\n(D) 06/02/2003\n(E) 05/04/2003",
+            "correct_answer": "(E)",
+            "model_answer": "Step 1: Convert the given date to the format MM/DD/YYYY\n5/4/2004 would be represented as 05/04/2004\n\nStep 2: Subtract one year from the given date\n05/04/2004 - 1 year = 05/04/2003\n\nStep 3: Reformat the result back to MM/DD/YYYY format\n05/04/2003 is already in the desired format\n\nThe answer is (E) 05/04/2003",
+            "correct": true
+        },
+        {
+            "id": 20,
+            "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 12/06/2010\n(B) 01/15/2011\n(C) 01/17/2011\n(D) 03/15/2011\n(E) 12/24/2010",
+            "correct_answer": "(B)",
+            "model_answer": "To solve this puzzle, I will Please follow these steps:\n\n1. Determine the date one week ago from 01/21/2011.\n2. Choose the correct option from the given list.\n\nStep 1: To find out the date one week ago from 01/21/2011, we simply subtract 7 days from the given date.\n\n01/21/2011 - 7 days = 01/14/2011.\n\nStep 2: Now, we need to find the corresponding option from the given list.\n\nThe options are:\n\n(A) 12/06/2010\n(B) 01/15/2011\n(C) 01/17/2011\n(D) 03/15/2011\n(E) 12/24/2010\n\nComparing the calculated date (01/14/2011) with the given options, it seems that none of the given options match the calculated date. It's possible that there is an error in the question or options provided. Please verify the question and options, and if you can confirm that they are correct, I will be happy to assist you further.",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 10 days ago in MM/DD/YYYY?\nOptions:\n(A) 01/18/2011\n(B) 01/12/2011\n(C) 01/12/2069\n(D) 01/13/2011\n(E) 05/12/2010\n(F) 08/12/2010",
+            "correct_answer": "(B)",
+            "model_answer": "To find the date 10 days ago from January 21, 2011, we should subtract 10 days from January 21, 2011.\n\nJanuary 21, 2011 - 10 days = January 11, 2011 \n\nSo, the date 10 days ago is January 11, 2011.\n\nIn MM/DD/YYYY format, it would be written as: 01/11/2011\n\nUnfortunately, this option is not listed among the provided choices. This might be because the question is based on a hypothetical scenario and the options do not include the correct answer.\n\n(G) 01/11/2011",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "question": "Jane is celebrating the last day of Jan 2012. What is the date yesterday in MM/DD/YYYY?\nOptions:\n(A) 01/29/2012\n(B) 09/30/2011\n(C) 02/06/2012\n(D) 01/30/2012\n(E) 01/30/1925",
+            "correct_answer": "(D)",
+            "model_answer": "To solve this task, you need to figure out which of the given options correspond to the date one day before January 31st, 2012. \n\nFirst, note that none of the options provided are surprising given the date. No option is earlier than September 30th, 2011 or later than February 6th, 2012, as would be expected given the date of January 31st, 2012. All are within the date reason, January 31st - September 30th, 2011. \n\nWe'll proceed assuming the options are nevertheless valid in some unspecified way and calculate which corresponds to the date one day before the given date.\n\nThe given date is January 31st, 2012 which in numeric format is 01/31/2012.\n\n]], so one day before would be 01/30/2012\n\nTherefore, the answer is (D) 01/30/2012.",
+            "correct": true
+        },
+        {
+            "id": 23,
+            "question": "2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 12/22/2040\n(B) 12/23/2014\n(C) 12/22/2014\n(D) 01/05/2015\n(E) 12/22/2086\n(F) 02/06/2015",
+            "correct_answer": "(C)",
+            "model_answer": "Let's work through this step-by-step:\n\n1. Today's date is December 24, 2014 (assuming that the current date is indeed December 24, 2014).\n2. One week ago from today would be December 17, 2014.\n3. The format given for the answer requires it to be in MM/DD/YYYY.\n\nTherefore, the answer is (C) 12/22/2014.",
+            "correct": true
+        },
+        {
+            "id": 24,
+            "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?\nOptions:\n(A) 01/01/1987\n(B) 10/19/1986\n(C) 01/08/1987\n(D) 01/01/2015\n(E) 01/01/1934\n(F) 12/29/1986",
+            "correct_answer": "(A)",
+            "model_answer": "To find the date for \"yesterday\" in MM/DD/YYYY format, given that today is 02/01/1987 in the UK format, we need to subtract 1 day from today's date.\n\n1. Start with today's date in DD/MM/YYYY format: 01/02/1987\n2. Subtract 1 day from the date: 31/01/1987\n\nNow, we need to convert the date from DD/MM/YYYY format to MM/DD/YYYY format.\n\n3. Keep the month (MM) and year (YYYY) the same: 01/31/1987\n\nSo yesterday's date in MM/DD/YYYY format is 01/31/1987.\n\nHowever, this date is not in the given options. So we need to analyze the options:\n\n(A) 01/01/1987: This date is prior to today's date (02/01/1987), so it can't be yesterday's date.\n\n(B) 10/19/1986: This date is also prior to today's date, so it can't be yesterday's date.\n\n(C) 01/08/1987: This date is also prior to today's date, so it can't be yesterday's date.\n\n(D) 01/01/2015: This date is in a different year and is also prior to today's date, so it can't be yesterday's date.\n\n(E) 01/01/1934: This date is much earlier than today's date, so it can't be yesterday's date.\n\n(F) 12/29/1986: This date is the closest to today's date among the given options and is prior to today's date, so it can be considered yesterday's date.\n\nTherefore, the answer is (F) 12/29/1986.",
+            "correct": false
+        },
+        {
+            "id": 25,
+            "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY?\nOptions:\n(A) 08/03/2002\n(B) 10/22/2002\n(C) 06/03/2002\n(D) 08/04/2002\n(E) 08/04/1930\n(F) 07/04/2003",
+            "correct_answer": "(D)",
+            "model_answer": "Let's go step by step:\n\n1) We know that today is 28 July 2002. To get tomorrow's date, we increment the day by one, giving us 29 July 2002.\n\n2) To find the date one week from today, we increment both the day-of-month by seven andties, and the month-of-year if applicable.\n\n3) In this case, the day-of-month increases to 5 August 2002, and the month increases to August.\n\n4) To format the date as MM/DD/YYYY, we change the month to a two-digit number (08), and then the final date is 08/03/2002.\n\nTherefore, the answer is (A) 08/03/2002.",
+            "correct": false
+        },
+        {
+            "id": 26,
+            "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 05/23/2020\n(B) 04/13/2021\n(C) 05/24/2021\n(D) 05/23/2054\n(E) 05/23/1940\n(F) 05/23/2021",
+            "correct_answer": "(F)",
+            "model_answer": "First, let's determine today's date. Since the deadline is June 1, 2021, and it is 2 days away from now, that means today's date is May 30, 2021.\n\nNext, we need to find the date one week ago from today. To do this, we will subtract 7 days from today's date.\n\nMay 30, 2021 - 7 days = May 23, 2021\n\nNow, let's convert this date to the format MM/DD/YYYY.\n\nMay 23, 2021 \u2192 05/23/2021\n\nSo, the answer is (F) 05/23/2021.",
+            "correct": true
+        },
+        {
+            "id": 27,
+            "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 02/05/2021\n(B) 09/05/2020\n(C) 08/15/2020\n(D) 09/06/2020\n(E) 09/04/2020",
+            "correct_answer": "(B)",
+            "model_answer": "Let's break down the problem step by step:\n\n1. Jane quit her job on March 20, 2020.\n2. To find today's date, we need to add 176 days to March 20, 2020.\n3. Calculate the current date.\n4. Find the date one week ago from today.\n5. Check which of the given options matches the calculated date.\n\nNow let's perform the calculations:\n\n1. March 20, 2020.\n2. Adding 176 days to March 20, 2020 gives us September 7, 2020.\n3. Today's date is September 7, 2020.\n4. One week ago from September 7, 2020 would be August 31, 2020.\n5. However, August 31, 2020 is not among the given options. It seems there might be an error in the provided options, as none of them match the calculated date.",
+            "correct": false
+        },
+        {
+            "id": 28,
+            "question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?\nOptions:\n(A) 05/15/2021\n(B) 04/23/2021\n(C) 04/15/2021\n(D) 06/05/2021\n(E) 04/19/2021\n(F) 04/24/2021",
+            "correct_answer": "(F)",
+            "model_answer": "First, let's determine today's date:\n\nToday is May 1, 2021.\n\nNow, we need to find the date one week ago from today. To do this, we can subtract one week (7 days) from today's date:\n\nMay 1, 2021 - 7 days = April 24, 2021.\n\nTherefore, the date one week ago from today in MM/DD/YYYY format is:\n\n(F) 04/24/2021.",
+            "correct": true
+        },
+        {
+            "id": 29,
+            "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date today in MM/DD/YYYY?\nOptions:\n(A) 02/06/2010\n(B) 12/21/2009\n(C) 02/16/1933\n(D) 02/16/2010\n(E) 11/30/2009\n(F) 05/24/2010",
+            "correct_answer": "(D)",
+            "model_answer": "Let's break this down step by step:\n\n1. Jane's first visit to the bookstore is on October 16th, 2009.\n2. Jane visits the bookstore on the 16th of each month.\n3. To find the date of Jane's 5th visit, we need to count forward 4 months from her first visit:\n\n   October 16th -> November 16th -> December 16th -> January 16th -> February 16th\n\n4. Therefore, Jane's 5th visit to the bookstore is on February 16th.\n5. We're asked to write the answer in the format MM/DD/YYYY, so February 16th can be written as 02/16/2010.\n6. The answer is option (D) 02/16/2010.",
+            "correct": true
+        }
+    ]
+}

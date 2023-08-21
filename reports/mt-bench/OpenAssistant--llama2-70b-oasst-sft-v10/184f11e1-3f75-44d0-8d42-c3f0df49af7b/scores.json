@@ -1,0 +1,15 @@
+{
+    "first_turn": 7.78125,
+    "second_turn": 6.7875,
+    "categories": {
+        "writing": 8.15,
+        "roleplay": 8.3,
+        "reasoning": 5.65,
+        "math": 4.2,
+        "coding": 4.8,
+        "extraction": 8.275,
+        "stem": 9.2,
+        "humanities": 9.7
+    },
+    "average": 7.284375
+}
