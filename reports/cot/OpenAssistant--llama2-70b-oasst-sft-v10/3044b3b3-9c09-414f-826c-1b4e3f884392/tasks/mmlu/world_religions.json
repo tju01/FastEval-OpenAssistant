@@ -1,0 +1,75 @@
+{
+    "score": 0.7,
+    "model_outputs": [
+        {
+            "id": 0,
+            "question": " What can murtis be translated as?\n\n(A) Offerings\n(B) Prayers\n(C) Apparitions\n(D) Idols",
+            "correct_answer": 3,
+            "model_answer": "First, let's identify the context or language in which the word \"murtis\" is used.\n\nMurti is a Sanskrit term used in Hinduism to refer to a sacred image or statue, typically of a deity. It is often used in the context of Hindu temple worship and rituals.\n\nNow let's analyze the given options:\n\n(A) Offerings - In Hinduism, offerings are made to deities, but the term \"murtis\" specifically refers to the images or statues of the deities themselves, not the offerings.\n(B) Prayers - Prayers are an important aspect of Hindu worship, but again, the term \"murtis\" specifically refers to the sacred images or statues, not the act of praying.\n(C) Apparitions - This term refers to ghostly appearances or visions, which is not related to the Hindu concept of murtis.\n(D) Idols - In this context, idols refer to images or statues that are worshiped as deities. This is closely related to the Hindu concept of murtis.\n\nBased on the above analysis, the most appropriate translation for \"murtis\" in this context would be:\n\n(D) Idols",
+            "correct": true
+        },
+        {
+            "id": 1,
+            "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?\n\n(A) Daoism\n(B) Yin-Yang School\n(C) Mengzi\n(D) Humanistic Buddhism",
+            "correct_answer": 1,
+            "model_answer": "To answer this question, we need to identify which of the given options is associated with naturalists who concentrated on natural elements and processes.\n\n(A) Daoism - Daoist philosophy emphasizes living in harmony with the Tao (the Way), which can be understood as the fundamental principle governing the universe. Daoists often focused on the natural world and its processes, making this a possible answer.\n\n(B) Yin-Yang School - The Yin-Yang School was a philosophical tradition in ancient China that focused on the balance of opposing forces in the universe, such as yin and yang. While this school of thought did consider natural elements and processes, it was not exclusively focused on them.\n\n(C) Mengzi - Mengzi, also known as Mencius, was a Confucian philosopher who emphasized the importance of human nature and moral cultivation. His philosophy was primarily concerned with human affairs and ethics, rather than natural elements and processes.\n\n(D) Humanistic Buddhism - Humanistic Buddhism is a modern form of Buddhism that emphasizes the integration of Buddhist principles with humanistic values. While it does consider the natural world, it is primarily focused on human well-being and ethical action.\n\nBased on this analysis, the answer is:\n\n(A) Daoism",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "question": " When was the first Buddhist temple constructed in Japan?\n\n(A) 325 CE\n(B) 119 CE\n(C) 451 CE\n(D) 596 CE",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we need to find out when the first Buddhist temple was constructed in Japan.\n\nStep 1: Identify the first Buddhist temple in Japan.\nThe oldest Buddhist temple in Japan is Horyu-ji Temple, which is located in Nara Prefecture.\n\nStep 2: Determine the construction date of Horyu-ji Temple.\nHoryu-ji Temple was constructed during the Asuka period in Japan, specifically between 601 and 607 CE.\n\nStep 3: Match the construction date to the given options.\nComparing the construction date of Horyu-ji Temple to the given options, we can see that none of them match exactly. However, the closest option is:\n\n(C) 451 CE\n\nSince none of the given options provide an exact match for the construction date of the first Buddhist temple in Japan, we should choose the closest option available.\n\nTherefore, the answer is:\n(C) 451 CE",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?\n\n(A) Akitu\n(B) Wag and Thoth\n(C) Bast\n(D) Nehebkau",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, I will research New Year festivals that were celebrated in Babylon and were ten days long.\n\nUpon researching, I found that the ten-day New Year festival celebrated in Babylon's culture was called Akitu. It was an ancient Mesopotamian spring festival that commemorated the victory of the god Marduk over the forces of chaos. The festival was observed during the first month of the Babylonian calendar and included rituals, feasting, and processions.\n\nTherefore, the correct answer is:\n(A) Akitu",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "question": "Which of the following terms denote the Japanese art of flower arranging?\n\n(A) Zazen\n(B) Tariki\n(C) Kami\n(D) Ikebana",
+            "correct_answer": 3,
+            "model_answer": "To answer this question, we can go through each of the given options step-by-step and try to find the term that describes the Japanese art of flower arranging.\n\n(A) Zazen: Zazen is a term associated with Zen Buddhism and refers to seated meditation. This option is not associated with flower arranging.\n\n(B) Tariki: Tariki is a Buddhist term that refers to \"other power,\" and is often used in the context of being saved by the power of a deity or the universe. This option is not related to flower arranging.\n\n(C) Kami: Kami is a term in the Shinto religion referring to spirits or deities. While the Shinto religion may have an influence on Japanese culture, this term itself does not specifically refer to flower arranging.\n\n(D) Ikebana: Ikebana is a term that directly translates to \"way of flowers\" or \"flower arranging\" in Japanese. It is an art form that focuses on creating harmonious compositions with flowers and other plant materials.\n\nBased on the above reasoning, the correct answer is:\n(D) Ikebana",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?\n\n(A) Harmony and balance\n(B) Devotion and piety\n(C) Love and passion\n(D) Goodwill and love",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, let's go through the possible answers and examine their connection to Guru Nanak and Sikh Ragas:\n\n(A) Harmony and balance - While music can promote harmony and balance, it is not the primary purpose for which Guru Nanak and his successors instructed the use of particular Sikh Ragas.\n\n(B) Devotion and piety - Guru Nanak was the founder of Sikhism, and his teachings focused on devotion to God and living a life of piety. The use of particular Sikh Ragas was intended to create an atmosphere conducive to meditation and spiritual contemplation, which aligns with this answer choice.\n\n(C) Love and passion - While music can evoke feelings of love and passion, it is not the primary purpose for which Guru Nanak and his successors instructed the use of particular Sikh Ragas.\n\n(D) Goodwill and love - Although goodwill and love are important values in Sikhism, they are not the primary purpose behind the use of particular Sikh Ragas.\n\nBased on this analysis, the most appropriate answer is:\n\n(B) Devotion and piety",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?\n\n(A) Shabad\n(B) Khalse\n(C) Nam\n(D) Guru",
+            "correct_answer": 0,
+            "model_answer": "To answer this question, we need to understand who Guru Nanak was and what term he used to denote the \"divine word\" as part of divine revelation.\n\nGuru Nanak was the founder of Sikhism and the first of the ten Sikh Gurus. He emphasized the importance of divine revelation and the word of God in his teachings.\n\nThe term Guru Nanak used to denote the \"divine word\" as part of divine revelation is (A) Shabad. Shabad means \"word\" or \"sound\" in Punjabi, and it is used in Sikhism to refer to the divine word or the divine guidance that is revealed to a Guru or a saint.\n\nSo the answer is (A) Shabad.",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "question": "What is the mi'raj?\n\n(A) Muhammad's miraculous ascent to heaven\n(B) Muhammad's migration to Mecca\n(C) Muhammad's first community in Mecca\n(D) Muhammad's revelations of the Qur'an",
+            "correct_answer": 0,
+            "model_answer": "Let's analyze each of the multiple-choice options:\n\n(A) Muhammad's miraculous ascent to heaven: The mi'raj is indeed believed to be the event in which Muhammad journeyed from Mecca to Jerusalem and then ascended to heaven, where he received revelations from God.\n\n(B) Muhammad's migration to Mecca: This option is incorrect. Muhammad's migration to Medina, not Mecca, is known as the Hijra and marks the beginning of the Islamic calendar.\n\n(C) Muhammad's first community in Mecca: Mecca is indeed where Muhammad first established a Muslim community, but this event is not known as the mi'raj.\n\n(D) Muhammad's revelations of the Qur'an: While Muhammad did receive revelations from God, which form the basis of the Qur'an, the mi'raj specifically refers to his physical journey and ascent to heaven.\n\nBased on this analysis, the correct answer is:\n(A) Muhammad's miraculous ascent to heaven",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?\n\n(A) Laws of Dharma\n(B) Laws of Karma\n(C) Laws of Vishnu\n(D) Laws of Manu",
+            "correct_answer": 3,
+            "model_answer": "To determine the correct answer, we need to identify the most famous dharmashastra that dates back to around the first century. Dharmashastras are ancient Hindu texts that contain laws and guidelines for daily life and religious practices. Let's go through each option step by step:\n\n(A) Laws of Dharma: This is a generic term and not the name of a specific dharmashastra.\n\n(B) Laws of Karma: This term refers to the concept of cause and effect in Hinduism but is not the name of a specific dharmashastra.\n\n(C) Laws of Vishnu: This is also a generic term and not the name of a specific dharmashastra.\n\n(D) Laws of Manu: Also known as the Manusmriti, this is one of the most famous dharmashastras and is believed to have been written around the first century CE. It contains detailed laws and guidelines for Hindu society, including rules for social conduct, religious rituals, and legal matters.\n\nAfter evaluating each option, it is clear that the most famous dharmashastra that probably dates from around the first century is the Laws of Manu. Therefore, the correct answer is:\n\n(D) Laws of Manu",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "question": "What does the term \"Qur'an\" literally mean?\n\n(A) The Holy Book\n(B) The Narrative\n(C) The Recitation\n(D) The Pillars",
+            "correct_answer": 2,
+            "model_answer": "To answer this question, we need to examine the etymology of the term \"Qur'an.\"\n\nThe Qur'an is the holy book of Islam, believed to be the verbatim word of God as it was revealed to the Prophet Muhammad through the Angel Gabriel. The term \"Qur'an\" is derived from the Arabic root word \"qara'a,\" which means \"to read\" or \"to recite.\"\n\nConsidering the options given:\n\n(A) The Holy Book - This is a description of the Qur'an, but not its literal meaning.\n(B) The Narrative - This is not a direct translation of the term \"Qur'an.\"\n(C) The Recitation - This is closely related to the root word \"qara'a\" and reflects the oral tradition of reciting the Qur'an.\n(D) The Pillars - This is not related to the etymology of the term \"Qur'an.\"\n\nTherefore, the term \"Qur'an\" literally means: (C) The Recitation.",
+            "correct": true
+        }
+    ]
+}
